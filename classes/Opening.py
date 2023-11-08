@@ -95,7 +95,7 @@ class OpeningsDict:
         self.openings = {}
         
     ''' to_json() - convert this OpeningLinks to a json file '''
-    def to_json(self) -> None: json.dumps(self.openings, open(Paths.OPENINGS_JSON, "w"))
+    def dump_json(self) -> None: json.dump(self.openings, open(Paths.OPENINGS_JSON, "w"), indent=4)
         
     ''' from_json() - create an OpeningLinks object from a json file '''
     @staticmethod 
@@ -118,11 +118,11 @@ class OpeningsDict:
     @staticmethod
     def from_list(loo:list[Opening]) -> object: 
         d = {}
-        for o in loo: d[o.opening_name] = o.links
+        for o in loo: d[o.code] = o.to_dict()
         
-        opening_links = OpeningsDict()
-        opening_links.openings = d
+        o_dict = OpeningsDict()
+        o_dict.openings = d
         
-        return opening_links
+        return o_dict
     
 

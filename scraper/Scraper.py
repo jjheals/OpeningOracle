@@ -36,7 +36,9 @@ class Scraper:
             all_openings.extend([Opening(o['name'], o['code'], Opening.wiki_link_from_name(o['name']), o['url'], o['move_list']) for o in openings])
             
         # Persistent save to json
-        json.dump([o.to_dict() for o in all_openings], open(Paths.OPENINGS_JSON, 'w'), indent=4)
+        opening_dict = OpeningsDict.from_list(all_openings)
+        
+        opening_dict.dump_json()
         
         # Print info about results
         print(f"Scraper: done getting openings.\nSaved {len(all_openings)} results to \"{Paths.OPENINGS_JSON}.\"")
