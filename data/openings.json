@@ -1,5 +1,6 @@
 [
     {
+        "code": "A00",
         "opening-name": "King's Fianchetto Opening",
         "move-list": "1.g3",
         "links": {
@@ -8,6 +9,7 @@
         }
     },
     {
+        "code": "A40",
         "opening-name": "Queen's Pawn Opening",
         "move-list": "1.d4",
         "links": {
@@ -16,6 +18,7 @@
         }
     },
     {
+        "code": "B00",
         "opening-name": "King's Pawn Opening",
         "move-list": "1.e4",
         "links": {
@@ -24,6 +27,7 @@
         }
     },
     {
+        "code": "A01",
         "opening-name": "Nimzowitsch-Larsen Attack",
         "move-list": "1.b3",
         "links": {
@@ -32,6 +36,7 @@
         }
     },
     {
+        "code": "A10",
         "opening-name": "English Opening",
         "move-list": "1.c4",
         "links": {
@@ -40,6 +45,7 @@
         }
     },
     {
+        "code": "A02",
         "opening-name": "Bird's Opening",
         "move-list": "1.f4",
         "links": {
@@ -48,6 +54,7 @@
         }
     },
     {
+        "code": "A04",
         "opening-name": "R\u00e9ti Opening",
         "move-list": "1.Nf3",
         "links": {
@@ -56,6 +63,7 @@
         }
     },
     {
+        "code": "A30",
         "opening-name": "English Opening: Symmetrical Variation",
         "move-list": "1.c4 c5",
         "links": {
@@ -64,6 +72,7 @@
         }
     },
     {
+        "code": "A80",
         "opening-name": "Dutch Defense",
         "move-list": "1.d4 f5",
         "links": {
@@ -72,6 +81,7 @@
         }
     },
     {
+        "code": "A20",
         "opening-name": "English Opening: King's English Variation",
         "move-list": "1.c4 e5",
         "links": {
@@ -80,6 +90,7 @@
         }
     },
     {
+        "code": "A40",
         "opening-name": "Modern Defense with 1.d4",
         "move-list": "1.d4 g6",
         "links": {
@@ -88,6 +99,7 @@
         }
     },
     {
+        "code": "B07",
         "opening-name": "Pirc Defense",
         "move-list": "1.e4 d6",
         "links": {
@@ -96,6 +108,7 @@
         }
     },
     {
+        "code": "A43",
         "opening-name": "Old Benoni Defense",
         "move-list": "1.d4 c5",
         "links": {
@@ -104,6 +117,7 @@
         }
     },
     {
+        "code": "B10",
         "opening-name": "Caro-Kann Defense",
         "move-list": "1.e4 c6",
         "links": {
@@ -112,6 +126,7 @@
         }
     },
     {
+        "code": "C00",
         "opening-name": "French Defense",
         "move-list": "1.e4 e6",
         "links": {
@@ -120,6 +135,7 @@
         }
     },
     {
+        "code": "B02",
         "opening-name": "Alekhine's Defense",
         "move-list": "1.e4 Nf6",
         "links": {
@@ -128,6 +144,7 @@
         }
     },
     {
+        "code": "B01",
         "opening-name": "Scandinavian Defense",
         "move-list": "1.e4 d5",
         "links": {
@@ -136,6 +153,7 @@
         }
     },
     {
+        "code": "B20",
         "opening-name": "Sicilian Defense",
         "move-list": "1.e4 c5",
         "links": {
@@ -144,6 +162,7 @@
         }
     },
     {
+        "code": "B22",
         "opening-name": "Alapin Sicilian Defense",
         "move-list": "1.e4 c5 2.c3",
         "links": {
@@ -152,6 +171,7 @@
         }
     },
     {
+        "code": "B21",
         "opening-name": "Sicilian Defense: Smith-Morra Gambit",
         "move-list": "1.e4 c5 2.d4",
         "links": {
@@ -160,6 +180,7 @@
         }
     },
     {
+        "code": "C23",
         "opening-name": "Bishop's Opening",
         "move-list": "1.e4 e5 2.Bc4",
         "links": {
@@ -168,6 +189,7 @@
         }
     },
     {
+        "code": "B23",
         "opening-name": "Closed Sicilian Defense",
         "move-list": "1.e4 c5 2.Nc3",
         "links": {
@@ -176,6 +198,7 @@
         }
     },
     {
+        "code": "D00",
         "opening-name": "Queen's Pawn Opening: Blackmar Gambit",
         "move-list": "1.d4 d5 2.e4",
         "links": {
@@ -184,6 +207,7 @@
         }
     },
     {
+        "code": "A45",
         "opening-name": "Trompowsky Attack",
         "move-list": "1.d4 Nf6 2.Bg5",
         "links": {
@@ -192,6 +216,7 @@
         }
     },
     {
+        "code": "A09",
         "opening-name": "R\u00e9ti Opening: R\u00e9ti Gambit",
         "move-list": "1.Nf3 d5 2.c4",
         "links": {
@@ -200,6 +225,7 @@
         }
     },
     {
+        "code": "B21",
         "opening-name": "Sicilian Defense: Smith-Morra Gambit",
         "move-list": "1.e4 c5 2.d4",
         "links": {
@@ -208,6 +234,7 @@
         }
     },
     {
+        "code": "B23",
         "opening-name": "Closed Sicilian Defense",
         "move-list": "1.e4 c5 2.Nc3",
         "links": {
@@ -216,6 +243,7 @@
         }
     },
     {
+        "code": "A09",
         "opening-name": "R\u00e9ti Opening: R\u00e9ti Gambit",
         "move-list": "1.Nf3 d5 2.c4",
         "links": {
@@ -224,6 +252,7 @@
         }
     },
     {
+        "code": "A45",
         "opening-name": "Trompowsky Attack",
         "move-list": "1.d4 Nf6 2.Bg5",
         "links": {
@@ -232,6 +261,7 @@
         }
     },
     {
+        "code": "C31",
         "opening-name": "King's Gambit Declined: Falkbeer Countergambit",
         "move-list": "1.e4 e5 2.f4 d5",
         "links": {
@@ -240,6 +270,7 @@
         }
     },
     {
+        "code": "D07",
         "opening-name": "Queen's Gambit Declined: Chigorin Defense",
         "move-list": "1.d4 d5 2.c4 Nc6",
         "links": {
@@ -248,6 +279,7 @@
         }
     },
     {
+        "code": "C41",
         "opening-name": "Philidor Defense",
         "move-list": "1.e4 e5 2.Nf3 d6",
         "links": {
@@ -256,6 +288,7 @@
         }
     },
     {
+        "code": "A53",
         "opening-name": "Old Indian Defense",
         "move-list": "1.d4 Nf6 2.c4 d6",
         "links": {
@@ -264,6 +297,7 @@
         }
     },
     {
+        "code": "D08",
         "opening-name": "Queen's Gambit Declined: Albin Countergambit",
         "move-list": "1.d4 d5 2.c4 e5",
         "links": {
@@ -272,6 +306,7 @@
         }
     },
     {
+        "code": "B01",
         "opening-name": "Scandinavian Defense: Modern Variation",
         "move-list": "1.e4 d5 2.exd5 Nf6",
         "links": {
@@ -280,6 +315,7 @@
         }
     },
     {
+        "code": "A51",
         "opening-name": "Budapest Gambit",
         "move-list": "1.d4 Nf6 2.c4 e5",
         "links": {
@@ -288,6 +324,7 @@
         }
     },
     {
+        "code": "A82",
         "opening-name": "Dutch Defense: Staunton Gambit Accepted",
         "move-list": "1.d4 f5 2.e4 fxe4",
         "links": {
@@ -296,6 +333,7 @@
         }
     },
     {
+        "code": "C30",
         "opening-name": "King's Gambit Declined: Classical Variation",
         "move-list": "1.e4 e5 2.f4 Bc5",
         "links": {
@@ -304,6 +342,7 @@
         }
     },
     {
+        "code": "C42",
         "opening-name": "Petrov's Defense",
         "move-list": "1.e4 e5 2.Nf3 Nf6",
         "links": {
@@ -312,6 +351,7 @@
         }
     },
     {
+        "code": "E60",
         "opening-name": "King's Indian Defense",
         "move-list": "1.d4 Nf6 2.c4 g6",
         "links": {
@@ -320,6 +360,7 @@
         }
     },
     {
+        "code": "D10",
         "opening-name": "Slav Defense",
         "move-list": "1.d4 d5 2.c4 c6",
         "links": {
@@ -328,6 +369,7 @@
         }
     },
     {
+        "code": "D20",
         "opening-name": "Queen's Gambit Accepted",
         "move-list": "1.d4 d5 2.c4 dxc4",
         "links": {
@@ -336,6 +378,7 @@
         }
     },
     {
+        "code": "C33",
         "opening-name": "King's Gambit Accepted",
         "move-list": "1.e4 e5 2.f4 exf4",
         "links": {
@@ -344,6 +387,7 @@
         }
     },
     {
+        "code": "D02",
         "opening-name": "London System",
         "move-list": "1.d4 d5 2.Nf3 Nf6 3.Bf4",
         "links": {
@@ -352,6 +396,7 @@
         }
     },
     {
+        "code": "D03",
         "opening-name": "Queen's Pawn Opening: Torre Attack",
         "move-list": "1.d4 d5 2.Nf3 Nf6 3.Bg5",
         "links": {
@@ -360,6 +405,7 @@
         }
     },
     {
+        "code": "C02",
         "opening-name": "French Defense: Advance Variation",
         "move-list": "1.e4 e6 2.d4 d5 3.e5",
         "links": {
@@ -368,6 +414,7 @@
         }
     },
     {
+        "code": "C60",
         "opening-name": "Ruy L\u00f3pez Opening",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5",
         "links": {
@@ -376,6 +423,7 @@
         }
     },
     {
+        "code": "C43",
         "opening-name": "Petrov's Defense: Steinitz Attack",
         "move-list": "1.e4 e5 2.Nf3 Nf6 3.d4",
         "links": {
@@ -384,6 +432,7 @@
         }
     },
     {
+        "code": "C21",
         "opening-name": "Danish Gambit",
         "move-list": "1.e4 e5 2.d4 exd4 3.c3",
         "links": {
@@ -392,6 +441,7 @@
         }
     },
     {
+        "code": "C45",
         "opening-name": "Scotch Game",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.d4",
         "links": {
@@ -400,6 +450,7 @@
         }
     },
     {
+        "code": "C03",
         "opening-name": "French Defense: Tarrasch Variation",
         "move-list": "1.e4 e6 2.d4 d5 3.Nd2",
         "links": {
@@ -408,6 +459,7 @@
         }
     },
     {
+        "code": "B12",
         "opening-name": "Caro-Kann Defense: Advance Variation",
         "move-list": "1.e4 c6 2.d4 d5 3.e5",
         "links": {
@@ -416,6 +468,7 @@
         }
     },
     {
+        "code": "B23",
         "opening-name": "Closed Sicilian Defense: Grand Prix Attack",
         "move-list": "1.e4 c5 2.Nc3 Nc6 3.f4",
         "links": {
@@ -424,6 +477,7 @@
         }
     },
     {
+        "code": "C33",
         "opening-name": "King's Gambit Accepted: Bishop's Gambit",
         "move-list": "1.e4 e5 2.f4 exf4 3.Bc4",
         "links": {
@@ -432,6 +486,7 @@
         }
     },
     {
+        "code": "B13",
         "opening-name": "Caro-Kann Defense: Exchange Variation",
         "move-list": "1.e4 c6 2.d4 d5 3.exd5",
         "links": {
@@ -440,6 +495,7 @@
         }
     },
     {
+        "code": "C42",
         "opening-name": "Petrov's Defense: Three Knights Game",
         "move-list": "1.e4 e5 2.Nf3 Nf6 3.Nc3",
         "links": {
@@ -448,6 +504,7 @@
         }
     },
     {
+        "code": "C01",
         "opening-name": "French Defense: Exchange Variation",
         "move-list": "1.e4 e6 2.d4 d5 3.exd5",
         "links": {
@@ -456,6 +513,7 @@
         }
     },
     {
+        "code": "C43",
         "opening-name": "Petrov's Defense: Steinitz Attack",
         "move-list": "1.e4 e5 2.Nf3 Nf6 3.d4",
         "links": {
@@ -464,6 +522,7 @@
         }
     },
     {
+        "code": "D03",
         "opening-name": "Queen's Pawn Opening: Torre Attack",
         "move-list": "1.d4 d5 2.Nf3 Nf6 3.Bg5",
         "links": {
@@ -472,6 +531,7 @@
         }
     },
     {
+        "code": "D01",
         "opening-name": "Richter-Veresov Attack",
         "move-list": "1.d4 d5 2.Nc3 Nf6 3.Bg5",
         "links": {
@@ -480,6 +540,7 @@
         }
     },
     {
+        "code": "C47",
         "opening-name": "Four Knights Game",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6",
         "links": {
@@ -488,6 +549,7 @@
         }
     },
     {
+        "code": "C55",
         "opening-name": "Italian Game: Two Knights Defense",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6",
         "links": {
@@ -496,6 +558,7 @@
         }
     },
     {
+        "code": "C65",
         "opening-name": "Ruy L\u00f3pez Opening: Berlin Defense",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6",
         "links": {
@@ -504,6 +567,7 @@
         }
     },
     {
+        "code": "C50",
         "opening-name": "Giuoco Piano Game",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5",
         "links": {
@@ -512,6 +576,7 @@
         }
     },
     {
+        "code": "E61",
         "opening-name": "King's Indian Defense: Normal Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7",
         "links": {
@@ -520,6 +585,7 @@
         }
     },
     {
+        "code": "C15",
         "opening-name": "French Defense: Winawer Variation",
         "move-list": "1.e4 e6 2.d4 d5 3.Nc3 Bb4",
         "links": {
@@ -528,6 +594,7 @@
         }
     },
     {
+        "code": "E20",
         "opening-name": "Nimzo-Indian Defense",
         "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4",
         "links": {
@@ -536,6 +603,7 @@
         }
     },
     {
+        "code": "D80",
         "opening-name": "Gr\u00fcnfeld Defense",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5",
         "links": {
@@ -544,6 +612,7 @@
         }
     },
     {
+        "code": "A60",
         "opening-name": "Benoni Defense: Modern Variation",
         "move-list": "1.d4 Nf6 2.c4 c5 3.d5 e6",
         "links": {
@@ -552,6 +621,7 @@
         }
     },
     {
+        "code": "A57",
         "opening-name": "Benko Gambit",
         "move-list": "1.d4 Nf6 2.c4 c5 3.d5 b5",
         "links": {
@@ -560,6 +630,7 @@
         }
     },
     {
+        "code": "E12",
         "opening-name": "Queen's Indian Defense",
         "move-list": "1.d4 Nf6 2.c4 e6 3.Nf3 b6",
         "links": {
@@ -568,6 +639,7 @@
         }
     },
     {
+        "code": "C11",
         "opening-name": "French Defense: Classical Variation",
         "move-list": "1.e4 e6 2.d4 d5 3.Nc3 Nf6",
         "links": {
@@ -576,6 +648,7 @@
         }
     },
     {
+        "code": "C36",
         "opening-name": "King's Gambit Accepted: Modern Defense",
         "move-list": "1.e4 e5 2.f4 exf4 3.Nf3 d5",
         "links": {
@@ -584,6 +657,7 @@
         }
     },
     {
+        "code": "C63",
         "opening-name": "Ruy L\u00f3pez Opening: Jaenisch Gambit",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 f5",
         "links": {
@@ -592,6 +666,7 @@
         }
     },
     {
+        "code": "B06",
         "opening-name": "Modern Defense: Standard, Pterodactyl Defense",
         "move-list": "1.e4 g6 2.d4 Bg7 3.Nc3 c5",
         "links": {
@@ -600,6 +675,7 @@
         }
     },
     {
+        "code": "C10",
         "opening-name": "French Defense: Rubinstein Variation",
         "move-list": "1.e4 e6 2.d4 d5 3.Nc3 dxe4",
         "links": {
@@ -608,6 +684,7 @@
         }
     },
     {
+        "code": "E11",
         "opening-name": "Bogo-Indian Defense",
         "move-list": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+",
         "links": {
@@ -616,6 +693,7 @@
         }
     },
     {
+        "code": "C62",
         "opening-name": "Ruy L\u00f3pez Opening: Old Steinitz Defense",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 d6",
         "links": {
@@ -624,6 +702,7 @@
         }
     },
     {
+        "code": "D30",
         "opening-name": "Queen's Gambit Declined: Pseudo-Tarrasch Defense",
         "move-list": "1.d4 d5 2.c4 e6 3.Nf3 c5",
         "links": {
@@ -632,6 +711,7 @@
         }
     },
     {
+        "code": "C64",
         "opening-name": "Ruy L\u00f3pez Opening: Classical Defense",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5",
         "links": {
@@ -640,6 +720,7 @@
         }
     },
     {
+        "code": "C50",
         "opening-name": "Italian Game: Hungarian Defense",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7",
         "links": {
@@ -648,6 +729,7 @@
         }
     },
     {
+        "code": "C51",
         "opening-name": "Giuoco Piano Game: Evans Gambit",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
         "links": {
@@ -656,6 +738,7 @@
         }
     },
     {
+        "code": "B13",
         "opening-name": "Caro-Kann Defense: Panov Attack",
         "move-list": "1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4",
         "links": {
@@ -664,6 +747,7 @@
         }
     },
     {
+        "code": "C47",
         "opening-name": "Four Knights Game: Scotch Variation",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4",
         "links": {
@@ -672,6 +756,7 @@
         }
     },
     {
+        "code": "E01",
         "opening-name": "Catalan Opening: Closed",
         "move-list": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2",
         "links": {
@@ -680,6 +765,7 @@
         }
     },
     {
+        "code": "C68",
         "opening-name": "Ruy L\u00f3pez Opening: Morphy Defense, Exchange Variation",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6",
         "links": {
@@ -688,6 +774,7 @@
         }
     },
     {
+        "code": "B08",
         "opening-name": "Pirc Defense: Classical Variation",
         "move-list": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3",
         "links": {
@@ -696,6 +783,7 @@
         }
     },
     {
+        "code": "B09",
         "opening-name": "Pirc Defense: Main Line, Austrian Attack",
         "move-list": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4",
         "links": {
@@ -704,6 +792,7 @@
         }
     },
     {
+        "code": "E32",
         "opening-name": "Nimzo-Indian Defense: Classical Variation",
         "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2",
         "links": {
@@ -712,6 +801,7 @@
         }
     },
     {
+        "code": "D80",
         "opening-name": "Gr\u00fcnfeld Defense: Stockholm Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5",
         "links": {
@@ -720,6 +810,7 @@
         }
     },
     {
+        "code": "D90",
         "opening-name": "Gr\u00fcnfeld Defense: Three Knights Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3",
         "links": {
@@ -728,6 +819,7 @@
         }
     },
     {
+        "code": "D82",
         "opening-name": "Gr\u00fcnfeld Defense: Brinckmann Attack",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4",
         "links": {
@@ -736,6 +828,7 @@
         }
     },
     {
+        "code": "B36",
         "opening-name": "Sicilian Defense: Old Sicilian, Open, Accelerated Dragon Variation",
         "move-list": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6",
         "links": {
@@ -744,6 +837,7 @@
         }
     },
     {
+        "code": "B18",
         "opening-name": "Caro-Kann Defense: Classical Variation",
         "move-list": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5",
         "links": {
@@ -752,6 +846,7 @@
         }
     },
     {
+        "code": "C45",
         "opening-name": "Scotch Game: Classical Variation",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5",
         "links": {
@@ -760,6 +855,7 @@
         }
     },
     {
+        "code": "D40",
         "opening-name": "Queen's Gambit Declined: Three Knights, Semi-Tarrasch Defense",
         "move-list": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5",
         "links": {
@@ -768,6 +864,7 @@
         }
     },
     {
+        "code": "D43",
         "opening-name": "Semi-Slav Defense",
         "move-list": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6",
         "links": {
@@ -776,6 +873,7 @@
         }
     },
     {
+        "code": "B44",
         "opening-name": "Sicilian Defense: Taimanov Variation",
         "move-list": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6",
         "links": {
@@ -784,6 +882,7 @@
         }
     },
     {
+        "code": "B41",
         "opening-name": "Sicilian Defense: Kan Variation",
         "move-list": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6",
         "links": {
@@ -792,6 +891,7 @@
         }
     },
     {
+        "code": "C11",
         "opening-name": "French Defense: Classical, Burn Variation",
         "move-list": "1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4",
         "links": {
@@ -800,6 +900,7 @@
         }
     },
     {
+        "code": "C45",
         "opening-name": "Scotch Game: Steinitz Variation",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4",
         "links": {
@@ -808,6 +909,7 @@
         }
     },
     {
+        "code": "D85",
         "opening-name": "Gr\u00fcnfeld Defense: Exchange Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5",
         "links": {
@@ -816,6 +918,7 @@
         }
     },
     {
+        "code": "E41",
         "opening-name": "Nimzo-Indian Defense: H\u00fcbner Variation",
         "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5",
         "links": {
@@ -824,6 +927,7 @@
         }
     },
     {
+        "code": "E62",
         "opening-name": "King's Indian Defense: Normal, Fianchetto Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3",
         "links": {
@@ -832,6 +936,7 @@
         }
     },
     {
+        "code": "E76",
         "opening-name": "King's Indian Defense: Four Pawns Attack",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4",
         "links": {
@@ -840,6 +945,7 @@
         }
     },
     {
+        "code": "C42",
         "opening-name": "Petrov's Defense: Classical Attack",
         "move-list": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4",
         "links": {
@@ -848,6 +954,7 @@
         }
     },
     {
+        "code": "E80",
         "opening-name": "King's Indian Defense: S\u00e4misch Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3",
         "links": {
@@ -856,6 +963,7 @@
         }
     },
     {
+        "code": "A87",
         "opening-name": "Dutch Defense: Leningrad, Main Line",
         "move-list": "1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3",
         "links": {
@@ -864,6 +972,7 @@
         }
     },
     {
+        "code": "E24",
         "opening-name": "Nimzo-Indian Defense: S\u00e4misch Variation",
         "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3",
         "links": {
@@ -872,6 +981,7 @@
         }
     },
     {
+        "code": "E42",
         "opening-name": "Nimzo-Indian Defense: H\u00fcbner, Rubinstein Variation",
         "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2",
         "links": {
@@ -880,6 +990,7 @@
         }
     },
     {
+        "code": "B70",
         "opening-name": "Sicilian Defense: Open, Dragon Variation",
         "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6",
         "links": {
@@ -888,6 +999,7 @@
         }
     },
     {
+        "code": "B90",
         "opening-name": "Sicilian Defense: Open, Najdorf Variation",
         "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6",
         "links": {
@@ -896,6 +1008,7 @@
         }
     },
     {
+        "code": "B80",
         "opening-name": "Sicilian Defense: Open, Scheveningen Variation",
         "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6",
         "links": {
@@ -904,6 +1017,7 @@
         }
     },
     {
+        "code": "E91",
         "opening-name": "King's Indian Defense: Orthodox Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2",
         "links": {
@@ -912,6 +1026,7 @@
         }
     },
     {
+        "code": "B60",
         "opening-name": "Sicilian Defense: Open, Classical, Richter-Rauzer Variation",
         "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5",
         "links": {
@@ -920,6 +1035,7 @@
         }
     },
     {
+        "code": "E73",
         "opening-name": "King's Indian Defense: Averbakh Variation",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5",
         "links": {
@@ -928,6 +1044,7 @@
         }
     },
     {
+        "code": "C45",
         "opening-name": "Scotch Game: Schmidt, Mieses Variation",
         "move-list": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5",
         "links": {
@@ -936,6 +1053,7 @@
         }
     },
     {
+        "code": "D60",
         "opening-name": "Queen's Gambit Declined: Orthodox Defense",
         "move-list": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7",
         "links": {
@@ -944,6 +1062,7 @@
         }
     },
     {
+        "code": "A92",
         "opening-name": "Dutch Defense: Fianchetto, Ilyin-Zhenevsky, Stonewall Variation",
         "move-list": "1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5",
         "links": {
@@ -952,6 +1071,7 @@
         }
     },
     {
+        "code": "E97",
         "opening-name": "King's Indian Defense: Bayonet Attack",
         "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4",
         "links": {

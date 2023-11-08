@@ -22,9 +22,11 @@ class Opening:
     links:dict          # Dict of links for references to this opening
     opening_name:str    # Opening name (in the format from Chess.com) 
     move_list:str
+    code:str 
     
-    def __init__(self, opening_name:str, wiki_link:str, chess_com_link:str, move_list:str):
+    def __init__(self, opening_name:str, code:str, wiki_link:str, chess_com_link:str, move_list:str):
         self.opening_name = opening_name
+        self.code = code
         self.links = {
                       'wikipedia': wiki_link,
                       'chess.com': chess_com_link
@@ -33,12 +35,13 @@ class Opening:
     
     ''' to_dict() - convert this opening to a dictionary format '''
     def to_dict(self) -> dict[str,str]: 
-        return {'opening-name': self.opening_name, 'move-list': self.move_list, 'links': self.links}
+        return {'code': self.code, 'opening-name': self.opening_name, 'move-list': self.move_list, 'links': self.links}
     
     ''' to_string() - convert this opening to a meaningful, readable string (to print, etc.) '''
     def to_string(self) -> str: 
         print(f"Called to string on {self.opening_name}")
         s = f"Name: {self.opening_name}\n"                      # Name
+        s += f"Code: {self.code}"                               # Code
         s += f"Moves: {self.move_list}"                         # Moves
         s += "Links: \n"                                        # Links
         for k,l in self.links.items(): s += f"\t{k} - {l}\n"    
@@ -55,7 +58,7 @@ class Opening:
     '''
     @staticmethod
     def opening_from_dict(d:dict) -> object: 
-        o = Opening(d["opening-name"], d["links"]["wikipedia"], d["links"]["chess.com"], d['move_list'])
+        o = Opening(d["opening-name"], d['code'], d["links"]["wikipedia"], d["links"]["chess.com"], d['move_list'])
         
         return o
     
@@ -86,7 +89,7 @@ class Opening:
 class OpeningsDict: 
     
     # DYNAMIC ATTRIBUTES
-    openings:dict[int, dict]
+    openings:dict[str, dict]
     
     def __init__(self): 
         self.openings = {}

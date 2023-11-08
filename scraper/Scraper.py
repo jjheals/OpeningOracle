@@ -28,8 +28,12 @@ class Scraper:
             response = requests.get(url, headers=Scraper.headers)   # Make the request
             openings = response.json()['items']                     # Get the 'items' object from the response; this contains the openings
 
+            for o in openings: 
+                print("")
+                for k,v in o.items(): print(f"{k} : {v}")
+            
             # Add these openings to all_openings as Opening objects
-            all_openings.extend([Opening(o['name'], Opening.wiki_link_from_name(o['name']), o['url'], o['move_list']) for o in openings])
+            all_openings.extend([Opening(o['name'], o['code'], Opening.wiki_link_from_name(o['name']), o['url'], o['move_list']) for o in openings])
             
         # Persistent save to json
         json.dump([o.to_dict() for o in all_openings], open(Paths.OPENINGS_JSON, 'w'), indent=4)
