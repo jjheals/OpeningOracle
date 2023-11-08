@@ -5,7 +5,7 @@ from classes.Opening import *
 class Scraper: 
     
     # STATIC ATTRIBUTES 
-    headers:dict[str,str] = { 'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
+    headers:dict[str,str] = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
     chess_com_url:str = "https://www.chess.com/callback/eco/advanced-search?keyword=&useFavorites=false&page="
     
     def __init__(self): 
@@ -36,3 +36,11 @@ class Scraper:
         
         # Print info about results
         print(f"Scraper: done getting openings.\nSaved {len(all_openings)} results to \"{Paths.OPENINGS_JSON}.\"")
+
+    ''' scrape_descriptions() - scrape the openings' descriptions from Wikipedia and Chess.com
+
+        NOTE: uses the openings and links contained in Paths.OPENINGS_JSON
+    '''
+    def scrape_descriptions(self) -> None: 
+        pass
+        

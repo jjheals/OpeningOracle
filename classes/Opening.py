@@ -51,8 +51,7 @@ class Opening:
             d (dict) - dictionary matching the format of an opening, i.e., in the format from PATHS.OPENINGS_JSON
         
         RETURNS: 
-            An Opening object
-            
+            An Opening object       
     '''
     @staticmethod
     def opening_from_dict(d:dict) -> object: 
@@ -66,8 +65,7 @@ class Opening:
             name (str) - opening name from Chess.com
             
         RETURNS: 
-            The wikipedia link for this name as a string
-            
+            The wikipedia link for this name as a string     
     '''
     @staticmethod
     def wiki_link_from_name(name:str) -> str: 
@@ -80,17 +78,15 @@ class Opening:
         return Opening.wiki_base_url + name
     
     
-''' OpeningLinks - class to create an object to store the opening name and the associated
-                   links from all sources. 
+''' OpeningsDict - class to create an object to store the openings with an ID 
    
    ATTRIBUTES: 
-        openings (dict) - contains [key,val] as [opening_name, dict[source_name, link]]     
-                 
+        openings (dict) - contains [key,val] as [opening_id, opening_as_dict]                 
 '''
-class OpeningLinks: 
+class OpeningsDict: 
     
     # DYNAMIC ATTRIBUTES
-    openings:dict[str, dict[str,list[str]]]
+    openings:dict[int, dict]
     
     def __init__(self): 
         self.openings = {}
@@ -101,7 +97,7 @@ class OpeningLinks:
     ''' from_json() - create an OpeningLinks object from a json file '''
     @staticmethod 
     def from_json() -> object: 
-        opening_links = OpeningLinks()
+        opening_links = OpeningsDict()
         opening_links.openings = json.load(open(Paths.OPENINGS_JSON, "r"))
         return opening_links
     
@@ -121,7 +117,7 @@ class OpeningLinks:
         d = {}
         for o in loo: d[o.opening_name] = o.links
         
-        opening_links = OpeningLinks()
+        opening_links = OpeningsDict()
         opening_links.openings = d
         
         return opening_links
