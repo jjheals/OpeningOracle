@@ -1,0 +1,394 @@
+Chess opening
+Chess openingLondon System
+abcdefgh8877665544332211abcdefgh The London System set-up
+Movesd4, Nf3, Bf4, e3, Bd3, Nbd2, c3ECOD02, A46, A48OriginJames MasonNamed after1922 London tournamentParentQueen's Pawn Game
+The London System is an opening system in chess where White opens with 1.d4 and develops the dark-squared bishop to f4, then supports the d4-pawn with pawns on e3 and c3. The other bishop is developed to d3 (or occasionally e2) and the knights typically to f3 and d2. This set-up often results in a closed game. The London System can be used against virtually any Black defence and thus comprises a smaller body of opening theory than many other openings. Although it has a reputation as a solid opening, the London System has faced criticism for its tedious nature and lack of dynamic play.[1][2][3][4][5][6]
+The rapid development of the dark-squared bishop in the London System can be contrasted with the Colle System, in which the queen's bishop typically remains on c1 during the opening phase of the game.[7]
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+History[edit]
+The British-American James Mason was the first master-level player to regularly employ the London System, including at the strong 1882 Vienna Tournament (in which he finished third) and later at tournaments at London (1883) and New York (1889). The opening did not catch on, and received limited outings in master play in subsequent decades. It did, however, appear with some regularity in the games of certain masters, including F.J. Lee, Joseph Henry Blackburne and Akiba Rubinstein.
+The name London System derives from the reappearance of the opening on seven occasions in the very strong London tournament of 1922, including in games by José Raúl Capablanca, Alexander Alekhine and Akiba Rubinstein. After this tournament the opening remained rare in master practice, but the London set-up soon became the standard response for Black against the Réti Opening (this line being named the New York Variation, after its use in Réti–Capablanca during the New York 1924 tournament.      
+Although the London System remains rare in grandmaster tournaments, it has been played occasionally by players including Bent Larsen, Tony Miles, Teimour Radjabov, Vladimir Kramnik and Fabiano Caruana, and more frequently by players such as Gata Kamsky, Levon Aronian and Magnus Carlsen. During the 21st century the London System has become popular amongst club-level players due to its solid nature, clear plans and lack of aggressive responses by Black. One of the most famous games of the 21st century utilizing the London System was round 6 of the 2023 World Chess Championship between Ding Liren and Ian Nepomniachtchi.
+
+White set-up[edit]
+The London System consists of a set-up for White employing the following moves (which can be played in a variety of move orders): d4, Nf3, Bf4, e3, Bd3, Nbd2, c3. The move h3 is often also played, enabling the bishop on f4 to drop back to h2 if attacked, thus remaining on the same diagonal and continuing to influence e5.
+Following the publication of the influential 2005 work Win with the London System by Sverre Johnsen and Vlatko Kovačević, it has become common for White to prefer to develop the queen's bishop to f4 on move 2 (rather than opting for 2.Nf3 and then 3.Bf4, as had previously been common). Johnsen and Kovačević note that, in the case of 2.Nf3, if play proceeds 2...c5 3.Bf4?!, then 3...cxd4 4.Nxd4 Nd7 "may already be better for Black".[8] Meanwhile, Kiril Georgiev notes in Fighting the London System that "The idea of delaying the [Nf3] development is to avoid the famous line [1.d4 d5] 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.c3 Qb6 6.Qb3 c4 7.Qc2 Bf5, when White should retreat [the queen] ingloriously to c1."[9]
+
+Black responses[edit]
+White's future plans will depend upon Black's choice of set-up. Black has a particularly wide range of possibilities in the early stages as White's London structure exerts little influence on Black's side of the board. Black may therefore develop freely. Common options include:
+
+Queen's Gambit Declined-type defence: d5, e6, Nf6, c5, Nc6 (or d7), Bd6 (or e7), 0-0. Black stakes out some space on the queenside. The position will likely resemble a Slav Defence with colours reversed. White will typically post his king's knight on e5 and aim for a kingside attack.
+Queen's Indian-type defence: Nf6, b6, Bb7, e6, d6, Be7, Nbd7. Black adopts a flexible hypermodern defence, preventing a knight incursion on e5, and then waits to see how White will proceed before deciding on the placement of the central pawns and on which side to castle.
+King's Indian-type defence: Nf6, g6, Bg7, d6, 0-0. Black will typically aim for either ...e5 (after suitable preparation with Nbd7 and Re8) or ...c5 (in which case the game will resemble a Réti Opening with colours reversed). White may prefer to post the king's bishop on e2 rather than d3 in this line, as Black's fianchetto structure means that a bishop on d3 would have limited scope.
+Other options for Black include mirroring White's play by also adopting the London System (d5, Bf5, e6, etc.), or playing the Hippopotamus Defence (g6, Bg7, b6, Bb7, d6, e6, Ne7, Nd7) in which case White will probably have little option but to play e3–e4, losing a tempo, and a knight on d2 may not be optimally placed. Additional options for Black include Slav-type structures (d5/c6), Grünfeld-type structures (Nf6/g6/Bg7/d5), reversed Torre Attack (d5/Nf6/Bg4), Chigorin-type play (d5/Nc6/Bg4), etc.
+A popular response to the London System at higher levels of play is an early ...c5, allowing ...Qb6 (aiming at White's weak b2-pawn, which is no longer defended by a bishop on c1). This seeks to disrupt White's comfortable development system. The line 1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 was considered by Johnsen and Kovačević to be the most critical line.[10]
+
+Rapport–Jobava System[edit]
+
+abcdefgh8877665544332211abcdefgh A sample line in the Rapport–Jobava London: 1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.Nc3 cxd4 5.exd4 Nc6 6.Qd2 Bf5 7.0-0-0
+
+A modern development named after grandmasters Richárd Rapport and Baadur Jobava, this system still has considerable surprise value. It combines Bf4 with Nc3 (this knight would usually be developed to d2 in the standard London System) creating potential threats against Black's c7.
+
+Example games[edit]
+Gata Kamsky vs. Samuel Shankland; Sturbridge, Massachusetts 2014: 1.d4 Nf6 2.Bf4 d5 3.e3 e6 4.Nd2 c5 5.c3 Nc6 6.Ngf3 Bd6 7.Bg3 0-0 8.Bd3 Qe7 9.Ne5 Nd7 10.Nxd7! Bxd7 11.Bxd6 Qxd6 12.dxc5 Qxc5? 13.Bxh7+!! Kxh7 14.Qh5+ Kg8 15.Ne4 Qc4 16.Ng5 Rfd8 17.Qxf7+ Kh8 18.Qh5+ Kg8 19.Rd1! e5 20.Qf7+ Kh8 21.e4 Ne7 22.Qxe7 Bb5 23.Rd2 Qxa2 24.Qf7 Qa1+ 25.Rd1 Qxb2 26.Qh5+ Kg8 27.Qh7+ Kf8 28.Qh8+ Ke7 29.Qxg7+ Kd6 30.Rxd5+ Kc6 31.Qf6+ 1–0[11]
+Magnus Carlsen vs. Evgeny Tomashevsky, Wijk aan Zee NED 2016: 1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Bb7 5.h3 Be7 6.Bd3 0-0 7.0-0 c5 8.c3 Nc6 9.Nbd2 d5 10.Qe2 Bd6 11.Rfe1!? Ne7?! 12.Rad1 Ng6?! 13.Bxg6! hxg6 14.Bxd6! Qxd6 15.Ne5 g5 16.f4!! gxf4 17.Rf1! Nd7! 18.Qh5! Nf6?! 19.Qh4! Qd8 20.Rxf4 Ne4? 21.Nxe4 Qxh4 22.Rxh4 dxe4 23.dxc5 bxc5 24.Rd7! Rab8 25.b3! a5 26.Rc7 a4 27.bxa4 Ba8 28.a5 Rb7 29.Rxc5 Ra7 30.Nc4 1–0 (Black resigns)[12]
+Ding Liren vs. Ian Nepomniachtchi, Astana KAZ, World Championship 2023: 1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 cxd4 6.exd4 Bf5 7.c3 e6 8.Bb5 Bd6 9.Bxd6 Qxd6 10.0-0 0-0 11.Re1 h6 12.Ne5 Ne7 13.a4 a6 14.Bf1 Nd7 15.Nxd7 Qxd7 16.a5 Qc7 17.Qf3 Rfc8 18.Ra3 Bg6 19.Nb3 Nc6 20.Qg3 Qe7 21.h4 Re8 22.Nc5 e5 23.Rb3 Nxa5 24.Rxe5 Qf6 25.Ra3 Nc4 26.Bxc4 dxc4 27.h5 Bc2 28.Nxb7 Qb6 29.Nd6 Rxe5 30.Qxe5 Qxb2 31.Ra5 Kh7 32.Rc5 Qc1+ 33.Kh2 f6 34.Qg3 a5 35.Nxc4 a4 36.Ne3 Bb1 37.Rc7 Rg8 38.Nd5 Kh8 39.Ra7 a3 40.Ne7 Rf8 41.d5 a2 42.Qc7 Kh7 43.Ng6 Rg8 44.Qf7 1–0 (Black resigns)[13]
+
+See also[edit]
+List of chess openings
+List of chess openings named after places
+References[edit]
+
+
+^ Gallagher, Joe (1996). Beating the Anti-King's Indians. Batsford. pp. back cover, 149. ISBN 978-0713480122. Some want to bore the pants off you with [...] the London System", "[...] a favourite amongst those who disregard opening theory or those who want to bore you out of your mind.
+
+^ Cox, John (2005). Dealing with d4 Deviations. Everyman Chess. p. 8. ISBN 978-1857443998. If someone wants to play the London System, you have to recognise that the game's going to be pretty quiet for a long time.
+
+^ Dembo, Yelena (2008). Fighting the Anti-King's Indians. Everyman Chess. p. 84. ISBN 978-1857445756. White's play rather resembles some kind of solid and fairly unthreatening Slav!
+
+^ Avrukh, Boris (2013). Beating 1.d4 Sidelines. Quality Chess. p. 86. ISBN 978-1907982125. a reputation for tedium [...] Black should not have much trouble equalizing.
+
+^ Radic, Antonio (2021). Agadmator's Anti-London System. Chessable.com. [...] the typical, slow maneuvering London System games.
+
+^ Sielecki, Christof (2021). Sielecki's Queen's Gambit Declined. Chessable.com. Due to [its] rather schematic approach, the London 'enjoys' the reputation of being a dull and unambitious opening: 'It's always the same, how boring!'
+
+^ "Queen's Pawn Opening: Accelerated London System". Chess.com.
+
+^ Johnsen & Kovačević (2005), p. 10
+
+^ Georgiev (2017), p. 145
+
+^ Johnsen & Kovačević (2005), p. 160
+
+^ "Gata Kamsky vs. Samuel Shankland (2014)". Chessgames.com.
+
+^ "Magnus Carlsen vs. Evgeny Tomashevsky, Wijk aan Zee 2016". Chessgames.com.
+
+^ "Ding Liren vs. Ian Nepomniachtchi, WC Match 2023, rd. 6". Chessgames.com.
+
+
+Bibliography[edit]
+Georgiev, Kiril (2017). Fighting the London System. Chess Stars. ISBN 978-6197188158.
+Johnsen, Sverre; Kovačević, Vlatko (2005). Win with the London System (1st ed.). Gambit Publications. ISBN 978-1904600350.
+Further reading[edit]
+Lakdawala, Cyrus (2010). Play the London System. Everyman Chess. ISBN 978-1-857-44639-5.
+Sedlak, Nikola (2016). Winning with the Modern London System. Chess Evolution. ISBN 978-83-944290-9-6.
+External links[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: London System
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=London_System&oldid=1179711997"

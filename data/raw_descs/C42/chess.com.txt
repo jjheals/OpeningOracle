@@ -1,0 +1,11 @@
+
+The classical way of meeting Petrov's Defense is to trade the e-pawns and then push past with 5.d4. After 5...d5 a symmetrical position is created, except that the black knight is on e4 instead of f6. White hopes to take advantage of the knight's position by undermining it and trading it off.
+Pros:
+
+Natural, strong buildup in the center
+Quick development
+
+Cons:
+
+Enormous amounts of theory
+

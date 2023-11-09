@@ -1,0 +1,51 @@
+
+The Alapin Variation of the Sicilian Defense is one of the "anti-Sicilian" openings White can play against 1...c5. A solid opening, the Alapin is a well-respected way of bypassing the extensive theory of other Sicilian lines. The Alapin is a popular opening among club-level players, with grandmasters also often using this opening.
+
+Starting Position
+
+Pros
+Cons
+
+
+Main Variations Of The Alapin Sicilian
+
+2...Nf6
+2...d5
+
+
+History Of The Alapin Sicilian
+
+
+Starting Position
+The Alapin Sicilian starts after the moves 1.e4 c5 2.c3. White's second move intends to lend extra protection to their d-pawn after the d2-d4 push. If Black captures the d4-pawn like in the Open Sicilian, White will recapture with the c3-pawn and keep their "classic pawn center."
+
+The starting position of the Alapin Sicilian.
+
+White's second move allows them to avoid the intricate theory of the Sicilian Defense. The drawbacks of this move are that it fails to develop a piece and takes away the b1-knight's natural developing square on c3.
+Pros
+
+White avoids trading a central pawn for a wing pawn
+Leads to open, active play
+Tricky
+
+Cons
+
+Blocks the c3 square for the b1-knight
+Does not develop a piece
+Allows Black a wide choice of ways to respond
+
+Main Variations Of The Alapin Sicilian
+One of the benefits of playing the Alapin Sicilian is that, as an "anti-Sicilian," it avoids much of the theory of the other Sicilian variations. There are two main ways for Black to respond to the move 2.c3, both involving a direct challenge to White's center.
+2...Nf6
+The most popular variation of the Alapin goes 1.e4 c5 2.c3 Nf6. Black develops their knight and attacks White's e4-pawn. White's pawn on c3 blocks the way for their queenside knight that would usually develop to c3 and protect the e4-pawn. Black's second move practically forces White to play e4-e5.
+
+
+
+White's pawn advance gains space and challenges the black f6-knight. However, Black can try to play against White's central pawn chain (after White plays d2-d4) and prove that White has overextended their pawns.
+2...d5
+The second most popular line of the Alapin starts with 1.e4 c5 2.c3 d5. Black immediately challenges White's center, and after the usual 3.exd5 Qxd5, Black gains some control over the center and accelerates their development. Notice that the white pawn on c3 makes it impossible for White to develop their knight with a tempo attacking the black queen.
+
+History Of The Alapin Sicilian
+The Alapin Sicilian is named after the Russian master Semyon Alapin, who was among the best players in the world at the end of the 19th century. Although Alapin was not the first player to employ the opening, he was the most prominent master to use it regularly against the strongest players of his time.
+However, the Alapin Sicilian did not become common among elite-level players until the 1950s. The opening reached the pinnacle of its popularity during the 1970s, primarily thanks to GM Evgeny Sveshnikov. The grandmaster has made significant contributions to the Alapin Sicilian's theory and played hundreds of games using this variation.
+Since then, the Alapin has remained somewhat popular among masters. The opening is also widespread among club-level players who wish to avoid the extensive theory of other Sicilian lines.

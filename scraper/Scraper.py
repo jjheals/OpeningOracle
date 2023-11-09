@@ -3,12 +3,20 @@ import json
 from classes.Opening import *
 from re import sub
 from bs4 import BeautifulSoup
+from os import mkdir, path
 
 class Scraper: 
     
     # STATIC ATTRIBUTES 
     headers:dict[str,str] = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
     chess_com_url:str = "https://www.chess.com/callback/eco/advanced-search?keyword=&useFavorites=false&page="
+    
+    # The divs containing the content of interest for each site we scrape
+    # NOTE: the keys are tuples with (attribute_type, attribute_name) where attribute_type is 0 (class) or 1 (id) 
+    divs:dict[str,str] = {
+        'chess.com':(0,'post-view-content'), 
+        'wikipedia':(1,'mw-content-text')
+    }
     
     # DYNAMIC ATTRIBUTES
     index:dict[str,dict[str,int]]
@@ -72,7 +80,12 @@ class Scraper:
         
         # Iterate over self.openings_dict.openings and visit all the URLs
         for c,v in self.openings_dict.openings.items(): 
-            for url in v['links'].values(): 
+            
+            # Create dir to save raw content if needed 
+            if not path.exists(Paths.RAW_DESC_BASE + c): mkdir(Paths.RAW_DESC_BASE + c)
+            
+            # Iterate over the links for this opening and get the content
+            for site,url in v['links'].items(): 
                 response = requests.get(url, headers=Scraper.headers)   # Make the request
                 
                 # Skip if there is an error code 
@@ -82,6 +95,27 @@ class Scraper:
                 
                 # Use BeautifulSoup to parse the HTML
                 soup:BeautifulSoup = BeautifulSoup(response.text, 'html.parser')
+                
+                # Save the raw content
+                f = open(Paths.RAW_DESC_BASE + c + f"/{site}.txt", "w+")
+                
+                # Get the correct div that contains the content for this link
+                div_attr_type:int = Scraper.divs[site][0]        # Get the div attribute of interest (class==0 or id==1)
+                div_attr_name:str = Scraper.divs[site][1]   # Get the div attribute name (ex. 'body-content')
+                content:str = ''
+                
+                try: 
+                    match(div_attr_type): 
+                        case 0: content = soup.find(class_=div_attr_name).text  # Looking for class
+                        case 1: content = soup.find(id=div_attr_name).text      # Looking for id
+                        
+                    f.write(content)    # Write the content
+                    f.close()           # Close the file
+                    
+                except AttributeError:
+                    print(f"Error getting content for \n\tCode: {c}\n\tName: {v['opening-name']}\n\tURL: {url}")
+                    f.close()
+                    continue
                 
                 # Tokenize the content 
                 tokens:list[str] = Scraper.tokenize(soup.text)
@@ -101,12 +135,12 @@ class Scraper:
                 
             num_done+=1
             print(f"Done scraping for \"{c}\", \"{v['opening-name']}\" ({num_done}/{num_openings})")
-            
+        
         # If configured, save the index to Paths.INDEX_JSON and overwrite whatever exists
         if auto_save_index: 
             json.dump(self.index, open(Paths.INDEX_JSON, 'w'), indent=4)
             json.dump(self.num_terms, open(Paths.NUM_TERMS_JSON, 'w'), indent=4)
-            
+        
         print(f"Scraper: Done scraping descriptions.\nNew index length = {len(self.index)}")
                 
     @staticmethod
@@ -117,6 +151,7 @@ class Scraper:
         pattern:str = r'[^a-zA-Z0-9\s]'     # Pattern of plaintext characters (a-z, A-Z, 0-9, no special chars)
         text = sub(pattern, ' ', text)      # Substitute all matches with spaces  
         text = sub(r'html\r\n', '', text) 
+        text = sub(r'\n', ' ', text) 
         
         # Split the text on spaces, convert to lower, and strip whitespace from each token 
         tokens = [s.lower().strip() for s in text.split(' ') if not s.isspace() and s]

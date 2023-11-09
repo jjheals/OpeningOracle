@@ -1,0 +1,12 @@
+
+In the Bishop's Gambit, White develops the bishop to a strong square, aiming at f7. They also free the f1 square for the white king, in the event of a check on h4.
+ Pros:
+
+The bishop is on a good square
+A knight is not yet on f3, so it won't be attacked by ...g5-g4
+
+Cons:
+
+Black has the possibility of checking on h4
+The bishop can be attacked by ...c6 and ...d5
+

@@ -1,0 +1,504 @@
+
+
+Chess openingEnglish Opening
+abcdefgh8877665544332211abcdefghMoves1.c4ECOA10–A39OriginStaunton vs. Saint-Amant, 1843Named afterHoward Staunton, English player and World Champion (unofficial)
+The English Opening is a chess opening that begins with the move:
+
+1. c4
+A flank opening, it is the fourth most popular[1][2] and, according to various databases, one of the four most successful of White's twenty possible first moves.[1][3] White begins the fight for the centre by staking a claim to the d5-square from the wing, in hypermodern style. Although many lines of the English have a distinct character, the opening is often used as a transpositional device in much the same way as 1.Nf3 – to avoid such highly regarded responses to 1.d4 as the Nimzo-Indian and Grünfeld Defences – and is considered reliable and flexible.[4]
+The English derives its name from the leading 19th century English master Howard Staunton, who played it during his 1843 match with Saint-Amant and at London 1851, the first international tournament.[5] It did not inspire Staunton's contemporaries and caught on only in the twentieth century.[5] It is now recognised as a solid opening that may be used to reach both classical and hypermodern positions. Mikhail Botvinnik, Tigran Petrosian, Anatoly Karpov, Garry Kasparov, Magnus Carlsen, and Ding Liren have employed it during their world championship matches. Bobby Fischer created a stir when he switched to it from his customary 1.e4 late in his career, employing it against Lev Polugaevsky and Oscar Panno at the Palma de Mallorca Interzonal in 1970, and in his world championship match against Boris Spassky.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Taxonomy[edit]
+Opening theoreticians who write on the English Opening divide it into three broad categories, generally determined by Black's choice of defensive setup.
+
+Symmetrical Defence: 1...c5 [edit]
+The Symmetrical Defence[6] (classified A30–39 in ECO) is 1...c5, and is so named because both of the c-pawns are advanced two squares, maintaining symmetry. Note that Black can reach the Symmetrical Defence through many move orders by deferring ...c5, and often does. For example, 1.c4 Nf6 2.Nc3 (or 2.Nf3) c5.
+
+
+abcdefgh8877665544332211abcdefghSymmetrical Defence: 1.c4 c5
+
+
+Either player may make an early break in the centre with the d-pawn.
+Similar to the Open Sicilian, an early d2–d4 for White can arise on the third move in the Symmetrical Defence with 2.Nf3, where Black has chosen one of 2...Nc6, 2...e6, 2...d6, or 2...g6. 
+
+
+After 3.d4, the game usually continues with 3...cxd4 4.Nxd4. The games can give a large variety of positional and tactical ideas, and can transpose into variants of the Open Sicilian involving the Maróczy Bind, such as the Accelerated Dragon, Taimanov, Kan, or Kalashnikov Variations, if White plays e4 in a later move. If Black manages to play d5 before White plays e4, then the game could transpose into variants of the Queen's Gambit Declined.
+When Black plays 2...Nf6, these lines are often called the Anti-Benoni, since these positions are often reached after the transposition 1.d4 Nf6 2.c4 c5 3.Nf3, where White avoided the Benoni Defense that would arise after 3.d5. After 3...cxd4 4.Nxd4, Black could follow up with 4...e5 forcing White's knight to go to the queenside and avoiding the transpositions to the Sicilian or the QGD; however, White could avoid the line by first playing 3.Nc3 and then play 4.d4, if Black doesn't play 3...d5 (see below). Same as above, the position could transpose into a Queen's Gambit Declined or an Open Sicilian involving the Maróczy Bind. 
+
+With 2.e3 Nf6, the position transposes into a Panov–Botvinnik Attack after 3.d4 cxd4 4.exd4 d5. Alternatively, the position could transpose into a Tarrasch Defense in the Queen's Gambit Declined.
+A typical line of play where Black plays an early ...d5 is 1.c4 c5 2.Nc3 Nf6 3.Nf3 d5, when White usually trades off in the centre 4.cxd5 Nxd5. White can either challenge the centre with 5.d4 or 5.e4 or allow Black a space advantage in the centre with 5.g3. In the latter case, Black can play 5...Nc6 6.Bg2 Nc7 followed by 7...e5, reaching a reversed Maróczy Bind position called the Rubinstein System.
+There are several types of positions that can arise from the Symmetrical Defence. Among the ideas are:[7]
+
+The Hedgehog system[8] involves a solid but flexible defence in which Black develops by b6, e6, Bb7, and Be7, before controlling the fifth rank with moves such as a6 and d6. The game typically involves extended maneuvering, but both players need to be on the lookout for favourable pawn advances and pawn breaks.
+The double fianchetto defence involves Black developing both bishops by fianchetto to g7 and b7. The line is fairly solid and difficult to defeat at the grandmaster level. Some lines are considered highly drawish, for instance if White's bishops are also fianchettoed to g2 and b2 there may be many piece exchanges leading to a simplified and equal position.
+Reversed Sicilian: 1...e5 [edit]
+The Reversed Sicilian (classified A20–29 in ECO) is another broad category of defence, introduced by the response 1...e5. Note again, that Black can delay playing ...e5, for example 1.c4 Nf6 2.Nc3 Nc6 3.Nf3 e5 whereupon even though ...e5 has been delayed, once it is played the defence is classified as a Reversed Sicilian.
+
+
+abcdefgh8877665544332211abcdefghReversed Sicilian: 1...e5
+
+
+After 1...e5, White has Black's position in the Sicilian but with an extra tempo. This is often called the Reversed Sicilian,[9] though others call it the King's English.[10] Bruce Leverett, writing the English chapter in MCO-14, stated, "It is natural to treat the English as a Sicilian reversed, but the results are often surprising—main lines in the Sicilian Defence correspond to obscure side variations in the English, and vice versa."
+
+Other lines[edit]
+The third broad category consists of the non-...e5 and non-...c5 responses, classified A10–19 in ECO. Most often these defences consist of Nf6, e6, and d5 or Bb4 systemic responses by Black, or a Slav-like system consisting of c6 and d5, a direct King's Indian Defence setup with Nf6, g6, Bg7, 0-0, after which c5 and e5 are eschewed, or 1...f5, which usually transposes to a Dutch Defence once White plays d4. All irregular responses such as 1...b6 and 1...g5 are also lumped into this third broad category.
+
+1...Nf6 is the most common response to 1.c4, often played to arrive at an Indian Defence. More than half the time, however, Black subsequently elects to transpose into either a Symmetrical Defence with ...c5, or a Reversed Sicilian with ...e5.
+1...e6 can lead to a Queen's Gambit Declined after 2.Nc3 d5 3.d4, but White often prefers 2.Nf3, which may lead to a variety of openings.
+1...f5 leads to a Dutch Defence when White follows up with d4. Other choices for White are 2.Nc3, 2.Nf3, and 2.g3, where Black usually plays ...Nf6.
+1...g6 may lead to a Modern Defense, or after Nf6 and d6 or d5 to the King's Indian Defence or the Grünfeld Defence, respectively, or stay within English lines. Often dubbed the Great Snake Variation.
+1...c6 can lead to a Slav Defense after 2.d4 d5, but White will often prefer a Caro–Kann Defence with 2.e4 d5, or a Réti Opening after 2.Nf3 d5 3.b3. 1.c4 c6 2.d4 d6 is the Anglo-Slav Opening.
+1...b6 is the English Defence. This setup involves the fianchetto of the queenside bishop and 2...e6. Often Black will defer the move Nf6, choosing to attack the centre with f5 and/or Qh4. The English grandmasters Tony Miles and Jonathan Speelman have successfully used this opening.
+1...d5 is the Anglo-Scandinavian Defense.[11] Thought of as inferior to the Scandinavian Defense due to exchanging the c-pawn for a center pawn, in addition to the Scandinavian already having a somewhat suspect reputation.
+1...g5 is an eccentric response known as Myers' Defense after Hugh Myers's advocacy of it in print and actual play.[12][13][14] It is intended as an improved Grob's Attack; after 2.d4, Black will put pressure on the d4-square with moves such as ...Bg7, ...c5, and ...Qb6.[13][15] According to Nunn's Chess Openings, White obtains a small advantage after 2.d4 Bg7 (offering a Grob-like gambit: 3.Bxg5 c5) 3.Nc3 h6 4.e4.[16] Myers recommended 3...c5 (instead of 3...h6); in response, Joel Benjamin advocates 4.dxc5![13]
+1...b5 is called the Jaenisch Gambit after Carl Jaenisch.[17] Black obtains no immediate compensation for the sacrificed pawn.[18]
+Transposition potential[edit]
+If White plays an early d4, the game will usually transpose into either the Queen's Gambit or an Indian Defence.
+For example, after 1.c4 Nf6 2.Nc3 g6 3.d4 d5 the game has transposed into the Grünfeld Defence, usually reached by the move order 1.d4 Nf6 2.c4 g6 3.Nc3 d5.
+White can, however, also play 1.c4 Nf6 2.Nc3 g6 3.e4, making it impossible for Black to reach a Grünfeld, instead more or less forcing them into lines of the King's Indian Defence with 3...d6. Black also cannot force a Grünfeld with 1.c4 Nf6 2.Nc3 d5, since White can deviate with 3.cxd5 Nxd5 4.g3, a line played several times by Mikhail Botvinnik in 1958, in his final match for the world championship with Vasily Smyslov.
+Instead of playing an early d4, White can also play Nf3 and fianchetto the king's bishop (g3 and Bg2), transposing into a Réti Opening.
+Also, after 1.c4 c6, White can transpose into the Polish Opening, Outflank Variation, by playing 2.b4!?, which can be used as a surprise weapon if Black does not know very much about the Polish Opening.[19]
+The many different transpositional possibilities available to White make the English a slippery opening for Black to defend against, and make it necessary for them to consider carefully what move order to employ. For instance, if Black would like to play a Queen's Gambit Declined (QGD), the most accurate move order to do so is 1...e6 2.d4 d5. (Of course, White can again play the Réti instead with 2.Nf3 d5 3.b3.) If Black plays instead 1...Nf6 2.Nc3 e6, White can avoid the QGD by playing 3.e4, the Flohr–Mikenas Attack.
+
+ECO[edit]
+The Encyclopaedia of Chess Openings has classified the English Opening under the codes A10 through A39:
+
+A10 1.c4
+A11 1.c4 c6 (Caro-Kann Defensive System)
+A12 1.c4 c6 2.Nf3 d5 3.b3 (Also the Bogoljubov Variation of the Anglo-Slav Variation of the Réti Opening)
+A13 1.c4 e6 (Agincourt Defense)
+A14 1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.0-0 (Neo-Catalan Declined Line in the Agincourt Defense)
+A15 1.c4 Nf6 (Anglo-Indian Defense)
+A16 1.c4 Nf6 2.Nc3 (Queen’s Knight Variation of the Anglo-Indian Defense)
+A17 1.c4 Nf6 2.Nc3 e6 (Hedgehog System of the Queen’s Knight Variation of the Anglo-Indian Defense)
+A18 1.c4 Nf6 2.Nc3 e6 3.e4 (Mikenas–Carls Variation)
+A19 1.c4 Nf6 2.Nc3 e6 3.e4 c5 (Sicilian Variation of the Mikenas-Carls Variation)
+A20 1.c4 e5 (King’s English Variation)
+A21 1.c4 e5 2.Nc3 (Reversed Sicilian)
+A22 1.c4 e5 2.Nc3 Nf6 (Two Knights Variation of the King’s English)
+A23 1.c4 e5 2.Nc3 Nf6 3.g3 c6 (Bremen System, Keres Variation)
+A24 1.c4 e5 2.Nc3 Nf6 3.g3 g6 (Bremen System with ...g6) (also known as the Fianchetto Line)
+A25 1.c4 e5 2.Nc3 Nc6 (Reversed Closed Sicilian)
+A26 1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 (Full Symmetry Line in the Closed System)
+A27 1.c4 e5 2.Nc3 Nc6 3.Nf3 (Three Knights System)
+A28 1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 (Four Knights Variation)
+A29 1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 (Four Knights, Kingside Fianchetto)
+A30 1.c4 c5 (Symmetrical Variation)
+A31 1.c4 c5 2.Nf3 Nf6 3.d4 (Symmetrical, Benoni Formation) (also known as the Anti-Benoni Variation)
+A32 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 (Spielmann Defense of the Anti-Benoni Variation of the Symmetrical)
+A33 1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6
+A34 1.c4 c5 2.Nc3 (Normal Variation of the Symmetrical)
+A35 1.c4 c5 2.Nc3 Nc6 (Two Knights Variation of the Symmetrical)
+A36 1.c4 c5 2.Nc3 Nc6 3.g3 (Fianchetto Variation of the Symmetrical)
+A37 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 (Two Knights Line)
+A38 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 (Full Symmetry Line)
+A39 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.0-0 0-0 7.d4 (Mecking Variation)
+Depiction in cinema[edit]
+The English Opening is used by Professor Moriarty in the film Sherlock Holmes: A Game of Shadows as he and Holmes discuss their competing plans over a game of chess.  Both Holmes and Moriarty eventually play the final moves blindfolded by citing out the last moves in descriptive notation (rather than algebraic, as the former was contemporary in the late 19th century), ending in Holmes checkmating Moriarty, just as Watson foils Moriarty's plans.
+1.c4 is also used in Pawn Sacrifice by Bobby Fischer in the climactic game six of the 1972 World Chess Championship versus Boris Spassky.
+
+See also[edit]
+List of chess openings
+List of chess openings named after places
+References[edit]
+
+
+^ a b Meyer-Kahlen, Stefan. "Shredder opening database statistics". Retrieved 2008-01-19.
+
+^ "Chess Opening Explorer". Chessgames.com. Retrieved 2008-01-19.
+
+^ "Chess Openings Database statistics". Archived from the original on 2010-07-26. Retrieved 2009-08-17.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
+
+^ Chess Life. Vol. 59 (1–7 ed.). United States Chess Federation. 2004. p. 303.
+
+^ a b de Firmian, Nick (2008). Modern Chess Openings: MCO-15. New York: David McKay Co. p. 675. ISBN 978-0-8129-3682-7.
+
+^ Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. "Symmetrical Defence". The Oxford Companion to Chess (2nd ed.). Oxford University Press. p. 404. ISBN 0-19-280049-3.
+
+^ Cummings, David (October 1, 2001). Symmetrical English. Everyman Chess. ISBN 978-1-85744-292-2.
+
+^ de Firmian, Nick (1999). Modern Chess Openings: MCO-14. New York: David McKay Co. pp. 661–65. ISBN 0-8129-3084-3.
+
+^ Weeks, Mark. "Chess Opening Tutorial : English – 1...e5". About, Inc. Archived from the original on December 3, 2007. Retrieved 2008-01-19.
+
+^ Kasparov, Gary; Keene, Raymond (1982). Batsford Chess Openings. B.T.Batsford Ltd. ISBN 0-7134-2114-2.
+
+^ "English Opening: Anglo-Scandinavian Defense - Chess Openings".
+
+^ ChessBase.com, Hugh Myers (1930–2008), opening theoretician (2008-12-25). Retrieved on 2008-12-25.
+
+^ a b c "The Impoliteness of Ice Age Openings" (PDF). Stefan Bücker. Archived from the original (PDF) on 2006-06-15. Retrieved 2021-10-26.
+
+^ Rick Kennedy, Review of A Chess Explorer. Retrieved on 2008-12-27.
+
+^ Watson remarks, "Note ... how White (by his shockingly committal first move) has forfeited his chance for [c3], the key move in several of the most effective defences to Grob's Attack". John L. Watson, English: Franco, Slav and Flank Defences, Batsford,
+1981, p. 103. ISBN 0-7134-2690-X. Watson considers 1...g5 "playable". Id.
+
+^ John Nunn, Graham Burgess, John Emms, and Joe Gallagher, Nunn's Chess Openings, Everyman Publishers, 1999, p. 19 n. 1. ISBN 1-85744-221-0.
+
+^ "A10: English, Jaenisch gambit - 1. c4 b5 - Chess Opening explorer". www.365chess.com. Retrieved 3 April 2018.
+
+^ Schiller, Eric (1998). "English Opening • Halbut Gambit". Unorthodox Chess Openings. Cardoza Publishing. pp. 135–36. ISBN 0-940685-73-6.
+
+^ Silman, Jeremy (2004). "The Dynamic English". Archived from the original on 2016-10-01. Retrieved 2008-01-19.
+
+
+Further reading[edit]
+Kallai, Gabor; Ribli, Zoltán (1993). Winning With the English. Henry Holt. ISBN 978-0-8050-2642-9.
+Kosten, Tony (1999). The Dynamic English. Gambit Publications. ISBN 978-1-901983-14-2.
+Hansen, Carsten (2001). The Symmetrical English. Gambit. ISBN 978-1-901983-40-1.
+Pritchett, Craig (2008). Play the English. Everyman Chess. ISBN 978-1-85744-545-9.
+External links[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: English Opening
+
+Database Of English Opening Variations
+"The English Opening" by Edward Winter
+vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
+1.Na3: Durkin  1.a3: Anderssen
+
+
+1.b3:  Nimzowitsch-Larsen
+
+
+1.Nc3: Dunst  1.c3: Saragossa
+
+
+1.d3:  Mieses
+
+
+1.e3:  Van 't Kruijs
+
+
+1.Nf3: Zukertort  1.f3: Barnes
+
+
+1.g3:  Benko
+
+
+1.Nh3: Amar  1.h3: Clemenz
+
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+Authority control databases International
+FAST
+National
+Spain
+Germany
+Israel
+United States
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=English_Opening&oldid=1176898718"

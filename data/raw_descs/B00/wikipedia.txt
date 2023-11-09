@@ -1,0 +1,419 @@
+Chess opening
+Chess openingKing's Pawn Game
+abcdefgh8877665544332211abcdefgh
+Moves1.e4ECOB00–B99, C00–C99Synonym(s)e4  King's Pawn Opening
+The King's Pawn Game is any chess opening starting with the move:
+
+1. e4
+It is the most popular opening move in chess,[1] followed by the Queen's Pawn Game.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Details about the move and the game plan[edit]
+White opens with the most popular of the twenty possible opening moves. Although effective in winning for White (54.25%), it is not quite as successful as the four next most common openings for White: 1.d4 (55.95%), 1.Nf3 (55.8%), 1.c4 (56.3%), and 1.g3 (55.8%).[2] Since nearly all openings beginning 1.e4 have names of their own, the term King's Pawn Game, unlike Queen's Pawn Game, is rarely used to describe the opening of the game.
+Advancing the king's pawn two squares is highly useful because it occupies a center square, attacks the center square d5, and allows the development of White's king's bishop and queen. Chess grandmaster Bobby Fischer said that the King's Pawn Game is "Best by test",[3] and proclaimed that "With 1.e4! I win."[4][page needed]
+
+Opening categorization and continuations[edit]
+King's Pawn Games are further classified by whether Black responds with 1...e5 or not. Openings beginning with 1.e4 e5 are called Double King's Pawn Games, Double King's Pawn Openings, Symmetrical King's Pawn Games, or Open Games – these terms are equivalent. Openings where Black responds to 1.e4 with a move other than 1...e5 are called Asymmetrical King's Pawn Games or Semi-Open Games.
+The Encyclopedia of Chess Openings (ECO) classifies all King's Pawn Games into volumes B or C: volume C if the game starts with 1.e4 e6 (the French Defence) or 1.e4 e5; volume B if Black answers 1.e4 with any other move. The rare instances where the opening does not fall into a more specific category than King's Pawn Game are included in codes B00 (includes the Nimzowitsch Defence and unusual moves after 1.e4), C20 (includes Alapin's Opening and unusual moves after 1.e4 e5), C40 (includes the Latvian Gambit and unusual moves after 1.e4 e5 2.Nf3), and C50 (includes the Hungarian Defence, the Giuoco Pianissimo, and unusual moves after 1.e4 e5 2.Nf3 Nc6 3.Bc4).
+The Black responses which are given one or more chapters in the ECO are given below, ranked in order of popularity according to ChessBase.
+
+Popular continuations[edit]
+1...c5, the Sicilian Defence, is the most common continuation in modern practice. The Sicilian Defence allows Black to fight for the center by preparing to meet a d2–d4 advance with ...cxd4. The Sicilian is among the sharpest and most analysed openings in chess, and it has eighty chapters, B20–B99, set aside for it in ECO.
+1...e5 leads to the classical Open Games, which includes openings such as the Ruy Lopez, King's Gambit, Italian Game, Scotch Game and Petrov's Defence. Also in this opening, Black is generally ready to meet a d2–d4 advance with exd4, though some variations offer him the chance to holding the centre with ....d6. These openings are covered in chapters C20–C99 in ECO.
+1...e6 is the French Defence, covered in chapters C00–C19 in ECO. Black's restrained response allows White to play 2.d4. This gives White a spatial advantage, with two pawns in the center to Black's one (after the usual 2... d5) and open lines for both of the bishops, while Black blocks in the light squared bishop and stops it from developing. One or the other player will usually resolve the central tension, either by Black playing ...dxe4 or White advancing with e5. In the latter case, Black typically works to undermine White's pawn center with ...c5 and/or ...f6.
+1...c6 is the Caro–Kann Defence, covered in chapters B10–B19 in ECO. Like the French, this is also considered to be a solid reply, but Black will often need to surrender control over the center (e.g., after 2.d4 d5 3.Nc3 Black usually plays 3...dxe4). On the other hand, the light-squared bishop will usually not wind up trapped behind its own pawns, as is common in the French.
+1...d6 is usually played with the intention of playing the Pirc Defence (1.e4 d6 2.d4 Nf6 3.Nc3 g6, ECO codes B07–B09), a hypermodern defence in which Black allows White to construct a dominant center, with the intention of subverting it later. It can also lead to the Modern Defence, Pribyl System or Philidor Defence.
+1...g6 is the Modern Defence. This is related to the Pirc Defence, to which it can transpose. These openings allow White to build up a pawn center with 2.d4, but Black will develop the king's bishop to g7 and strike back at the center. These openings are covered in chapters B06–B09 in ECO, with the Modern Defence covered in chapter B06.
+1...d5, the Scandinavian Defence or Center Counter Defence, is a direct strike at the pawn at e4, forcing the situation in the center. After 2.exd5 Qxd5 3.Nc3, however, White gains time by attacking Black's prematurely developed queen. Alternatively, Black can play 2...Nf6 (the Marshall Gambit), when White chooses between 3.d4 Nxd5 4.c4 with a spatial advantage, or 3.c4, when Black usually offers a gambit with either 3...c6 or 3...e6. The Scandinavian is covered in chapter B01 in ECO.
+1...Nf6 is Alekhine's Defence, which invites White to attack the knight with 2.e5. Black is often forced to spend time moving the knight several times as it is chased around the board, all the while allowing White to build up a broad pawn center. Black counts on the pawns becoming overextended so that he can later undermine them. The Alekhine is covered in chapters B02–B05 of ECO.
+Uncommon continuations[edit]
+Apart from these eight responses, all other replies from Black are covered together in ECO chapter B00. A few of these are not entirely obscure, and have received extensive analysis.
+
+1...Nc6 is the Nimzowitsch Defence. After 2.d4, there are two distinctive main lines: 2...e5, favoured by British grandmaster Tony Miles, and 2...d5, introduced and often played by the influential Latvian-Danish player and writer Aron Nimzowitsch (1886–1935).
+1...b6 is Owen's Defence, preparing to develop Black's bishop to b7 to put pressure on White's center.
+1...a6 is the St. George Defence. Black prepares to advance on the queenside with 2...b5, but allows White to occupy the center with 2.d4. The opening gained some attention after Miles used it to defeat Anatoly Karpov in 1980.[5]
+1...g5 is the Borg Defence ("Grob" backwards) or Basman Defence, often played by IM Michael Basman. The move weakens the kingside severely, but according to Modern Chess Openings (MCO), Black is only somewhat worse.[6]
+Rare continuations[edit]
+The remaining replies to 1.e4 are very rare, and have not received significant and serious attention by masters. MCO does not cover them, considering them so bad as not to merit discussion.[7] These openings sometimes lead to wild and exciting games, and are occasionally employed by weaker players to get better trained opponents "out-of-book". Some have exotic names. Such openings are listed below along with instances where they have been used by strong players.
+
+1...h6, called the Carr Defence in Unorthodox Chess Openings. This defence has also been used by Michael Basman, and is likely to transpose to the Borg Defence after 2.d4 g5.
+1...a5, the Corn Stalk Defence. United States chess player Preston Ware played the Corn Stalk in eleven recorded tournament games from 1880 to 1882, winning four and losing seven. Its chief fault is the very early and therefore potentially unnecessary development of a peripheral piece.
+1...Na6, called the Lemming Defence in Unorthodox Chess Openings, develops the knight to an inferior square.
+1...h5, the Goldsmith Defence or Pickering Defence. All this move achieves is to waste a tempo and weaken the kingside. It is the reversed version of the Kadas Opening.[8]
+1...f6 is known as the Barnes Defence after Thomas Wilson Barnes. This move is clearly inferior, taking away the f6-square from the knight and weakening Black's kingside, although Barnes managed to defeat Paul Morphy with this defence in 1858.[9][10]
+1...f5 is called the Duras Gambit in Unorthodox Chess Openings. This is a pawn sacrifice which gives Black a lead in development after 2.exf5 Nf6, but without much additional compensation for the sacrificed pawn. Another move in this position is 2...Kf7, dubbed the "Fred", which is considered a joke opening. After 3.Qh5+, Black has to play g6 and ruin their kingside position. The line was played three times in an exhibition match between Ossip Bernstein and Oldřich Duras.
+1...Nh6, the Adams Defence or Wild Bull Defence. It can transpose to the old hippo system.[8]
+See also[edit]
+List of chess openings
+Open Game
+Semi-Open Game
+References[edit]
+
+
+^ Keene, Raymond; Levy, David (1993). How to Play the Opening in Chess. ISBN 978-0805029376.
+
+^ Chess Opening Explorer. Chessgames.com. Retrieved on 2013-09-27.
+
+^ Fischer, Bobby (1969). "45. Fischer–Bisguier, New York State Open 1963". My 60 Memorable Games. Simon and Schuster. p. 280. ISBN 978-0-671-21483-8.
+
+^ Seirawan, Yasser (2003). Winning Chess Brilliancies. Microsoft Press. ISBN 978-1857443479.
+
+^ "Karpov vs. Miles, European Team Championship, Skara 1980". Chessgames.com.
+
+^ Nick de Firmian, Modern Chess Openings, 15th edition, Random House, 2008, p. 384. ISBN 978-0-8129-3682-7.
+
+^ "Other defenses, such as 1...h5, are not considered as they are simply too bad and need no discussion." Modern Chess Openings, 15th edition, p. 384.
+
+^ a b Wall, Bill (April 30, 2006). "Unorthodox Openings". Archived from the original on 2009-08-03. Retrieved 2009-04-24.
+
+^ Philip W. Sergeant, Morphy's Games of Chess, Dover Publications, 1957, pp. 238–40. ISBN 0-486-20386-7
+
+^ "Paul Morphy vs. Thomas Wilson Barnes, casual game (1858), London". Chessgames.com.
+
+
+Bibliography[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: King's Pawn Opening
+
+de Firmian, Nick (2008). Modern Chess Openings (15th ed.). McKay. ISBN 978-0-8129-3682-7.
+Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. The Oxford Companion to Chess (2nd ed.). Oxford University Press. ISBN 0-19-280049-3.
+Schiller, Eric (2002). Unorthodox Chess Openings (2nd ed.). Cardoza. ISBN 978-1-58042-072-3.
+vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
+1.Na3: Durkin  1.a3: Anderssen
+
+
+1.b3:  Nimzowitsch-Larsen
+
+
+1.Nc3: Dunst  1.c3: Saragossa
+
+
+1.d3:  Mieses
+
+
+1.e3:  Van 't Kruijs
+
+
+1.Nf3: Zukertort  1.f3: Barnes
+
+
+1.g3:  Benko
+
+
+1.Nh3: Amar  1.h3: Clemenz
+
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Pawn_Game&oldid=1172156023"

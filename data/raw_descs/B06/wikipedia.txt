@@ -1,0 +1,382 @@
+Chess opening
+Chess openingModern Defense
+abcdefgh8877665544332211abcdefgh
+Moves1.e4 g6ECOB06ParentKing's Pawn GameSynonym(s)Robatsch Defence
+The Modern Defense (also known as the Robatsch Defence after Karl Robatsch) is a hypermodern chess opening in which Black allows White to occupy the center with pawns on d4 and e4, then proceeds to attack and undermine this "ideal" center without attempting to occupy it. The opening has been most notably used by British grandmasters Nigel Davies and Colin McNab.
+The Modern Defense is closely related to the Pirc Defence, the primary difference being that in the Modern, Black delays developing the knight to f6. The delay of ...Nf6 attacking White's pawn on e4 gives White the option of blunting the g7-bishop with c2–c3. There are numerous transpositional possibilities between the two openings.
+The Encyclopaedia of Chess Openings (ECO) classifies the Modern Defense as code B06, while codes B07 to B09 are assigned to the Pirc.  The tenth edition of Modern Chess Openings (1965) grouped the Pirc and Robatsch together as the "Pirc–Robatsch Defense".
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+2.d4[edit]
+Main line: 2.d4 Bg7[edit]
+White's strongest response to the Modern Defense is 2.d4, to which Black typically responds 2...Bg7. The main continuations are:
+
+3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 (the Standard Line, ECO B06)
+3. c4 (ECO A40) d6 4. Nc3 Nc6 5. Be3 e5 6. d5 Nce7 (7.g4 will be answered by 7...f5 8.gxf5 gxf5 9.Qh5+ Ng6 10.exf5 Qh4 11.Qxh4 Nxh4 12.Nb5 Kd8)
+Other possibilities include:
+
+3.Bc4 (Bishop Attack)
+3.Bd2 (Westermann Gambit)
+3.Bd3 (Wind Gambit)
+3.f4 (Three Pawns Attack)
+3.g3
+3.Nf3
+Fischer's 3.h4!?[edit]
+Bobby Fischer suggested the move 3.h4!? as an unorthodox try against 1...g6 2.d4 Bg7, in his annotation to a game against Pal Benko.[1] (Fischer played 3.Nc3 in the actual game.) The idea is to pry open Black's kingside by h4–h5 followed by hxg6, as ...gxh5 would greatly weaken the cover to Black's king.
+
+Averbakh System[edit]
+
+abcdefgh8877665544332211abcdefghAverbakh System
+
+The Modern Defense, Averbakh System (ECO A42) can be reached by the lines:
+
+1.e4 g6 2.d4 Bg7 3.c4 d6 4.Nc3 (diagram)
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 (diagram)
+Possible moves for Black at this point include 4...Nf6, 4...Nc6, 4...e5, and 4...Nd7. The move 4...Nf6 
+leads to a position of the King's Indian Defence, where White has options 5.Nf3, 5.f3, 5.Be2, 5.f4, and so on. 
+
+
+Unusual White responses[edit]
+The flexibility and toughness of the Modern Defense have provoked some very aggressive responses by White, including the crudely named Monkey's Bum, a typical sequence being 1.e4 g6 2.Bc4 Bg7 3.Qf3.  (A more refined version is the Monkey's Bum Deferred, where White plays Bc4 and Qf3 only after developing the queen's knight.)
+
+Unusual Black responses[edit]
+Other unusual openings can be reached after 1.e4 g6. The Hippopotamus Defence is one such system.  Another is the Norwegian Defence (also known as the North Sea Defence) which begins 1.e4 g6 2.d4 Nf6 3.e5 Nh5. (If White plays 4.g4, Black retreats the knight with 4...Ng7. On 4.Be2, Black can retreat the knight or gambit a pawn with 4...d6!? If White plays 3.Nc3 instead of 3.e5, Black can transpose to the Pirc Defence with 3...d6 or continue in unconventional fashion with 3...d5!?)
+
+Transpositions[edit]
+Transpositions are possible after 2.c4, for example a Maróczy Bind results after 2...c5 3.Nf3 Bg7 (or Nc6) 4.d4 cxd4 5.Nxd4 and the Averbakh system is reached after 2...Bg7 3.d4 d6 4.Nc3.
+After 2.Nf3, Black can play 2...c5, transposing to the Sicilian Defense, or 2...Bg7.  Following 2.Nc3, Black can transpose to a closed Sicilian  with 2...c5  or play 2...Bg7.
+
+Kavalek vs. Suttles[edit]
+In the following game played at the Nice Olympiad in 1974, Canadian GM Duncan Suttles, one of the Modern's leading exponents, defeats Czech-American GM Lubomir Kavalek:
+
+1. e4 g6 2. d4 d6 3. Nf3 Bg7 4. Be2 Nf6 5. Nc3 (Pirc Defence by transposition) 5... a6 6. a4 0-0 7. 0-0 b6 8. Re1 Bb7 9. Bc4 e6 10. Bf4 Nbd7 11. Qd2 b5! (initiating a deep combination; Suttles later remarked that Kavalek has occupied the center and developed his pieces in the manner advocated by Fred Reinfeld, yet now stands worse) 12. axb5 axb5 13. Rxa8 Qxa8 14. Bxb5 Bxe4 15. Nxe4 Nxe4 16. Rxe4 Qxe4 17. Bxd7 Ra8 18. h4 Qb7! (despite his material advantage, White is in trouble; note that his bishop on d7 is nearly trapped) 19. d5 e5 20. Bh6 Qxb2 21. h5 Ra1+ 22. Kh2 Qb1 23. Bxg7 Qh1+ 24. Kg3 Kxg7 25. Bh3 Qc1 26. h6+ Kf6 27. c4 Qxd2 28. Nxd2 Kg5 29. Ne4+ Kxh6 30. Bd7 f5 31. Nf6 Ra7 32. Bb5 g5 33. Ng8+ Kg7 34. Ne7 Kf6 35. Nc6 Ra3+ 36. Kh2 h5 37. Nb8 h4 38. Na6 g4 39. Nxc7 Ra2 40. Kg1 g3 41. fxg3 hxg3 42. Kf1 e4 0–1[2]
+References[edit]
+
+
+^ Bobby Fischer, My 60 Memorable Games, 2008, p. 286
+
+^ "Kavalek vs. Suttles, Nice Olympiad 1974". Chessgames.com.
+
+
+Further reading[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Modern Defense
+
+Davies, Nigel (2008). Starting Out: The Modern. Everyman Chess. ISBN 9781857445664.
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+Authority control databases: National 
+Germany
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Modern_Defense&oldid=1108788355"

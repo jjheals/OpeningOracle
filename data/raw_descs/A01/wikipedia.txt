@@ -1,0 +1,429 @@
+Chess opening
+Chess openingNimzowitsch-Larsen Attack
+abcdefgh8877665544332211abcdefgh
+Moves1.b3ECOA01–A06Named afterAron Nimzowitsch, Bent LarsenSynonym(s)Nimzo-Larsen AttackLarsen's OpeningQueen's Fianchetto OpeningBaby Orangutan[1] (colloq.)
+The Nimzowitsch-Larsen Attack (also known as the Nimzo-Larsen Attack, Larsen's Opening and Queen's Fianchetto Opening) is a chess opening typically starting with the move: 1.b3 but sometimes introduced by the move order 1.Nf3 and then 2.b3. The flank opening move 1.b3 prepares to fianchetto the queen's bishop where it will help control the central squares in hypermodern fashion and put pressure on Black's kingside.
+Lines are classified under codes A01–A06 in the Encyclopaedia of Chess Openings.
+
+
+History[edit]
+The earliest master-level exponent of the Nimzowitsch-Larsen Attack was the strong English amateur John Owen, who occasionally opened this way in the 1870s – essentially playing Owen's Defence, 1.e4 b6, with a move in hand. 
+In the 1920s and 30s, Aron Nimzowitsch experimented with 1.b3 but more commonly employed the move order 1.Nf3 d5 2.b3, usually reaching positions akin to a reversed Nimzo-Indian Defence (e.g. after 2...Nf6 3.Bb2 c5 4.e3 Nc6 5.Bb5).     
+Danish grandmaster (GM) Bent Larsen played 1.b3 frequently between 1968 and 1972, but the opening suffered a setback in the 1970 USSR vs. Rest of the World match in Belgrade, where Larsen played it against reigning world champion Boris Spassky and lost in 17 moves.[2]
+The Nimzowitsch-Larsen Attack received interest from Bobby Fischer, who employed 1.b3 on five occasions in 1970. A notable longer-term exponent of the opening, however, was Soviet GM Vladimir Bagirov who played 1.b3 on around 100 occasions between 1976 and 2000 with considerable success (scoring approximately 54% wins and 38% draws). Recent specialists in this opening have included Czech GM Pavel Blatny and Armenian GM Artashes Minasian. The Nimzowitsch-Larsen Attack is sometimes used as a surprise weapon in super-GM-level online blitz tournaments, including by Hikaru Nakamura, Magnus Carlsen, Richárd Rapport, Ian Nepomniachtchi, Vladislav Artemiev and Baadur Jobava.
+
+Variations[edit]
+
+abcdefgh8877665544332211abcdefgh 1.b3 e5 2.Bb2 Nc6 3.e3 d5 4.Bb5 Bd6
+
+If Black responds to 1.b3 with 1...e5, White has essentially two options, to allow or prevent ...d5. The main choice has been to proceed in true hypermodern style, allowing Black to form a classical e5/d5 pawn centre that White will then undermine. For example: 1.b3 e5 2.Bb2 Nc6 3.e3 d5 4.Bb5 (threatening Bxc6+ and Bxe5) 4...Bd6 5.f4 (further attacking the e5-pawn, which cannot take due to  Bxg7 winning the h8-rook) and now 5...Qe7 or 5...f6 (in either case defending the pawn again). This type of line is very much in the spirit of Owen's original conception of the opening.
+The alternative for White has been to contest the d5-square, rather in the style of a reversed Sicilian Defence, i.e.: 1.b3 e5 2.Bb2 Nc6 3.c4 (see diagram). In this case Black can proceed either as per the Open Sicilian (e.g. 3...Nf6 4.e3 d5 5.cxd5 Nxd5) or as per the Closed Sicilian (e.g. 3...g6 4.e3 Bg7 5.Nf3 with ...f5 and/or ...Nf6 to follow).
+
+
+abcdefgh8877665544332211abcdefgh 1.b3 e5 2.Bb2 Nc6 3.c4
+
+After 3.c4, the opening could be said to have transposed to an English Opening (1.c4), but these lines occur almost exclusively via a 1.b3 move order. In this variation, White argues that since the Sicilian Defence (1.e4 c5) is one of the very best responses to 1.e4, acquiring a Sicilian Defence position with an extra move must be superior. In the Sicilian Defence, however, Black rarely plays b6/Bb7, and when a queenside fianchetto is played it is usually in extended form (e.g. a6/b5/Bb7). Play after 1.b3 e5 2.Bb2 Nc6 3.c4 Nf6 4.e3 d5 5.cxd5 Nxd5 is likely to resemble a quiet Hedgehog-type line from the Paulsen Sicilian.
+Returning to Black's first move, if Black responds to 1.b3 with 1...d5 then White again has two options, whether to prevent or allow ...e5. If ...e5 is allowed then transposition will likely occur to the lines given above after 1...e5. If White chooses to prevent ...e5, for example with 2.Bb2 c5 3.e3 Nc6 4.Nf3, then play often takes the form of a reversed Nimzo-Indian Defence after 4...Nf6 5.Bb5 (diagram). This type of position often arises from a 1.Nf3 move order (e.g. 1.Nf3 d5 2.b3 etc.) and demonstrates Nimzowitsch's interpretation of the opening.
+
+
+
+abcdefgh8877665544332211abcdefgh 1.b3 d5 2.Bb2 c5 3.e3 Nc6 4.Nf3 Nf6 5.Bb5
+
+The Nimzo-Indian Defence is a popular defence to 1.d4, and in this case White has obtained a version with colours reversed and an extra tempo.
+The notes above give the three typical branches of the Nimzowitsch-Larsen Attack: (1) playing against an e5/d5 centre, (2) allowing ...e5 but contesting ...d5 and (3) playing against a d5/c5 centre. Alternative first moves for Black (such as 1...Nf6, 1...c5 and 1...e6) are likely to transpose to either the e5/d5 or d5/c5 lines already considered. Other Black structures give White more freedom in handling the opening. For example, if Black opts for 1.b3 e5 2.Bb2 d6, then White can proceed with either (a) e3 and Ne2 and then contest the Black centre with d4 or f4, depending on how Black continues, or (b) c4, interpreting the opening as a reversed Closed Sicilian or as a type of English Opening.
+
+
+
+abcdefgh8877665544332211abcdefgh Nimzowitsch-Larsen Attack vs. London System
+
+One independent option available to Black is to play a reversed kind of London System with d5, Bf5, Nf6, e6, c6, etc. In this case White may change tack and play a double fianchetto, forcing through e2–e4 (via d3, Nd2 and Bg2) and disrupting Black's solid development. For example, 1.b3 d5 2.Bb2 Bf5 3.d3 e6 4.Nd2 Nf6 5.g3 Be7 6.Bg2 h6 7.e4 Bh7 reaches a form of Hippopotamus structure.
+
+Move order issues: 1.b3 or 1.Nf3/2.b3[edit]
+The issue of whether to play the Nimzowitsch-Larsen Attack via a 1.b3 move order or a 1.Nf3/2.b3 move order is ultimately a matter of taste. The 1.Nf3 move order could be argued to limit the number of variations at Black's disposal and to channel the play towards those where White scores more highly. The 1.b3 move order, on the other hand, gives more variety and more scope for tricks and traps on the a1–h8 diagonal. It is also more likely to result in positions with which Black is unfamiliar. For example, after 1.Nf3 d5 2.b3, any Black players who open 1.d4 with White will be likely to have some awareness of the strategic considerations required to play a reversed Nimzo-Indian position. After 1.b3 e5 2.Bb2, however, Black is unlikely to have had much experience facing comparable positions as White in the rather rare Owen's Defence, and in this case has colours reversed and is a move down. While many of the 1.b3 lines are rated only equal by theory, the 1.b3 player will thus often enjoy an advantage in practical terms, especially at shorter time controls. 
+Jacobs & Tait[3] note that the 1.b3 move order has the added advantage that in most lines White has a greater range of options available because f4 is still playable. This is particularly relevant when compared to lines such as 1.Nf3 d6 2.b3 or 1.Nf3 Nc6 2.b3 where Black is able to play 2...e5, transposing to lines where White may have preferred to have had the option to attack e5 with both f4 and Nf3. Jacobs & Tait also note that a 1.Nf3 move order allows Black to play 1...g6, preventing White from following up with 2.b3.
+
+Example games[edit]
+Nimzowitsch vs. Spielmann, New York 1927 1.Nf3 d5 2.b3 c5 3.Bb2 Nc6 4.e3 Nf6 5.Bb5 Bd7 6.0-0 e6 7.d3 Be7 8.Nbd2 0-0 9.Bxc6 Bxc6 10.Ne5 Re8 11.f4 Nd7 12.Qg4 Nxe5 13.Bxe5 Bf6 14.Rf3 Bxe5 15.fxe5 Qc7 16.Qh5 h6 17.Raf1 g6 18.Qxh6 Qxe5 19.Rf6 Qh5 20.Qxh5 gxh5 21.Nf3 Rc7 22.Rh6 f6 23.Nh4 Be8 24.Rhxf6 Rxf6 25.Rxf6 Re7 26.Kf2 Kg7 27.Rf4 Bd7 28.Ke2 e5 29.Rf5 Re8 30.Rf2 e4 31.Rf4 Re5 32.Kd2 b5 33.g3 Bh3 34.d4 cxd4 35.exd4 Rg5 36.c3 a5 37.Rf2 a4 38.Ke3 a3 39.Rc2 Bf1 40.Rc1 Bd3 41.Ng2 Rf5 42.Nf4 Kf7 43.Rd1 Ke7 44.Nxd3 exd3 45.b4 Kd6 46.Kxd3 Rf2 47.Rd2 Rf3+ 48.Kc2 Ke6 49.Re2+ Kd6 50.Kb3 Rd3 51.Re5 h4 52.gxh4 Rh3 53.Rh5 Kc6 54.Rh6+ Kb7 55.h5 1–0[4]
+Larsen vs. Eley, Hastings 1972 1.b3 e5 2.Bb2 Nc6 3.e3 Nf6 4.Bb5 d6 5.Ne2 Bd7 6.0-0 Be7 7.f4 e4 8.Ng3 0-0 9.Bxc6 bxc6 10.c4 d5 11.Nc3 Re8 12.Rc1 Bg4 13.Nce2 Nd7 14.h3 Bxe2 15.Qxe2 Nc5 16.Qg4 g6 17.f5 Nd3 18.fxg6 hxg6 19.Rf7 Kf7 20.Rf1 Bf6 21.Bxf6 1–0[5]
+Keene vs. Kovacevic, Amsterdam 1973 1.Nf3 d5 2.b3 Bg4 3.Bb2 Nd7 4.g3 Bxf3 5.exf3 Ngf6 6.f4 e6 7.Bg2 Be7 8.0-0 0-0 9.d3 a5 10.a4 c6 11.Nd2 b5 12.Qe2 bxa4 13.Rxa4 Nb6 14.Ra2 a4 15.Rfa1 axb3 16.Rxa8 Nxa8 17.Nxb3 Nb6 18.f5 exf5 19.Nd4 Qd7 20.Bh3 g6 21.Bxf5 gxf5 22.Ra7 Qxa7 23.Nxc6 Qd7 24.Nxe7 Kg7 25.Qh5 1–0[6]
+Baadur Jobava vs. Yu Yangyi, Tata Steel Challengers 2014 1.b3 d5 2.Bb2 Bf5 3.e3 e6 4.h3 h6 5.Nc3 Bh7 6.d4 Nf6 7.Bd3 Bxd3 8.Qxd3 Nbd7 9.0-0-0 Bb4 10.Nge2 0-0 11.g4 c5 12.dxc5 Qe7 13.Rhg1 Nxc5 14 Qd4 Nce4 15.Nxe4 dxe4 16.g5 hxg5 17.Qe5 Rfd8 18.Rxd8+ Rxd8 19.Qxg5 Ne8 20.Qe5 f5 21.Nf4 Ba3 22.Rg6 Bxb2+ 23.Kxb2 Rd6 24.Rxe6 Rxe6 25.Qxe6+ Qf7 26.h4 Qxe6 27.Nxe6 Nf6 28.Kc3 Ng4 29.Nd8 b6 30.Nc6 Nxf2 31.Kd4 Kf7 32.Nxa7 Ke6 33.Nc8 Ng4 34.Nxb6 Ne5 35.h5 1–0[7]
+ECO codes and transpositions[edit]
+A01 – 1.b3
+A02 – 1.f4 Nf6 2.b3
+A03 – 1.f4 d5 2.Nf3 Nf6 3.e3 e6 4.b3
+A03 – 1.f4 d5 2.Nf3 Nf6 3.e3 g6 4.b3
+A04 – 1.Nf3 f5 2.b3
+A04 – 1.Nf3 c5 2.b3
+A05 – 1.Nf3 Nf6 2.b3
+A06 – 1.Nf3 d5 2.b3
+See also[edit]
+List of chess openings
+List of chess openings named after people
+References[edit]
+
+
+^ Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. "Larsen Opening". The Oxford Companion to Chess (2nd ed.). Oxford University Press. p. 216. ISBN 0-19-280049-3.
+
+^ "Bent Larsen vs. Boris Spassky, Belgrade 1970". Chessgames.com.
+
+^ Jacobs, B & Tait, J, 2001, Nimzo–Larsen Attack, Everyman Chess, pp. 7–8
+
+^ "Aron Nimzowitsch vs. Rudolf Spielmann, New York 1927". Chessgames.com.
+
+^ "Bent Larsen vs. Brian Eley, Hastings 1972/73". Chessgames.com.
+
+^ "Raymond Keene vs. Vladimir Kovacevic, Amsterdam 1973". Chessgames.com.
+
+^ "Baadur Jobava vs. Yangyi Yu, Wijk aan Zee 2014". Chessgames.com.
+
+
+Bibliography[edit]
+Adhiban, Baskaran (2021). Lifetime Repertoires: 1.b3. Chessable.com.
+Alkhatib, Ahmad (2019). Fight Like Nakamura, Play 1.b3!. Chessable.com.
+Dunnington, Angus (2000). Winning Unorthodox Openings. Everyman Chess. ISBN 978-1-85744-285-4.
+Jacobs, Byron; Tait, Jonathan (2001). Nimzo–Larsen Attack. Everyman Chess. ISBN 978-1-85744-286-1.
+Keene, Raymond (1977). Nimzowitsch/Larsen Attack. B.T. Batsford. ISBN 978-0713402445.
+Lakdawala, Cyrus (2013). The Nimzo–Larsen Attack: Move by Move. Everyman Chess. ISBN 978-1781941126.
+Odessky, Ilya (2008). Play 1.b3! The Nimzo-Larsen Attack. New In Chess. ISBN 978-9056912567.
+Odessky, Ilya (2020). Winning Quickly with 1.b3 and 1...b6. New In Chess. ISBN 978-9056918903.
+External links[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Larsen's Opening
+
+ECO A01: Nimzovich–Larsen Attack
+vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
+1.Na3: Durkin  1.a3: Anderssen
+
+
+1.b3:  Nimzowitsch-Larsen
+
+
+1.Nc3: Dunst  1.c3: Saragossa
+
+
+1.d3:  Mieses
+
+
+1.e3:  Van 't Kruijs
+
+
+1.Nf3: Zukertort  1.f3: Barnes
+
+
+1.g3:  Benko
+
+
+1.Nh3: Amar  1.h3: Clemenz
+
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nimzowitsch-Larsen_Attack&oldid=1172246744"

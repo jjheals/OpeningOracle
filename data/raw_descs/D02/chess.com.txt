@@ -1,0 +1,92 @@
+
+The London System is a popular 1.d4 opening for White which has the reputation of being very solid. The London is considered a system because White can play the same basic setup for almost all of Black's responses. For this reason, the theory on the London is not as extensive as it is for other openings.
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+Mainline
+Indian Setup (...g6)
+Jobava London
+
+
+How To Play Against The London System
+
+The Early c5
+Indian Setup (...g6)
+
+
+History Of The London System
+Famous Games
+Conclusion
+
+
+Starting Position
+White enters the London System when playing Bf4 before pushing a pawn to e3, usually through 1.d4 d5 2.Bf4. Note that the old mainline was 1.d4 d5 2.Nf3 Nf6 3.Bf4, but the current theory states that playing 2.Bf4 instead of 2.Nf3 is slightly more accurate.
+
+The starting position of the London System.
+
+This opening's main idea is to create a solid pawn structure in the center by pushing pawns to c3 and e3, but only after developing the dark-squared bishop outside the pawn chain. Despite its being a solid opening by nature, the London also features aggressive lines and can catch Black off guard.
+Pros
+
+Hard for Black to get active play
+Difficult for Black to avoid
+A very sound way of getting a playable middlegame
+
+Cons
+
+Less chance of an attack
+It puts little immediate pressure on Black
+The Bf4 can be somewhat exposed
+
+Variations
+One of the advantages of the London System is that White will almost always play the same setup. Below are a few of the most common paths a London game can take:
+Mainline
+The London's mainline leads to a balanced position where White will usually go for an attack on the kingside. On the other hand, Black will play for a central break or a counter-attack on the queenside:
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 e6 6. Ngf3 Bd6 7. Bg3 O-O 8. Bd3 b6 9. Qe2 Bb7.
+
+
+
+Indian Setup (...g6)
+One of the most common responses from Black to the London System is to play an Indian Setup, fianchettoeing the dark-squared bishop. Black puts a pawn on g6 to discourage White from developing the light-squared bishop to the active d3-square.
+White's most popular moves against this setup are almost identical to the mainline, except for the light-squared bishop developing to e2 instead of d3.
+1.d4 Nf6 2.Bf4 g6 3.Nf3 Bg7 4.e3 d6
+
+
+Jobava London
+A setup that has been gaining popularity over the past years is the Jobava London. White develops the b-knight to c3, where they would usually put a pawn, to give it a more active square. The Jobava London can turn into a much sharper game, and White can get a significant advantage if Black plays incorrectly.
+1.d4 Nf6 2.Nc3 d5 3.Bf4
+
+
+How To Play Against The London System
+If Black is familiar with how to face London System, there is not much White can do to create a significant advantage out of the opening. The mainline is an excellent way to equalize the game and create a balanced position. However, Black can try more testing lines that will force the White player to get out of their "comfort zone," notably:
+The Early c5
+Black scores well in this line, winning 49% of the games, drawing 23%, and losing only 22%. The idea is to bring the queen out to the queenside with 3...Qb6, where White's dark-square bishop can't help. Black puts pressure on the b-pawn and the center, later fianchettoing their dark-squared bishop on g7.
+1. d4 Nf6 2. Bf4 c5
+
+
+
+Note that a well-prepared London player will know this line and should be able to fight against it by deviating slightly from the usual white setup. White's best response is 3.d5, which is not within the realm of the London System. As Black, you should be ready to play this line.
+Indian Setup (...g6)
+Another good try for Black is to go with the Indian setup with ...d6. Out of more than 2,000 games in our database, Black won 38%, drew 31%, and lost 31%. This line's main moves usually involve a slow and equal game, where Black will develop both their bishops in fianchetto. White will try to expand on the kingside and Black on the queenside.
+1.d4 Nf6 2.Bf4 g6 3.Nf3 Bg7 4.e3 d6.
+
+
+
+As with the other line, the prepared White player will know that deviating from the London moves is their best chance to gain an advantage. Once more, White can get out of the London System and play 3.Nc3 to get an edge, so you need to prepare for this.
+History Of The London System
+Developing the dark-squared bishop to f4 and outside the pawn chain is a natural idea that has been played for centuries. However, this opening gained popularity at the top level after the 1922 London Congress, especially after the match between GMs Alexander Alekhine and Max Euwe.
+More recently, the opening gained popularity after world champion Magnus Carlsen adopted it as part of his repertoire.
+Famous Games In The London System
+The London System has been widely played by top players throughout the ages. Carlsen and GM Gata Kamsky are more recent examples of players who employed it with great success in their careers.
+Below we can see a game between Kamsky and GM Sam Shankland. Kamsky employed one of the London's main ideas, creating a quick and deadly attack on the kingside. The game illustrates some tactical aspects of the opening.
+
+The second game features Carlsen in his 2020 rapid game against GM Ding Liren. Carlsen introduced a novelty with 7.Bxd6, sacrificing a pawn for a positional advantage that proved to be too much for the Chinese supergrandmaster to handle.
+
+Conclusion
+You now know what the London System is, how to reach it, and a few ways to counter it. If you want to learn more about this opening, check out our Masters Database and study the games of the world's best players.
+

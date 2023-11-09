@@ -1,0 +1,73 @@
+
+1.Nf3 develops a piece instead of moving a pawn to begin the game. The knight develops to a good square that controls the center while keeping flexible options with the central pawns. A later d2-d4 move may transpose to a 1.d4 opening (while avoiding certain lines), while a later c2-c4 move might transpose to the English Opening.
+
+Starting Position
+
+Pros
+Cons
+
+
+ Variations
+
+King's Indian Attack
+Reti Gambit
+Transpositions
+
+
+History
+
+Starting Position
+The Reti Opening can be used to refer to two different starting positions:
+
+1.Nf3, sometimes known as the Zukertort Opening
+1.Nf3 d5 2.c4, sometimes known as the Reti Gambit.
+
+On Chess.com, 1.Nf3 is considered the Reti and 1.Nf3 d5 2.c4 is considered the Reti Gambit.
+Pros
+
+Flexible
+Develops a piece and controls e5
+Prepares to castle
+
+Cons
+
+Blocks the f-pawn
+Allows 1...c5, controlling the d4 square from the side
+Allows Black many options
+
+Variations
+Because of its flexibility, the Reti Opening often transposes into something else, but there are some independent lines.
+Reti Gambit
+The Reti Gambit begins 1.Nf3 d5 2.c4. Taking with 2...dxc4 is generally not recommended for Black, as it weakens Black's central control and (despite the variation's name as a "gambit") White can easily regain the pawn anyway, for example with 3.Na3 and 4.Nxc4. Instead, Black usually reinforces the central pawn with either 2...c6 or 2...e6, both of which are sometimes considered transpositions into the English Opening.
+
+Black's main responses to the Reti Gambit.
+
+2...d4 is also popular, gaining space but opening up the h1-a8 diagonal for White's kingside fianchetto; overall it is Black's most successful reply. After 3.g3, Black can either reinforce the pawn with 3...c5 or play 3...Nc6 with the idea of 4.Bg2 e5.
+
+
+
+King's Indian Attack
+The other independently important variation after 1.Nf3 is the King's Indian Attack (KIA). White quickly develops the kingside with g3, Bg2, and castles. Meanwhile Black's most common approach is to try to blunt the fianchettoed bishop's diagonal with ...d5 and ...c6.
+
+
+
+
+Transpositions
+1.Nf3 is often simply used, however, as a flexible first move that can turn into any number of other openings. Examples of how easily the Reti can transpose include:
+
+1...Nf6 2.c4 and the position is already considered to be an English Opening instead (which itself might transpose into a queen's pawn opening or an Indian defense).
+1...Nf6 2.d4 usually moves the game into a Queen's Gambit after 2...d5 3.c4, but can also reach several other queen's pawn openings (such as the Queen's Indian or King's Indian).
+After 1...c5, White can play 2.e4 and immediately reach a Sicilian Defense, or 2.c4 to enter a Symmetrical English.
+
+History
+The Reti Opening, named for Richard Reti, is a product of the hypermodern school that became popular in the 20th century. That is suggested in its name, as Reti was one of the leading proponents of hypermodernism.
+
+Reti
+
+For most of chess history, 1.e4 was by far the most popular opening move. Late in the 19th century, 1.d4 became very popular as well.
+The hypermodernists, however, preferred to control the center indirectly instead of occupying it with a pawn on move one. By starting the game with 1.Nf3, White develops a piece but remains flexible in how to approach the game overall.
+In 1924, Reti used 1.Nf3 to win a game against Jose Raul Capablanca, ending the classical-style superstar's eight-year, 63-game winning streak. That game, more than any other, helped the hypermodern school and the move 1.Nf3 to become widely accepted.
+
+In the same tournament Reti also won a famous brilliancy against Efim Bogoljubov with 1.Nf3 d5 2.c4.
+
+

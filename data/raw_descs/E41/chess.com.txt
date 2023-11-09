@@ -1,0 +1,14 @@
+
+After the 3...Bb4 of the Nimzo Indian, White may play the simple, solid move 4.e3, which prepares to develop the Bf1. This was popularized by Akiba Rubinstein, whose original idea was to play Nge2 and then recapture on c3 with the knight; however, it is also possible to opt for classical development with Nf3 and Bd3.
+Pros:
+
+Solid
+White develops the kingside
+A slow-building presence in the center
+
+Cons:
+
+Blocks in the dark-squared bishop
+Allows Black to double the c-pawns by ...Bxc3+
+Puts little immediate pressure on Black
+

@@ -1,0 +1,367 @@
+Chess opening
+Chess openingTrompowsky Attack
+abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.Bg5ECOA45Named afterOctávio TrompowskyParentQueen's Pawn gameSynonym(s)Trompowsky Opening[1] Opočenský Opening[2] Ruth Opening Zot
+The Trompowsky Attack (or Trompowsky Opening, also known as the Opočenský Opening, the Ruth Opening, and the Zot) is a chess opening that begins with the moves:
+
+1. d4 Nf6
+2. Bg5
+White prepares to exchange the bishop for Black's knight, inflicting doubled pawns upon Black in the process. This is not a lethal threat; Black can choose to fall in with White's plan.
+The Trompowsky is a popular alternative to the more common lines after 1.d4 Nf6 beginning 2.c4 or 2.Nf3. By playing 2.Bg5, White sidesteps immense bodies of opening theory of various Indian Defences like the Queen's Indian, King's Indian, Nimzo-Indian, as well as the Grünfeld Defence.
+The opening is named after the one-time Brazilian champion Octávio Trompowsky (1897–1984) who played it in the 1930s and 1940s.[1] Chess master Karel Opočenský (1892–1975) also played it in the 1930s, and the opening is also known as the Opočenský Opening.[2] Also, chess master William Allen Ruth developed the opening simultaneously in the 1930s, and it was well-known by locals in Pennsylvania as the Ruth Opening. The Trompowsky has also been called the Zot.
+Julian Hodgson, Antoaneta Stefanova, and Arjun Erigaisi are among several grandmasters who often employ the Trompowsky. World Champion Magnus Carlsen has occasionally employed the Trompowsky, notably in the first game of the 2016 World Chess Championship against Sergey Karjakin.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Main lines[edit]
+Black has a number of ways to meet the Trompowsky, some of which avoid doubled pawns, while others allow them. The most common Black responses are discussed here.
+
+2...Ne4 is the most common reply. Black violates an opening principle ("Don't move the same piece twice in the opening"), but attacks White's bishop, forcing it to either move again or be defended.
+3.h4 (Raptor Variation[3]) defends the bishop, and Black should avoid 3...Nxg5? since that will open up a file for the white rook. Instead, Black can start making a grab for the centre and kick the white bishop away with a timely ...h6 advance.
+Usually, White retreats with 3.Bf4 or 3.Bh4. In this case, Black will try to maintain the knight on e4, or at least gain a concession before retreating it. (For instance, if White chases the knight away with f3, the pawn takes away the best development square from White's own knight.)
+3.Nf3? is rarely seen except among amateurs; after 3...Nxg5 4.Nxg5 e5! Black regains the lost time by the discovered attack on the knight; White's centre is liquidated and White has no compensation for the bishop pair.
+2...d5 makes a grab for the centre, allowing White to inflict doubled pawns. If White does so, Black will try to show that the pair of bishops is valuable, and that White has wasted time by moving a bishop twice in order to trade it off. Black usually recaptures away from the centre with 3...exf6, preserving a defensible pawn structure and opening diagonals for the queen and dark-squared bishop; however, 3...gxf6 (played by Sergey Karjakin against Magnus Carlsen in the opening game of the 2016 World Chess Championship) is also common. Alternatively, White can transpose into the Richter–Veresov Attack with 3.Nc3 or the Tartakower Variation of the  Torre Attack with 3.Nf3.
+2...e6 also avoids doubled pawns since the queen can recapture if White plays Bxf6. The move 2...e6 also opens a diagonal for the black king's bishop to develop. On the other hand, the knight is now pinned, and this can be annoying.
+2...c5 also makes a grab for the centre, planning to trade off the c-pawn for White's d-pawn. Again, White can inflict doubled pawns, and again Black will try to make use of the bishop pair.
+2...g6 enables Black to fianchetto the dark-squared bishop.  If White immediately captures the knight (3.Bxf6), Black must recapture away from the centre with 3...exf6.
+2...c6 is an offbeat line in which Black threatens a later ...Qb6, forcing White to defend or sacrifice the b-pawn. White can play the thematic 3.Bxf6 or 3.Nf3, but must avoid 3.e3?? Qa5+, when White resigned (in light of 4...Qxg5) in Djordjević–(Milorad) Kovačević, Bela Crkva 1984—"the shortest ever loss by a master" (Graham Burgess, The Quickest Chess Victories of All Time, p. 33).
+1.d4 d5 2.Bg5[edit]
+White can also play 2.Bg5 after 1.d4 d5. This is known as the Pseudo-Trompowsky, Hodgson Attack, Levitsky Attack, Queen's Bishop Attack, and Bishop Attack, and is covered in ECO code D00. Play transposes to the Trompowsky if Black plays 2...Nf6.
+
+See also[edit]
+Torre Attack
+Hodgson Attack
+List of chess openings
+List of chess openings named after people
+Notes[edit]
+
+
+^ a b Hooper & Whyld (1996), p. 430, Trompowsky Opening
+
+^ a b Hooper & Whyld (1996), p. 281, Opočenský Opening
+
+^ "Igor Miladinovic vs. Michael Adams, Moscow olm 62/53 1994, Trompowsky Attack: Raptor Variation (A45)". Chessgames.com. Retrieved 2009-10-26.
+
+
+References[edit]
+Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. The Oxford Companion to Chess (2nd ed.). Oxford University Press. ISBN 0-19-280049-3.
+Further reading[edit]
+Hodgson, Julian (1997). Secrets of the Trompovsky (Vol. 1). Hodgson Enterprises. ISBN 0952937328.
+Gallagher, Joe (1998). The Trompovsky. Chess Press. ISBN 1-901259-09-9
+Wells, Peter (2004). Winning with the Trompowsky. Sterling. ISBN 978-0713487954.
+Davies, Nigel (2005). The Trompowsky. Everyman Chess. ISBN 1857443764.
+Cox, John (2005). Dealing with d4 Deviations: Fighting the Trompowsky, Torre, Blackmar–Diemer, London, Colle, and Other Problem Openings. Everyman Chess.
+Palliser, Richard (2009). Starting Out: The Trompowsky Attack. Everyman Chess. ISBN 9781857445626.
+Pert, Richard (2013). Playing the Trompowsky. Quality Chess. ISBN 9781907982767.
+Lakdawala, Cyrus (2014). The Trompowsky Attack: Move by Move. Everyman Chess. ISBN 9781781941775.
+Edward Winter's "The Trompowsky Opening" (Chess Notes Feature Article)
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Trompowsky_Attack&oldid=1176626679"

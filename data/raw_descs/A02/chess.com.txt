@@ -1,0 +1,52 @@
+
+The Bird's Opening is an aggressive flank opening for White. Championed by the English master Henry Bird, this opening is not popular among the masters of today. However, despite its offbeat quality, the Bird's opening is playable and could be a good surprise weapon for club-level players. The opening also has very little theory, so it can be a good option for players who don't want to study heavy theory.
+
+Starting Position
+
+Pros
+Cons
+
+
+Main Variations Of Bird's Opening
+
+Dutch Variation With g3
+Dutch Variation With e3
+From's Gambit
+
+
+History Of The Bird's Opening
+
+
+Starting Position
+The Bird's Opening starts after 1.f4, when White opens with a flank pawn instead of the more traditional center push of the d- or e-pawns. White's strategy consists of controlling the dark squares on the center of the board. The f-pawn controls the e5-square right away, while a future e2-e3 or c2-c3 push will help White to get a grip of the d4-square.
+
+The starting position of the Bird's Opening.
+
+The downside to White's first move is that the f2-f4 push weakens the a7-g1 diagonal as well as the e1-h4 diagonal. With White usually castling kingside, the open king could be a liability.
+Pros
+
+Avoids heavy theory
+It can surprise your opponent
+Gives White attacking chances
+
+Cons
+
+Weakens the king
+White must be prepared for From's Gambit from Black in the opening after 1...e5
+A well-prepared Black player can equalize easily and even get an advantage
+
+Main Variations Of Bird's Opening
+There's not much theory behind the Bird's Opening, which is one of the reasons why some players might choose to play it. While it can transpose into other openings like the King's Gambit, there are still some independent lines. Below you can see the most popular variations of this opening.
+Dutch Variation With g3
+The Dutch Variation is the most popular line of the Bird's Opening. It starts after the moves 1.f4 d5, which resembles a Dutch Defense with reversed colors. From there, the most popular alternative is for White to eventually play g2-g3 to fianchetto their light-squared bishop to g2.
+
+Dutch Variation With e3
+White can also play e2-e3 instead of g2-g3 in the Dutch Variation. With this setup, White can play a more positional game with an eventual d2-d3 push or go for the Stonewall formation with d2-d4 and c2-c3.
+
+From's Gambit
+Black may decide to answer the Bird's Opening with the From's Gambit, its most double-edged variation. This line occurs after 1.f4 e5 when Black offers a pawn for quick development. From there, White can play 2.e4 and enter the King's Gambit or accept the challenge and play 2.fxe5, after which the game gets extremely complicated.
+
+History Of The Bird's Opening
+The Bird's Opening came to masters' attention after the English master Henry Bird successfully played it during the second half of the 19th century. Bird demonstrated the opening's attacking potential by defeating strong players of the time, including Emanuel Lasker, Johannes Zukertort, Louis Paulsen, and more.
+Although the opening never caught up in popularity, strong players like GM Savielly Tartakower, Aron Nimzowitsch, and GM Bent Larsen played it occasionally.
+Nowadays, elite players still play the Bird's Opening, even if on rare occasions, including GMs Magnus Carlsen, Hikaru Nakamura, Sergey Karjakin, and more.

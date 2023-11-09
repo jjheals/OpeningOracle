@@ -1,0 +1,358 @@
+Chess openingBogo-Indian Defense
+abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.c4 e6 3. Nf3 Bb4+ECOE11Named afterYefim BogolyubovParentIndian Defense
+The Bogo-Indian Defense is a chess opening characterised by the moves:
+
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+The position arising after 1.d4 Nf6 2.c4 e6 is common. The traditional move for White here is 3.Nc3, threatening to set up a big pawn centre with 4.e4. However, 3.Nf3 is often played instead as a way of avoiding the Nimzo-Indian Defense (which would follow after 3.Nc3 Bb4). After 3.Nf3, Black usually plays 3...b6 (the Queen's Indian Defense) or 3...d5 (leading to the Queen's Gambit Declined), but can instead play 3...Bb4+, the Bogo-Indian, named after Efim Bogoljubow. This opening is not as popular as the Queen's Indian, but is seen occasionally at all levels.
+The Bogo-Indian is classified as E11 by the Encyclopaedia of Chess Openings (ECO).
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Variations[edit]
+White has three viable moves to meet the check. 4.Nc3 is a transposition to the Kasparov Variation of the Nimzo-Indian, therefore the main independent variations are 4.Bd2 and 4.Nbd2.
+
+4.Bd2[edit]
+4.Bd2 is the most common line; the bishop on b4 is now threatened and Black needs to decide what to do about it. 
+
+The simplest is to trade off the bishop by means of 4...Bxd2+; this line is not particularly popular, but has been played frequently by the Swedish grandmaster Ulf Andersson, often as a drawing line.[1]
+4...Qe7 This is called the Nimzowitsch variation, defending the bishop, and deferring the decision of what to do until later. After 5. g3 Nc6, the main line continues 6. Nc3 Bxc3 7. Bxc3 Ne4 8. Rc1 0-0 9. Bg2 d6 10. d5 Nd8 11. dxe6 Nxe6 and the position is equal. Another alternative is 6. Bg2 Bxd2+ 7. Nbxd2 d6 8. 0-0 a5 9. e4 e5 10. d5 Nb8 11. Ne1 0-0 12. Nd3 Na6 and the position is equal.
+David Bronstein tried the sharper alternative 4...a5, grabbing space on the queenside at the cost of structural weaknesses.
+A more modern line is 4...c5, after 5.Bxb4 cxb4, Black's pawns are doubled, and a pawn has been pulled away from the centre, but the b4 pawn can also be annoying for White since it takes the c3-square away from the knight. In fact, one of White's major alternatives is 6.a3, trading off this pawn at once.
+Simply retreating the bishop by means of 4...Be7 is also possible; Black benefits from losing a tempo since White's dark-square bishop is misplaced at d2. The line is somewhat passive, but solid.
+4.Nbd2[edit]
+4.Nbd2 is an alternative aiming to acquire the bishop for the knight or forcing Black's bishop to retreat. The downside is that the knight is developed to a square where it blocks the bishop, and d2 is a less active square than c3. The line is described in the Gambit Guide as "ambitious". Black's most common replies are 4...b6, 4...0-0, and 4...d5.
+
+Monticelli Trap[edit]
+This opening gives rise to the Monticelli Trap.
+
+See also[edit]
+List of chess openings
+List of chess openings named after people
+Notes[edit]
+
+
+^ Pedersen mentions Andersson's utilization of this line, noting he draws a large majority of the time, however Checkpoint Chesscafe.com, see Hansen's review of the Bogo-Indian CD, which notes that this is not always an attempt to merely draw.
+
+
+References[edit]
+Steffen Pedersen (1999). Gambit Guide to the Bogo Indian. Gambit. ISBN 1-901983-04-8.
+Further reading[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Bogo-Indian Defense
+
+Taulbut, Shaun (1995). The New Bogo-Indian. Cadogan Books. ISBN 978-1-85744-026-3.
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Bogo-Indian_Defence&oldid=1115661150"

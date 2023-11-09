@@ -1,0 +1,14 @@
+
+Black does not have to play into the hands of the bold King's Gambiteer. Instead, he can refuse the pawn while developing the bishop to a square which prevents White from castling.
+Pros:
+
+Avoids the messiness of the King's Gambit Accepted
+Prevents castling by White
+Develops a piece
+
+Cons:
+
+Allows White to get away with the space gaining flank blow f2-f4
+White can later open the f-file for attack
+The bishop on c5 can later be exchanged by Na4
+

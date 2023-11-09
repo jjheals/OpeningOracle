@@ -1,0 +1,13 @@
+
+In the Torre Attack, White combines the early Nf3 and Bg5 moves, delaying or avoiding c2-c4. This way White develops the pieces actively while maintaining a solid center - and idea opening for those who like active play, but do not want to deal with a lot of theory.
+Pros:
+
+The bishop on g5 pins the Nf6
+White maintains a solid d4-point
+Natural play with little heavy theory
+
+Cons:
+
+The bishop on g5 can sometimes be traded off
+Does not put Black under a lot of immediate pressure
+

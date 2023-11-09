@@ -1,0 +1,87 @@
+
+The Nimzo-Indian Defense (often called "the Nimzo" for short) is considered one of Black's best responses to White's 1.d4 opener. Black often gives up the bishop pair, but in exchange receives the better pawn structure and easy development. Black will also try to keep the position closed, while White seeks to open up the center for the two bishops.
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+Rubinstein Variation
+Classical Variation
+Three Knights Variation
+Kmoch Variation
+Samisch Variation
+Other Fourth Moves For White
+
+
+History
+Famous Games
+Conclusion
+
+Starting Position
+The Nimzo-Indian Defense appears after the moves 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4. Black pins the white knight to the king, helping to control the e4 square.
+Pros
+
+Positionally sound
+Leads to rich positions
+Black develops rapidly
+
+Cons
+
+White might get the two bishops
+White can try to conquer the center
+
+Variations
+White has tried several fourth moves against the Nimzo-Indian over the years. No fewer than nine of them have appeared at least 700 times in master play, and seven of them at least 1800 times. Two have become particularly popular, with over 25,000 appearances. No matter which of the top nine fourth moves White chooses, however, White wins only between 34 and 37% of games. No wonder the opening is considered so strong for Black.
+
+White's options against the Nimzo can be dizzying. We'll break down each of them below.
+
+Most variations revolve around two key, intertwined questions: Will Black exchange bishop for knight on c3, and if so, will White recapture with a piece or accept doubled pawns and retake with bxc3?
+Rubinstein Variation
+In the most common continuation, White begins to develop the kingside with 4.e3, admitting that the pawn won't reach e4 any time soon. White has the option to play 5.Ne2 and recapture on c3 with the knight. If White is more concerned about development than pawn structure, 5.Bd3 will be played before the knight moves, giving Black an extra opportunity to double up White's pawns.
+
+
+
+A key sub-variation of the Rubinstein is the Hubner variation, named for GM Robert Hubner, which reaches the position below after the moves 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Nf3 Bxc3+ 7.bxc3 d6.
+
+Having traded bishop for knight, Black's goal now is to close the position.
+
+Classical Variation
+Almost as popular as the Rubinstein, White immediately sidesteps the prospect of doubled pawns with 4.Qc2 in what is usually known as the Classical Variation, and sometimes the Capablanca Variation after the Cuban world champion, Jose Raul Capablanca. The intent of this move is best demonstrated by the most common continuation, 4...O-O 5.a3 Bxc3 6.Qxc3.
+
+White has the two bishops while retaining a sound pawn structure. Black's compensation: White has yet to make a move to develop the kingside, whereas Black has already castled.
+
+Three Knights Variation
+In the aptly-named Three Knights, White plays the third knight move of the game (counting both sides) with 4.Nf3. GM Garry Kasparov used it extensively to win the world championship from GM Anatoly Karpov in 1985, scoring +3 =3 in six tries during the match, with another win early in their 1986 rematch, and so it is sometimes referred to as the Kasparov Variation.
+
+If Black makes the most popular reply, 4...d5, the game has transposed into the Ragozin Variation of the Queen's Gambit.
+Kmoch Variation
+In the Kmoch Variation, 4.f3, White insists on trying to play the e-pawn two squares forward instead of one. The Kmoch usually transposes into a form of the Samisch (below) after the typical continuation 4...d5 (stopping 5.e4) 5.a3.
+Samisch Variation
+The Samisch, 4.a3 by White, not only makes no effort to avoid doubled pawns, but actively encourages the continuation 4...Bxc3 5.bxc3. It's not the most popular variation because White often loses the c4-pawn by force, and the move 4.a3 does nothing to help White's development or position in the center. However, the Samisch remains perhaps the most important variation in Nimzo-Indian opening theory, because it so forcefully creates the two bishops vs. doubled pawn dynamic.
+
+The standard position of the Samisch variation.
+
+GM Fabien Libiszewski covered the Samisch in this Chess.com Lesson.
+Other Fourth Moves For White
+4.Bg5, the Leningrad, allows White to play e3 later without blocking in the dark-squared bishop.
+4.g3, the Romanishin-Kasparov. White sometimes fianchettoes in the Three Knights, which was Kasparov's treatment in the mid-1980s, and 4.g3 can easily transpose to those variations.
+4.Bd2 has no unique name, but it is a playable, immediate way to avoid doubled pawns, albeit rather passive.
+4.Qb3, the Spielmann Variation after Austrian master Rudolf Spielmann, has a similar idea to the Classical Variation, but 4...c5 for Black protects the bishop and engines already give Black a tiny edge.
+History
+Games that begin 1.d4 Nf6 are known as "Indian" openings. The origins regarding why are unclear, but CM Arne Moll wrote about them in 2018, and they can be traced back in part to an Indian player in the mid-19th century named Bannerjee Moheschunder. The other half of the name "Nimzo-Indian" comes from Aron Nimzowitsch, who was not the first master to play the opening, but perhaps the most important player in popularizing it.
+
+Aron Nimzowitsch. Photo: Wikimedia/public domain.
+
+When the 1920s began, the opening was still little-known, but by the end of the decade, it was one of Black's favored defenses to 1.d4. It first appeared in world championship play in the second game of the 1929 match between Alexander Alekhine and Efim Bogoljubov and has been played at least once in nearly every world championship since (although not since 2013, and extremely unlikely to be seen in 2021--challenger GM Ian Nepomniachtchi rarely plays 1.d4 as White and has played the Nimzo as Black exactly once, in a 2020 rapid game).
+The opening has never lost its luster and remains a key weapon for Black to this day. After 1.d4 Nf6 2.c4 e6, White plays 3.Nf3 more often than 3.Nc3 in part because of the strength of the Nimzo.
+Famous Games
+One of the most famous games of all time was played out of the Nimzo-Indian, with future world champion Mikhail Botvinnik defeating former world champion Capablanca at the legendary AVRO tournament of 1938 (Moll, again, on that tournament here). Capablanca used his favorable queenside structure to win a pawn on that side of the board, but Botvinnik won the game thanks to his central pawns and a celebrated combination that started on move 30.
+
+Black's most famous win was played by the namesake of the opening, Aron Nimzowitsch, in his contest against Paul Johner at Dresden in 1926. Nimzowitsch successfully bottled up Johner's bishops by closing the position, and his famous maneuver on moves 12-16 set up an eventual kingside attack that was decisive.
+
+Conclusion
+The Nimzo-Indian is one of Black's most popular responses to 1.d4. The pin on the c3 knight is hard for White to deal with and Black often gets good positions with pressure on White's center. Play around in the Chess.com Explorer to see more variations.

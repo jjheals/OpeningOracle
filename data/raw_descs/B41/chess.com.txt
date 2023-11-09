@@ -1,0 +1,13 @@
+
+In playing the Kan, Black is keeping his position as flexible as possible. The dark-squared bishop is free to go to various places, and the knight doesn't go to f6 immediately. Black's 4...a6 not only guards the d6 square against Nb5, but also prepares a possible ...b5.
+Pros:
+
+Very flexible play
+Provocative and tricky
+
+Cons:
+
+White can gain a lead in development
+White has various attacking possibilities
+White maintains possibilities of c2-c4
+

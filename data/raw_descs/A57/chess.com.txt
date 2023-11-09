@@ -1,0 +1,88 @@
+
+The Benko Gambit, named for GM Pal Benko, is a popular opening. However, it is a bit unusual as gambits go. Black, not White, gives up a pawn for long-term positional compensation. Someone who plays the Benko is not looking for a quick, sharp, tactical knockout, but instead is trying to wear down their opponent.
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+Fully-Accepted: 7.e4
+Fully-Accepted: 7.g3
+Fully-Accepted: 7.Nf3
+Half-Accepted
+Declined
+
+
+How To Play Against The Benko Gambit
+
+Declined: Main Line
+Fully Accepted: Fianchetto Attack
+
+
+History of the Benko Gambit
+Famous Games
+Conclusion
+
+Starting Position
+The Benko Gambit is a surprisingly common way for Black to play against 1.d4, and it arises via the mover order 1.d4 Nf6 2.c4 c5 3.d5 b5. The move 2...c5 is Black's third most popular in the position and 3.d5 is overwhelmingly White's main response. From there, the Benko move 3...b5 is Black's most popular choice.
+
+Black's goal with this opening is to convert easy development into queenside pressure. The ideal development for Black looks like this (with the light-squared bishop sometimes traded off depending on how White plays):
+
+Black's ideal development in the Benko.
+
+Pros
+
+The gambit is considered sound
+Suits many playing styles
+Development is straightforward
+
+Cons
+
+White can decline the gambit in various ways
+There are many different responses for White
+Sometimes White can give back the pawn to gain the initiative
+
+Variations
+When White fully accepts the Benko Gambit, the position almost always looks like this by move six:
+
+At this point there is some room for White to vary, and it largely depends on the question of developing the bishop on f1. White can also decline the gambit in the first place, which will be discussed below as well. Black's goal is always the same: quick development and queenside pressure.
+Fully Accepted: 7.e4
+This move allows Black to play 7...Bxf1 and White loses the right to castle. However, White will generally "castle by hand" by playing g3 and Kg2 at some point.
+
+
+Fully Accepted: 7.g3
+White plays this move to develop the bishop while maintaining castling rights, and also leaving Black's light-squared bishop blocking the rook's view of the a-file. Statistically, this is White's best move, but not enough to replace 7.e4 as the main move. 
+Fully Accepted: 7.Nf3
+White can also delay the decision to be made about the bishop by developing the knight to its best square. It will still be incumbent on White to develop the f1 bishop soon, of course.
+
+Half-Accepted
+The standard way to decline the gambit is to capture on b5 but not on a6, generally by playing 5.b6 instead of 5.bxa6. Instead of giving Black two open files on the kingside, White allows just one, hoping to reduce the pressure.
+
+White has already half-accepted the Benko Gambit here. Now comes the decision whether to fully accept it.
+
+Declined
+Sometimes White doesn't even take on b5. There are many ways to do so, with fun names like the Sosonko or the Pseudo-Samisch, but 4.Nf3 is the main line. As with the Half-Accepted, White is avoiding giving Black too much on the queenside.
+How to Play Against the Benko Gambit
+Declined: Main Line
+Declining the Benko entirely with 4.Nf3 is one of White's top-scoring options: winning 47% of the time against just 28% losses, with the last 26% drawn.
+
+Fully-Accepted: Fianchetto Attack
+Out of 7.e4, 7.Nf3, and 7.g3 in the fully accepted line, White has the most success with the fianchetto (7.g3). For example after 1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 g6 7.Nf3 d6 8.g3 Bg7 9.Bg2 White wins 47% of games vs. 25% for Black with 28% drawn.
+The fact that White has no surefire refutations of the Benko that can score 50% or better is one reason it's so popular for Black.
+History
+Pal Benko popularized the opening, but it actually appeared as early as 1936, although that's actually somewhat late for most openings. Benko played it 22 times in serious competition, scoring +11 -3 =8, an incredible 68.2% winning percentage for Black. The Soviet then American GM Lev Alburt was also a longtime practitioner of the Benko.
+
+GM Pal Benko, popularizer of his eponymous gambit, in 1964. Photo: F.N. Broers/Dutch National Archives, CC.
+
+World champion-level players have tended to prefer other responses to 1.d4, but they'll play the Benko sometimes. GM Tigran Petrosian won a game with it at the 1955 Interzonal, GM Bobby Fischer played it twice in his 1992 rematch with GM Boris Spassky, and GM Magnus Carlsen has had Black in the opening 12 times, often in rapid and blitz. Every classical world champion from GM Garry Kasparov to Carlsen has played it at least once in a serious game (exactly once in the case of GM Vladimir Kramnik).
+Famous Games
+In 1997, future FIDE world champion GM Alexander Khalifman won with a queen sacrifice out of a lesser-known line in the Benko.
+
+In the 1982 Interzonal in Moscow, GM Alexander Beliavsky showed a more thematic way to play the Benko.
+
+
+Conclusion
+The Benko Gambit is a great opening for players of any style to win with Black against 1.d4. Explore our Master Games database for more ideas in the opening!
