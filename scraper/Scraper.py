@@ -5,6 +5,44 @@ from re import sub
 from bs4 import BeautifulSoup
 from os import mkdir, path
 
+''' class Scraper 
+
+    DESCRIPTION: 
+        The Scraper class performs all operations for scraping data from various sources. The methods
+        are separated to provide some flexibility on operations.
+        
+    ATTRIBUTES: 
+
+        index (dict[str,dict[str,int]) - the index created when scrape_descriptions() is called
+            - the index saves in the file at Paths.INDEX_JSON 
+            - the form of the index is [key: val] == [term: {opening_code:term_freq}]
+            - example:
+                {
+                    'center': {
+                        'A00': 4,
+                        'B32': 15, 
+                        ...
+                    },
+                    ... 
+                }
+        
+        openings_dict (OpeningsDict) - an OpeningsDict object to store the openings associated with this Scraper
+            - can be created using any of the generative methods in OpeningsDict, i.e. from_json(), from_list(), etc.
+        
+        num_terms (dict[str,int]) - keeps track of the total number of terms for each opening (denoted by the code)
+            - combines the number of terms from ALL sources of descriptions 
+            - saves in Paths.NUM_TERMS_JSON
+            - in the form [key: val] == [opening_code: num_terms] 
+            - example: 
+                { 
+                    'A00': 456,
+                    'B32': 942,
+                    ...
+                }
+                
+    NOTE: see each method description for in-depth details on how each method is used and the parameters
+          associated with each function. 
+'''
 class Scraper: 
     
     # STATIC ATTRIBUTES 
@@ -33,10 +71,11 @@ class Scraper:
             self.openings_dict = OpeningsDict()
             self.num_terms = {}
     
+    
     ''' get_openings() - get the opening names and links from chess.com and wikipedia and save the results in Paths.OPENINGS_JSON 
     
         NOTE: initially scrapes openings off chess.com (120, including variations) and creates wikipedia links off these
-                   - does NOT pull all openings on wikipedia
+                   - does NOT pull opening descriptions, rather just pulls the opening names and general info from chess.com
                    - does NOT separate variations from generic openings 
     ''' 
     def get_openings(self) -> None:
@@ -59,6 +98,7 @@ class Scraper:
         
         # Print info about results
         print(f"Scraper: done getting openings.\nSaved {len(all_openings)} results to \"{Paths.OPENINGS_JSON}.\"")
+
 
     ''' scrape_descriptions(openings_dict) - scrape the openings' descriptions from Wikipedia and Chess.com
 
@@ -142,7 +182,18 @@ class Scraper:
             json.dump(self.num_terms, open(Paths.NUM_TERMS_JSON, 'w'), indent=4)
         
         print(f"Scraper: Done scraping descriptions.\nNew index length = {len(self.index)}")
-                
+    
+    
+    ''' tokenize(text) - tokenize the given text in a standard way 
+    
+        PARAMETERS: 
+            text (str) - the text to tokenize 
+            
+        RETURNS: 
+            A list of strings representing the tokenized text
+            
+        NOTE: treats spaces, special characters, and newlines as delimeters
+    ''' 
     @staticmethod
     def tokenize(text:str) -> list[str]: 
         tokens = []
@@ -150,8 +201,8 @@ class Scraper:
         # Replace any special chars in the content with spaces to act as delimeters 
         pattern:str = r'[^a-zA-Z0-9\s]'     # Pattern of plaintext characters (a-z, A-Z, 0-9, no special chars)
         text = sub(pattern, ' ', text)      # Substitute all matches with spaces  
-        text = sub(r'html\r\n', '', text) 
-        text = sub(r'\n', ' ', text) 
+        text = sub(r'html\r\n', '', text)   # Remove the html head
+        text = sub(r'\n', ' ', text)        # Remove newlines
         
         # Split the text on spaces, convert to lower, and strip whitespace from each token 
         tokens = [s.lower().strip() for s in text.split(' ') if not s.isspace() and s]

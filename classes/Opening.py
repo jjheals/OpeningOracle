@@ -1,12 +1,35 @@
 import json
 from scraper.Paths import Paths 
 
-''' Opening - class for Openings as objects 
+''' class Opening
 
+    DESCRIPTION: 
+
+        The Opening class serves as an object to describe a single chess opening. The attributes are consistent 
+        with attributes of real life chess openings, such as the name, opening moves, etc. The links are to 
+        pages where information about the particular opening can be found. 
+    
     ATTRIBUTES: 
+    
         links (dict) - contains [key,val] as [source_name, link]
+            Ex. 
+                { 
+                    'chess.com': 'https://chess.com/English-Opening',
+                    'wikipedia': 'https://wikipedia.com/wiki/English_Opening',
+                    ... 
+                }
+                
         opening_name (str) - the opening name (from Chess.com) 
-
+            Ex. 'English Opening' 
+            
+        move_list (str) - the opening moves for this opening as a single string (can be separated later)
+            Ex. '1. g4 2. e4' 
+            
+        code (str) - the code for this opening
+            Ex. 'A00', 'B20', 'C43', ... 
+        
+    NOTE: see each method description for in-depth details on how each method is used and the parameters
+          associated with each function. 
 '''
 class Opening: 
     
@@ -81,10 +104,21 @@ class Opening:
         return Opening.wiki_base_url + name
     
     
-''' OpeningsDict - class to create an object to store the openings with an ID 
+''' class OpeningsDict
+   
+   DESCRIPTION: 
+   
+        The OpeningsDict class serves as an easy way to store groups of Opening objects. The methods 
+        contained in this class intend to standardize saving groups of openings to persistent storage,
+        i.e. openings.json, and aim to provide single methods for performing operations on openings. 
+        The main objective of OpeningsDict is to provide organization and simplicity around the structure
+        and implementation of persistent storage and operations on groups of Openings.
    
    ATTRIBUTES: 
-        openings (dict) - contains [key,val] as [opening_id, opening_as_dict]                 
+        openings (dict) - contains [key,val] as [opening_id, opening_as_dict]        
+        
+    NOTE: see each method description for in-depth details on how each method is used and the parameters
+          associated with each function. 
 '''
 class OpeningsDict: 
     
