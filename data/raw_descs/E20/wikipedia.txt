@@ -19,7 +19,7 @@ General considerations[edit]
 Botvinnik vs. Reshevsky, 1948
 abcdefgh8877665544332211abcdefgh Position after 24.Qe2–a2
 
-In the Nimzo-Indian, Black is generally prepared to concede the bishop pair by playing Bxc3. As dynamic compensation, they often double White's c-pawns, which represent a static weakness, and gains play against the central light squares d5 and e4, even in those instances where White is able to recapture with a piece after ...Bxc3. Black will aim to close the position to reduce the scope of White's bishops. To this end, Black must blockade the white pawn centre from advancing and neutralise White's attacking chances on the kingside. An example of Black's strategy carried out successfully is the game Mikhail Botvinnik–Samuel Reshevsky from the 1948 World Chess Championship,[1] which reached the position in the diagram after White's 24th move.
+In the Nimzo-Indian, Black is generally prepared to concede the bishop pair by playing Bxc3. As dynamic compensation, they often double White's c-pawns, which represent a static weakness, and gains play against the central light squares d5 and e4, even in those instances where White is able to recapture with a piece after ...Bxc3. By pinning the knight to the king, black indirectly controls the center by preventing the move e4. Black will aim to close the position to reduce the scope of White's bishops. To this end, Black must blockade the white pawn centre from advancing and neutralise White's attacking chances on the kingside. An example of Black's strategy carried out successfully is the game Mikhail Botvinnik–Samuel Reshevsky from the 1948 World Chess Championship,[1] which reached the position in the diagram after White's 24th move.
 Earlier in the game, Reshevsky was able to block White's kingside attack by playing ...Nf6–e8 and ...f7–f5. Now, both White's bishops are reduced to defence, and White's queen is reduced to passivity at the a2-square to defend the pawns on a3 and c4. Without prospects for counterplay, White's game is strategically hopeless, and Black ultimately exchanged queens and won the endgame.
 
 Rubinstein System: 4.e3 [edit]
@@ -479,6 +479,7 @@ Chess libraries
 Chess newspaper columns
 Chess periodicals
 Related
+Arbiter
 Chess boxing
 Chess club
 Chess composer
@@ -509,4 +510,4 @@ United States
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Nimzo-Indian_Defence&oldid=1180832709"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nimzo-Indian_Defence&oldid=1184482466"

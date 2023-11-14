@@ -16,7 +16,7 @@ This article uses algebraic notation to describe chess moves.
 
 History[edit]
 The earliest known use of the term "Indian Defence" was in 1884. The modern names "King's Indian Defence", "King's Indian Attack", etc. arose in the mid-twentieth century and are attributed to Hans Kmoch. Until the mid-1930s, the King's Indian Defence was generally regarded as highly suspect, but the analysis and play of three strong Soviet players in particular—Alexander Konstantinopolsky, Isaac Boleslavsky, and David Bronstein—helped to make the defence much more respected and popular. It is a dynamic opening, exceptionally complex, and a favourite of former world champions Garry Kasparov, Bobby Fischer, and Mikhail Tal, with prominent grandmasters Viktor Korchnoi, Miguel Najdorf, Efim Geller, John Nunn, Svetozar Gligorić, Wolfgang Uhlmann, and Ilya Smirin having also contributed much to the theory and practice of this opening. 
-In the early 2000s the opening's popularity suffered after Vladimir Kramnik scored results against it, so much so that Kasparov gave up the opening after losses to Kramnik. However, Kramnik himself won a game on the black side of the KID in 2012,[1]  and current top players including but not limited to Hikaru Nakamura, Teimour Radjabov, and Ding Liren play the opening.
+In the early 2000s the opening's popularity suffered after Vladimir Kramnik began scoring excellently against it, so much so that Kasparov gave up the opening after several critical losses to Kramnik. However, Kramnik himself won a game on the black side of the KID in 2012,[1]  and current top players including Hikaru Nakamura, Teimour Radjabov, and Ding Liren play the opening.
 
 Variations[edit]
 The main variations of the King's Indian are:
@@ -495,4 +495,4 @@ Category
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Defence&oldid=1178240985"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Defence&oldid=1185035191"

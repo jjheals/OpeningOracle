@@ -46,7 +46,10 @@ class Opening:
     opening_name:str    # Opening name (in the format from Chess.com) 
     move_list:str
     code:str 
+    is_variation:bool   # Is this a variation? 
+    variation_name:str  # Variation name if applicable, empty string otherwise 
     
+    ''' ------------------------------- '''
     def __init__(self, opening_name:str, code:str, wiki_link:str, chess_com_link:str, move_list:str):
         self.opening_name = opening_name
         self.code = code
@@ -55,22 +58,42 @@ class Opening:
                       'chess.com': chess_com_link
                     }
         self.move_list = move_list
-    
+        
+        if ':' in self.opening_name: 
+            self.is_variation = True
+            self.variation_name = self.opening_name.split(':')[1].rstrip()
+        else: 
+            self.is_variation = False
+            self.variation_name = ""
+            
+    ''' ------------------------------- '''
     ''' to_dict() - convert this opening to a dictionary format '''
     def to_dict(self) -> dict[str,str]: 
-        return {'code': self.code, 'opening-name': self.opening_name, 'move-list': self.move_list, 'links': self.links}
+        return {'code': self.code, 
+                'opening-name': self.opening_name, 
+                'move-list': self.move_list, 
+                'links': self.links,
+                'is-variation': self.is_variation,
+                'variation-name': self.variation_name
+            }
     
+    ''' ------------------------------- '''
     ''' to_string() - convert this opening to a meaningful, readable string (to print, etc.) '''
     def to_string(self) -> str: 
-        print(f"Called to string on {self.opening_name}")
-        s = f"Name: {self.opening_name}\n"                      # Name
-        s += f"Code: {self.code}"                               # Code
-        s += f"Moves: {self.move_list}"                         # Moves
-        s += "Links: \n"                                        # Links
+        s = f"Name: {self.opening_name}\n"          # Name
+        s += f"Variation?: {self.is_variation}\n"   # Is variation? 
+        
+        # Include variation name if it is a variation
+        if self.is_variation: s += f"Variation: {self.variation_name}"
+        
+        s += f"Code: {self.code}\n"          # Code
+        s += f"Moves: {self.move_list}\n"    # Moves
+        s += "Links: \n"                     # Links
         for k,l in self.links.items(): s += f"\t{k} - {l}\n"    
          
         return s
     
+    ''' ------------------------------- '''
     ''' opening_from_dict(d) - create an Opening object from a given dictionary
     
         PARAMETERS: 
@@ -82,9 +105,9 @@ class Opening:
     @staticmethod
     def opening_from_dict(d:dict) -> object: 
         o = Opening(d["opening-name"], d['code'], d["links"]["wikipedia"], d["links"]["chess.com"], d['move_list'])
-        
         return o
     
+    ''' ------------------------------- '''
     ''' wiki_link_from_name(name) - create a wikipedia link from the given name 
     
         PARAMETERS: 

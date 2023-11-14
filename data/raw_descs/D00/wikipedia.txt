@@ -19,6 +19,7 @@ The King's Fianchetto Opening, 2.Nf3 and 3.g3
 The Barry Attack, 1...Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4
 The Richter–Veresov Attack, 1...d5 2.Nc3 Nf6 3.Bg5 or 1...Nf6 2.Nc3 d5 3.Bg5
 The Blackmar–Diemer Gambit, 1...d5 2.e4, and the Hübsch Gambit 1...Nf6 2.Nc3 d5 3.e4
+The Nimzo-Indian Defence, 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
 In the Encyclopaedia of Chess Openings (ECO), Closed Games (1.d4 d5) are classified under codes D00–D69. Openings where Black does not play 1...d5 are called Semi-Closed Games and classified as:
 
 Indian Defences, where Black plays 1...Nf6 (ECO codes A45–A79, D70–D99, E00–E99); for instance the Queen's Indian Defence (ECO E12–E19);
@@ -78,6 +79,7 @@ This move allows White to play 2.e4, entering the Caro–Kann Defence. If, howev
 
 See also[edit]
 List of chess openings
+Closed Game
 References[edit]
 
 
@@ -432,4 +434,4 @@ United States
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Queen%27s_Pawn_Game&oldid=1169789466"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Queen%27s_Pawn_Game&oldid=1184481267"

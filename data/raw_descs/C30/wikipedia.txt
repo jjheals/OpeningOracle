@@ -19,7 +19,7 @@ History[edit]
 The King's Gambit was one of the most popular openings for over 300 years, and has been played by many of the strongest players in many of the greatest brilliancies, including the Immortal Game. Nevertheless, players have held widely divergent views on it. François-André Danican Philidor (1726–1795), the greatest player and theorist of his day, wrote that the King's Gambit should end in a draw with best play by both sides, stating that "a gambit equally well attacked and defended is never a decisive [game], either on one side or the other."[3] Writing over 150 years later, Siegbert Tarrasch, one of the world's strongest players in the late 19th and early 20th centuries, pronounced the opening "a decisive mistake" and wrote that "it is almost madness to play the King's Gambit."[4] Similarly, future world champion Bobby Fischer wrote a famous article, "A Bust to the King's Gambit", in which he stated, "In my opinion the King's Gambit is busted. It loses by force" and offered his Fischer Defense (3...d6) as a refutation.[5][6] FM Graham Burgess, in his book The Mammoth Book of Chess, noted the discrepancy between the King's Gambit and Wilhelm Steinitz's accumulation theory. Steinitz had argued that an attack is only justified when a player has an advantage, and an advantage is only obtainable after the opponent makes a mistake. Since 1...e5 does not look like a blunder, White should therefore not be launching an attack.[7]
 While the King's Gambit Accepted was a staple of Romantic era chess, the opening began to decline with the development of opening theory and improvements in defensive technique in the late 19th century. By the 1920s, 1.e4 openings declined in popularity with the rise of the hypermodern school, with many players switching to 1.d4 and 1.c4 openings and positional play. After World War II, 1.e4 openings became more popular again, with David Bronstein being the first grandmaster in decades to use the King's Gambit in serious play. He inspired Boris Spassky to also take up the King's Gambit, although Spassky was not willing to risk using the opening in any of his World Championship matches. Spassky did beat many strong players with it, however, including Bobby Fischer,[8] Zsuzsa Polgar,[9] and a famous brilliancy against Bronstein himself.[10]
 In 2012, an April Fools' Day prank by Chessbase in association with Vasik Rajlich—inventor of chess engine Rybka—claimed to have proven to a 99.99999999% certainty that the King's Gambit is at best a draw for White, but only after 3.Be2.[11][12] Revealing the prank, Rajlich admitted that current computer technology is nowhere near solving such a task.[13]
-The King's Gambit is rare in modern high-level play.[14] The main reason is that it is hard to gain an opening advantage with White against strong opponents,[a] with GM Matthew Sadler once joking that the dream of every King's Gambit player is a "worse but holdable ending".[15] A handful of grandmasters have continued to use it, including Joseph Gallagher, Hikaru Nakamura, Baskaran Adhiban, Nigel Short, and Alexei Fedorov, albeit never as a main weapon.
+The King's Gambit is rare in modern high-level play.[14] The main reason is that it is hard to gain an opening advantage with White against strong opponents, with GM Matthew Sadler once joking that the dream of every King's Gambit player is a "worse but holdable ending".[15] A handful of grandmasters have continued to use it, including Joseph Gallagher, Hikaru Nakamura, Baskaran Adhiban, Nigel Short, and Alexei Fedorov, albeit never as a main weapon.
 
 King's Gambit Accepted: 2...exf4 [edit]
 Although Black usually accepts the gambit pawn, two methods of declining the gambit—the Classical Defense (2...Bc5) and the Falkbeer Countergambit (2...d5)—are also popular. After 2...exf4, the two main continuations for White are 3.Nf3 (King's Knight's Gambit) and 3.Bc4 (Bishop's Gambit).
@@ -145,12 +145,6 @@ C36: 1.e4 e5 2.f4 exf4 3.Nf3 d5 (Abbazia Defense)
 C37: 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3 /4.Bc4 g4 5.0-0 (Muzio Gambit)
 C38: 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 (Philidor, Hanstein, etc.)
 C39: 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 (Allgaier, Kieseritzky, etc.)
-Notes[edit]
-
-
-^ Engine evaluations tend to be around -1 after 1.e4.
-
-
 References[edit]
 
 
@@ -583,4 +577,4 @@ United States
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1183111438#King's_Gambit_Declined"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1184849839#King's_Gambit_Declined"

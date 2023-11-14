@@ -90,7 +90,16 @@ class Scraper:
             openings = response.json()['items']                     # Get the 'items' object from the response; this contains the openings
             
             # Add these openings to all_openings as Opening objects
-            all_openings.extend([Opening(o['name'], o['code'], Opening.wiki_link_from_name(o['name']), o['url'], o['move_list']) for o in openings])
+            all_openings.extend([
+                                    Opening(
+                                            o['name'],                                  # Name
+                                            o['code'],                                  # Code 
+                                            Opening.wiki_link_from_name(o['name']),     # Wiki link
+                                            o['url'],                                   # Chess.com URL
+                                            o['move_list']                              # Move list (as str)
+                                    ) 
+                            for o in openings]
+                        )
             
         # Persistent save to json
         self.openings_dict = OpeningsDict.from_list(all_openings)
@@ -137,7 +146,7 @@ class Scraper:
                 soup:BeautifulSoup = BeautifulSoup(response.text, 'html.parser')
                 
                 # Save the raw content
-                f = open(Paths.RAW_DESC_BASE + c + f"/{site}.txt", "w+")
+                f = open(Paths.RAW_DESC_BASE + c + f"/{site}.txt", "w+", encoding="utf-8")
                 
                 # Get the correct div that contains the content for this link
                 div_attr_type:int = Scraper.divs[site][0]        # Get the div attribute of interest (class==0 or id==1)
@@ -148,8 +157,11 @@ class Scraper:
                     match(div_attr_type): 
                         case 0: content = soup.find(class_=div_attr_name).text  # Looking for class
                         case 1: content = soup.find(id=div_attr_name).text      # Looking for id
-                        
-                    f.write(content)    # Write the content
+                    try: 
+                        f.write(content)    # Write the content
+                    except Exception as e: 
+                        print(f"Error writing to file for description of {c} \n\tNAME: {v['opening-name']} \n\tSITE: {site}")
+                        print(f"\tERROR: {e}") 
                     f.close()           # Close the file
                     
                 except AttributeError:
