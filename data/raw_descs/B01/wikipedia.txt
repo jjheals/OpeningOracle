@@ -25,22 +25,22 @@ A regular user from the 1950s onwards was Yugoslav International Master (IM) Nik
 During the sixth round of the 2014 Chess Olympiad at Tromsø, Magnus Carlsen chose the Scandinavian against Fabiano Caruana, and won; Carlsen used the opening again to draw with Caruana at the 2016 Chess Olympiad at Baku.[10] Carlsen used the opening as Black in a blitz game to defeat Viswanathan Anand at the 2019 Grand Chess Tour stop in Kolkata.[11]
 
 Main line: 2.exd5 [edit]
-White normally continues 2.exd5 when Black has two major continuations: 2...Qxd5 and 2...Nf6 (the Modern Scandinavian). The rare gambit 2...c6 (the Blackburne-Kloosterboer Gambit) was played successfully by Joseph Blackburne on at least one occasion, but after 3.dxc6 is thought to be unsound and is almost never seen in master-level play.[12]
+White normally continues 2.exd5 where Black has two major continuations: 2...Qxd5 and 2...Nf6 (the Modern Scandinavian). The rare gambit 2...c6 (the Blackburne-Kloosterboer Gambit) was played successfully by Joseph Blackburne on at least one occasion, but after 3.dxc6 is thought to be unsound and is almost never seen in master-level play.[12]
 
-2...Qxd5[edit]
+2...Qxd5 (Mieses-Kotrč Variation)[edit]
 3.Nc3[edit]
 After 2...Qxd5, the most commonly played move is 3.Nc3 because it attacks the queen with gain of tempo. After 3.Nc3, Black has three main choices: 3...Qa5, 3...Qd8, and 3...Qd6.
 
-3...Qa5[edit]
+3...Qa5 (Main Line)[edit]
 This is considered the "classical" line, and is currently the most popular option. White can choose from multiple setups. A common line is 4.d4 c6 (or 4...e5) 5.Nf3 Nf6 6.Bc4 Bf5 (6...Bg4 is a different option. Even though Black has shown that ...Bf5 can be an excellent move, trading the bishop for the knight after 6...Bg4 7.h3 Bxf3 removes the knight, which if not removed, will find its way to e5 with excellent prospects.) 7.Bd2 e6. White has a few options, such as the aggressive 8.Qe2, or the quiet 8.0-0. Black's pawn structure (pawns on e6 and c6) resemble a Caro–Kann Defence structure, therefore many Caro–Kann players wishing to expand their repertoire have adopted this form of the Scandinavian.
 Another setup after 3...Qa5 is to target the b7-pawn by fianchettoing the bishop on the h1–a8 diagonal, instead of placing it on the a2–g8 diagonal, by 4.g3 Nf6 5.Bg2 c6 6.Nf3 followed by 0-0, Rb1, and then exploiting the b7-pawn by b4–b5. The line with 4.g3 has been tried by Anand,[13] Baadur Jobava,[14] Gyula Sax,[15] and Francisco Vallejo Pons[16] among others.
 A more speculative approach against 3...Qa5 is 4.b4?!, described by Nigel Davies as an "ancient gambit line".[17] Grandmasters who have ventured this line as White include Lasker,[18][19] Capablanca,[20] and Paul Keres.[21] If Black plays correctly, White should not have sufficient compensation for the sacrificed pawn, but it can be difficult to prove this over the board. Davies suggests delaying the gambit with 4.Nf3 Nf6 5.b4 Qxb4 6.a4!?, with the idea of Bc1–a3, as a possible way to rehabilitate this line.[22]
 
-3...Qd8[edit]
+3...Qd8 (Valencian Variation)[edit]
 The retreat with 3...Qd8 was depicted in Castellvi–Vinyoles, the Valencian Variation,[23] may be the oldest of all Scandinavian lines. Prior to the 20th century, it was often considered the main line, and was characterized as "best" by Howard Staunton in his Chess-Player's Handbook,[24] but was gradually superseded by 3...Qa5. In the 1960s, 3...Qd8 experienced something of a revival after the move was played in a game by Bronstein against GM Andrija Fuderer in 1959, although Bronstein ultimately lost the game.[25] Bronstein's game featured the older line 4.d4 Nf6, while other grandmasters, including Karl Robatsch, explored fianchetto systems with 4.d4 g6 and a later ...Ng8–h6.
 The line's reputation suffered after a string of defeats, however, including two well-known miniatures won by Bobby Fischer against Robatsch in the 1962 Chess Olympiad (later published in My 60 Memorable Games) and William Addison in 1970. The variation with 4...g6 "has been under a cloud ever since [Fischer's] crushing win",[26] but the 3...Qd8 variation as a whole remains playable, although it is now considered somewhat passive. It is played particularly by IMs John Bartholomew and Daniel Lowinger, and by the GMs David Garcia Ilundain and Nikola Djukic.
 
-3...Qd6[edit]
+3...Qd6 (Gubinsky-Melts Defense)[edit]
 This move, called the Gubinsky-Melts Defense, offers another way to play against 3.Nc3, and it has been growing in popularity in recent years. At first sight the move may look dubious, exposing the queen to a later Nb5 or Bf4, and for many years it was poorly regarded for this reason. Numerous grandmaster games have since shown 3...Qd6 to be quite playable, however, and it has been played many times in high-level chess since the mid-1990s. White players against this line have found an effective setup with d4, Nf3, g3, Bg2, 0-0, and a future Ne5 with a strong, active position. The variation was covered thoroughly in a 2002 book by Michael Melts.
 
 Other third moves for Black[edit]
@@ -53,7 +53,7 @@ Alternatives to 3.Nc3 include 3.d4, which can transpose into a variation of the 
 3.Nf3[edit]
 Another common response after 2...Qxd5 is the noncommittal 3.Nf3. After 3...Bg4 4.Be2 Nc6, White can transpose to main lines with 5.d4, but has other options, such as 5.0-0.
 
-2...Nf6[edit]
+2...Nf6 (Modern Variation)[edit]
 The other main branch of the Scandinavian Defense is 2...Nf6. The idea is to delay capturing the d5-pawn for another move, avoiding the loss of time that Black suffers in the ...Qxd5 lines after 3.Nc3. Now White has several possibilities:
 The Modern Variation is 3.d4. GM John Emms calls this the main line of the 2...Nf6 variations, saying that "3.d4 is the common choice for White...and it is easy to see why it is so popular."[28] The idea behind the Modern Variation is to give back the pawn in order to achieve quick development. 3...Nxd5 is the most obvious reply, although 3...Qxd5 is sometimes seen. Black wins back the pawn, but White can gain some time by attacking the knight. White usually responds 4.c4, when the knight must move. 
 The most common responses are: 
@@ -516,4 +516,4 @@ United States
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1183207487"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1185763175"

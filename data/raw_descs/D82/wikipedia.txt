@@ -41,7 +41,7 @@ Smyslov Variation: 7...Bg4 8.Be3 Nfd7 [edit]
 Named after Vasily Smyslov, 7...Bg4 8.Be3 Nfd7 was a topical line from the 1950s through the mid-1970s.
 
 Prins Variation: 7...Na6 [edit]
-7...Na6 (Lodewijk Prins's) idea, which Kasparov favoured in several of his World Championship matches against Karpov.[5]
+7...Na6 is Lodewijk Prins's idea, which Kasparov favoured in several of his World Championship matches against Karpov.[5]
 
 Byrne Variation: 7...Nc6 [edit]
 This line is commonly seen in recent games.[6] After 7...Nc6, White will most commonly play 8.Be2, followed by 8...e5! 9.d5 Nd4 10.Nxd4 exd4 11.Qxd4. A pawn sacrifice to develop Black's pieces and generate active counterplay.
@@ -453,4 +453,4 @@ United States
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Grünfeld_Defence&oldid=1168006252"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Grünfeld_Defence&oldid=1185882343"

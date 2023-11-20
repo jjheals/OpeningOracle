@@ -4,6 +4,7 @@ from classes.Opening import *
 from re import sub
 from bs4 import BeautifulSoup
 from os import mkdir, path
+from nltk.corpus import stopwords
 
 ''' class Scraper 
 
@@ -48,6 +49,7 @@ class Scraper:
     # STATIC ATTRIBUTES 
     headers:dict[str,str] = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
     chess_com_url:str = "https://www.chess.com/callback/eco/advanced-search?keyword=&useFavorites=false&page="
+    stopwords = stopwords.words('english') 
     
     # The divs containing the content of interest for each site we scrape
     # NOTE: the keys are tuples with (attribute_type, attribute_name) where attribute_type is 0 (class) or 1 (id) 
@@ -217,7 +219,7 @@ class Scraper:
         text = sub(r'\n', ' ', text)        # Remove newlines
         
         # Split the text on spaces, convert to lower, and strip whitespace from each token 
-        tokens = [s.lower().strip() for s in text.split(' ') if not s.isspace() and s]
+        tokens = [s.lower().strip() for s in text.split(' ') if not s.isspace() and s and not s.lower() in Scraper.stopwords]
         
         return tokens
         

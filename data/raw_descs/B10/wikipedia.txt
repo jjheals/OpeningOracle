@@ -1,4 +1,4 @@
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Caro–Kann Defence" – news · newspapers · books · scholar · JSTOR (July 2022) (Learn how and when to remove this template message)Chess openingCaro–Kann Defence
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Caro–Kann Defence" – news · newspapers · books · scholar · JSTOR (July 2022) (template removal help)Chess openingCaro–Kann Defence
 abcdefgh8877665544332211abcdefghMoves1.e4 c6ECOB10–B19OriginBruederschaft (journal), 1886Named afterHoratio Caro  and Marcus KannParentKing's Pawn Game
 The Caro–Kann Defence is a chess opening characterised by the moves:
 
@@ -209,7 +209,7 @@ References[edit]
 
 ^ Alekhine vs. R. Bruce, Plymouth 1938. Chessgames.com. Retrieved on 2009-04-14.
 
-^ The Dunst: Attacking the Caro–Kann with an early Queen sortie
+^ "The Dunst: Attacking the Caro–Kann with an early Queen sortie". Archived from the original on 2011-03-01. Retrieved 2011-02-03.
 
 ^ "Chess Analysis Board - Database". lichess.org. Retrieved 19 September 2021.
 
@@ -558,4 +558,4 @@ United States
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Caro–Kann_Defence&oldid=1178599384"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Caro–Kann_Defence&oldid=1185593417"
