@@ -6,41 +6,52 @@ import ReactDOM from 'react-dom';
 //import { ThemeProvider, createTheme } from '@mui/material/styles';
 import axios from 'axios'; 
 
-const theme = createTheme();
-const baseURL = "https://jsonplaceholder.typicode.com/posts";
-
+//const theme = createTheme();
+const baseURL = "http://localhost:8080";
 
 function App() {
-  const [post, setPost] = React.useState(null);
+  const [userMessage, setUserMessage] = React.useState(null);
+  const [responseBody, setResponseBody] = React.useState(null);
 
-  function createPost() {
+  function clickSubmitButton(e) {
+    e.preventDefault();
+
+    const form = e.target;
+    const formData = new FormData(form);
+    const userMessage = Object.fromEntries(formData.entries()).userInput;
+
+    setResponseBody("...");
+
     axios
-      .post(baseURL, {
-        title: "Hello World!",
-        body: "This is a new post."
+      .post(baseURL + "/postRequestOpening", {
+        message: userMessage
       })
       .then((response) => {
-        setPost(response.data);
-      });
+        console.log(response.data.message)
+        setResponseBody(response.data.message);
+    });
   }
   
-  if (!post) return "No post!"
-
   return (
     <div className="App">
       <header className="App-header">
         <p style={{color: "red"}}>OpeningOracle</p>
-        <MessageBox id="InputBox" />
+        
+        <form method="post" onSubmit={clickSubmitButton}>
+          <label>
+            Type here: <input name="userInput" defaultValue="" />
+          </label>
+          <button type="submit">Send Message</button>
+        </form>
+
+        { responseBody != null ? <p>{responseBody}</p> : <p></p> }
       </header>
-     <h1>{post.title}</h1>
-     <p>{post.body}</p>
-     <button onClick={createPost}>Create Post</button>
    </div>
   );
 }
 
-ReactDOM.render(
+/* ReactDOM.render(
   document.getElementById('root')
-);
+); */
 
 export default App;
