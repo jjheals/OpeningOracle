@@ -1,0 +1,102 @@
+
+The Two Knights Defense is one of Black's possible responses to the Italian Game, an opening White can play after starting with 1.e4. It's one of the oldest defenses in chess, dating as far as the 1500s. This opening is suitable for players of all strength levels and is very common among beginners.
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+Fried Liver Attack
+Knight Attack, Polerio Defense
+Modern Bishop's Opening
+Open Variation
+
+
+Best Scoring Lines For White In The Two Knights Defense
+
+Modern Bishop's Opening
+Polerio Defense, Bishop Check Line
+
+
+Best Scoring Lines For Black In The Two Knights Defense
+
+Giuoco Piano
+Modern Bishop's Opening
+Polerio Defense
+
+
+History Of The Two Knights Defense
+Famous Games
+Conclusion
+
+
+Starting Position
+The Two Knights Defense starts after the moves 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6. Black responds to White's Italian Game more aggressively than the usual Giuoco Piano by developing a knight and inviting White to attack the f7-pawn.
+
+The starting position of the Two Knights Defense.
+
+The idea behind Black's third move is to trade a pawn for rapid piece development in case White decides to attack the f7-pawn immediately.
+Pros
+
+Black fights for the initiative
+It can result in an original gambit-style game.
+Black can develop the f8-bishop to squares other than c5.
+
+Cons
+
+White can virtually win a pawn by force.
+White gets to choose between sharp, gambit play or a slow game.
+
+Variations
+When Black plays the Two Knights Defense, White can choose a positional or an aggressive approach. The critical lines come with the latter when White accepts Black's challenge and immediately attacks the f7-pawn. However, the Black player needs to know the most popular lines in either case.
+Fried Liver Attack
+The Fried Liver Attack is the most dangerous line for Black, with White winning 86% of games. This variation occurs after the moves 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7. White sacrifices a knight to take the f7-pawn and fork Black's queen and rook, forcing Black to respond with 6...Kxf7.
+The point of this maneuver is that White can force the black king to the middle of the board, where it'll be tough for Black to keep it safe. White's initiative more than compensates for the material disadvantage. For this reason, Black should avoid the Fried Liver and instead enter the Polerio Defense.
+
+Knight Attack, Polerio Defense
+The Polerio Defense is the most accurate way of playing against the Knight Attack. Black enters this line after the moves 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5. Instead of recapturing the pawn on d5, Black focuses on piece development and attacks White's bishop. White will either lose the bishop pair or invest another tempo moving their bishop to a suboptimal square.
+
+Modern Bishop's Opening
+White's most popular response by far is to ignore Black's 3...Nc6 tease and play normal developing moves. The game then enters the Modern Bishop's Opening with 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3. White defends the e4-pawn and opens up the diagonal for their dark-squared bishop. From there, the game can either transpose to the Giuoco Piano or remain in the Two Knights Defense.
+
+Open Variation
+Another way for White to play is with 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4. White strikes on the center immediately, focusing on development rather than material. However, the Open Variation is one of the worst-scoring lines for White—which explains why masters rarely employ it.
+
+Best Scoring Lines For White In The Two Knights Defense
+As mentioned above, White gets to choose the style of game that suits them best. Players can adopt an aggressive approach or a positional game. Below you can see the best-scoring lines in each case:
+Modern Bishop's Opening
+For the positional player, the Modern Bishop's Opening with 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 is the best way to go. White wins 38% of games in this variation, draws 32%, and loses 29%.
+
+Polerio Defense, Bishop Check Line
+For the more tactical players, the Bishop Check Line of the Polerio Defense is the best scoring. After 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ White wins 43% of games, draws 22%, and loses 35%. White scores even better after the popular moves 6...c6 7.dxc6 bxc6 Bd3, winning 48%, drawing 23%, and losing 29%.
+
+Of course, White should not rshy away from playing the Fried Liver if Black allows it.
+Best Scoring Lines For Black In The Two Knights Defense
+The Black player who chooses the Two Knights Defense must know how to reply to White's positional or tactical responses. Below you can see the best-scoring lines for Black in either type of game:
+Giuoco Piano
+If White goes for the positional approach with 4.d3, transposing to the Giuoco Piano of the Italian Game is the best-scoring system for Black. After 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5, Black wins 30%, draws 34%, and loses 36%.
+
+Modern Bishop's Opening
+The main line of the Modern Bishop's Opening is another good-scoring line for Black. This variation is a good fit for the Black player who wants to keep the game in the Two Knights Defense territory but maintain a solid position. It occurs after 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 and Black wins 28%, draws 33%, and loses 39% in master games. Although it scores worse than the Giuoco Piano among professionals, this line scores better among club players.
+
+Polerio Defense
+If White opts for the tactical approach and plays 4.Ng5, Black should play the Polerio Defense. After 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 Black wins 36%, draws 22%, and loses 42%.
+
+History Of The Two Knights Defense
+The Two Knights Defense is one of the oldest openings in chess history. Polerio was the first to record and analyze it around 1580. Much of its theory was developed during the 19th century by players such as Karel Traxler and Lionel Kieseritzky.
+The opening's reputation remained solid among top players throughout the years. The opening is not as common in elite-level games, but mainly because grandmasters playing White usually prefer the Ruy Lopez instead of the Italian Game. However, Mikhail Chigorin and GMs Paul Keres, Mikhail Tal, and Boris Spassky are only a few of the great players who employed it during their careers.
+Famous Games
+There are several famous games in the Two Knights Defense. Below you can see a few of the notable examples of top-level players employing this opening.
+Max Euwe vs. Richard Reti, 1920
+
+Belov vs. Nezhmetdinov, 1961
+
+Magnus Carlsen vs. Bu Xiangzhi, 2017
+
+Polerio vs. Domenico, 1610
+
+Conclusion
+You now know what the Two Knights Defense is, how to play it, its main variations, its history, and more. Head over to our Master Games page to study this opening and learn even more about it!

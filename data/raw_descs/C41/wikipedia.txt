@@ -1,0 +1,510 @@
+Chess opening
+Chess openingPhilidor Defence
+abcdefgh8877665544332211abcdefgh
+Moves1.e4 e5 2.Nf3 d6ECOC41Named afterFrançois-André Danican PhilidorParentKing's Knight OpeningSynonym(s)Philidor's Defence
+The Philidor Defence (or Philidor's Defence) is a chess opening characterised by the moves:
+
+1. e4 e5
+2. Nf3 d6
+The opening is named after the famous 18th-century player François-André Danican Philidor, who advocated it as an alternative to the common 2...Nc6. His original idea was to challenge White's centre by the pawn thrust ...f7–f5.
+Today, the Philidor is known as a solid but passive choice for Black, and is seldom seen in top-level play except as an alternative to the heavily analysed openings that can ensue after the normal 2...Nc6. It is considered a good opening for amateur players who seek a defensive strategy that is simpler and easier to understand than the complex positions that result from an opening such as the French Defence.
+The Encyclopaedia of Chess Openings code for Philidor Defence is C41.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Use[edit]
+The Philidor occurred in one of the most famous games ever played, "The Opera Game" played in 1858 between the American chess master Paul Morphy and two strong amateurs, the German noble Duke Karl of Brunswick and the French aristocrat Count Isouard. The game continued 3.d4 Bg4, a deviation from modern standard lines. The Philidor Defence declined in popularity as positional play became more developed, and it had almost completely vanished from top-tier chess by World War I.
+As of 2017[update], there are no top players who employ the Philidor with regularity, although Étienne Bacrot and Liviu-Dieter Nisipeanu have occasionally experimented with it in classical play. Its popularity in master play has increased slightly, however, over the last 20 years. It has also become fairly popular in rapid, blitz, and bullet chess.[1]
+
+Main line: 3.d4 [edit]
+With 3.d4, White immediately challenges Black in the centre. Black has several options.
+
+3...exd4[edit]
+The most common Black response is 3...exd4 which relieves the central tension, although it gives up the centre. After 4.Nxd4 Nf6 (4...d5 5.exd5, the Paulsen Attack,[2] continues 5...Qxd5 6.Qe2+ Be7 7.Nb5 Na6 8.N1c3+/= Paulsen[3]) 5.Nc3, Black normally continues ...Be7 and ...0-0 (the Antoshin Variation) and achieves a strong defensive position. A sample line is: 5...Be7 6.Bc4 0-0 7.0-0 c5, and the position is equal. 
+In this line Black can also fianchetto his bishop to g7, although this is uncommon. Bent Larsen tried this in a few games, including a draw against Mikhail Tal in 1969.[4]
+Instead of 4.Nxd4, White can play 4.Qxd4, as Paul Morphy favoured, intending 4...Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 followed by 0-0-0. This line was played in many 19th-century games.
+
+Hanham Variation[edit]
+
+abcdefgh8877665544332211abcdefghPosition after 7...c6. Black's aim in the Hanham is a strongpoint defence of e5.
+
+The other main option for Black is to maintain the central tension and adopt a setup with ...Nd7, ...Be7, and ...c6. This plan is named the Hanham Variation (after the American chess master James Moore Hanham) and was favoured by Aron Nimzowitsch. A common line is: 3...Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.0-0 (6.Ng5 is an interesting alternative: after 6...0-0 7.Bxf7+ Rxf7 8.Ne6 Qe8 9.Nxc7 Qd8 10.Nxa8, White is up material, but Black can develop a strong initiative after, for example, 10...b5 11.Nxb5 Qa5+) 6...0-0 7.a4 (to prevent ...b5) c6 (see diagram).
+Grandmaster (GM) Larry Kaufman notes that the Hanham Variation aims to maintain Black's pawn on e5, analogously to closed lines of the Ruy Lopez, and opines that "it would be quite popular and on a par with the major defences to 1.e4, except for the annoying detail that Black can't actually reach the Hanham position by force."[5]
+As an alternative to 4.Nc3 in response to Black's 3...Nf6, according to both Kaufman and GM Christian Bauer, White retains some advantage with: 4.dxe5! Nxe4 5.Qd5! (the Rellstab Variation;[6] 5.Nbd2 is the Sokolsky Variation[7]) 5...Nc5 6.Bg5 Be7 7.exd6 Qxd6 8.Nc3.[8][9]
+
+Alternative move order[edit]
+Black sometimes tries 3...Nd7 intending 4.Nc3 Ngf6, reaching the Hanham Variation. But then 4.Bc4! is awkward for Black to meet, since 4...Ngf6 loses to 5.dxe5 Nxe5 (5...dxe5?? 6.Ng5! wins) 6.Nxe5 dxe5 7.Bxf7+ Kxf7 8.Qxd8 Bb4+ 9.Qd2 Bxd2+ 10.Nxd2 winning a pawn, and 4...Be7 loses a pawn to 5.dxe5 Nxe5 (5...dxe5?? 6.Qd5! wins) 6.Nxe5 dxe5 7.Qh5![8][10] So 4...c6 is best for Black, but leaves White with the advantage of the bishop pair after 5.0-0 Be7 6.dxe5 dxe5 (6...Nxe5 loses a pawn to 7.Nxe5 dxe5 8.Qh5) 7.Ng5! Bxg5 8.Qh5! Qe7 and now 9.Bxg5 or 9.Qxg5.[11]
+
+Black experiments to reach the Hanham Variation[edit]
+In recent years, Black has experimented with other move orders in an attempt to reach the Hanham Variation while avoiding 3...Nf6 4.dxe5! and 3...Nd7 4.Bc4! 
+
+One such line is 1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7 intending 4.Nf3 e5. White can deviate, however, with 4.f4!?[12][13] or even 4.g4!?[14]
+Another try is 1.e4 d6 2.d4 Nf6 3.Nc3 e5 which transposes to the Hanham after 4.Nf3 Nbd7, but White can instead try to gain a small advantage with 4.dxe5 (Kaufman opines that 4.Nge2 is "also promising") 4...dxe5 5.Qxd8+ Kxd8 6.Bc4.[13] After 4.dxe5, Bauer concludes that "White stands a trifle better", but that "provided he plays accurately, Black doesn't have much to fear following 6.Bc4, by choosing any of the three valid replies, 6...Ke8, 6...Bb4, or 6...Be6. Then 7.Bxe6 fxe6 his position remains a hard nut to crack."[15]
+Philidor Countergambit: 3...f5 [edit]
+
+abcdefgh8877665544332211abcdefgh Philidor Countergambit: 3...f5!?
+
+A more aggressive approach for Black after 3.d4 is 3...f5!? (diagram), Philidor's original intention and recommendation. In the 19th century, 3...f5 was also played by Paul Morphy. The move can lead to more open positions than the other lines, but is often considered dubious.[16][17] Others maintain that 3...f5 is a valid idea. GM Tony Kosten considers the move respectable in his monograph on the opening.[18] The move was also played by David Bronstein and by Teimour Radjabov.
+After 3...f5 White has several ways to proceed:
+
+4.Nc3 (the Zukertort Variation[19]) and White obtains a clear advantage:
+4...fxe4 5.Nxe4 d5 (if 5...Nf6 6.Nxf6 gxf6 7.dxe5 fxe5 8.Bc4 Qf6 9.Ng5+/− Polugaevsky[20]) 6.Nxe5 dxe4 7.Qh5+ g6 8.Nxg6 Nf6 (if 8...hxg6 9.Qxh8 Be6 10.Qe5+/− Larsen) 9.Qe5+ Kf7 (if 9...Be7 10.Nxh8 Nc6 11.Bb5 Qd5 12.Bg5+/− Zukertort[21]) 10.Bc4+ Kg7 11.Bh6+ Kxh6 12.Nxh8 Bb4+ 13.c3 Qxh8 14.cxb4+/− (Keres).[22]
+4...exd4 5.Qxd4 fxe4 (if 5...Nf6 6.e5![23]) 6.Bg5 Nf6 7.Nxe4 Be7 8.Bc4 Nc6 9.Qe3+/− (Sozin).[24]
+4...Nf6 5.dxe5 Nxe4 6.Nxe4 fxe4 7.Ng5 d5 8.e6 Bc5 9.Nxe4!+/− (Sozin, Sokolsky).[23]
+4.Bc4 leads to clear advantage for White:
+4...exd4 5.Ng5 Nh6 6.0-0 (6.Nxh7, the Jaenisch Variation,[25] leads to an unclear position after 6...Ng4! 7.Nxf8 Kxf8 8.Qxd4 Nc6[26]) 6...Nc6 7.Re1 f4 (or 7...fxe4 8.Nxe4 Ne5 9.Bxh6 gxh6 10.f4 Nxc4 11.Nxd6+ +/−) 8.Bxf4 Qf6 9.Qd2 Ne5 10.Be2 Bg4 11.f3 Bd7 12.Bg3 0-0-0 13.f4+/−.[27]
+4...Nf6 5.Ng5 Qe7 (or 5...d5 6.dxe5 dxc4 7.Qxd8+ Kxd8 8.exf6+/−) 6.Bf7+ Kd8 7.Bb3 exd4 8.0-0+/− (Berger).[26]
+4...fxe4 5.Nxe5 d5 6.Qh5+ g6 7.Nxg6 Nf6 8.Qe5+ Be7 and continuing either 9.Qxe7+,[23] 9.Nxh8 (Steinitz),[27] or 9.Bb5+ (Keres).[27]
+4.dxe5 forces Black to complicate matters further with 4...fxe4 5.Ng5 d5 with an unclear position.[27]
+After 6.e6 (the del Rio Attack[28]), White obtains the upper hand after 6...Bc5 7.Nc3 (the Berger Variation[29]), or 6...Nh6 7.Nc3! (Berger);[30] however, Black can maintain lack of clarity with 6...Nf6!? 7.Nf7 Qe7 8.Nxh8 Bxe6, or 6...Bb4+ 7.c3 Bc5 8.Nf7 Qf6 9.Be3 Bxe6 10.Nxh8 Bxe3 11.fxe3 Qh4+ 12.g3 Qh6 13.Qd2 Nd7 14.c4 Ne5 15.Be2 dxc4 16.Nc3 Nd3+ 17.Bxd3 exd3 (Makarov).[30][31]
+White also has 6.Nc3!? (Steinitz) and 6.c4.[32]
+4.exf5 e4 5.Ng5 Bxf5 6.Nc3 and White has a slight plus after 6...Nf6 7.f3 (Sozin),[33] or 6...d5 7.f3.[23]
+3...Bg4?![edit]
+Inferior is 3...Bg4?!, in light of 4.dxe5 Bxf3 (Black cannot recapture since 4...dxe5? 5.Qxd8+ Kxd8 6.Nxe5 wins a clean pawn; or, Black can gambit a pawn with 4...Nd7, the Albin Variation[34]) 5.Qxf3 (or White can obtain an endgame advantage with 5.gxf3 dxe5 6.Qxd8+ Kxd8 7.f4+/− Maróczy[35]) 5...dxe5 6.Bc4 giving White the advantage of the bishop pair in an open position as well as a large development advantage. Black cannot block the attack on the f7-pawn with the "natural" 6...Nf6? because White wins a pawn with 7.Qb3 (played in the famous "Opera Game", where Morphy as White refrained from taking the b7-pawn and retained a strong initiative after 7...Qe7 8.Nc3). Black does better with 6...Qf6 7.Qb3 Bc5 8.0-0 Bb6 9.a4 a5 10.Nc3 Ne7 11.Be3 Nd7 12.Rad1+/−, or 6...Qd7!? (Maróczy).[35]
+
+Other 3rd moves for White[edit]
+An alternative approach for White is 3.Bc4, delaying d2–d4, or forgoing it entirely, playing d2–d3 instead. The move 3.Bc4 is also White's route to a possible Légal Trap. Some continuations: 
+
+3...Nc6 transposes to the Semi-Italian Opening.[36]
+3...f5 is the López Countergambit:[37]
+4.d4 transposes to the Philidor Countergambit.[38]
+Or unique positions can be obtained such as 4.d3 c6, possibly followed by ...f5–f4, ...b7–b5, ...a7–a5, and even ...g7–g5 and ...h7–h5, where all black pawns have moved before any piece.[39]
+Or Black can try 3...Be7!?[38] e.g. 4.0-0 (4.c3 is the Steinitz Variation[40]) Nf6 5.Re1 0-0 6.d4 exd4 7.Nxd4 a6.[41]
+Against the alternative 3.c3, Black can try 3...f5 (3...Nc6 4.d4 Nf6 transposes to the Ponziani Opening) 4.exf5 Bxf5 5.Qb3 Nf6 6.Ng5 d5 7.Qxb7 Nbd7 8.Qc6 Bd6 with compensation and initiative.[38]
+
+See also[edit]
+List of chess openings
+List of chess openings named after people
+References[edit]
+
+
+^ "The Philidor". Chessgames.com.
+
+^ Hooper & Whyld 1996, p. 293. Paulsen Attack.
+
+^ Matanović 1997 (Vol C), p. 214, n. 19.
+
+^ "Mikhail Tal vs. Bent Larsen, Eersel NED (1969)". Chessgames.com.
+
+^ Kaufman 2004, p. 65.
+
+^ Hooper & Whyld 1996, p. 334. Rellstab Variation.
+
+^ Hooper & Whyld 1996, p. 378. Sokolsky Variation.
+
+^ a b Kaufman 2004, p. 69.
+
+^ Bauer 2006, p. 32.
+
+^ Bauer 2006, p. 16.
+
+^ Bauer 2006, pp. 17–22.
+
+^ Bauer 2006, p. 179.
+
+^ a b Kaufman 2004, p. 199.
+
+^ Bauer 2006, pp. 197–206.
+
+^ Bauer 2006, p. 174.
+
+^ Kaufman 2004, p. 22.
+
+^ Bauer 2006, pp. 22–32.
+
+^ Tony Kosten, Winning with the Philidor, Batsford Chess, 1992.
+
+^ Hooper & Whyld 1996, p. 460. Zukertort Variation.
+
+^ Matanović 1981 (Vol C), p. 196, n. 21.
+
+^ Matanović 1981 (Vol C), p. 197, n. 24.
+
+^ Matanović 1997 (Vol C), p. 214, n. 6.
+
+^ a b c d Korn 1982, p. 16, n. (p).
+
+^ Matanović 1997 (Vol C), p. 214, n. 3.
+
+^ Hooper & Whyld 1996, p. 185. Jaenisch Variation.
+
+^ a b Matanović 1981 (Vol C), p. 196, n. 14.
+
+^ a b c d Matanović 1997 (Vol C), p. 214, n. 2.
+
+^ Hooper & Whyld 1996, p. 104. del Rio Attack.
+
+^ Hooper & Whyld 1996, p. 36. Berger Variation.
+
+^ a b Matanović 1981 (Vol C), p. 196, n. 10.
+
+^ Matanović 1981 (Vol C), p. 196, n. 13.
+
+^ Matanović 1981 (Vol C), p. 196, n. 9.
+
+^ Matanović 1981 (Vol C), p. 196, n. 8.
+
+^ Hooper & Whyld 1996, p. 6. Albin Variation.
+
+^ a b Matanović 1981 (Vol C), p. 196, n. 7.
+
+^ Matanović 1997 (Vol C), p. 214, n. 1.
+
+^ Hooper & Whyld 1996, p. 234. López Countergambit.
+
+^ a b c Matanović 1981 (Vol C), p. 196, n. 2.
+
+^ François André Philidor, Analyse du jeu des Échecs, 1749.
+
+^ Hooper & Whyld 1996, p. 398. Steinitz Variation.
+
+^ Kasparov & Keene 1982, p. 294.
+
+
+Bibliography
+
+Bauer, Christian (2006). The Philidor Files. Everyman Chess. ISBN 1-85744-436-1.
+Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. The Oxford Companion to Chess (2nd ed.). Oxford University Press. ISBN 978-0-19-280049-7.
+Kasparov, Gary; Keene, Raymond (1982). Batsford Chess Openings. American Chess Promotions. ISBN 978-0-7134-2112-5.
+Kaufman, Larry (2004). The Chess Advantage in Black and White. McKay Chess Library. ISBN 0-8129-3571-3.
+Korn, Walter (1982). Modern Chess Openings (12th ed.). David McKay Company, Inc. ISBN 978-0-679-13500-5.
+Matanović, Aleksandar, ed. (1981). Encyclopaedia of Chess Openings. Vol. C (2nd ed.). Yugoslavia: Chess Informant.
+Matanović, Aleksandar, ed. (1997). Encyclopaedia of Chess Openings. Vol. C (3rd ed.). Yugoslavia: Chess Informant. ISBN 978-86-7297-035-7.
+Further reading[edit]
+Barsky, Vladimir (2010). The Modern Philidor Defence. Chess Stars. ISBN 978-954-8782-77-7.
+External links[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Philidor Defence
+
+Opening overview
+
+vteFrançois-André Danican PhilidorList of operasOpera
+Blaise le savetier (1759)
+Le maréchal ferrant (1761)
+Tom Jones (1765)
+Ernelinde (1767)
+Les femmes vengées (1775)
+Persée (1780)
+Thémistocle (1785)
+Chess
+Philidor Defence
+Philidor's mate
+Philidor position
+People
+Jean Danican Philidor (grandfather)
+André Danican Philidor (father)
+Anne Danican Philidor (brother)
+ Category
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Philidor_Defence&oldid=1183177664"

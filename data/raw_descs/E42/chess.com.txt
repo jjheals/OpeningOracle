@@ -1,0 +1,13 @@
+
+After 4.e3 against the Nimzo Indian, following Akiba Rubinstein's original idea with 5.Ne2 is possible - this is called the 'Rubinstein Variation'. White prepares to play a3 and recapture on c3 with the knight from e2, thus avoiding doubled pawns.
+Pros:
+
+White avoids doubled pawns
+White may get the two bishops.
+
+Cons:
+
+The knight on e2 impedes the Bf1
+White's development is slower
+Black can avoid giving up the two bishops
+

@@ -1,0 +1,17 @@
+
+The ancient King Pawn opening, "best by test" according to Bobby Fischer and perhaps the oldest first move in the modern version of chess. This is the most aggressive and most attacking first move because it immediately stakes a claim to the center and frees up the queen and king bishop.
+
+Pros:
+
+Control of key central squares
+Rapid development
+Quick kingside castling
+
+
+Cons: 
+
+Requires more precise opening knowledge
+Less long term pressure if Black defends
+
+
+Famous Practitioners: Bobby Fischer, Paul Morphy 

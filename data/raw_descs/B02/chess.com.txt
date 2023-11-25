@@ -1,0 +1,87 @@
+
+Alekhine's Defense is a hypermodern response to 1.e4. Black lets White establish a presence in the center with the goal of proving it overextended. Although 1...Nf6 is only Black's eighth-most popular response to 1.e4, it scores as well as some much more common moves like the #3 French (1...e6) and #5 Pirc (1...d6).
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+Modern Variation
+Exchange Variation
+Four Pawns Attack
+Other Variations
+
+
+How To Play Against The Alekhine
+History
+Famous Games
+Conclusion
+
+Starting Position
+The Alekhine Defense is 1.e4 Nf6. Games almost always continue 2.e5 Nd5 followed mostly by 3.d4 d6. Black's third move is the first little poke at White's center.
+
+Pros
+
+Original
+Tricky
+Less common, so opponents won't know as much
+
+Cons
+
+White gains central space
+Black has to move the knight several times
+Risky
+
+Variations
+White has two main fourth moves in Alekhine's Defense: 4.Nf3, the Modern Variation, and 4.c4 Nb6, which turns into the Exchange Variation after 5.exd6 or the Four Pawns Attack after 5.f4.
+
+
+
+White and Black have the same main goals in each variation: White is trying to hold ground in the center and Black is trying to take it down.
+Modern Variation
+The Modern Variation is White's most popular choice, focusing on development to support the center with pieces. It is called the Modern in comparison to the more classical approach of continuing to place pawns in the center.
+Black's main responses are the Main Line 4...Bg4, the Alburt Variation 4...g6, and the Larsen Variation 4...dxe5. 
+
+The Modern Variation, and Black's key responses.
+
+All three moves fight for e5: the Main Line pins one of White's defenders of the square; the Alburt Variation will hit e5 after the ...Bg7 fianchetto; and the Larsen Variation simply captures White's occupant of the square.
+Exchange Variation
+After 4.c4 Nb6 5.exd6, Black can and does recapture all three ways, but almost always with one of the pawns. (Although 5...) Black can either keep pawn structure symmetry with 5...exd6, or go for imbalance [and a central pawn majority] with 5...cxd6. Both moves are about equally popular, with a slight edge to the c-pawn recapture.
+
+The Exchange Variation, with Black's recapture options. Although 5...Qxd6 is unpopular, note that the fork 6.c5 does not actually win a piece, because 6...Qe6+ gives the knight time to escape as well.
+
+Four Pawns Attack
+The Four Pawns Attack is White's most confrontational response to Alekhine's Defense. Although it establishes a gigantic center, White gives Black much better statistical chances than in the Exchange Variation. The main continuation for Black is 5...dxe5, but 5...Bf5 and 5...g6 can also be played.
+
+The Four Pawns Attack with Black's main responses. White's center looks imposing but it is not indestructible.
+
+The Four Pawns is also the most important line in Alekhine theory: If it were crushing for White, the entire opening would be dubious, but as things are Black has enough counterplay.
+Other Variations
+Instead of 2.e5, a beginner may be tempted to protect the e-pawn with 2.d3. This is called the Maroczy Variation but it is extremely passive and scores poorly after 2...e5 by Black.
+Black on move two can also play the rather amusing 2...Ng8 instead of 2...Nd5. This is called the Brooklyn Variation, but it is a bit too provocative to be recommended.
+
+No, White is not cheating. It's just the Brooklyn after two moves.
+
+3.c4 on move three is the Two Pawns Attack. It usually transposes with White playing 4.d4 next, as 4.c5 Nd5 performs well for Black, with the d5-knight now untouchable by White's pawns.
+3.Nc3 was Friedrich Samisch's move. White can recapture either way after 3...Nxc3 but the variation is not very testing of Black's idea behind the opening.
+How to Play Against the Alekhine
+The Modern Variation is White's most successful in addition to most popular. Black's responses to it all score about the same, with a slight edge to the Alburt Variation.
+Against the Exchange Variation, 5...exd6 results in many more draws (31%) because it maintains a symmetrical pawn structure. 5...cxd6 is better if Black needs a decisive result.
+Although the most common response to the Four Pawns is to capture on e5, Black scores better with 5...Bf5 (Trifunovic Variation) or 5...g6 (Fianchetto Variation).
+History
+Alexander Alekhine first played Alekhine's Defense at Budapest in 1921, scoring a win and a draw, and continued playing it during the 1920s. Alekhine did not create the opening, and games from the 19th century that begin with 1.e4 Nf6 can be found, but his use popularized it.
+
+Alekhine. Photo: Wikimedia, public domain.
+
+The opening first appeared in a world championship in 1935, but it was Max Euwe playing it against Alekhine! They drew the game. The only other player to ever use the opening in the classical world championship was GM Bobby Fischer in 1972, who scored a famous win over GM Boris Spassky in Game 13.
+GM Lev Alburt is one of the few grandmasters in history to use the Alekhine as a main weapon against 1.e4. The opening is also a favorite of Chess.com's NM Sam Copeland.
+Famous Games
+Fischer effectively wrapped up his world title in this marathon of a game, the 13th of the match, drawing the next seven contests before clinching the match in game 21.
+
+For a win with White against the Alekhine, few games are as stunning as GM Nigel Short's king walk against GM Jan Timman in 1991.
+
+Conclusion
+Alekhine's Defense isn't the most common way for Black to meet 1.e4, but it is effective in the right hands, and logical in its goal of creating targets in the opposing side's center. Study it more in our Chess.com Opening Explorer.

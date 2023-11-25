@@ -1,0 +1,70 @@
+
+The Pirc Defense is a hypermodern way for Black to respond to White's 1.e4. Relatively new, the Pirc revolves around a quick kingside fianchetto by black. Strong players such as GMs Vladimir Kramnik and Shakhriyar Mamedyarov frequently use the Pirc to fight for a win.
+Although players of all levels can play the Pirc, beginners should be careful when employing this opening. As with other hypermodern openings, White can use their central control and space advantage to roll over the unprepared Black player.
+
+Starting Position
+
+Pros
+Cons
+
+
+Main Variations Of The Pirc Defense
+
+Main Line
+Austrian Attack
+Classical Variation
+150 Attack
+Byrne Variation
+Sveshnikov System
+
+
+History Of The Pirc
+
+
+Starting Position
+The Pirc Defense (pronounced "peerts") starts after the moves 1.e4 d6. Instead of immediately occupying the center with another pawn, Black intends to control the center from a distance. Black eventually fianchettoes their dark-squared bishop on g7.
+
+The starting position of the Pirc Defense.
+
+Black allows White to push their central pawns with the idea to chip away at them later. They usually achieve this by using their g7-bishop in conjunction with either ...e5 or ...c5, intensifying their control over the central dark squares.
+Pros
+
+Black has a lot of freedom of different ways to play
+It is a tricky, active defense
+Black can easily provoke White
+
+Cons
+
+White has many different ways to combat the Pirc
+White has several aggressive options that lead to a raging attack
+White can also play carefully to restrict Black's game
+
+Main Variations Of The Pirc Defense
+The Pirc Defense is relatively new and not as heavy on theory as other classical openings. Below you can see the main variations of the Pirc, mainly dictated by White's setup.
+Main Line
+The main line of the Pirc goes 1.e4 d6 2.d4 Nf6 3.Nc3 g6. Black allows White to expand in the center, hoping to counterattack it later. The fianchettoed bishop on g7 and an eventual pawn break with ...e5 or ...c5 is a common strategy of this opening, as well as queenside expansion with either ...a6/c6 and ...b5.
+
+Austrian Attack
+The Austrian Attack is the most aggressive way for White to respond to the Pirc. After the moves 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4, White immediately grabs more central space. White's idea is to develop their pieces and start an attack by playing e4-e5. Black, on the other hand, will try to prove that the white pawns are overextended.
+
+Classical Variation
+The Classical System occurs after the moves 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3. White goes for a less ambitious setup, developing their pieces and accepting a less robust control over the center. In this setup, it's harder for Black to generate counterplay against their opponent's center. However, it's also harder for White to win the game if Black defends accurately.
+
+150 Attack
+The 150 Attack starts after 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3. White's idea is to place their queen on d2 to create a battery and exchange dark-squared bishops. After exchanging bishops, White proceeds to try to explore the weak dark squares on Black's kingside.
+
+This variation receives the name 150 Attack because British players who analyzed the position concluded that this variation is very straightforward. They considered it so easy to play that any reasonable club player with a 150 ECF grade (approximately 1800 Elo rating) could have a good game against a grandmaster using this variation.
+Byrne Variation
+The Byrne Variation starts after 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5 and is similar to the Austrian Attack. White develops the dark-squared bishop before playing the f2-f4 pawn push. White can then create a queen-and-bishop battery to contest the black g7-bishop like in the 150 Attack or develop the other proceed with a central pawn break.
+
+Sveshnikov System
+The Sveshnikov System occurs after 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.g3. White chooses a more positional approach, with the idea of reinforcing their central control by putting the light-squared bishop on the long diagonal and usually developing their king's knight to e2 instead of f3.
+
+History Of The Pirc
+Although there are records of players employing the Pirc as early as the mid-1800s, it only caught up around the 1950s. It was then that the Slovenian (at the time Yugoslav) grandmaster Vasja Pirc, the opening's namesake, helped popularize it.
+Before that, chess Classicists used to consider occupying the center as the only viable way of playing. It was only after the 1920s that players such as Aron Nimzowitsch, Richard Reti, Efim Bogoljubov, and other leading players of the time introduced the concept of hypermodern chess.
+
+Vasja Pirc, the Slovenian grandmaster who helped popularize the Pirc Defense. Photo: Wikimedia Commons, CC.
+
+According to them, a player doesn't have to occupy the center with pieces to control it. Instead, they can induce their opponent to overextend their central pawns and attack the weaknesses generated from a distance.
+As hypermodernism grew in acceptance, so did all the hypermodern openings such as the Pirc, King's Indian Defense, Queen's Indian Defense, Nimzo-Indian Defense, and others. The opening peaked in popularity during the 1970s and is still occasionally seen in elite-level games.

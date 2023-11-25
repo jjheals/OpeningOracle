@@ -1,0 +1,450 @@
+Chess openingBenoni Defense
+abcdefgh8877665544332211abcdefghMoves1.d4 c5ECOA43–A44 A56–A79OriginBen-Oni oder die Vertheidigungen gegen die Gambitzüge im Schache by Aaron Reinganum (1825)Named afterHebrew: "son of sorrow"ParentQueen's Pawn Opening
+The Benoni Defense, or simply the Benoni, is a chess opening characterized by an early reply of ...c5 against White's opening move 1.d4. 
+The original form of the Benoni, now known as the Old Benoni, is characterized by 
+
+1. d4 c5
+This leaves Black a few options such as an early ...f5 and an early dark-squared bishop trade by ...Be7-g5, but has the drawback that White is no longer committed to playing c2-c4 after the response 2.d5. White may prefer to occupy c4 with a knight, or to inconvenience Black's development with an early bishop check on b5.
+More commonly, it is reached by the sequence:
+
+1. d4 Nf6
+2. c4 c5
+3. d5
+Black can then offer a pawn sacrifice with 3...b5 (the Benko Gambit), otherwise 3...e6 is the most common move, leading to the Modern Benoni. 3...d6 or 3...g6 are also seen, typically transposing to main lines, or to lines of the King's Indian Defense.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Etymology[edit]
+Benoni (or "Ben-Oni") בֶּן־אוֹנִי is an ancient Hebrew name, still occasionally used, meaning "son of my sorrow". It is a reference to the Biblical account of the dying Rachel giving birth to Benjamin, whom she named Ben-Oni.(Genesis 35:18)
+In 1825 Aaron Reinganum, a prominent member of the Frankfurt Jewish community, published a book entitled Ben-Oni oder die Vertheidigungen gegen die Gambitzüge im Schache in which he analyzed several defenses to the King's Gambit and the Queen's Gambit, as well as the then unknown opening 1.d4 c5. Reinganum, who studied chess to alleviate his depression, conceived the name "Ben-Oni" as a nickname for his writings rather than the name of an opening.[1]
+In the 1843 Staunton–Saint Amant match, Saint Amant met 1.d4 with 1...c5 in the second and fourth games. Saint Amant wrote in Le Palamède (1843): "This opening is not favorable to Black. Bennoni [sic] gives some examples; but it loses time to White, which deprives Black of all the advantages of a good opening."[2] Staunton wrote in The Chess-Player's Companion (1849): "M. St. Amant derived this somewhat bizarre defense from Benoni. (Benoni, oder Vertheidigungen die Gambitzüge im Schache, &c. Von Aaron Reinganum, Frankfort, 1825.)"[3] Staunton also mentions "Ben-Oni" while commenting on the move 1...c5 in The Chess-player's Handbook (1847, page 382).
+Subsequently, the name "Benoni" came to be associated with the opening 1.d4 c5, and later with 1.d4 Nf6 2.c4 c5 and other openings in which Black counters d2–d4 with an early ....c7–c5, without first having played ...d7–d5.
+
+Old Benoni: 1.d4 c5 [edit]
+
+abcdefgh8877665544332211abcdefgh Old Benoni Defense
+
+The Old Benoni Defense starts with 1.d4 c5. White usually replies 2.d5 in order to gain space, as 2.dxc5 e6 leads to no advantage, and 2.e4 transposes to the Morra Gambit, also promising equality at best. The Old Benoni may transpose to the Czech Benoni, but there are a few independent variations. This form has never attracted serious interest in high-level play, though Alexander Alekhine defeated Efim Bogoljubow with it in one game of their second match, in 1934. The Old Benoni is sometimes called the Blackburne Defense after Englishman Joseph Henry Blackburne, the first player known to have used it successfully.[4]
+
+
+Czech Benoni: 3...e5 [edit]
+
+abcdefgh8877665544332211abcdefgh Czech Benoni
+
+In the Czech Benoni, also known as the Hromadka Benoni, after Karel Hromádka, Black plays 1.d4 Nf6 2.c4 c5 3.d5 e5. The Czech Benoni is more solid than the Modern Benoni, but also more passive. The middlegames arising from this line are characterized by much maneuvering; in most lines, Black will look to break with ...b7–b5 or ...f7–f5 after due preparation, while White may play Nc3, e4, h3, Bd3, Nf3, and g4, in order to gain space on the kingside and prevent ...f5.[5] Grandmaster Ben Finegold often plays this line; he notably beat Mamedyarov in this variation.[6]
+
+
+Benko Gambit: 3...b5[edit]
+Main article: Benko Gambit
+The Benko Gambit, also known as the Volga Gambit, begins 1.d4 Nf6 2.c4 c5 3.d5 b5. Play usually continues 4.cxb5 a6 5.bxa6 Bxa6. Black sacrifices a pawn for open lines and long-term positional pressure on the queen's side.
+
+Modern Benoni: 3...e6 [edit]
+Main article: Modern Benoni
+
+abcdefgh8877665544332211abcdefgh Modern Benoni
+
+The Modern Benoni, 1.d4 Nf6 2.c4 c5 3.d5 e6, is the second most common form of Benoni after the Benko Gambit. Black's intention is to play ...exd5 and create a queenside pawn majority, whose advance will be supported by a fianchettoed bishop on g7. The combination of these two features differentiates Black's setup from the other Benoni defenses and the King's Indian Defense, although transpositions between these openings are common.  The Modern Benoni is classified under the ECO codes A60–A79.
+
+
+Blumenfeld Countergambit: 3...e6 4.Nf3 b5[edit]
+Main article: Blumenfeld Countergambit
+The Blumenfeld is a variant of the Modern Benoni beginning 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nf3 b5. While it superficially resembles the Benko Gambit, it has a different strategic goal, that being to initiate counterplay against White's pawn center rather than develop positional pressure on the queen's side.
+
+Snake Benoni: 3...e6 4.Nc3 exd5 5.cxd5 Bd6 [edit]
+
+abcdefgh8877665544332211abcdefgh Snake Benoni
+
+The Snake Benoni is a variant of the Modern Benoni where the bishop is developed to d6 rather than g7. This opening was invented in 1982 by Rolf Olav Martens, who gave it its name because of the sinuous movement of the bishop—in Martens's original concept, Black follows up with 6...Bc7 and sometimes ...Ba5—and because the Swedish word for "snake", orm, was an anagram of his initials.[7] Normunds Miezis has been a regular exponent of this variation.[8] Aside from Martens's plan, 6...0-0 intending ...Re8, ...Bf8 and a potential redeployment of the bishop to g7, has also been tried.[8] White appears to retain the advantage against both setups.[9]
+
+
+ECO[edit]
+The Encyclopaedia of Chess Openings has many codes for the Benoni Defense.
+Old Benoni Defense:
+
+A43 1.d4 c5
+A44 1.d4 c5 2.d5 e5
+Benoni Defense:
+
+A56 1.d4 Nf6 2.c4 c5 (includes Czech Benoni)
+A57–A59 1.d4 Nf6 2.c4 c5 3.d5 b5 (Benko Gambit)
+A60 1.d4 Nf6 2.c4 c5 3.d5 e6
+A61 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6
+Fianchetto Variation:
+
+A62 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 0-0
+A63 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 0-0 9.0-0 Nbd7
+A64 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 0-0 9.0-0 Nbd7 10.Nd2 a6 11.a4 Re8
+Modern Benoni:
+
+A65 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4
+A66 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4
+Taimanov Variation:
+
+A67 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+
+Four Pawns Attack:
+
+A68 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 0-0
+A69 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 0-0 9.Be2 Re8
+Classical Benoni:
+
+A70 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3
+A71 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Bg5
+A72 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0
+A73 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0 9.0-0
+A74 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0 9.0-0 a6
+A75 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0 9.0-0 a6 10.a4 Bg4
+A76 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0 9.0-0 Re8
+A77 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0 9.0-0 Re8 10.Nd2
+A78 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0 9.0-0 Re8 10.Nd2 Na6
+A79 1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 0-0 9.0-0 Re8 10.Nd2 Na6 11.f3
+See also[edit]
+Franco-Benoni Defense (1.e4 e6 2.d4 c5)
+References[edit]
+
+
+^ "Whenever I felt in a sorrowful mood and wanted to take refuge from melancholy, I sat over a chessboard, for one or two hours according to circumstances. Thus this book came into being, and its name, Ben-Oni, 'Son of Sadness,' should indicate its origin." (Reinganum, Aaron; Hoeck, Johann Daniel Albrecht [1825]: Ben-Oni oder die Vertheidigungen gegen die Gambitzüge im Schache [Son of sorrow or Defenses against Gambits in Chess]. Frankfurt am Main [Germany]: Hermann.
+
+^ Saint Amant, Le Palamède, 1843, p.552
+
+^ Nick Pope, 1843 Staunton-Saint Amant Paris Match, Chess Archaeology
+
+^ "Preston Ware vs. Joseph Henry Blackburne, 1882". Chessgames.com.
+
+^ http://www.chesscafe.com/shop/1166_excerpt.pdf[bare URL PDF]
+
+^ "Shakhriyar Mamedyarov vs. Benjamin Finegold, 2017 (rapid)". Chessgames.com.
+
+^ Hall 1999, p. 225.
+
+^ a b Bronznik 2011, p. 210.
+
+^ Bronznik 2011, p. 222.
+
+
+Bibliography
+
+Bronznik, Valeri (2011). 1.d4 - Beat the Guerrillas!. Alkmaar: New In Chess. ISBN 978-90-5691-373-1.
+Hall, Jesper (August 1999). "Seek, and thou shalt find!". In Giddins, Steve (ed.). New In Chess–The First 25 Years. Alkmaar: New In Chess (published 2009). ISBN 978-90-5691-296-3.
+Further reading[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Benoni Defense
+
+Franco, Zenon (2007). Chess Explained: The Modern Benoni. Gambit. ISBN 978-1-904600-77-0.
+Komarov, Dmitry; Djuric, Stefan; Pantaleoni, Claudio (2009). Chess Opening Essentials, Vol. 3: Indian Defences. New In Chess. ISBN 978-90-5691-270-3.
+Norwood, David (1995). The Modern Benoni. Cadogan. ISBN 91-976005-2-0.
+Psakhis, Lev (2003). The Complete Benoni. Sterling Pub. ISBN 0-7134-7765-2.
+Reinganum, Aaron (1825). Ben-Oni oder die Vertheidigungen gegen die Gambitzüge im Schache. Frankfurt: Verlag der Hermannschen Buchhandlung.
+Watson, John (2001). The Gambit Guide to the Modern Benoni. Gambit. ISBN 1-901983-23-4.
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Benoni_Defense&oldid=1173073159"

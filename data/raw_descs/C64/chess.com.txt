@@ -1,0 +1,14 @@
+
+One of the oldest defenses against the Ruy Lopez - Black develops the bishop to a diagonal which is typical of the Italian Game. He delays the development of the king's-knight, and might end up using this to play ...Nge7, ...Qf6, or ...f5.
+Pros:
+
+The bishop aims at f2
+The f-pawn and d8-h4 diagonal (for the queen) are left unblocked
+Black develops rapidly
+
+Cons:
+
+The bishop can be attacked by c3 and d4
+The 'fork trick' (Nxe5 Nxe5 d4) becomes possible
+The bishop leaves the black kingside with less defenders
+

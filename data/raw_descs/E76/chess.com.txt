@@ -1,0 +1,14 @@
+
+Originally considered almost a refutation of the King's Indian, the Four Pawns Attack creates a huge pawn center ranging from the c-file to the f-file. White seeks to run Black over by his central pawns, but in practice Black can easily break up the pawns, and the game settles down into some other kind of structure.
+Pros:
+
+Very aggressive
+White may gain a strong attack
+Game often transposes into a sharp variation of the Benoni
+
+Cons:
+
+White's center is very unwieldy
+White's king position is exposed
+White's development is slower
+

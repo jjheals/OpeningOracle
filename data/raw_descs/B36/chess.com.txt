@@ -1,0 +1,14 @@
+
+In the Accelerated Dragon, Black fianchettos the king-bishop, giving it a great diagonal, cutting through the center. He does so while leaving the d7-pawn at home and avoids an earlier ...Nf6 (unlike the regular Dragon). 
+Pros:
+
+Black creates a position without weaknesses
+The bishop takes an active diagonal
+Compared to the normal Dragon, Black can potentially play ...d5 in one move.
+
+Cons:
+
+Black allows 5.c4, the Maroczy Bind
+In some variations White can get an attack by h4-h5
+White usually gets more space
+

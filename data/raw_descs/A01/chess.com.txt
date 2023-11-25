@@ -1,0 +1,70 @@
+
+The opening move 1.b3 is a quite playable way for White to begin a game. It is named for the great Danish GM Bent Larsen, who was known for his offbeat style. It is sometimes also known as the Nimzowitsch-Larsen or Nimzo-Larsen Attack after Larsen and the Latvian-Danish GM Aron Nimzowitsch.
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+1...e5
+1...d5/1...Nf6
+
+
+How To Play Against The Larsen
+History
+Famous Games
+Conclusion
+
+Starting Position
+
+
+
+Like most openings that do not begin with 1.e4 or 1.d4, Larsen's Opening is immediately identifiable from White's first move. It is the sixth-most popular opening move for White in the Chess.com Masters database after 1.e4, 1.d4, 1.c4, 1.Nf3, and 1.g3.
+Pros
+
+May lead to strong pressure down the long diagonal
+Easy to learn and to play
+Provocative
+
+Cons
+
+Slower kingside development
+The bishop may end up shut out
+A good position for the Nb1 might be hard to find
+
+Variations
+Although White immediately steers the game in a specific direction with Larsen's Opening, Black has several reasonable ways of meeting it. The three most popular first moves for Black are 1...e5, 1...d5, and 1...Nf6.
+1...e5
+The first of those moves is most popular, even though White's usual second move, the natural 2. Bb2, attacks that pawn. Fortunately for Black, it's very easy to defend naturally with either 2...d6 or 2...Nc6, both of which aid development as well.
+
+Either way of defending the pawn is good, although 2...Nc6 is a bit more common.
+
+1...d5/Nf6
+The most popular second move after 1...d5 is 2...Nf6, and the most popular second move after 1...Nf6 is 2...d5. In either order, Black does not give White a pawn to attack. White is usually playing Bb2 and Nf3 in some order on moves two and three.
+
+
+
+
+
+As with any chess position, the potential tree of moves quickly explodes. White usually plays the opening as part of a broader system that also includes the pawn moves c4 and e3. Black is looking to develop naturally and get a playable game.
+How to Play Against the Larsen Opening
+Black doesn't problems after 1...e5 or 1...d5. If you open with 1.e4 as White, then it's easiest to play 1...e5 as Black here, and if you're more of a 1.d4 player, try 1...d5. There's no reason to get fancy.
+No matter what variation Black might play against 1. b3, the idea is much the same. White is trying to control the center from the flank and Black's main responses are to occupy it with at least one pawn.
+History
+The earliest record of 1. b3 in a serious game came all the way back in 1851 when it was played by the Dutchman Maarten van't Kruijs. However, it was Nimzowitsch who first became identified with the opening. He played it three times from 1927-29 and won, drew, and lost once each. It remained a quite rare opening up until the mid-1960s when GM Vladimir Simagin began playing it occasionally.
+
+GM Bent Larsen in 1977. Photo: Hans Peters/Dutch National Archives, CC.
+
+Finally, in 1968, Larsen played it for the first of dozens of times, beginning at a tournament in Monte Carlo. Larsen came away the victor at the tournament with a 9.5/13 score, although he drew both games he played the opening in. GM Bobby Fischer picked up on it and had success in 1970, defeating GM Miroslav Filip and GM Henrique Mecking with it at the Palma de Mallorca Interzonal.
+Amusingly, when Fischer and Larsen played each other in the 1971 Candidates, the opening did not arise. Fischer never actually played the opening again, although Larsen continued to do so. Larsen's Opening remains a respectable option for White to this day, especially if wanting to avoid main lines following 1.e4, 1.d4, or the English. Top bullet players like Nakamura, Carlsen, and Nepomniachtchi still play it in blitz and bullet.
+Famous Games
+Perhaps the best-known win for White in the Larsen Opening was instead played by Fischer in his matchup against Mecking in the 1970 Interzonal. Fischer also defeated GM Ulf Andersson and GM Vladimir Tukmakov with the opening at other events in 1970.
+
+However, by far the most famous game with 1.b3 was a win for Black. Larsen himself played 1.b3 in the game, but unfortunately for him, it was a 17-move brilliancy for his opponent GM Boris Spassky. Spassky played for rapid development and was rewarded with a quickly winning position that included a spectacular 14th move.
+
+
+Conclusion
+If you're looking for an unusual opening that is still quite good, consider trying the Larsen Opening. Learn more about this opening by clicking here or studying Larsen's games with this Chess.com lesson.

@@ -1,0 +1,104 @@
+
+The Slav Defense is a solid opening for Black in response to White's Queen's Gambit (1.d4 d5 2.c4). Black fights for equality against one of White's most popular openings without creating a bad light-squared bishop—one of the downsides of other defenses like the French Defense and the Queen's Gambit Declined.
+An extremely popular opening which has been endorsed by many world champions such as GMs Max Euwe, Mikhail Botvinnik, Vladimir Kramnik, Viswanathan Anand, and Magnus Carlsen. Usually leading to slower games, the Slav is a good choice for players at any level.
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+Main Line
+Modern Line, Quiet Variation
+Semi-Slav
+Chameleon (Chebanenko Slav)
+Exchange Variation
+
+
+How To Play Against The Slav Defense
+
+Bled Attack
+Modern Line, Quiet Variation
+Chameleon, Advance System
+
+
+History Of The Slav Defense
+Famous Games
+Conclusion
+
+Starting Position
+The Slav Defense starts after the moves 1.d4 d5 2.c4 c6. Black avoids taking White's c4-pawn to keep their firm grasp of the center, particularly the e4-square. The characteristic 2...c6 supports the d5-pawn while not locking the light-squared bishop inside the pawn chain as it happens in other openings such as the French Defense and Queen's Gambit Declined.
+
+The Slav Defense starting position.
+
+Of course, there's a downside to the move 2...c6. The c7-c6 pawn push doesn't help develop any pieces, and the pawn blocks the knight's most natural development square.
+Pros
+
+The c8-bishop has a free diagonal to develop.
+Black maintains a solid central point.
+Black might capture the c4-pawn.
+
+Cons
+
+Black's development is slower.
+Hitting back with ...c5 will lose a move.
+The c6-pawn blocks the natural development square of the knight.
+
+Variations
+As with most of the other major openings among grandmasters, the Slav has an extensive theory. The three variations listed below are by far the most popular:
+Main Line
+The main line of the Slav Defense results in a balanced position. Both sides have a multitude of options as to how to conduct the game.
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4
+
+Modern Line, Quiet Variation
+By playing the Quiet Variation of the Modern Line, White can avoid learning heavy theory. White gets a good position out of the opening by relying on simple development and a solid pawn structure.
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3
+
+Semi-Slav
+Despite being a variation of the Slav, the Semi-Slav branches out from standard Slav theory and can be considered a different opening. The Semi-Slav is the second most popular option for Black and it often leads to closed positions.
+1.d4 d5 2.c4 c6 3.Nf3 e6
+
+Chameleon (Chebanenko Slav)
+The Chameleon Variation is the second most popular choice for Black after 4...dxc4. This system is very flexible, as multiple pawn structures may arise from this variation. Black plays 4...a6 to support the b5-square.
+1.d4 d5 2. c4 c6 3.Nf3 Nf6 4.Nc3 a6
+
+
+
+
+
+Exchange Variation
+The Exchange Variation is the most uneventful line of the Slav Defense despite its immense popularity. Of the more than 4,600 games with this line in our database, 65% of them ended in a draw. The positions in this variation are very symmetrical, with little chance for either of the players to create serious threats. The most popular continuation of this line sees both players exchanging their pieces and reaching a drawn position.
+Even though the results aren't compelling, the Exchange Variation is the simplest way of playing against the Slav and retains the initiative of having the first move as White.
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5
+
+How To Play Against The Slav Defense
+White usually scores well against the Slav Defense, which is good news for the Queen's Gambit player. The move 2...c6 is the most popular response to 2.c4, despite White winning 40% of games, drawing 39%, and losing only 21%.
+Below you can learn two of the best scoring variations against the main line and the Chameleon, by far the two variations that Black chooses most often.
+Bled Attack
+The Bled Attack is a great way to fight against the main line of the Slav. White plays 6.Nh4 to threaten Black's light-squared bishop, and Black can already go wrong in a few different ways in this position. White wins 48% of the time, draws 32%, and loses 20% when employing this variation.
+This line is particularly interesting since the Slav player usually wants to put their light-squared bishop to good use, and the Bled Attack makes this harder to achieve.
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Nh4
+
+
+Modern Line, Quiet Variation
+The Quiet Variation of the Modern Line is probably the most straightforward way of playing against the Slav. White plays 4.e3 to build strong central control and develops naturally to get a good position. Particularly interesting is the line where White develops the light-squared bishop to d3 and the b1-knight to d2. White wins 49% of the games, draws 37%, and loses a mere 13% of the games in this line.
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Bd3 Nbd7 6.Nbd2
+
+
+Chameleon With 5.c5
+Against the Chameleon variation, engines and masters endorse the move 5.c5. White punishes Black for weakening the b6-square (after pushing both the a and c-pawns). Black can fight back, but the positions that arise in this line are usually easier for White to play, with more space and straightforward plans. White wins 41% of the games in this variation, draws 34%, and loses only 24%.
+1.d4 d5 2.c4 c6 3. Nf3 Nf6 4. Nc3 a6 5.c5
+
+History Of The Slav Defense
+The Slav Defense is a relatively new opening, despite being a tremendously popular response to the common Queen's Gambit. Chess master Semyon Alapin started developing the theory for the opening—leading to the Alapin Variation, the main line of the Slav.
+The opening gained traction after Euwe and Alexander Alekhine used it extensively in their two world championship matches. Since then, many of the world's strongest players have adopted the opening, such as GMs Anand, Kramnik, and Carlsen.
+Famous Games
+Many players opted for the Slav during their careers. If you want to learn more about this opening, you can study the games of Euwe, Alekhine, Anand, and Kramnik. Below you can see two famous games with the Slav Defense:
+Euwe vs. Alekhine, 1937
+
+GM Veselin Topalov vs. Kramnik, 2006
+
+Conclusion
+You now know what the Slav Defense is, how to play it, how to play against it, its history, and more. Head over to our Master Games page to analyze top players' games in the Slav to learn even more about it!

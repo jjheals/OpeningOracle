@@ -1,0 +1,13 @@
+
+In the Three Knights Variation against the Gruenfeld, White uses the move 5.Qb3 to force Black to exchange on c4, thus giving White a strong pawn center after a subsequent e2-e4.
+Pros:
+
+White gains the strong pawn center
+Black does not get a chance to exchange a pair of knights
+
+Cons:
+
+The queen moves several times
+White's center can be very exposed
+White delays the kingside development
+

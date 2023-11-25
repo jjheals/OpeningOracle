@@ -1,0 +1,14 @@
+
+A gambit answer to the Ruy Lopez - Black's move 3...f5 strikes the white center from the side, leading to great complications in many cases.
+Pros: 
+
+Black tries to grab the initiative
+Black can often gain a strong pawn center
+The f-file can be used by a black rook.
+
+Cons:
+
+Black can end up down one or two pawns
+The black king is exposed
+There are many forcing variations
+

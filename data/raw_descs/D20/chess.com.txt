@@ -1,0 +1,14 @@
+
+Black may answer the Queen's Gambit by accepting the 'gambit'. Although Black does not usually keep the extra pawn, the point is to create free piece play by clearing out the center.
+Pros:
+
+Leads to freedom for many of Black's pieces
+Opens the long diagonal
+Gives the possibility of a counter-attack on d4
+
+Cons:
+
+Gives White two center pawns to one
+Opens the c-file for White
+Allows the Bf1 to later capture on c4 in one move
+

@@ -1,0 +1,14 @@
+
+The Old Indian was the original version of the King's Indian. Unlike the classical defenses to 1.d4, Black does not block the d-pawn, but instead prepares ...e5, attacking that pawn. Compared to the King's Indian, Black does not fianchetto the king's bishop in the Old Indian, preferring instead ...Be7.
+Pros:
+
+More solid than the King's Indian
+The bishop on e7 keeps d6 well guarded
+Attacks d4 earlier, thus precluding the Saemisch and other variations
+
+Cons:
+
+More passive than the King's Indian
+The king's bishop is usually less active
+Less flexible than the King's Indian
+

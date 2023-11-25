@@ -1,0 +1,14 @@
+
+The Chigorin Defense to the Queen's gambit - introduced by Mikhail Chigorin - seeks to create a position where piece pressure challenges the white center. Black does not support d5 with another pawn, but instead concentrates on rapid development.
+Pros:
+
+Black gets free piece play
+The white center comes under pressure
+Black often doubles the white pawns
+
+Cons:
+
+The knight blocks the c-pawn
+White may conquer the center
+Black is often required to give up the two bishops
+

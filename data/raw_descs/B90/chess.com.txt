@@ -1,0 +1,14 @@
+
+The Najdorf is one of the most popular openings. By playing 5...a6, Black avoids Bb5+ moves (thus preparing ...e5), while also preparing an eventual ...b5. Black keeps flexibility in the destination of the Nb8, while also maintaining opportunities to play ...e5, ...e6, or ...g6.
+Pros:
+
+Positionally sound while also dynamic
+Very good for playing for a win
+Sharp
+
+Cons:
+
+Very theoretical
+White has many dangerous piece sacrifices
+Very popular - thus your opponents will be prepared
+

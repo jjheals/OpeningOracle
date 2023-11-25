@@ -1,0 +1,14 @@
+
+The Sicilian Dragon is named for the similarity of its structure to the constellation Draco. Having played 2...d6 and 4...Nf6 (inducing 5.Nc3, blocking the c-pawn) Black continues by fianchettoing the king bishop, which shoots along a strong, long diagonal.
+Pros:
+
+Extremely sharp
+Unique positions
+Great attacking chances for Black
+
+Cons:
+
+Lots of theory
+White can try to open the h-file with h4-h5
+Black loses control of the d5 square
+

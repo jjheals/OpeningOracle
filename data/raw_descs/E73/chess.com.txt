@@ -1,0 +1,14 @@
+
+In the Averbakh Variation against the King's Indian, White develops one bishop to g5 and the other to e2, while holding back on the development of the Ng1. Thus it becomes hard for Black to play the pawn break ...e5 (due to the pin on the h4-d8 diagonal) and also hard to chase the bishop back (since after ...h6 Be2 there is no ...Ng4 move).
+Pros:
+
+Positional and solid
+Denies Black many of his usual King's Indian plans
+The white king remains flexible - 0-0 or 0-0-0 are both possible
+
+Cons:
+
+The early development of the Bc1 makes plans with ...c5 more attractive
+The d4 square is less defended
+Sometimes White's development is slow, since the Be2 may block the knight
+

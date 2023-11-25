@@ -1,0 +1,1102 @@
+{
+    "A00": {
+        "code": "A00",
+        "opening-name": "King's Fianchetto Opening",
+        "move-list": "1.g3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Fianchetto_Opening",
+            "chess.com": "https://www.chess.com/openings/Kings-Fianchetto-Opening"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A40": {
+        "code": "A40",
+        "opening-name": "Modern Defense with 1.d4",
+        "move-list": "1.d4 g6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Modern_Defense_with_1.d4",
+            "chess.com": "https://www.chess.com/openings/Modern-Defense-with-1-d4"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B00": {
+        "code": "B00",
+        "opening-name": "King's Pawn Opening",
+        "move-list": "1.e4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Pawn_Opening",
+            "chess.com": "https://www.chess.com/openings/Kings-Pawn-Opening"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A01": {
+        "code": "A01",
+        "opening-name": "Nimzowitsch-Larsen Attack",
+        "move-list": "1.b3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Nimzowitsch-Larsen_Attack",
+            "chess.com": "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A10": {
+        "code": "A10",
+        "opening-name": "English Opening",
+        "move-list": "1.c4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/English_Opening",
+            "chess.com": "https://www.chess.com/openings/English-Opening"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A02": {
+        "code": "A02",
+        "opening-name": "Bird's Opening",
+        "move-list": "1.f4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Bird%27s_Opening",
+            "chess.com": "https://www.chess.com/openings/Birds-Opening"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A04": {
+        "code": "A04",
+        "opening-name": "R\u00e9ti Opening",
+        "move-list": "1.Nf3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/R\u00e9ti_Opening",
+            "chess.com": "https://www.chess.com/openings/Reti-Opening"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A30": {
+        "code": "A30",
+        "opening-name": "English Opening",
+        "move-list": "1.c4 c5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/English_Opening",
+            "chess.com": "https://www.chess.com/openings/English-Opening-Symmetrical-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Symmetrical Variation"
+    },
+    "A80": {
+        "code": "A80",
+        "opening-name": "Dutch Defense",
+        "move-list": "1.d4 f5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Dutch_Defense",
+            "chess.com": "https://www.chess.com/openings/Dutch-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A20": {
+        "code": "A20",
+        "opening-name": "English Opening",
+        "move-list": "1.c4 e5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/English_Opening",
+            "chess.com": "https://www.chess.com/openings/English-Opening-Kings-English-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "King's English Variation"
+    },
+    "B07": {
+        "code": "B07",
+        "opening-name": "Pirc Defense",
+        "move-list": "1.e4 d6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Pirc_Defense",
+            "chess.com": "https://www.chess.com/openings/Pirc-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A43": {
+        "code": "A43",
+        "opening-name": "Old Benoni Defense",
+        "move-list": "1.d4 c5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Old_Benoni_Defense",
+            "chess.com": "https://www.chess.com/openings/Old-Benoni-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B10": {
+        "code": "B10",
+        "opening-name": "Caro-Kann Defense",
+        "move-list": "1.e4 c6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Caro-Kann_Defense",
+            "chess.com": "https://www.chess.com/openings/Caro-Kann-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "C00": {
+        "code": "C00",
+        "opening-name": "French Defense",
+        "move-list": "1.e4 e6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/French_Defense",
+            "chess.com": "https://www.chess.com/openings/French-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B02": {
+        "code": "B02",
+        "opening-name": "Alekhine's Defense",
+        "move-list": "1.e4 Nf6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Alekhine%27s_Defense",
+            "chess.com": "https://www.chess.com/openings/Alekhines-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B01": {
+        "code": "B01",
+        "opening-name": "Scandinavian Defense",
+        "move-list": "1.e4 d5 2.exd5 Nf6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Scandinavian_Defense",
+            "chess.com": "https://www.chess.com/openings/Scandinavian-Defense-Modern-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Modern Variation"
+    },
+    "B20": {
+        "code": "B20",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B22": {
+        "code": "B22",
+        "opening-name": "Alapin Sicilian Defense",
+        "move-list": "1.e4 c5 2.c3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Alapin_Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Alapin-Sicilian-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B21": {
+        "code": "B21",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.d4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit"
+        },
+        "is-variation": true,
+        "variation-name": "Smith-Morra Gambit"
+    },
+    "C23": {
+        "code": "C23",
+        "opening-name": "Bishop's Opening",
+        "move-list": "1.e4 e5 2.Bc4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Bishop%27s_Opening",
+            "chess.com": "https://www.chess.com/openings/Bishops-Opening"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B23": {
+        "code": "B23",
+        "opening-name": "Closed Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nc3 Nc6 3.f4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Closed_Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Closed-Sicilian-Defense-Grand-Prix-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Grand Prix Attack"
+    },
+    "D00": {
+        "code": "D00",
+        "opening-name": "Queen's Pawn Opening",
+        "move-list": "1.d4 d5 2.e4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Pawn_Opening",
+            "chess.com": "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Gambit"
+        },
+        "is-variation": true,
+        "variation-name": "Blackmar Gambit"
+    },
+    "A45": {
+        "code": "A45",
+        "opening-name": "Trompowsky Attack",
+        "move-list": "1.d4 Nf6 2.Bg5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Trompowsky_Attack",
+            "chess.com": "https://www.chess.com/openings/Trompowsky-Attack"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A09": {
+        "code": "A09",
+        "opening-name": "R\u00e9ti Opening",
+        "move-list": "1.Nf3 d5 2.c4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/R\u00e9ti_Opening",
+            "chess.com": "https://www.chess.com/openings/Reti-Opening-Reti-Gambit"
+        },
+        "is-variation": true,
+        "variation-name": "R\u00e9ti Gambit"
+    },
+    "C31": {
+        "code": "C31",
+        "opening-name": "King's Gambit Declined",
+        "move-list": "1.e4 e5 2.f4 d5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Gambit_Declined",
+            "chess.com": "https://www.chess.com/openings/Kings-Gambit-Declined-Falkbeer-Countergambit"
+        },
+        "is-variation": true,
+        "variation-name": "Falkbeer Countergambit"
+    },
+    "D07": {
+        "code": "D07",
+        "opening-name": "Queen's Gambit Declined",
+        "move-list": "1.d4 d5 2.c4 Nc6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined",
+            "chess.com": "https://www.chess.com/openings/Queens-Gambit-Declined-Chigorin-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Chigorin Defense"
+    },
+    "C41": {
+        "code": "C41",
+        "opening-name": "Philidor Defense",
+        "move-list": "1.e4 e5 2.Nf3 d6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Philidor_Defense",
+            "chess.com": "https://www.chess.com/openings/Philidor-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A53": {
+        "code": "A53",
+        "opening-name": "Old Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 d6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Old_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Old-Indian-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "D08": {
+        "code": "D08",
+        "opening-name": "Queen's Gambit Declined",
+        "move-list": "1.d4 d5 2.c4 e5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined",
+            "chess.com": "https://www.chess.com/openings/Queens-Gambit-Declined-Albin-Countergambit"
+        },
+        "is-variation": true,
+        "variation-name": "Albin Countergambit"
+    },
+    "A51": {
+        "code": "A51",
+        "opening-name": "Budapest Gambit",
+        "move-list": "1.d4 Nf6 2.c4 e5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Budapest_Gambit",
+            "chess.com": "https://www.chess.com/openings/Budapest-Gambit"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "A82": {
+        "code": "A82",
+        "opening-name": "Dutch Defense",
+        "move-list": "1.d4 f5 2.e4 fxe4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Dutch_Defense",
+            "chess.com": "https://www.chess.com/openings/Dutch-Defense-Staunton-Gambit-Accepted"
+        },
+        "is-variation": true,
+        "variation-name": "Staunton Gambit Accepted"
+    },
+    "C30": {
+        "code": "C30",
+        "opening-name": "King's Gambit Declined",
+        "move-list": "1.e4 e5 2.f4 Bc5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Gambit_Declined",
+            "chess.com": "https://www.chess.com/openings/Kings-Gambit-Declined-Classical-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Classical Variation"
+    },
+    "C42": {
+        "code": "C42",
+        "opening-name": "Petrov's Defense",
+        "move-list": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Petrov%27s_Defense",
+            "chess.com": "https://www.chess.com/openings/Petrovs-Defense-Classical-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Classical Attack"
+    },
+    "E60": {
+        "code": "E60",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "D10": {
+        "code": "D10",
+        "opening-name": "Slav Defense",
+        "move-list": "1.d4 d5 2.c4 c6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Slav_Defense",
+            "chess.com": "https://www.chess.com/openings/Slav-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "D20": {
+        "code": "D20",
+        "opening-name": "Queen's Gambit Accepted",
+        "move-list": "1.d4 d5 2.c4 dxc4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Accepted",
+            "chess.com": "https://www.chess.com/openings/Queens-Gambit-Accepted"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "C33": {
+        "code": "C33",
+        "opening-name": "King's Gambit Accepted",
+        "move-list": "1.e4 e5 2.f4 exf4 3.Bc4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Gambit_Accepted",
+            "chess.com": "https://www.chess.com/openings/Kings-Gambit-Accepted-Bishops-Gambit"
+        },
+        "is-variation": true,
+        "variation-name": "Bishop's Gambit"
+    },
+    "D02": {
+        "code": "D02",
+        "opening-name": "London System",
+        "move-list": "1.d4 d5 2.Nf3 Nf6 3.Bf4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/London_System",
+            "chess.com": "https://www.chess.com/openings/London-System"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "D03": {
+        "code": "D03",
+        "opening-name": "Queen's Pawn Opening",
+        "move-list": "1.d4 d5 2.Nf3 Nf6 3.Bg5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Pawn_Opening",
+            "chess.com": "https://www.chess.com/openings/Queens-Pawn-Opening-Torre-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Torre Attack"
+    },
+    "C02": {
+        "code": "C02",
+        "opening-name": "French Defense",
+        "move-list": "1.e4 e6 2.d4 d5 3.e5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/French_Defense",
+            "chess.com": "https://www.chess.com/openings/French-Defense-Advance-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Advance Variation"
+    },
+    "C60": {
+        "code": "C60",
+        "opening-name": "Ruy L\u00f3pez Opening",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Ruy_L\u00f3pez_Opening",
+            "chess.com": "https://www.chess.com/openings/Ruy-Lopez-Opening"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "C43": {
+        "code": "C43",
+        "opening-name": "Petrov's Defense",
+        "move-list": "1.e4 e5 2.Nf3 Nf6 3.d4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Petrov%27s_Defense",
+            "chess.com": "https://www.chess.com/openings/Petrovs-Defense-Steinitz-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Steinitz Attack"
+    },
+    "C21": {
+        "code": "C21",
+        "opening-name": "Danish Gambit",
+        "move-list": "1.e4 e5 2.d4 exd4 3.c3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Danish_Gambit",
+            "chess.com": "https://www.chess.com/openings/Danish-Gambit"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "C45": {
+        "code": "C45",
+        "opening-name": "Scotch Game",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Scotch_Game",
+            "chess.com": "https://www.chess.com/openings/Scotch-Game-Schmidt-Mieses-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Schmidt, Mieses Variation"
+    },
+    "C03": {
+        "code": "C03",
+        "opening-name": "French Defense",
+        "move-list": "1.e4 e6 2.d4 d5 3.Nd2",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/French_Defense",
+            "chess.com": "https://www.chess.com/openings/French-Defense-Tarrasch-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Tarrasch Variation"
+    },
+    "B12": {
+        "code": "B12",
+        "opening-name": "Caro-Kann Defense",
+        "move-list": "1.e4 c6 2.d4 d5 3.e5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Caro-Kann_Defense",
+            "chess.com": "https://www.chess.com/openings/Caro-Kann-Defense-Advance-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Advance Variation"
+    },
+    "B13": {
+        "code": "B13",
+        "opening-name": "Caro-Kann Defense",
+        "move-list": "1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Caro-Kann_Defense",
+            "chess.com": "https://www.chess.com/openings/Caro-Kann-Defense-Panov-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Panov Attack"
+    },
+    "C01": {
+        "code": "C01",
+        "opening-name": "French Defense",
+        "move-list": "1.e4 e6 2.d4 d5 3.exd5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/French_Defense",
+            "chess.com": "https://www.chess.com/openings/French-Defense-Exchange-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Exchange Variation"
+    },
+    "D01": {
+        "code": "D01",
+        "opening-name": "Richter-Veresov Attack",
+        "move-list": "1.d4 d5 2.Nc3 Nf6 3.Bg5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Richter-Veresov_Attack",
+            "chess.com": "https://www.chess.com/openings/Richter-Veresov-Attack"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "C47": {
+        "code": "C47",
+        "opening-name": "Four Knights Game",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Four_Knights_Game",
+            "chess.com": "https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Scotch Variation"
+    },
+    "C55": {
+        "code": "C55",
+        "opening-name": "Italian Game",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Italian_Game",
+            "chess.com": "https://www.chess.com/openings/Italian-Game-Two-Knights-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Two Knights Defense"
+    },
+    "C65": {
+        "code": "C65",
+        "opening-name": "Ruy L\u00f3pez Opening",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Ruy_L\u00f3pez_Opening",
+            "chess.com": "https://www.chess.com/openings/Ruy-Lopez-Opening-Berlin-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Berlin Defense"
+    },
+    "C50": {
+        "code": "C50",
+        "opening-name": "Italian Game",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Italian_Game",
+            "chess.com": "https://www.chess.com/openings/Italian-Game-Hungarian-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Hungarian Defense"
+    },
+    "E61": {
+        "code": "E61",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense-Normal-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Normal Variation"
+    },
+    "C15": {
+        "code": "C15",
+        "opening-name": "French Defense",
+        "move-list": "1.e4 e6 2.d4 d5 3.Nc3 Bb4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/French_Defense",
+            "chess.com": "https://www.chess.com/openings/French-Defense-Winawer-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Winawer Variation"
+    },
+    "E20": {
+        "code": "E20",
+        "opening-name": "Nimzo-Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Nimzo-Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Nimzo-Indian-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "D80": {
+        "code": "D80",
+        "opening-name": "Gr\u00fcnfeld Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Gr\u00fcnfeld_Defense",
+            "chess.com": "https://www.chess.com/openings/Grunfeld-Defense-Stockholm-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Stockholm Variation"
+    },
+    "A60": {
+        "code": "A60",
+        "opening-name": "Benoni Defense",
+        "move-list": "1.d4 Nf6 2.c4 c5 3.d5 e6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Benoni_Defense",
+            "chess.com": "https://www.chess.com/openings/Benoni-Defense-Modern-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Modern Variation"
+    },
+    "A57": {
+        "code": "A57",
+        "opening-name": "Benko Gambit",
+        "move-list": "1.d4 Nf6 2.c4 c5 3.d5 b5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Benko_Gambit",
+            "chess.com": "https://www.chess.com/openings/Benko-Gambit"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "E12": {
+        "code": "E12",
+        "opening-name": "Queen's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.Nf3 b6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Queens-Indian-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "C11": {
+        "code": "C11",
+        "opening-name": "French Defense",
+        "move-list": "1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/French_Defense",
+            "chess.com": "https://www.chess.com/openings/French-Defense-Classical-Burn-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Classical, Burn Variation"
+    },
+    "C36": {
+        "code": "C36",
+        "opening-name": "King's Gambit Accepted",
+        "move-list": "1.e4 e5 2.f4 exf4 3.Nf3 d5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Gambit_Accepted",
+            "chess.com": "https://www.chess.com/openings/Kings-Gambit-Accepted-Modern-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Modern Defense"
+    },
+    "C63": {
+        "code": "C63",
+        "opening-name": "Ruy L\u00f3pez Opening",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 f5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Ruy_L\u00f3pez_Opening",
+            "chess.com": "https://www.chess.com/openings/Ruy-Lopez-Opening-Jaenisch-Gambit"
+        },
+        "is-variation": true,
+        "variation-name": "Jaenisch Gambit"
+    },
+    "B06": {
+        "code": "B06",
+        "opening-name": "Modern Defense",
+        "move-list": "1.e4 g6 2.d4 Bg7 3.Nc3 c5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Modern_Defense",
+            "chess.com": "https://www.chess.com/openings/Modern-Defense-Standard-Pterodactyl-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Standard, Pterodactyl Defense"
+    },
+    "C10": {
+        "code": "C10",
+        "opening-name": "French Defense",
+        "move-list": "1.e4 e6 2.d4 d5 3.Nc3 dxe4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/French_Defense",
+            "chess.com": "https://www.chess.com/openings/French-Defense-Rubinstein-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Rubinstein Variation"
+    },
+    "E11": {
+        "code": "E11",
+        "opening-name": "Bogo-Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Bogo-Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Bogo-Indian-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "C62": {
+        "code": "C62",
+        "opening-name": "Ruy L\u00f3pez Opening",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 d6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Ruy_L\u00f3pez_Opening",
+            "chess.com": "https://www.chess.com/openings/Ruy-Lopez-Opening-Old-Steinitz-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Old Steinitz Defense"
+    },
+    "D30": {
+        "code": "D30",
+        "opening-name": "Queen's Gambit Declined",
+        "move-list": "1.d4 d5 2.c4 e6 3.Nf3 c5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined",
+            "chess.com": "https://www.chess.com/openings/Queens-Gambit-Declined-Pseudo-Tarrasch-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Pseudo-Tarrasch Defense"
+    },
+    "C64": {
+        "code": "C64",
+        "opening-name": "Ruy L\u00f3pez Opening",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Ruy_L\u00f3pez_Opening",
+            "chess.com": "https://www.chess.com/openings/Ruy-Lopez-Opening-Classical-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Classical Defense"
+    },
+    "C51": {
+        "code": "C51",
+        "opening-name": "Giuoco Piano Game",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Giuoco_Piano_Game",
+            "chess.com": "https://www.chess.com/openings/Giuoco-Piano-Game-Evans-Gambit"
+        },
+        "is-variation": true,
+        "variation-name": "Evans Gambit"
+    },
+    "E01": {
+        "code": "E01",
+        "opening-name": "Catalan Opening",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Catalan_Opening",
+            "chess.com": "https://www.chess.com/openings/Catalan-Opening-Closed"
+        },
+        "is-variation": true,
+        "variation-name": "Closed"
+    },
+    "C68": {
+        "code": "C68",
+        "opening-name": "Ruy L\u00f3pez Opening",
+        "move-list": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Ruy_L\u00f3pez_Opening",
+            "chess.com": "https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Morphy Defense, Exchange Variation"
+    },
+    "B08": {
+        "code": "B08",
+        "opening-name": "Pirc Defense",
+        "move-list": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Pirc_Defense",
+            "chess.com": "https://www.chess.com/openings/Pirc-Defense-Classical-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Classical Variation"
+    },
+    "B09": {
+        "code": "B09",
+        "opening-name": "Pirc Defense",
+        "move-list": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Pirc_Defense",
+            "chess.com": "https://www.chess.com/openings/Pirc-Defense-Main-Line-Austrian-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Main Line, Austrian Attack"
+    },
+    "E32": {
+        "code": "E32",
+        "opening-name": "Nimzo-Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Nimzo-Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Classical Variation"
+    },
+    "D90": {
+        "code": "D90",
+        "opening-name": "Gr\u00fcnfeld Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Gr\u00fcnfeld_Defense",
+            "chess.com": "https://www.chess.com/openings/Grunfeld-Defense-Three-Knights-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Three Knights Variation"
+    },
+    "D82": {
+        "code": "D82",
+        "opening-name": "Gr\u00fcnfeld Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Gr\u00fcnfeld_Defense",
+            "chess.com": "https://www.chess.com/openings/Grunfeld-Defense-Brinckmann-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Brinckmann Attack"
+    },
+    "B36": {
+        "code": "B36",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Old-Sicilian-Open-Accelerated-Dragon-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Old Sicilian, Open, Accelerated Dragon Variation"
+    },
+    "B18": {
+        "code": "B18",
+        "opening-name": "Caro-Kann Defense",
+        "move-list": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Caro-Kann_Defense",
+            "chess.com": "https://www.chess.com/openings/Caro-Kann-Defense-Classical-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Classical Variation"
+    },
+    "D40": {
+        "code": "D40",
+        "opening-name": "Queen's Gambit Declined",
+        "move-list": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined",
+            "chess.com": "https://www.chess.com/openings/Queens-Gambit-Declined-Three-Knights-Semi-Tarrasch-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Three Knights, Semi-Tarrasch Defense"
+    },
+    "D43": {
+        "code": "D43",
+        "opening-name": "Semi-Slav Defense",
+        "move-list": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Semi-Slav_Defense",
+            "chess.com": "https://www.chess.com/openings/Semi-Slav-Defense"
+        },
+        "is-variation": false,
+        "variation-name": ""
+    },
+    "B44": {
+        "code": "B44",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Taimanov Variation"
+    },
+    "B41": {
+        "code": "B41",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Kan-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Kan Variation"
+    },
+    "D85": {
+        "code": "D85",
+        "opening-name": "Gr\u00fcnfeld Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Gr\u00fcnfeld_Defense",
+            "chess.com": "https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Exchange Variation"
+    },
+    "E41": {
+        "code": "E41",
+        "opening-name": "Nimzo-Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Nimzo-Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Nimzo-Indian-Defense-Hubner-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "H\u00fcbner Variation"
+    },
+    "E62": {
+        "code": "E62",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Normal, Fianchetto Variation"
+    },
+    "E76": {
+        "code": "E76",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense-Four-Pawns-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Four Pawns Attack"
+    },
+    "E80": {
+        "code": "E80",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "S\u00e4misch Variation"
+    },
+    "A87": {
+        "code": "A87",
+        "opening-name": "Dutch Defense",
+        "move-list": "1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Dutch_Defense",
+            "chess.com": "https://www.chess.com/openings/Dutch-Defense-Leningrad-Main-Line"
+        },
+        "is-variation": true,
+        "variation-name": "Leningrad, Main Line"
+    },
+    "E24": {
+        "code": "E24",
+        "opening-name": "Nimzo-Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Nimzo-Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Nimzo-Indian-Defense-Samisch-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "S\u00e4misch Variation"
+    },
+    "E42": {
+        "code": "E42",
+        "opening-name": "Nimzo-Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Nimzo-Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Nimzo-Indian-Defense-Hubner-Rubinstein-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "H\u00fcbner, Rubinstein Variation"
+    },
+    "B70": {
+        "code": "B70",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Open, Dragon Variation"
+    },
+    "B90": {
+        "code": "B90",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Open, Najdorf Variation"
+    },
+    "B80": {
+        "code": "B80",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Open, Scheveningen Variation"
+    },
+    "E91": {
+        "code": "E91",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense-Orthodox-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Orthodox Variation"
+    },
+    "B60": {
+        "code": "B60",
+        "opening-name": "Sicilian Defense",
+        "move-list": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Sicilian_Defense",
+            "chess.com": "https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Open, Classical, Richter-Rauzer Variation"
+    },
+    "E73": {
+        "code": "E73",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense-Averbakh-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Averbakh Variation"
+    },
+    "D60": {
+        "code": "D60",
+        "opening-name": "Queen's Gambit Declined",
+        "move-list": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined",
+            "chess.com": "https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense"
+        },
+        "is-variation": true,
+        "variation-name": "Orthodox Defense"
+    },
+    "A92": {
+        "code": "A92",
+        "opening-name": "Dutch Defense",
+        "move-list": "1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Dutch_Defense",
+            "chess.com": "https://www.chess.com/openings/Dutch-Defense-Fianchetto-Ilyin-Zhenevsky-Stonewall-Variation"
+        },
+        "is-variation": true,
+        "variation-name": "Fianchetto, Ilyin-Zhenevsky, Stonewall Variation"
+    },
+    "E97": {
+        "code": "E97",
+        "opening-name": "King's Indian Defense",
+        "move-list": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense",
+            "chess.com": "https://www.chess.com/openings/Kings-Indian-Defense-Bayonet-Attack"
+        },
+        "is-variation": true,
+        "variation-name": "Bayonet Attack"
+    }
+}
