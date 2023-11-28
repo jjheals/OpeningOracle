@@ -31,6 +31,7 @@ function App() {
 
   return (
     <div className="App">
+      <Header/>
       <header className="App-header">
         <p id="Heading"> OpeningOracle</p>
 
