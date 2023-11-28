@@ -103,6 +103,22 @@ class OpeningLDA:
     def __lda__(self):
         self.lda_model = LdaModel(self.corpus, num_topics=self.num_topics, id2word=self.dictionary, passes=self.num_passes)
     
+    ''' process_new_text(text) - compare a new block of text with this instance of LDA model (self.lda_model)
+    
+        --- DESCRIPTION --- 
+            Takes as input a list of tokens as strings and uses this instance of OpeningLDA to process the given text and 
+            find correlations to the already computed LDA model. 
+        
+        --- PARAMETERS --- 
+            tokens (list[str]) - a list of tokens to process.
+            
+        --- RETURNS --- 
+            (list:tuple) The topic distribution of the input text as a vector.
+    ''' 
+    def process_new_text(self, tokens:list[str]) -> list[tuple]:
+         pass
+        
+    
     ''' save(filename) - save this OpeningLDA model with the filename given at the path Paths.MODELS_DIR ''' 
     def save(self, filename:str) -> None:
         self.lda_model.save(Paths.MODELS_DIR + filename)
@@ -132,7 +148,7 @@ class OpeningLDA:
             return OpeningLDA.__from_pretrained_model__(model, filename)
         else: 
             raise FileNotFoundError(f"Error in OpeningLDA.load(): the given filename (\"{filename}\") was not found in the directory \"{Paths.MODELS_DIR}\".")
-    
+
     @staticmethod
     def __from_pretrained_model__(lda_model:LdaModel, corpus_filename:str) -> object: 
         
@@ -145,7 +161,9 @@ class OpeningLDA:
         opening_lda.num_topics = lda_model.num_topics
         opening_lda.corpus = corpora.MmCorpus(Paths.MODELS_DIR + corpus_filename + ".mm")
         opening_lda.dictionary = lda_model.id2word
+        opening_lda.index = json.load(open(Paths.INDEX_JSON, "r"))
         
+        print(len(opening_lda.index))
         return opening_lda
         
         
