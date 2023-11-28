@@ -25,16 +25,21 @@ compress.init_app(app)
 
         [+] Data: application/json
             {
-                "user=query": "a single string of the user's query (literal)",
+                "message": "a single string of the user's query (literal)",
             }
     
     --- RETURN FORMAT ---  
         [+] Data: application/json
+            - JSON object with a single key "messages" with the value as a list of matched openings 
+              ranked in descending order by relevance/relation to user's description. 
+              
             {
-                ' ': ' ', 
-                ...
+                "messages": [
+                    "Description of match 1 ...",
+                    "Description of match 2 ...",
+                    "..." 
+                ]
             }
-
 '''
 @app.route('/postRequestOpening', methods=['POST'])
 def lookup():
