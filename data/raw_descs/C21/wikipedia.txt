@@ -19,7 +19,7 @@ Many games transposed to the Göring Gambit, as Nf3 for White and ...Nc6 for Bla
 Remarkably enough, the idea to sacrifice just one pawn (Nxc3) is older in the Göring Gambit than in the Danish. Paul Morphy encountered it at the first USA-Congress of 1857 against Alexander Meek. In the Danish, especially Alexander Alekhine applied 1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Nxc3, but on unimportant occasions.
 
 Main lines[edit]
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2012) (template removal help)
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2012) (Learn how and when to remove this template message)
 The Danish Gambit is a variation of the Center Game that is important enough to be treated on its own.
 It is C21 in the Encyclopaedia of Chess Openings classification.
 After 1.e4 e5 2.d4 exd4 3.c3, Black can safely decline the gambit with 3...d6, 3...Qe7, or 3...d5 (Sörensen Defense or Capablanca Defence). If Black enters the Danish Gambit Accepted with 3...dxc3, the main possibilities are 4.Nxc3 and 4.Bc4.

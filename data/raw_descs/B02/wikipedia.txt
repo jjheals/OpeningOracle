@@ -26,7 +26,7 @@ Main line: 2.e5 Nd5 [edit]
 After the usual 2.e5 Nd5, three main variations of Alekhine's Defence use 3.d4, but there are other options for White at this point. Two of the main lines are the Exchange Variation and the Four Pawns Attack. The Exchange Variation continues 3.d4 d6 4.c4 Nb6 5.exd6.  White has some space advantage.  Black can capitalise on the half-open centre with ...g6, ...Bg7 with ...Bg4 eventually being played.  The Four Pawns Attack continues 3.d4 d6 4.c4 Nb6 5.f4.  White has a somewhat larger space advantage though the centre is not fixed.  Black has a number of options.  Black can play ...Qd7 with ...0-0-0 and ...f6 putting pressure on White's d-pawn.  Black can play ...Nb4 with ...c5 hoping to exchange the d-pawn.  Finally, Black can play ...Be7 with ...0-0 and ...f6 attacking the centre.  Minor variations include O'Sullivan's Gambit, 3.d4 b5 (intending 4.Bxb5 c5 5.dxc5?? Qa5+), and 3.d4 d6 4.Bc4, the Balogh Variation.
 
 Four Pawns Attack: 3.d4 d6 4.c4 Nb6 5.f4 [edit]
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2012) (template removal help)
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2012) (Learn how and when to remove this template message)
 
 abcdefgh8877665544332211abcdefghFour Pawns Attack: 3.d4 d6 4.c4 Nb6 5.f4
 

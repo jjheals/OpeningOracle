@@ -8,7 +8,6 @@ import threading as th
 class QueryHandler: 
     
     opening_lda:OpeningLDA
-    index:dict[str,dict]
     
     ''' __init__(load_from_file) - constructor
 
@@ -66,17 +65,32 @@ class QueryHandler:
         
         # Tokenize the query 
         query_tokens:list[str] = Scraper.tokenize(query)
-        print(query_tokens) 
         
-        print(len(self.opening_lda.index))
-        # Step 1: search the index for matches
-        index_matches:dict[str,int] = [self.opening_lda.index[tok] for tok in query_tokens if tok in self.opening_lda.index]
+        # STEP 1: search the index for matches
+        index_matches:list[dict[str,int]] = [self.opening_lda.index[tok] for tok in query_tokens if tok in self.opening_lda.index]
         
+        # Convert index_matches to a single dict containing the matches for each opening as a single key:val pair with the relative 
+        # term frequency for each code
+        # i.e., sum the tfs for each opening across all index matches and then divide each sum by the number of terms in that openings descriptions
+        rel_index_matches:dict[str,int] = {}    # Dict containing each opening code with the sum of all tfs across all matches for that code
+        for d in index_matches:
+            # k == opening code, v == tf 
+            for k,v in d.items(): 
+                try: rel_index_matches[k] += v              # If this code (k) exists already in the sum matches dict, then add v
+                except KeyError: rel_index_matches[k] = v   # If this code (k) does not exist already in the sum matches dict, then add it
+
+        # Convert these sums of tfs to relative tfs using the values in self.opening_lda.num_terms
+        for k,v in rel_index_matches.items(): rel_index_matches[k] = v / self.opening_lda.num_terms[k]
         
+        # Sort the index matches (descending order)
+        rel_index_matches = dict(sorted(rel_index_matches.items(), key=lambda item: item[1], reverse=True))
         
-        print(index_matches)
+        print("Rel index matches:\n") 
+        for k,v in rel_index_matches.items(): print(f"{k} : {v}")
         
-        # Step 2: perform LDA on the user's query 
+                
+                    
+        # STEP 2: perform LDA on the user's query 
         # DO SOMETHING ... 
         # ... 
         

@@ -126,6 +126,7 @@ class Scraper:
         # For tracking purposes
         num_done:int=0 
         num_openings:int=len(self.openings_dict.openings)
+        mod_openings_dict:bool = False 
         
         print(f"Scraping {num_openings} openings...") 
         
@@ -150,8 +151,18 @@ class Scraper:
                 # Save the raw content
                 f = open(Paths.RAW_DESC_BASE + c + f"/{site}.txt", "w+", encoding="utf-8")
                 
+                # NOTE: if wikipedia, get the move list from the infobox 
+                if site == "wikipedia": 
+                    move_list:str = soup.find(class_="infobox-data").text
+                    
+                    # Save this move list in self.openings_dict
+                    self.openings_dict.openings[c]['move-list'] = move_list
+                    
+                    # Set a flag so we know that we modified self.openings_dict
+                    mod_openings_dict = True
+                    
                 # Get the correct div that contains the content for this link
-                div_attr_type:int = Scraper.divs[site][0]        # Get the div attribute of interest (class==0 or id==1)
+                div_attr_type:int = Scraper.divs[site][0]   # Get the div attribute of interest (class==0 or id==1)
                 div_attr_name:str = Scraper.divs[site][1]   # Get the div attribute name (ex. 'body-content')
                 content:str = ''
                 
@@ -194,6 +205,8 @@ class Scraper:
         if auto_save_index: 
             json.dump(self.index, open(Paths.INDEX_JSON, 'w'), indent=4)
             json.dump(self.num_terms, open(Paths.NUM_TERMS_JSON, 'w'), indent=4)
+            
+            if mod_openings_dict: self.openings_dict.dump_json()
         
         print(f"Scraper: Done scraping descriptions.\nNew index length = {len(self.index)}")
     

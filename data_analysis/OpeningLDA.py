@@ -27,6 +27,11 @@ from scraper.Scraper import Scraper # For tokenize()
         index (dict[str,dict[str,int]]) - a dictionary with (key:val) -> (term:{opening_code:term_freq}); i.e. the 
                                           index created by the scraper and stored at Paths.INDEX_JSON
         
+        openings (list[dict]) - list of all openings contained in Paths.OPENINGS_JSON as dictionaries
+        
+        num_terms (dict[str,int]) - dict containing the total number of terms in the descriptions of each opening, 
+                                    used to calculate the relative tf for each 
+                                    
         num_topics (int) - optional: the number of topics to use for training the LDA model. Default = 10
         
         num_passes (int) - optional: the number of passes through the corpus for the LDA model. Default = 15
@@ -50,6 +55,8 @@ class OpeningLDA:
     # DYNAMIC ATTRIBUTES
     texts:dict[str,list[str]] 
     index:dict[str,dict[str,int]]
+    openings:dict 
+    num_terms:dict 
     
     # Parameters for LDA 
     num_topics:int                  # Number of topics for LDA
@@ -66,6 +73,8 @@ class OpeningLDA:
             self.num_passes = num_passes            # Set the num passes for LDA 
             self.texts = {}                         # Init self.texts dictionary
             self.index = json.load(open(Paths.INDEX_JSON, "r", encoding="utf-8"))
+            self.openings = json.load(open(Paths.OPENINGS_JSON, "r", encoding="utf-8"))
+            self.num_terms = json.load(open(Paths.NUM_TERMS_JSON, "r", encoding="utf-8"))
             
             # Iterate through the subdirectories of the descriptions of each opening and save the combined description 
             # of all files for that opening to self.texts[opening_code] (opening_code := sub_dir)
@@ -161,9 +170,12 @@ class OpeningLDA:
         opening_lda.num_topics = lda_model.num_topics
         opening_lda.corpus = corpora.MmCorpus(Paths.MODELS_DIR + corpus_filename + ".mm")
         opening_lda.dictionary = lda_model.id2word
-        opening_lda.index = json.load(open(Paths.INDEX_JSON, "r"))
+        opening_lda.index = json.load(open(Paths.INDEX_JSON, "r", encoding="utf-8"))
+        opening_lda.openings = json.load(open(Paths.OPENINGS_JSON, "r", encoding="utf-8"))
+        opening_lda.num_terms = json.load(open(Paths.NUM_TERMS_JSON, "r", encoding="utf-8"))
         
         print(len(opening_lda.index))
+        
         return opening_lda
         
         

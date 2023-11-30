@@ -48,9 +48,10 @@ class Opening:
     code:str 
     is_variation:bool   # Is this a variation? 
     variation_name:str  # Variation name if applicable, empty string otherwise 
+    success_rate:float  # Success rate of this opening when played 
     
     ''' ------------------------------- '''
-    def __init__(self, opening_name:str, code:str, wiki_link:str, chess_com_link:str, move_list:str):
+    def __init__(self, opening_name:str, code:str, wiki_link:str, chess_com_link:str, move_list:str, success_rate:float=0.0):
         self.opening_name = opening_name
         self.code = code
         self.links = {
@@ -58,6 +59,7 @@ class Opening:
                       'chess.com': chess_com_link
                     }
         self.move_list = move_list
+        self.success_rate = success_rate
         
         if ':' in self.opening_name: 
             split_name:str = self.opening_name.split(':')
@@ -71,12 +73,14 @@ class Opening:
     ''' ------------------------------- '''
     ''' to_dict() - convert this opening to a dictionary format '''
     def to_dict(self) -> dict[str,str]: 
-        return {'code': self.code, 
+        return {
+                'code': self.code, 
                 'opening-name': self.opening_name, 
                 'move-list': self.move_list, 
                 'links': self.links,
                 'is-variation': self.is_variation,
-                'variation-name': self.variation_name
+                'variation-name': self.variation_name,
+                'success-rate': self.success_rate
             }
     
     ''' ------------------------------- '''
@@ -90,6 +94,7 @@ class Opening:
         
         s += f"Code: {self.code}\n"          # Code
         s += f"Moves: {self.move_list}\n"    # Moves
+        s += f"Success Rate: {self.success_rate}"   # Success rate
         s += "Links: \n"                     # Links
         for k,l in self.links.items(): s += f"\t{k} - {l}\n"    
          
@@ -106,7 +111,7 @@ class Opening:
     '''
     @staticmethod
     def opening_from_dict(d:dict) -> object: 
-        o = Opening(d["opening-name"], d['code'], d["links"]["wikipedia"], d["links"]["chess.com"], d['move_list'])
+        o = Opening(d["opening-name"], d['code'], d["links"]["wikipedia"], d["links"]["chess.com"], d['move-list'], d['success-rate'])
         return o
     
     ''' ------------------------------- '''
@@ -163,7 +168,7 @@ class OpeningsDict:
         opening_links.openings = json.load(open(Paths.OPENINGS_JSON, "r"))
         return opening_links
     
-    ''' from_list(loo) - create an OpeningLinks object from a given list of Opening
+    ''' from_list(loo) - create an OpeningsDict object from a given list of Opening
 
         NOTE: the names in this object (the keys) are based on the chess.com variation and should be
               standardized to match the specific links when needed
@@ -172,7 +177,7 @@ class OpeningsDict:
             loo (list[Opening]) - list of Opening objects 
             
         RETURNS: 
-            An OpeningLinks object
+            An OpeningDicts object
     '''
     @staticmethod
     def from_list(loo:list[Opening]) -> object: 
