@@ -1,0 +1,359 @@
+Chess openingTarrasch Defense
+abcdefgh8877665544332211abcdefghMoves1.d4 d5 2.c4 e6 3.Nc3 c5ECOD32–D34Named afterSiegbert TarraschParentQueen's Gambit Declined
+The Tarrasch Defense is a chess opening characterized by the moves:
+
+1. d4 d5
+2. c4 e6
+3. Nc3 c5
+The Tarrasch is a variation of the Queen's Gambit Declined.
+Black's third move is an aggressive bid for central space. After White plays cxd5 and dxc5, Black will be left with an isolated pawn on d5. Such a pawn may be weak, since it can no longer be defended by other pawns, but it grants Black a foothold in the center, and Black's bishops will have unobstructed lines for development.
+The opening was advocated by the German player Siegbert Tarrasch, who contended that the increased mobility Black enjoys is well worth the inherent weakness of the isolated center pawn. Although many other masters, after the teachings of Wilhelm Steinitz, rejected the Tarrasch Defense out of hand because of the pawn weakness, Tarrasch continued to play his opening while rejecting other variations of the Queen's Gambit, even to the point of putting question marks on routine moves in all variations except the Tarrasch (which he awarded an exclamation mark) in his book Die moderne Schachpartie.  (See chess punctuation.)
+The Tarrasch Defense is considered sound. Even if Black fails to make use of their mobility and winds up in an inferior endgame, tied to the defense of their isolated pawn, they may be able to hold the draw if they defend accurately.
+In the Encyclopedia of Chess Openings, the Tarrasch Defense has codes D32 through D34.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Main line: 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 [edit]
+
+abcdefgh8877665544332211abcdefghMain line after 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.0-0 0-0
+
+In the main line, White will isolate Black's queen pawn with 4.cxd5 exd5 and attempt to exploit its weakness. The most common setup is to fianchetto the king's bishop in order to put pressure on the isolated d5-pawn, as 3...c5 has relinquished the possibility of protecting the point d5 by means of ...c6.
+After 4.cxd5, Black may offer the Hennig–Schara Gambit with 4...cxd4. While this was once essayed by Alexander Alekhine, it has never achieved popularity at master level and is considered advantageous for White.
+On the third move White often plays 3.Nf3 instead (in part to avoid the Hennig–Schara Gambit), which after 3...c5 4.cxd5 exd5 5.Nc3 transposes to the main line.
+7. Bg2 Be7 8. 0-0 0-0
+In modern praxis, 9.Bg5 is most frequently played here, though there are other ideas of note, 9.dxc5 and 9.b3 being the main alternatives. (Other lines are 9.Be3, 9.Bf4, and 9.a3.)
+During the 2010's, the hitherto forgotten line 1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c5 5.cxd5 exd5 6.g3 Nc6 7.Bg2 cxd4 8.Nxd4 Bc5 became a topic of theoretical debate at the top level mainly due to the efforts of Russian grandmaster Daniil Dubov. This approach to the Tarrasch Defense is therefore known as the Dubov Tarrasch.[1]
+
+Swedish Variation[edit]
+
+abcdefgh8877665544332211abcdefghSwedish Variation: 6...c4
+
+The Swedish Variation (also called the Folkestone Variation) is a sharp line beginning 6...c4. Black now has a four to three queenside pawn majority, and will try to expand with ...b5, with White aiming for a central break with e4. The line is considered somewhat dubious and is rarely seen in modern practice.
+The Swedish Variation has ECO code D33.
+
+See also[edit]
+List of chess openings
+List of chess openings named after people
+Semi-Tarrasch Defense
+References[edit]
+
+
+^ "Dubov's Tarrasch". ChessBase. Retrieved 18 January 2022.
+
+
+Colins, Sam (2005). Understanding the Chess Openings. Gambit Publications. ISBN 1-904600-28-X.
+de Firmian, Nick (2008). Modern Chess Openings (15th ed.). McKay. ISBN 978-0-8129-3682-7.
+Authority control databases: National 
+Germany
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Tarrasch_Defense&oldid=1153354799"

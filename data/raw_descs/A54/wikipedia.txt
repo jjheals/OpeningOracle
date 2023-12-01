@@ -1,0 +1,352 @@
+Chess opening
+"Old Indian" redirects here. For the Nicaraguan dish, see Old Indian (dish).
+Chess openingOld Indian Defense
+abcdefgh8877665544332211abcdefgh
+Moves1.d4 Nf6 2.c4 d6ECOA53–A55ParentIndian DefenceSynonym(s)Chigorin Indian
+The Old Indian Defense is a chess opening defined by the moves:
+
+1. d4 Nf6
+2. c4 d6
+This opening is distinguished from the King's Indian Defense in that Black develops their king's bishop on e7 rather than by fianchetto on g7. Mikhail Chigorin pioneered this defense late in his career.
+The Old Indian is considered sound, though developing the bishop at e7 is less active than the fianchetto, and it has never attained the popularity of the King's Indian. Some King's Indian players will use the Old Indian to avoid certain anti-King's Indian systems, such as the Sämisch and Averbakh Variations.
+The opening is classified in the Encyclopaedia of Chess Openings with the codes A53–A55.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Main line: 3.Nc3 e5 [edit]
+
+abcdefgh8877665544332211abcdefghMain line: 3.Nc3 e5 4.Nf3 Nbd7 5.e4
+
+The Main line, also known as the Ukrainian Variation, arises after 3.Nc3 e5 4.Nf3 Nbd7 5.e4; White can also play 4.dxe5 dxe5 5.Qxd8+, but despite the displacement of Black's king, this has long been known[by whom?] to offer no advantage, e.g. 5...Kxd8 6.Nf3 Nfd7!, with Black often following up with some combination of ...c6, ...Kd8–c7, ...a5, ...Na6, and ...f6. Black's position is solid and their piece coordination is good; White's pawn exchange in the center has allowed Black equal space and freed the f8-bishop. After 5...Be7 6.Be2 0-0 7.0-0 c6 8.Re1 (or 8.Be3), White stands slightly better.
+
+
+Janowski Variation: 3.Nc3 Bf5 [edit]
+
+abcdefgh8877665544332211abcdefghJanowski Variation: 3.Nc3 Bf5
+
+The Janowski Variation, 3.Nc3 Bf5, was first introduced by Dawid Janowski in the 1920s. The idea behind it is that 3...Bf5 prevents White from immediately grabbing space with 4.e4. The variation did not gain much popularity until the 1980s. Several top-level players have employed the line multiple times, including Mikhail Tal, Bent Larsen, Florin Gheorghiu, and Kamran Shirazi. 
+
+
+3.Nf3[edit]
+Or via the transposition 2.Nf3 d6 3.c4. Now: 
+
+3...Bg4 (Tartakower-Indian Variation) is suggested by de Firmian.
+3...c6 (Czech Variation) and 3...Bf5 are possible.
+3...g6 will likely transpose to the King's Indian Defence.
+3...Nbd7 4.Nc3 will likely transpose to the Main line.
+See also[edit]
+List of chess openings
+Further reading[edit]
+Komarov, Dmitry; Djuric, Stefan; Pantaleoni, Claudio (2009). Chess Opening Essentials, Vol. 3: Indian Defences. New In Chess. ISBN 978-90-5691-270-3.
+Pickett, L. (1984). The Old Indian Renewed. Nottingham: The Chess Player. ISBN 978-0906042533.
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Old_Indian_Defense&oldid=1171462114"

@@ -90,11 +90,11 @@ class Opening:
         s += f"Variation?: {self.is_variation}\n"   # Is variation? 
         
         # Include variation name if it is a variation
-        if self.is_variation: s += f"Variation: {self.variation_name}"
+        if self.is_variation: s += f"Variation: {self.variation_name}\n"
         
         s += f"Code: {self.code}\n"          # Code
         s += f"Moves: {self.move_list}\n"    # Moves
-        s += f"Success Rate: {self.success_rate}"   # Success rate
+        s += f"Success Rate: {self.success_rate}\n"   # Success rate
         s += "Links: \n"                     # Links
         for k,l in self.links.items(): s += f"\t{k} - {l}\n"    
          

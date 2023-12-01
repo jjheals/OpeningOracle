@@ -138,6 +138,10 @@ class Scraper:
             
             # Iterate over the links for this opening and get the content
             for site,url in v['links'].items(): 
+                
+                # If there is no url, skip; some do not have chess.com or wikipedia URLs
+                if not url: continue
+                
                 response = requests.get(url, headers=Scraper.headers)   # Make the request
                 
                 # Skip if there is an error code 

@@ -1,0 +1,437 @@
+Chess opening
+Chess openingQueen's Pawn Game
+abcdefgh8877665544332211abcdefghMoves1.d4ECOA40–A99 D00–D99 E00–E99Synonym(s)d4
+The Queen's Pawn Game is any chess opening starting with the move 1.d4, which is the second-most popular opening move after 1.e4 (King's Pawn Game).
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Terminology[edit]
+The term "Queen's Pawn Game" is usually used to describe openings beginning with 1.d4 where White does not play the Queen's Gambit. The most common Queen's Pawn Game openings are: 
+
+The London System, 2.Bf4 or 2.Nf3 and 3.Bf4
+The Trompowsky Attack, 1...Nf6 2.Bg5 and the Pseudo-Trompowsky 1...d5 2.Bg5
+The Torre Attack, 2.Nf3 and 3.Bg5
+The Stonewall Attack, 2.e3
+The Colle System, 2.Nf3 and 3.e3
+The King's Fianchetto Opening, 2.Nf3 and 3.g3
+The Barry Attack, 1...Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4
+The Richter–Veresov Attack, 1...d5 2.Nc3 Nf6 3.Bg5 or 1...Nf6 2.Nc3 d5 3.Bg5
+The Blackmar–Diemer Gambit, 1...d5 2.e4, and the Hübsch Gambit 1...Nf6 2.Nc3 d5 3.e4
+The Nimzo-Indian Defence, 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+In the Encyclopaedia of Chess Openings (ECO), Closed Games (1.d4 d5) are classified under codes D00–D69. Openings where Black does not play 1...d5 are called Semi-Closed Games and classified as:
+
+Indian Defences, where Black plays 1...Nf6 (ECO codes A45–A79, D70–D99, E00–E99); for instance the Queen's Indian Defence (ECO E12–E19);
+other Queen's Pawn Games, where Black plays neither 1...d5 nor 1...Nf6; these include the Dutch Defence (ECO A40–A44 and A80–A99).
+History[edit]
+In the 19th century and early 20th century, 1.e4 was by far the most common opening move by White (Watson 2006:87), while the different openings starting with 1.d4 were considered somewhat unusual and therefore classed together as "Queen's Pawn Game".
+As the merits of 1.d4 started to be explored, it was the Queen's Gambit which was played most often—more popular than all other 1.d4 openings combined. The term "Queen's Pawn Game" was then narrowed down to any opening with 1.d4 which was not a Queen's Gambit. Eventually, through the efforts of the hypermodernists, the various Indian Defences (such as the King's Indian, Nimzo-Indian, and Queen's Indian) became more popular, and as these openings were named, the term "Queen's Pawn Game" narrowed further.
+
+Continuations[edit]
+The Black responses given below are ranked in order of popularity according to ChessBase for FIDE-rated games.
+
+1...Nf6[edit]
+This move prevents White from establishing a full pawn centre with 2.e4. The opening usually leads to a form of Indian Defence, but can also lead to versions of the Queen's Gambit if Black plays ...d5 at some point. Since 1...Nf6 is a move that is likely to be made anyway, the move is a flexible response to White's first move. White usually plays 2.c4. Then Black usually plays 2...e6 (typically leading to the Nimzo-Indian, Queen's Indian, or Queen's Gambit Declined), 2...g6 (leading to the King's Indian or Grünfeld Defence), or 2...c5 (leading to the Benoni Defence or Benko Gambit). Rarer tries include 2...e5 (Budapest Gambit) and 2...d6 (Old Indian Defence). White can also play 2.Nf3, which like Black's move is not specific as to opening. A third alternative is the Trompowsky Attack with 2.Bg5.
+
+1...d5[edit]
+1...d5 (Closed Game) also prevents White from playing 2.e4 unless White wants to venture the dubious Blackmar–Diemer Gambit. 1...d5 is not any worse than 1...Nf6, but committing the pawn to d5 at once makes it somewhat less flexible since Black can no longer play the Indian Defences, although if Black is aiming for Queen's Gambit positions this may be of minor importance. Also, a move like 2.Bg5 (Hodgson Attack) is considered relatively harmless compared to 1.d4 Nf6 2.Bg5 since there is no knight on f6 for the bishop to harass. White's more common move is 2.c4, the Queen's Gambit, when Black usually chooses between 2...e6 (Queen's Gambit Declined), 2...c6 (Slav Defence) or 2...dxc4 (Queen's Gambit Accepted). White can also play 2.Nf3 which again is not specific as to opening. Then Black may play ...Nf6 (same as above) or ...e6. A Queen's Gambit may arise anyway if White plays c4 soon afterward, but lines like the Colle System and Torre Attack are also possible.
+
+1...e6[edit]
+The Franco-Indian Defence is a chess opening characterized by the moves: 1.d4 e6. This play allows White to play 2.e4, entering the French Defence. If White wants to continue with a Queen's Pawn Game however, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Queen's Gambit Declined, Nimzo-Indian or Queen's Indian. A line that is unique to the 1...e6 move order is the Keres Defence, 1.d4 e6 2.c4 Bb4+.
+
+1...d6[edit]
+This move also allows 2.e4 entering the Pirc Defence. If White avoids this, 2.Nf3 or 2.c4 may lead to a King's Indian or Old Indian Defence, or Black may play 2...Bg4, sometimes called the Wade Defence (A41, see 1.d4 d6 2.Nf3 Bg4). 2.c4 e5 is the Rat Defense, English Rat.
+
+1...f5[edit]
+1...f5 is the Dutch Defence. Common White moves are 2.g3, 2.Nf3, and 2.c4.
+
+1...g6[edit]
+1...g6 is sometimes called the Modern Defence line.
+White can play 2.e4 to enter the Modern Defence. More commonly, White plays 2.c4. Black may play 2...Nf6 for the King's Indian Defence (same as 1.d4 Nf6 2.c4 g6). More commonly, Black plays 2...Bg7. Then White's moves include 3.Nc3, 3.e4, and 3.Nf3. 3.Nc3 and 3.e4 often lead to the Modern Defence, Averbakh System, as well as 2...d6. White may also play 2.Nf3. Black may respond 2...Nf6 for the King's Indian, or more commonly, 2...Bg7. Common White responses are 3.e4, 3.c4, and 3.g3.
+
+1...c5[edit]
+1...c5  is the Old Benoni Defence: this is a form of the Benoni Defence seldom used.
+
+1...Nc6[edit]
+1...Nc6 is the Queen's Knight Defense (or Mikenas Defense): this can usually transpose to the Chigorin Defense or the Nimzowitsch Defense.
+
+1...c6[edit]
+This move allows White to play 2.e4, entering the Caro–Kann Defence. If, however, White wants to continue with a Queen's Pawn Game, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Slav Defence, London System, or Dutch Defence.
+
+1...b6[edit]
+1...b6 is the English Defence. Common White moves are 2.e4 (which transposes to the Owen Defense), 2.Nf3, and 2.c4.
+
+1...b5[edit]
+1...b5 is the Polish Defence: this is risky and should be played with care. It is better to delay ...b5 until the 2nd move.
+
+1...a6[edit]
+1...a6 can quickly transpose to the St. George Defence.
+
+1...e5[edit]
+1...e5?! is the Englund Gambit: this gives up a pawn for questionable compensation. 
+
+1...Na6[edit]
+1...Na6 is the Australian Defence.[1]
+
+1...g5[edit]
+1...g5? is the Borg Defense, Borg Gambit: this simply loses a pawn to 2.Bxg5.
+
+See also[edit]
+List of chess openings
+Closed Game
+References[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Queen's Pawn Opening
+
+
+
+^ "Queen's Pawn Opening: Australian Defense - Chess Openings".
+
+
+Bibliography
+
+Watson, John (2006), Mastering the Chess Openings, vol 1, Gambit, ISBN 978-1-904600-60-2
+vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
+1.Na3: Durkin  1.a3: Anderssen
+
+
+1.b3:  Nimzowitsch-Larsen
+
+
+1.Nc3: Dunst  1.c3: Saragossa
+
+
+1.d3:  Mieses
+
+
+1.e3:  Van 't Kruijs
+
+
+1.Nf3: Zukertort  1.f3: Barnes
+
+
+1.g3:  Benko
+
+
+1.Nh3: Amar  1.h3: Clemenz
+
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+Authority control databases International
+FAST
+National
+Germany
+Israel
+United States
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Queen%27s_Pawn_Game&oldid=1184481267"

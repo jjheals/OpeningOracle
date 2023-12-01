@@ -1,0 +1,397 @@
+Chess opening
+Chess openingQueen's Indian Defense
+abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.c4 e6 3.Nf3 b6ECOE12–E19ParentIndian DefenseSynonym(s)QID
+The Queen's Indian Defense[1] (QID) is a chess opening defined by the moves:
+
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+The opening is a solid defense to the Queen's Pawn Game.[2] 3...b6 increases Black's control over the central light squares e4 and d5 by preparing to fianchetto the queen's bishop, with the opening deriving its name from this maneuver. As in the other Indian defenses, Black attempts to control the center with pieces in hypermodern style, instead of occupying it with pawns in classical style.
+By playing 3.Nf3, White sidesteps the Nimzo-Indian Defense that arises after 3.Nc3 Bb4. The Queen's Indian is regarded as the sister opening of the Nimzo-Indian, since both openings aim to impede White's efforts to gain full control of the center by playing e2–e4. Together, they are a well-respected response to 1.d4.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Main line: 4.g3 [edit]
+4. g3 (ECO E15–E19) has long been White's most popular line against the Queen's Indian. It contests the long diagonal by preparing to fianchetto the light-squared bishop. The standard response for Black through the 1970s was 4...Bb7, but 4...Ba6 has since become the topical line. A rarer third option is 4...Bb4+, which aims to exchange the less useful dark-squared bishop, though this line tends to leave Black with a slightly passive position.
+
+Modern main line: 4...Ba6 [edit]
+White can defend the pawn at c4 with a piece by playing 5.Nbd2, 5.Qa4, 5.Qc2 or 5.Qb3, but these moves all diminish control of d4, making ...c7–c5 an effective reply for Black; therefore 5. b3 is White's most common response.[3] However, it weakens the dark squares slightly, which Black can take advantage of by playing 5... Bb4+. Now 6.Nbd2? loses material after 6...Bc3 7.Rb1 Bb7 threatening 8...Be4, an opening trap which has ensnared players such as Kamran Shirazi.[4] White's best move is therefore 6. Bd2. However, after 6... Be7 7. Bg2 c6 Black is ready to play ...d7–d5, again attacking the c-pawn. If White plays cxd5 then ...cxd5 is considered to equalize for Black. Thus White usually plays 8. Bc3 to clear the d2-square, and after 8... d5 White can play in two ways. After 9. Nbd2 Nbd7 10. 0-0 0-0 11. Re1 c5 Black has achieved his thematic pawn break before White and the resulting position after 12. e4 dxe4 13. Nxe4 is equal. Therefore, the main line continues  9. Ne5 and since Black does not want White to maintain this knight on a strong central outpost, play continues 9... Nfd7 10. Nxd7 Nxd7 11. Nd2 0-0 12. 0-0 Rc8 13. e4. By diverting the black knight on move 9 it is now White who has achieved his central pawn break first. The effect of Black's check 5...Bb4+ has been to lure White's bishop to c3 where it blocks the c-file. This, the current main line of the Queen's Indian, is considered equal by theory and became a frequent guest in grandmaster praxis in the 1980s.
+After 5. b3, Black also has several playable alternatives to 5...Bb4+, the most common of which is 5... Bb7 6. Bg2 Bb4+ 7. Bd2 a5. When White plays Nc3, Black will exchange bishop for knight in order to enhance his control over the central light squares, and play on the queenside with moves such as ...a5–a4 and ...b5. Other possibilities for Black include 5...d5 and 5...b5.
+More recently, several grandmasters, including Alexander Beliavsky, Ni Hua, Veselin Topalov, and Magnus Carlsen, have played 5. Qc2. The idea is to allow Black's counterthrust ...c5, the main line running 5... Bb7 6. Bg2 c5. The fashion is for White to sacrifice a pawn with 7. d5, gaining active play. This idea has scored well for White,[5] and new ideas have been cropping up since 2008.[6] The 5.Qc2 lines had previously scored poorly for White according to Emms.[3]
+
+Old main line: 4...Bb7 [edit]
+The classical main line of the Queen's Indian, the most frequently played line from the 1950s until 4...Ba6 became popular in the 1980s, usually continues: 5. Bg2 Be7 6. 0-0 0-0 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3. White has a spatial advantage, but Black has no weaknesses and can choose from a variety of ways to create counterplay, such as 9... c5, 9... f5 or 9... Be4. These lines are well known for their drawish tendencies and 4... Bb7 is nowadays often employed by Black as a drawing weapon. White has tried various deviations from the main line in an attempt to unbalance the play. These include:
+
+8. Bd2, which defends the knight on c3 and threatens a d4–d5 push.
+7. d5!?, introduced by Arturo Pomar, and rejuvenated by Lev Polugaevsky's continuation 7... exd5 8. Nh4 threatening to regain the pawn on d5 or to play Nf5.
+6. Nc3, which postpones castling in favor of preparing action in the center with the d4–d5 and e2–e4 thrusts.
+Other lines[edit]
+4.a3[edit]
+The Petrosian Variation, prepares 5.Nc3 by stopping ...Bb4 pinning the knight. White intends to follow up with Nc3 and e4, building a large pawn center. Black usually responds by contesting the e4-square with ...Bb7 and ...d5. (See Gurevich, 1992, for an extensive analysis.) This variation was often used by Garry Kasparov early in his career.
+
+4.Nc3[edit]
+Black can choose between 4...Bb7 and 4...Bb4.
+
+4... Bb7
+5. a3 became the more common move order to reach the Petrosian system by the mid-1980s, where White has avoided 4.a3 c5 5.d5 Ba6 and 4.a3 Ba6.
+5. Bg5 is an older line which gives Black good equalizing chances after 5...h6 6.Bh4 g5 7.Bg3 Nh5 8.e3 Nxg3 9.hxg3 Bg7. After 5...Be7, White can play 6.e3 or 6.Qc2.
+4... Bb4 (or the transposition 3.Nc3 Bb4 4.Nf3 b6) is a Queen's Indian/Nimzo-Indian line. Moves for White include 5.Bg5, 5.e3, and 5.Qb3.
+After 5. Bg5, Black may play 5...Bb7 or 5...h6.
+5...Bb7 6.e3 h6, White can play 7.Bh4.
+5...h6 6.Bh4 Bb7 (or by transposition 4...Bb7 5.Bg5 h6 6.Bh4 Bb4), White can play 7.e3. The position after 6...g5 7.Bg3 Ne4 8.Qc2 was heavily played and analyzed in the 1980s.
+After 5. e3, Black usually plays 5...Bb7. White usually plays 6.Bd3 for the Fischer Variation of the Nimzo-Indian (or by transposition 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3). White can play 6.e3, then Black usually plays 6...h6, although 6.Nd2 or 6.Qc2 may be better.
+After 5. Qb3, Black usually plays 5...c5.
+4.e3[edit]
+Preparing to develop the king's bishop and castle kingside, was also a favorite of Tigran Petrosian. This apparently quiet development may lead to complex middlegame play. Black usually replies 4...Bb7, then play may continue 5.Bd3 d5 6.0-0 or 5.Nc3 Bb4, transposing into the Nimzo-Indian Defence.
+
+4.Bf4[edit]
+The Miles Variation, which simply develops the bishop to a good square. Despite some success by its originator, this idea has never been popular.
+
+ECO codes[edit]
+The Encyclopaedia of Chess Openings classifies the Queen's Indian under codes E12 to E19 according to the following scheme:
+
+E12 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6
+E13 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5
+E14 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3
+E15 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3
+E16 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+E17 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
+E18 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.0-0 0-0 7.Nc3
+E19 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.0-0 0-0 7.Nc3 Ne4 8.Qc2
+References[edit]
+
+
+^ Gurevich, Mikhail (1992). Queen's Indian Defence: Kasparov System. Batsford Chess Library. ISBN 0-8050-2315-1.
+
+^ Pein, Malcolm (14 December 2007). Three Indian tales, The Daily Telegraph.
+
+^ a b John Emms (2004). Starting Out: The Queen's Indian. Everyman Chess. ISBN 1-85744-363-2.
+
+^ "Kamran G Shirazi vs Joel Benjamin". Chessgames.com. Retrieved 2009-04-13.
+
+^ Nimzo & Benoni Update November 2007 Chesspublishing.com, John Emms
+
+^ Nimzo & Benoni Update September 2008 Chesspublishing.com, John Emms
+
+
+Further reading[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Queen's Indian Defense
+
+Soltis, Andrew (1981). Queen's Indian Defense. R.H.M. Press. ISBN 978-0-89058-051-6.
+Kallai, Gabor; Ribli, Zoltán (1987). Winning With the Queen's Indian. Simon & Schuster. ISBN 978-0-02-029801-4.
+Lalic, Bogdan (1997). The Queen's Indian Defence. Everyman Chess. ISBN 978-1-85744-157-4.
+Aagaard, Jacob (2002). Queen's Indian Defence. Everyman Chess. ISBN 1-85744-300-4.
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Queen%27s_Indian_Defense&oldid=1132989075"

@@ -1,0 +1,561 @@
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Caro–Kann Defence" – news · newspapers · books · scholar · JSTOR (July 2022) (Learn how and when to remove this template message)Chess openingCaro–Kann Defence
+abcdefgh8877665544332211abcdefghMoves1.e4 c6ECOB10–B19OriginBruederschaft (journal), 1886Named afterHoratio Caro  and Marcus KannParentKing's Pawn Game
+The Caro–Kann Defence is a chess opening characterised by the moves:
+
+1. e4 c6
+The Caro–Kann is a common defence against the King's Pawn Opening. It is classified as a Semi-Open Game, like the Sicilian Defence and French Defence, although it is thought to be more solid and less dynamic than either of those openings. It often leads to good endgames for Black, who has the better pawn structure. It allows Black to circumvent enormous bodies of theory in 1.e4 openings such as the Ruy Lopez and the Sicilian Defence.
+Unlike its sister opening, the French Defence, the Caro–Kann does not hinder the development of Black's light-squared bishop. However, it comes at the cost of a tempo because Black has to play 1...c6 before pushing the pawn to c5, whereas Black can push c7–c5 in one move in the French Defence. White can combat the Caro–Kann in several different ways, often gaining a space advantage; additionally, Black has less mobility and can lag in development. 
+In the 21st century, grandmasters Vladislav Artemiev and Alireza Firouzja use the opening with regularity, while Ding Liren and Hikaru Nakamura use it on occasion.[citation needed]
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+History[edit]
+Mieses vs. Kann, Hamburg 1885
+abcdefgh8877665544332211abcdefghPosition after 17...Rc1
+
+The opening is named after the English player Horatio Caro and the Austrian player Marcus Kann, both of whom analysed it in 1886. Kann scored an impressive 24-move victory with the Caro–Kann Defence against German-British chess champion Jacques Mieses at the 4th German Chess Congress in Hamburg in May 1885:
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.f4 c5 7.c3 Nc6 8.Nf3 Qb6 9.0-0 Nh6 10.b3 cxd4 11.cxd4 Nf5 12.Bb2 Rc8 13.a3 Ncxd4 14.Nxd4 Bc5 15.Rd1 Nxd4 16.Bxd4 Bxd4+ 17.Qxd4 Rc1 (diagram) 18.Kf2 Rxd1 19.Qxb6 axb6 20.Ke2 Rc1 21.Kd2 Rg1 22.g3 Kd7 23.a4 Rc8 24.b4 Rcc1 0–1[1]
+
+Main line: 2.d4 d5[edit]
+After 2.d4 d5 the most common moves are 3.Nc3 (Classical and Modern variations), 3.Nd2, 3.exd5 (Exchange Variation), and 3.e5 (Advance Variation).
+
+
+3.Nc3 and 3.Nd2[edit]
+3.Nc3 and 3.Nd2 usually transpose into each other after 3...dxe4 4.Nxe4. Since the 1970s, 3.Nd2 has increased in popularity to avoid the Gurgenidze Variation (3.Nc3 g6) and to retain the option of 4.c3.
+
+Classical Variation: 3...dxe4 4.Nxe4 Bf5 [edit]
+
+abcdefgh8877665544332211abcdefgh Classical Variation after 4...Bf5
+
+The most common way of handling the Caro–Kann, the Classical Variation (often referred to as the Capablanca Variation after Cuban grandmaster José Raúl Capablanca), is defined by the moves: 1.e4 c6 2.d4 d5 3.Nc3 (or 3.Nd2) dxe4 4.Nxe4 Bf5. This was long considered to represent best play for both sides in the Caro–Kann. White usually continues: 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3. Although White's pawn on h5 looks ready to attack, it can prove to be a weakness in an endgame.[2]
+Much of the Caro–Kann's reputation as a solid defence stems from this variation. Black makes very few compromises in pawn structure and plays a timely ...c6–c5 to contest the d4-square. Variations with Black castling queenside gave the Caro–Kann its reputation of being solid but somewhat boring. More popular recently are variations with Black castling kingside and even leaving his king in the centre. These variations can be sharp and dynamic.
+Here is a brilliancy illustrating White's attacking chances when the players castle on opposite sides in the Classical Variation:
+
+Lev Milman vs. Joseph Fang, Foxwoods Open 2005 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 (10...Qc7 avoids White's next) 11. Bf4 Bb4+ 12. c3 Be7 13. 0-0-0 Ngf6 14. Kb1 0-0 15. Ne5 c5?! (15...Qa5 is usual and better) 16. Qf3 Qb6? (necessary was 16...cxd4 17.Rxd4 Nxe5 18.Bxe5 Qc8 19.Rhd1 Rd8 20.Ne4 with a small White advantage) 17. Nxd7 Nxd7 18. d5 exd5 19. Nf5! Bf6 20. Rxd5 Qe6 21. Bxh6 Ne5 (21...gxh6 22.Rd6 Qe8 23.Rxf6 Nxf6 24.Qg3+ mates on g7) 22. Qe4 Nc6 23. Qf3 Ne5? (23...gxh6 24.Rd6 Qe5 25.Nxh6+ Kg7 26.Nf5+ Kh7 with an unclear position) 24. Qe4 Nc6 25. Qg4! Qxd5 (25...Ne5 26.Rxe5 Qxe5 27.Bxg7 Bxg7 28.h6 wins) 26. Bxg7 Qd3+ 27. Ka1 Ne5 28. Ne7+!! Kh7 29. Qg6+!! fxg6 30. hxg6+ Kxg7 31. Rh7# (White is down a queen, a rook, and a bishop!)[3][4]
+
+Modern Variation: 3...dxe4 4.Nxe4 Nd7 [edit]
+
+abcdefgh8877665544332211abcdefgh Modern Variation: 4...Nd7
+
+Another solid positional line, this variation is characterised by the moves: 1.e4 c6 2.d4 d5 3.Nc3 (or 3.Nd2) dxe4 4.Nxe4 Nd7. At one time named after the first world champion Wilhelm Steinitz, nowadays the variation is variously referred to as the Smyslov Variation after the seventh world champion Vasily Smyslov who played a number of notable games with it; the Karpov Variation, after the twelfth world champion Anatoly Karpov, in whose repertoire it appeared quite often; or, most commonly, the Modern Variation. The short-term goal of 4...Nd7 is to ease development by the early exchange of a pair of knights without compromising the structural integrity of Black's position. Play is similar to the Classical Variation except that Black has more freedom by delaying the development of his bishop, and is not forced to play it to the g6-square. This freedom comes at a cost, however, as White enjoys added freedom in taking up space in the centre, and often plays the aggressive 5.Ng5!? where Black's development is brought into question as well as the positional weakness of the f7-square. The famous last game of the Deep Blue versus Garry Kasparov rematch where Kasparov committed a known blunder and lost was played in this very line.
+Specialist knowledge is a must to play this opening. Otherwise Black could fall prey to early attacks such as the quick mating trap for White, 5.Qe2 followed by 6.Nd6#.
+
+
+3...dxe4 4.Nxe4 Nf6 5.Nxf6+[edit]
+
+Bronstein–Larsen Variation: 5...gxf6 [edit]
+
+abcdefgh8877665544332211abcdefgh Bronstein–Larsen Variation: 5...gxf6!?
+
+Black has voluntarily opted for an inferior pawn structure and a practical necessity of castling queenside, while gaining dynamic compensation in the form of the open g-file for the rook and unusually active play for the Caro–Kann. It is generally considered somewhat unsound, though world championship challenger David Bronstein and former world championship candidate Bent Larsen employed it with some success.
+
+
+Korchnoi (or Tartakower) Variation: 5...exf6 [edit]
+
+abcdefgh8877665544332211abcdefgh Korchnoi/Tartakower Variation: 5...exf6
+
+Viktor Korchnoi played 5...exf6 many times (including his first world championship match with Anatoly Karpov), and this line has also been employed by Ulf Andersson. Black's 5...exf6 is regarded as sounder than 5...gxf6!? of the Bronstein–Larsen Variation and offers Black rapid development, though also ceding White the superior pawn structure and long-term prospects (Black has to be cautious that the d-pawn is now a potential passed pawn in the endgame).
+
+
+Gurgenidze Variation: 3.Nc3 g6 [edit]
+
+abcdefgh8877665544332211abcdefghGurgenidze Variation: 3...g6
+
+The Gurgenidze Variation is 1.e4 c6 2.d4 d5 3.Nc3 g6. Black prepares to fianchetto the bishop on g7, creating pressure against White's d4-pawn. After 4.Nf3 Bg7 White usually plays 5.h3 to prevent the ...Bg4 pin. This variation, originated by Bukhuti Gurgenidze, led to a rise in the popularity of 3.Nd2 during the 1970s. After 3.Nd2, 3...g6 is met by 4.c3, when the fianchettoed bishop has little to do because of a dark squared pawn chain. 3.Nd2 will usually transpose into the Classical Variation after 3...dxe4 4.Nxe4.
+
+
+Advance Variation: 3.e5 [edit]
+
+abcdefgh8877665544332211abcdefghAdvance Variation with 3...Bf5
+
+The 3...Bf5 variation that follows 1.e4 c6 2.d4 d5 3.e5 Bf5 has gained popularity after having previously been widely regarded as inferior for many years, owing chiefly to the strategic demolition that Aron Nimzowitsch (playing as White) suffered at the hands of José Capablanca in one of their games at the New York 1927 tournament.[5]
+The Advance Variation has since been revitalized by aggressive lines such as the Bayonet Attack (4.Nc3 e6 5.g4), a popular line in the 1980s and later favoured by Latvian grandmaster Alexei Shirov, or the less ambitious variation 4.Nf3 e6 5.Be2 c5 6.Be3, popularised by English grandmaster Nigel Short and often seen in the 1990s. Another less popular but aggressive line is the Tal variation (4.h4 h5), popularised by grandmaster Mikhail Tal.
+
+
+
+abcdefgh8877665544332211abcdefghAdvance Variation with 3...c5
+
+The 3...c5 variation that follows 1.e4 c6 2.d4 d5 3.e5 c5!? is an important alternative and avoids the weight of theory associated with 3...Bf5. It was used by Mikhail Botvinnik in his 1961 match versus Mikhail Tal (though with a negative outcome for Botvinnik – two draws and a loss). The line was christened the "Arkell/Khenkin Variation" in the leading chess magazine New in Chess yearbook 42 in recognition of the work these two grandmasters did and the success they were having with the variation. In comparison to the French Defence, Black lacks the tempo normally spent on 1...e6; however, White can only exploit this by the weakening of his own central bind with 4.dxc5 when Black has good chances of regaining the pawn.
+
+
+Exchange Variation: 3.exd5 cxd5 [edit]
+The Exchange Variation is 1.e4 c6 2.d4 d5 3.exd5 cxd5.
+
+Main line: 4.Bd3[edit]
+
+abcdefgh8877665544332211abcdefgh Exchange Variation with 4.Bd3
+
+The Exchange Variation begins with 4.Bd3 (to prevent ...Bf5 while still developing) 4...Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3. This line is considered to offer White a slightly better game and was tried by Bobby Fischer. Some of the strategic ideas are analogous to the Queen's Gambit Declined, Exchange Variation, (1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5) with colours reversed.
+
+
+Panov–Botvinnik Attack: 4.c4 [edit]
+
+abcdefgh8877665544332211abcdefgh Panov–Botvinnik Attack
+
+The Panov–Botvinnik Attack begins with the move 4.c4. It is named after Vasily Panov and the world champion Mikhail Botvinnik. This system often leads to typical isolated queen's pawn (IQP) positions, with White obtaining rapid development, a grip on e5, and kingside attacking chances to compensate for the long-term structural weakness of the isolated d4-pawn. The major variation in this line is 4...Nf6 5.Nc3 e6 6.Nf3, when Black's main alternatives are 6...Bb4 (a position often transposing into lines of the Nimzo-Indian Defence) and 6...Be7, once the most common line. 6...Nc6?! is inferior as it is favourably met by 7.c5!, after which White plans on seizing the e5-square by advancing the b-pawn to b5, or by exchanging the black knight on c6 after Bb5.
+
+
+Fantasy Variation: 3.f3 [edit]
+The Fantasy Variation, formerly known as the Tartakower or Maroçzy variation, 1.e4 c6 2.d4 d5 3.f3, somewhat resembles the Blackmar–Diemer Gambit. 3...e6 is probably the most solid response, preparing to exploit the dark squares via ...c5, though 3....g6 has been tried by Yasser Seirawan. GM Lars Schandorff and GM Sam Shankland both prefer 3...dxe4 4.fxe4 e5 5.Nf3 Bg4 6.Bc4 Nd7 7.0-0 Ngf6 8.c3 Bd6 with play being sharp and double-edged, though recent theory suggest that 7.c3! is more critical, giving a small objective advantage for White. Interesting, though probably insufficient is 3...e5. This so-called 'Twisted Fantasy Variation' aims to exploit White's weaknesses on the a7–g1 diagonal, an idea similar to 3...Qb6, a variation championed by Baadur Jobava. Related to the Fantasy Variation are the gambits 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3, originated by Sir Stuart Milner-Barry, and 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Bc4 Nf6 5.f3  (von Hennig).
+
+Two Knights Variation: 2.Nc3 d5 3.Nf3 (or 2.Nf3 d5 3.Nc3) [edit]
+
+abcdefgh8877665544332211abcdefgh Two Knights Variation
+
+The Two Knights Variation 1.e4 c6 2.Nc3 d5 3.Nf3 (or 2.Nf3 d5 3.Nc3) was played by Bobby Fischer in his youth, but has since declined in popularity. White's intention is to benefit from rapid development as well as to retain options regarding the d-pawn. Black's logical and probably best reply is 3...Bg4. After 4.h3 Bxf3 5.Qxf3, the positional continuation, Black has the option of 5...Nf6 or 5...e6. The Retreat Line 4...Bh5 is playable but Black must be careful. In Noteboom–Mindeno 1927 Black lost quickly after 5.exd5 cxd5 6.g4 Bg6 7.Ne5 a6? (7...Nc6 is necessary) 8.h4 d4 9.h5! dxc3 10.hxg6 cxd2+ 11.Qxd2 Qxd2+ 12.Bxd2 and Black must lose material.[6]
+This variation sets a trap: playing along the lines of the Classical Variation gets Black in trouble after 3...dxe4 4.Nxe4 Bf5 (4...Nd7 is playable) 5.Ng3 Bg6?! (5...Bg4) 6.h4 h6 7.Ne5 Bh7 (7...Qd6 may be best) 8.Qh5! g6 (forced) 9.Bc4! e6 (9...gxh5?? 10.Bxf7#) 10.Qe2 with a huge advantage for White. Now 10...Qe7! is best. Instead, Lasker–Radsheer, 1908 and Alekhine–Bruce, 1938 ended quickly after, respectively, 10...Bg7?? 11.Nxf7! and 10...Nf6?? 11.Nxf7![7][8]
+After the moves 1.e4 c6 2.Nc3 d5 3.Qf3!? (Goldman Variation), White's position is sound according to Graham Burgess.[9]
+
+
+Other lines[edit]
+The percentage white wins, black wins or a draw occurs in the games of highly rated players (2200+ FIDE) in four lines of the Caro–Kann Defence.[10]
+2.c4, the Accelerated Panov Attack, is an effective move for White. Black will probably play 2...d5 (see 1.e4 c6 2.c4 d5). This can transpose to the Panov–Botvinnik (B14, given above, with 3.exd5 cxd5 4.d4) or Caro–Kann (B10, with the double capture on d5). Alternatively, Black may play 2...e5, the Open Variation (see 1.e4 c6 2.c4 e5). The 2.c4 line can also arise by transposition from the English Opening: 1.c4 c6 2.e4.
+The Hillbilly Attack,[11][12] 1.e4 c6 2.Bc4?!, is most often played by weaker players unfamiliar with the Caro–Kann Defence. If 2...d5 3.exd5 cxd5, Black has simply gained a tempo on the bishop. Nevertheless, GM Simon Williams has experimented with this move, following it up by gambiting the pawn with 2...d5 3.Bb3!?[13]
+An interesting, relatively unknown try is 1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Ne5!?, sometimes referred to as the Apocalypse Attack. Despite its oddity, this line carries a deceptive amount of venom, e.g. 4...Bf5? immediately runs into trouble after 5. Bb5+, when Black must lose a tempo and the bishop pair with 5...Bd7 (5..Nd7?? 6. Qf3 is disastrous for Black). The game can continue with 6. Qh5 g6 7. Nxd7! Nxd7 (7...gxh5?? 8. Nf6#) 8. Qxd5, where white wins a pawn and enjoys a strong initiative. This variation is similar to the traditional Exchange Caro-Kann (in which playing Ne5 is one of White's goals) with the added benefit that the pin with ...Bg4 has been sidestepped entirely. After 3...Nc6, White may proceed with d4 and Bb5, responding to ...Qb6 with c4 (the Neo-Panov-Botvinnik Attack) and to ...Bd7 with Nxd7 to acquire the two bishops, or he may play in a Stonewall fashion with d4, c3, Bd3, and f4 in some order. While 3...e6 is a perfectly acceptable Black response--and appears to be the most often played--the response 3...g6! is critical, allowing Black flexibility in fighting for e5.[14]
+Other lines are ineffective or doubtful. These include 2.d3, the Breyer Variation; 2.b3, the Euwe Attack; 2.b4, the Labahn Attack; 2.g4, the Spike Variation; and 2.Ne2, the Bohemian Attack. 
+White's response to the Caro–Kann, on the 3rd move can keep win/loss/draw chances (with d4 or Nc3, refer to image right) or increase draw chances (with c3). The worst response by white to the Caro–Kann defence is g3.
+
+ECO codes[edit]
+The Encyclopaedia of Chess Openings has ten codes for the Caro–Kann Defence, B10 through B19:
+
+B10 – Miscellaneous 2nd moves by White
+Hillbilly Attack: 1.e4 c6 2.Bc4
+Modern; English Variation, Accelerated Panov: 1.e4 c6 2.c4
+Breyer Variation: 1.e4 c6 2.d3
+Scorpion-Horus Gambit: 1.e4 c6 2.Nc3 d5 3.d3 dxe4 4.Bg5
+Spielmann/Goldman Variation: 1.e4 c6 2.Nc3 d5 3.Qf3
+Two Knights Variation (without 3...Bg4): 1.e4 c6 2.Nf3 d5 3.Nc3
+Apocalypse Attack: 1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.Ne5
+Hector Gambit: 1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Ng5
+B11 – Two Knights Variation with 3...Bg4
+B12 – Miscellaneous lines with 2.d4
+Landau Gambit: 1.e4 c6 2.d4 d5 3.Bd3 Nf6 4.e5 Nfd7 6.e6
+Mieses Gambit: 1.e4 c6 2.d4 d5 3.Be3
+Diemer–Duhm Gambit: 1.e4 c6 2.d4 d5 3.c4
+Advance Variation: 1.e4 c6 2.d4 d5 3.e5
+Masi Variation: 1.e4 c6 2.d4 Nf6
+Massachusetts Defense: 1.e4 c6 2.d4 f5
+Prins Attack: 1.e4 c6 2.d4 d5 3.e5 Bf5 4.b4
+Bayonet Variation: 1.e4 c6 2.d4 d5 3.e5 Bf5 4.g4
+Tal Variation: 1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4
+Van der Wiel Attack: 1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3
+Dreyev Defense: 1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 Qb6
+Bronstein Variation: 1.e4 c6 2.d4 d5 3.e5 Bf5 4.Ne2
+Short Variation: 1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2
+Botvinnik–Carls Defense: 1.e4 c6 2.d4 d5 3.e5 c5
+Maroczy Variation: 1.e4 c6 2.d4 d5 3.f3
+Fantasy/Lilienfisch Variation: 1.e4 c6 2.d4 d5 3.f3
+Maroczy Gambit: 1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Bc4
+Modern Variation: 1.e4 c6 2.d4 d5 3.Nd2
+New Caro–Kann 1.e4 c6 2.d4 d5 3.Nd2 g6
+Edinburgh Variation: 1.e4 c6 2.d4 d5 3.Nd2 Qb6
+Ulysses Gambit: 1.e4 c6 2.d4 d5 3.Nf3 dxe4 4.Ng5
+De Bruycker Defense: 1.e4 c6 2.d4 Na6
+B13 – Exchange Variation
+Rubinstein Variation: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4
+Panov–Botvinnik: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5. Nc3 e6
+B14 – Panov–Botvinnik Attack without 5...e6
+Carlsbad Line: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6
+Czerniak Line: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qa5
+Reifir–Spielmann Line: 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6
+B15 – 3.Nc3, miscellaneous lines
+Gurgenidze Variation: 1.e4 c6 2.d4 d5 3.Nc3 b5
+Von Hennig Gambit: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Bc4
+Milner–Barry Gambit, Rasa-Studier Gambit: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3
+Knight Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+Tarrasch/Alekhine Gambit: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3
+Tartakower Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6
+Forgacs Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Bc4
+Gurgenidze System: 1.e4 c6 2.d4 d5 3.Nc3 g6
+Gurgenidze Variation: 1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 5.f4 h5
+Campomanes Attack: 1.e4 c6 2.d4 d5 3.Nc3 Nf6
+B16 – Bronstein–Larsen Variation
+Finnish Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 h6
+Bronstein–Larsen Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6
+Korchnoi Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6
+B17 – Steinitz Variation
+Karpov/Steinitz Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
+Smyslov Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6
+Tiviakov–Fischer Attack: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Nxf6+ Nxf6
+Kasparov Attack: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3
+Ivanchuk Defense: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ndf6
+B18 – Classical Variation
+Classical Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+Flohr Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nh3
+B19 – Classical Variation with 7...Nd7
+Spassky Variation: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3
+See also[edit]
+List of chess openings
+List of chess openings named after people
+References[edit]
+
+
+^ Jacques Mieses vs. Marcus Kann, Hamburg 1885 Chessgames.com
+
+^ Schiller, p. 33
+
+^ Notes based on Milman's much more extensive notes in Chess Life, July 2005, pp. 11–12.
+
+^ "Milman vs. Fang, 7th Foxwoods Open 2005". Chessgames.com. Retrieved 2009-10-30.
+
+^ Nimzowitsch vs. Capablanca, New York 1927 Chessgames.com
+
+^ Noteboom vs. Mindeno, Holland 1927 Chessgames.com
+
+^ Lasker vs. Radsheer, simultaneous exhibition 1908. Chessgames.com. Retrieved on 2009-04-14.
+
+^ Alekhine vs. R. Bruce, Plymouth 1938. Chessgames.com. Retrieved on 2009-04-14.
+
+^ "The Dunst: Attacking the Caro–Kann with an early Queen sortie". Archived from the original on 2011-03-01. Retrieved 2011-02-03.
+
+^ "Chess Analysis Board - Database". lichess.org. Retrieved 19 September 2021.
+
+^ Watson, John (2015). Taming Wild Chess Openings: How to Deal with the Good, the Bad and the Ugly over the Chess Board. New In Chess. p. 148. ISBN 978-90-5691-571-1. Extract of page 148
+
+^ Schiller, Eric (1998). Unorthodox Chess Openings (illustrated ed.). Cardoza. p. 82. ISBN 978-0-940685-73-4.
+
+^ Simon Kim Williams vs. Gawain Jones, 4NCL 2011 Chessgames.com
+
+^ The Apocalypse Attack - 1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.Ne5! Retrieved on 2023-06-11.
+
+
+Bibliography
+
+Schiller, Eric (2003). Complete Defense to King Pawn Openings (2nd ed.). Cardoza. ISBN 978-1-58042-109-6.
+Further reading[edit]
+Gallagher, Joe (2002). Starting Out: the Caro–Kann. Everyman Chess. ISBN 1-85744-303-9.
+Houska, Jovanka (2007). Play the Caro–Kann: A Complete Chess Opening Repertoire Against 1 e4. London: Everyman Chess. ISBN 978-1-85744-434-6.
+Karpov, Anatoly (2006). Caro–Kann Defence: Advance Variation and Gambit System. London: Anova Books. ISBN 0-7134-9010-1.
+Kasparov, Garry; Shakarov, Aleksander (1984). Caro–Kann: Classical 4.Bf5. Batsford. ISBN 0-7134-4237-9.
+Keene, Raymond; Mednis, Edmar; Soltis, Andy (2004). Understanding The Caro–Kann Defense. Hardinge Simpole Limited. ISBN 978-1-84382-134-2.
+Martin, Andrew (2007). The ABC of the Caro Kann. ChessBase Publications, Fritz Trainer DVD.
+Silman, Jeremy (1990). Dynamic Karo Kann. Summit Pub. ISBN 978-0-945806-02-8.
+Wells, Peter (2007). Grandmaster Secrets – The Caro–Kann. London: Gambit Publications. ISBN 978-1-904600-61-9.
+"The Caro-Kann Defence" by Edward Winter
+External links[edit]
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Caro–Kann Defence
+
+Chess.com Caro-Kann Page
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+Authority control databases International
+FAST
+National
+Spain
+Germany
+Israel
+United States
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Caro–Kann_Defence&oldid=1185593417"

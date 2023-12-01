@@ -1,0 +1,561 @@
+Chess opening
+Chess openingSemi-Slav Defense
+abcdefgh8877665544332211abcdefghMoves1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6ECOD43–D49ParentQueen's Gambit
+The Semi-Slav Defense is a variation of the Queen's Gambit Declined chess opening defined by the position reached after the moves:
+
+1. d4 d5
+2. c4 c6
+3. Nf3 Nf6
+4. Nc3 e6
+The position may readily be reached by a number of different move orders. Black's supporting pawns resemble a mixture of the Orthodox Queen's Gambit Declined, e6, and the Slav Defense, c6.
+Black is threatening to capture the white pawn on c4 and hold it with ...b7–b5. White can avoid this in a number of ways. About 80% of games continue  5.Bg5  or  5.e3: the former constitutes a sharp pawn sacrifice, while the latter restricts the dark-squared bishop from its natural development to g5. Other possible moves are  5.Qb3,  5.g3  and  5.cxd5, the last of which, after 5...exd5, leads to a line of the QGD Exchange Variation where White's early Nf3 enables Black's queen bishop to freely develop, which should give equality (ECO codes D43 and D45). It is worth noting that  5.Bf4  is considered somewhat inaccurate, as  5...dxc4 is favorable for Black.
+The Semi-Slav is designated by codes D43 through D49 in Encyclopaedia of Chess Openings.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+First moves and possible deviations[edit]
+It is possible to reach the Semi-Slav through many move orders. White may start the game with either 1.d4, 1.Nf3 or even 1.c4, keeping the possibility of a Semi-Slav open. Black can choose different combinations of ...d5, ...c6, ...e6 and ...Nf6 as well in order to avoid certain variations or to open up some new opportunities of his own. This chapter looks at the first moves of the game from Black's point of view, assuming that he would prefer to play the Semi-Slav.
+
+1.d4 d5 move order[edit]
+If White opens the game with 1.d4, Black is happy to respond with 1...d5 when aiming for a Semi-Slav. Of course White can continue the game with 2.Bf4 or even 2.Bg5 (as is the case if Black opens 1...Nf6), and the game will take a completely different path. In vast majority of master games, however, White players choose to play either 2.c4 (Queens Gambit) or 2.Nf3. After 2.Nf3, the natural continuation for Black is 2...Nf6. Playing 2...c6 or 2...e6 might be somewhat inaccurate, since White always has the option of avoiding c2–c4, so developing the knight first makes a lot of sense.
+If White chooses the most common 2.c4, Black has three practical choices: either protect the pawn on d5 by playing e6 or c6 (keeping the option of a Semi-Slav open), or alternatively capture the white pawn with dxc4 (leading to Queen's Gambit Accepted). The first thing for Black players to consider is, what if White captures on d5 anyhow with cxd5. If Black has played the Slav move order (2...c6), then after the recapture cxd5 ("exchange Slav") the pawn structure is symmetrical. Should Black have played 2...e6 instead, the recapture exd5 leads to an imbalanced pawn structure called the Carlsbad structure, which might offer White some opportunities for a minority attack on the queenside.
+
+Slav move order: 2...c6[edit]
+Protecting the d5-pawn with the c-pawn has at least three implications for Black. First, it allows Black to keep the option to enter the Slav Defense, i.e., developing his light-squared bishop to f5 at the appropriate moment, before moving his e-pawn. Second, it may discourage White from capturing on d5, given the somewhat drawish reputation of the Exchange Slav. Third, it prevents White from entering the Catalan opening with 3.g3.
+One drawback of playing 2...c6 is that White may continue 3.Nf3, and after 3...Nf6 play 4.e3 ("Slow Slav"), and now Black cannot really play the Semi-Slav since 4...e6 is considered to be good for White as he has not committed to Nc3 thus having other options to develop, for example Nbd2 or b3.
+
+Queen's Gambit declined move order: 2...e6[edit]
+Protecting the d5-pawn with the e-pawn allows Black to develop his kingside more rapidly, but it does block the light-squared bishop for the time being. After 3.Nf3 Nf6 White has the option of entering the Catalan opening with 4.g3.
+If White continues 3.Nc3, Black has two options to proceed with a Semi-Slav in mind. First, Black can play 3...c6 (the "triangle setup", see below). Second, Black can play 3...Nf6, which gives White the opportunity to continue 4.cxd5 exd5 followed by 5.Bg5.
+
+The triangle setup[edit]
+The Triangle setup
+ abcdefgh8877665544332211abcdefghPosition after 3...e6
+
+After the move order 1.d4 d5 2.c4 c6 3.Nc3 Black has the opportunity to respond with 3...e6 instead of 3...Nf6. This "triangle setup" opens up some new alternatives for both players on the fourth move.
+
+Marshall Gambit[edit]
+First, White has the opportunity to enter the Marshall Gambit by playing 4.e4. Play continues 4...dxe4 (4...Bb4 is sometimes played, but should favor White) 5.Nxe4 Bb4+. Now White has two alternative paths to continue. The main line is considered to be 6.Bd2 Qxd4 7.Bxb4 Qxe4+ and then White blocks the check with either his knight or bishop. Alternatively White can continue with 6.Nc3 (as in World Championship match Carlsen–Anand, 2013), and play continues 6...c5 7.a3 Ba5.
+
+Noteboom Variation[edit]
+Second, if White continues 4.Nf3, Black has the extra option of playing 4...dxc4 entering the Noteboom Variation. If White wants to avoid this variation, he must play either 4.e4 (Marshall Gambit) or 4.e3 (which usually transposes to the Meran, but deprives White of the Bg5 variations). White now has a number of possible continuations, including 5.a4 (see below), 5.e3 (often transposing to the line given below), 5.e4 (with similarities to the line given below), or even 5.Bg5. A typical line in the Noteboom Variation continues: 5.a4 Bb4 6.e3 b5 7.Bd2 a5 8.axb5 Bxc3 9.Bxc3 cxb5 10.b3 Bb7 11.bxc4 b4 12.Bb2 Nf6 13.Bd3 Nbd7 14.0-0 0-0 with an interesting position where Black has two connected passed pawns on the queenside, while White has the bishop pair and dominates the center of the board.
+It is worth noting that the "triangle setup" is not ideal for Black if White plays 3.Nf3 instead of 3.Nc3. Should Black play 3...e6 nevertheless, White has the option of continuing with 4.e3 or 4.Qc2, for example, thus avoiding the Noteboom Variation.
+
+1.d4 Nf6 2.c4 e6 move order[edit]
+Black has the option of delaying the move ...d7–d5, for instance to avoid the exchange cxd5. If White continues 3.Nc3, Black has the option of transposing to a Nimzo-Indian with 3...Bb4. Should White choose to play 3.Nf3 instead, Black can simply play 3...d5, and then after 4.Nc3 c6 we are back at the start of the Semi-Slav. This move order, however, allows White to play the Catalan Opening with either 3.g3, or alternatively 3.Nf3 d5 4.g3.
+
+Semi-Slav: 5.e3 variations[edit]
+Roughly 50% of the games continue with 5.e3. White gives priority to developing his light-squared bishop, and accepts that for the time being the dark-squared bishop will remain somewhat out of play. The main line continues with 5...Nbd7. 5...Be7 is rare, as the bishop is passively placed on e7 and does not support the freeing move ...e5. The unusual move 5...a6 is considered solid for Black. Some sources call 5...a6 the "accelerated Meran".[1]
+
+Meran Variation: 6.Bd3 [edit]
+
+abcdefgh8877665544332211abcdefghPosition after 6.Bd3
+
+One of the main variations of the Semi-Slav is the Meran Variation. White plays 6.Bd3, provoking the continuation 6...dxc4 7.Bxc4 b5 (ECO codes D46 to D49) where black surrenders his center in exchange for queenside expansion and some tempo against the white bishop. The line was first played in 1906 in the game Schlechter–Perlis.[2] The variation takes its name from the town of Meran (Merano) in northern Italy. During a 1924 tournament in Meran, it was used successfully in the game Gruenfeld–Rubinstein. Gruenfeld adopted the same variation two rounds later against Spielmann, winning as well.[3] White will play in the center, leading to a rich, complicated game. These opposing strategies, with the ensuing keen play, have long made the Meran a favorite for enterprising players of either color. An example is Gligoric–Ljubojevic, Belgrade 1979.[4]
+Though appearing in contemporary master play with less frequency than the Meran, there are other possibilities: 6...Be7, 6...Bb4, introduced by the Italian master Max Romih, and 6...Bd6, which was much the most popular line before the debut of the Meran, and espoused by the American grandmaster Arthur Bisguier throughout his career.
+After the main line 6.Bd3 dxc4 7.Bxc4 b5 White has three alternative retreats for the bishop. The vast majority of games continue 8.Bd3, but the moves 8.Bb3 and 8.Be2 are also possible.
+
+8.Bd3 variation (main line)[edit]
+By playing 8.Bd3 White returns the bishop on this ideal square, where it supports White's strategic ambition of pushing e3–e4 in the near future, and gives White the option of playing Ne4 if necessary. Black's main plan, on the other hand, is to find a way to push ...c6–c5 in order to free the long diagonal for his light-squared bishop and to eliminate the backward pawn on the semi-open c-file. In practice, Black has three alternative moves in this position: 8...a6 (Classical Meran), 8...Bb7 ("Modern/Improved Meran"[5]) or 8...Bd6 (which often transposes to the lines of the Anti-Meran).
+
+8.Bb3 variation[edit]
+Maintaining the bishop on the long diagonal aiming at e6- and f7-squares is an aggressive approach by White. If Black is not careful, White will launch an aggressive attack towards the black king with possible knight sacrifices on e6 or f7 in the near future. An example continuation might be 8...b4 9.Ne2 Bb7 10.Nf4 Bd6 11.Ng5, when White is already threatening sacrifices to open up Black's position, and Black must respond with 11...Bxf4 in order to avoid trouble.
+
+8.Be2 variation[edit]
+Retreating the bishop to e2 instead of the typical d3-square has an impact on certain continuations, when the white queen is protecting the d-pawn. An example can be seen in a line where Black plays in the typical Meran style: 8.Be2 a6 9.e4 c5 10.e5 cxd4 and now White has the option of playing 11.Qxd4 Bc5 12.Qf4  with a comfortable advantage.
+
+Classical Meran: 8...a6[edit]
+Classical Meran
+ abcdefgh8877665544332211abcdefghPosition after 8...a6
+
+Black plays 8...a6 in order to protect his b5-pawn and threatening to follow up with the equalizing move ...c6–c5. White cannot really prevent this plan directly, so he must immediately generate some counterplay in the center with 9.e4. It is also possible to play 9.a4, but  9.0-0 is a strategic mistake as it allows Black to freely push his c-pawn, equalizing immediately. Black will respond with 9...c5, after which White has the choice between pushing his d-pawn or e-pawn, leading to very different middlegames.
+
+10.e5 variation (main line)[edit]
+Pushing the e-pawn is the classical approach by White, adopted in several high-level games, including World Championship match Kramnik–Anand in 2008. The black knight on f6 has no reasonable squares to go to, so Black must continue his aggression by 10...cxd4, attacking the white knight in return. Taking the knight on f6 would favor Black, so White responds 11.Nxb5 (the Blumenfeld Variation), sacrificing his knight while still threatening Black's f6-knight. Black now has three reasonable alternatives for how to proceed. The most popular and tested line continues 11...axb5 12.exf6 gxf6 13.0-0 Qb6 14.Qe2 with a very interesting position. Black is up a pawn and has a very straightforward plan: play ...Bb7, ...Bd6, ...Rb8 and aim for the white king. Practice has shown, however, that White is doing very well in these positions, but precision is certainly required from both sides. Alternatively, Black can play 11...Ng4 (the Rabinovich Variation), where White might respond 12.Qa4, preventing the capture ...axb5 due to the pin on the a-file, as well as discouraging Black from capturing on e5 due to the discovered check on the black king. Nevertheless, play might continue 12...Ngxe5 13.Nxe5 Nxe5 14.Nd6+ Ke7 15.Nxc8+ Rxc8 16.Bxa6 Ra8 and White is clearly better but certainly not yet winning. A third alternative is to play 11...Nxe5 (the Sozin Variation), and after 12.Nxe5 axb5 13.Bxb5+ Bd7 14.Nxd7 Qa5+ 15.Bd2 Qxb5 16.Nxf8 Kxf8 White probably has a slight advantage, but the imbalance in pawn structures will guarantee an exciting game with opportunities for both sides.
+
+10.d5 variation (transposition to Reynolds Attack)[edit]
+White has the option of playing 10.d5 as well. This often transposes to the Reynolds Attack (described in detail below) after, for example, 10...c4 11.Bc2 Qc7 12.0-0 Bb7, or another move order.
+
+Modern/Improved Meran: 8...Bb7[edit]
+Modern/Improved Meran
+ abcdefgh8877665544332211abcdefghPosition after 8...Bb7
+
+According to some sources, the move was first played in 1923. The strategic idea behind this move is to develop the light-squared bishop and possibly play b5–b4 and c6–c5 without wasting time on a7–a6. The move 8...Bb7 was long considered virtually unplayable due to the line 9.e4 b4 10.Na4 c5 11.e5 Nd5 12.Nxc5 Nxc5 13.dxc5 Bxc5 14.Bb5+ and the black king will be stuck in the center. However, it was later found, in particular through the work of Danish grandmaster Bent Larsen in the late 1960s and early 1970s, that after 14...Ke7 Black is completely fine and might be even better, with a very strong knight on d5 and strong bishops aiming at the White kingside. This forced White players to look for alternative approaches to Black's modern treatment of the Meran.
+
+
+9.0-0 variation and Reynolds Attack[edit]
+Reynolds Attack
+ abcdefgh8877665544332211abcdefghPosition after 11.d5
+
+White can simply play 9.0-0, and the game often continues 9...a6 10.e4 c5 11.d5 leading into the Reynolds Attack. It is worth noting that 11.e5 is no longer an option as it was in the Classical Meran, since Black can respond with 11...cxd4 and now 12.Nxb5 no longer works since Black has the option of playing 12...Bxf3 13.Qxf3 Nd5 with equality. After 11.d5 Black cannot really capture on d5, since the opening of the e-file could be disastrous for Black in a practical game (although with precise computer play Black seems to be fine after 11...exd5). Therefore, Black must allow White to capture on e6, and try to deal with the consequences.
+Black typically develops his queen with ...Qc7, with the choice of whether or not to push the c-pawn to c4. The benefit of pushing the c-pawn is that should White play dxe6 and after the recapture fxe6 attack the e-pawn with either Ng5 or Nd4, Black has the opportunity to defend the pawn with ...Nc5. Alternatively, Black can refrain from pushing the c-pawn to c4, which prevents White from using the d4-square for his knight in some variations.
+An example variation where Black keeps his c-pawn on c5 is: 11...Qc7 12.dxe6 fxe6 13.Ng5 Qc6 after which there are many different ways to continue for both sides.
+If Black instead pushes his c-pawn, this opens up several interesting opportunities for White. For example: 11...c4 12.Bc2 Qc7 13.dxe6 fxe6 and now White has two possible knight moves (among other alternatives) pressure Black's e-pawn.
+First, 14.Ng5 has to be met with 14...Nc5 (now 14...Qc6 would lead to 15.Qf3 h6 16.Qh3 – a typical queen maneuver in such positions – with a very strong advantage for White). Now White has a couple of interesting alternatives to proceed. The first one is a flashy move 15.e5, played for example in 1994 by Kramnik against Shirov, and a couple of rounds later by Karpov against Kramnik himself. Play continues 15...Qxe5 16.Re1 Qd6 17.Qxd6 Bxd6 18.Be3 0-0 19.Rad1 Be7 20.Bxc5 Bxc5 21.Nxe6 Rfc8 with roughly equal chances for both. An alternative approach is  15.Be3 h6, after which White can throw in the even flashier knight sacrifice 16.Nxe6, and the game typically continues 16...Nxe6 17.e5 Qxe5 18.Bg6+ (the point!) Ke7 19.Re1 and White has a strong attack against the black king, despite being a full piece down.
+Second, 14.Nd4 Nc5 15.Qe2 Bd6 leads to very interesting play, for example in the game Karpov–Anand, 1998, which continued 16.f4 e5 17.Ndxb5 axb5 18.Nxb5 Qb6 19.Nxd6+ Qxd6 20.fxe5 Qxe5 21.Rf5 Qe7 22.Qxc4 Rc8 23.Qb5+ Ncd7 24.Qxb7 Rxc2 with a wild and tactical game.
+A lot of theory and high-level games exist on Reynolds Attack and its different subvariations. As in many variations of the Semi-Slav, the game becomes wildly tactical and provides opportunities for both sides.
+
+9.e4 variation[edit]
+Continuing the game with 9.e4 b4 10.Na4 c5 11.e5 Nd5 is still very much an option for White. Instead of captures on c5, White can play 12.0-0 with some attacking prospects. The most critical continuation is 12...cxd4, after which White can either play 13.Re1 or 13.Nxd4, both giving opportunity for some wild attacks on the black position. With accurate play, however, Black should be fine.
+
+9.a3 variation[edit]
+White has a third option to play 9.a3 as well. The idea is to prepare b2–b4 by White, which would make it more difficult for black to achieve his strategic plan of pushing c6–c5. Black may respond with moves like 9...b4, 9...Bd6, 9...a6 or 9...a5.
+
+8...Bd6 variation[edit]
+Intent of the move 8...Bd6 is to allow rapid castling as well as to increase Black's control over the e5-square, which will be critical in many continuations. White's strategic idea in the Meran is to push e3–e4, and with a bishop on d6 Black is always ready to meet this with e6–e5, and typically Black is doing fine after such moves. Play might continue 9.0-0 0-0 10.Qc2 Bb7 transposing to one of the topical lines discussed in the Anti-Meran section below. In addition there are some independent lines after 8...Bd6, where play continues with, for example, either 9.Ng5 Bb7 10.Qf3 h6 11.Qh3  or 9.Bd2 Bb7 10.Rc1 Rc8 11.a3.
+
+Anti-Meran Variation: 6.Qc2 [edit]
+Also known as the Stoltz Variation, named after Swedish grandmaster Gösta Stoltz, the main alternative to 6.Bd3 has become 6.Qc2. Once a sideline, this move exploded in popularity in the 1990s, in large part due to Anatoly Karpov's advocacy. The idea is to wait for Black to commit to ...dxc4 before playing Bd3. Black commonly replies with 6...Bd6. One such example was played between Magnus Carlsen against Viswanathan Anand at Linares in 2009, in which the white pieces ended victorious.[6]
+White can choose between a couple of very different continuations:
+
+Karpov Variation: 7.Bd3 [edit]
+Most often White players choose the move 7.Bd3. Karpov first played 7.Be2 but it soon transpired that the d3-square gives White better chances. Play usually continues 7...dxc4 8.Bxc4 0-0 9.0-0 b5 10.Bd3 Bb7, after which White has several interesting options to continue the game.
+
+11.a3 variation[edit]
+
+abcdefgh8877665544332211abcdefghPosition after 11.a3
+
+One of the "hot" positions of Semi-Slav occurs after 11.a3. White intends to simply push b2–b4, which would seriously hamper Black's strategic plan of playing c6–c5. White also often looks at transferring his knight from f3 via g5 to e4, which is something Black might want to prevent. Black players have tried various approaches to combat White's plan, and the final word on this variation has certainly not yet been said.
+If Black responds with 11...a5, he is certainly slowing down White's intentions towards b4, but the cost may be too high: Black will never be able to support his b-pawn with a6, and the weakness of the queenside pawn structure will be a permanent problem.
+An alternative is to play 11...a6 aiming at pushing c5 next, which more or less invites White to play 12.b4. Now Black can respond with 12...a5, and the game could continue with 13.Rb1 axb4 14.axb4 Qe7 15.e4 e5, with very dynamic play and opportunities for both sides.
+Playing 11...Qe7 takes the poison out of White's planned knight transfer, since after the moves 12.Ng5 h6 13.Nge4 Nxe4 14.Nxe4 c5 Black seems to be fine. However, after 11...Qe7, White can continue 12.e4 e5 13.Bg5, and White seems to retain some advantage.
+A very radical approach by Black is to play 11...Rc8, with a clear threat of placing the rook on the same file as the white queen. If White now plays 12.b4 to "prevent" Black from pushing the c-pawn, Black may simply respond with 12...c5!? (12...a5 is the computer preference), and after 13.bxc5 Bxf3 14.cxd6 Nd5 the game is wide open with massive tactical complications and opportunities for both sides.
+
+11.Rd1 variation[edit]
+Playing 11.Rd1 is a possibility, but it looks like Black can neutralize White's play after 11...b4 12.Na4 c5 13.dxc5 Rc8 and the tactics seem to work in Black's favor.
+
+11.e4 variation[edit]
+White can immediately push 11.e4, and Black must respond with the thematic 11...e5. Play often continues 12.dxe5 Nxe5 13.Nxe5 Bxe5  14.h3 with some slight advantage for White.
+
+11.Ng5 variation[edit]
+White can begin the thematic knight transfer immediately with 11.Ng5. In such positions, Black often has the tactical idea of Bxh2+ Kxh2 Ng4+ at his disposal, but in this precise variation it does not seem to provide anything for Black. After 11...h6 12.Nge4 Be7 the position seems very equal, though.
+
+7.b3 variation[edit]
+Instead of preparing the e3–e4 push to free his dark-squared bishop, White can also play 7.b3 to support the pawn on c4 and develop the bishop on the long diagonal in anticipation of future opening of the center. Play might continue 7...0-0 8.Be2 after which Black has several viable continuations at his disposal, with the most common being 8...b6 and 8...e5.
+
+Shirov–Shabalov Gambit: 7.g4 [edit]
+
+abcdefgh8877665544332211abcdefghPosition after 7.g4
+
+Another increasingly common gambit line used in the Anti-Meran is the sharp 7.g4. Popularized by Alexander Shabalov and Alexey Shirov, the gambit destabilizes the center for Black and has been successful for several grandmasters, including Kasparov, who won the first game of his 2003 match against the computer chess program Deep Junior with it.[7]
+If Black simply takes the pawn with 7...Nxg4, White will respond with 8.Rg1. Black now has a number of playable continuations, including Qf6, Nxh2, f5, h5 and Nh6, and with precise play Black should be fine.
+An alternative to taking the pawn is to simply stop it by playing 7...h6. White will continue with 8.Rg1 anyhow, but Black has a number of playable responses.
+Another popular response is to play 7...dxc4, but after 8.Bxc4 it seems that White will retain a slight advantage. Play might continue, for example, with 8...e5 9.g5 Nd5 10.Ne4
+
+
+Semi-Slav: 5.Bg5 variations[edit]
+
+abcdefgh8877665544332211abcdefgh Position after 5.Bg5
+
+The Anti-Meran Gambit (ECO code D44) arises after 5.Bg5. White refuses to shut in the dark-squared bishop, instead developing it to an active square where it pins the black knight. The downsides of this choice are that it does not help developing White's kingside, and the pawn of c4 remains unprotected. In some cases, such as the Cambridge Springs Defense (see below), Black aims to benefit from the slight dark square weaknesses left behind on the queenside after the bishop has moved outside the pawn chain.
+Main Black replies are (in order of frequency in high-level games): 5...h6 (immediately questioning the white bishop's intentions, leading to Moscow/Anti-Moscow variations), 5...Nbd7 (transposing to the Cambridge Springs Defense), 5...dxc4 (triggering the ultra-sharp Botvinnik Variation) or 5...Be7 (transposing to the Orthodox Defense of the Queen's Gambit Declined).
+
+
+Moscow Variation: 5...h6 6.Bxf6 Qxf6 [edit]
+Moscow variation
+abcdefgh8877665544332211abcdefgh Position after 6...Qxf6
+
+The Moscow Variation 5...h6 6.Bxf6 Qxf6 gives rise to play of a very different character from the Botvinnik or Anti-Moscow Variations. Black has the bishop pair, which gives him good long-term chances, but must avoid prematurely opening the position in the face of White's superior development and central control, as his position is initially solid but passive. Alexei Dreev, for example, has played this line successfully as Black.
+Play might continue like this: 7.e3 Nd7 8.Bd3 dxc4 (White was threatening to play e3–e4–e5) 9.Bxc4 g6 (9...Bd6 is also possible) 10.0-0 Bg7 and now there are various ways to continue the game for both sides. Black has the bishop pair and no immediate structural weaknesses, but his pieces are still a bit undeveloped, especially the light-squared bishop. White might continue with a queenside expansion, for example 11.b4 0-0 12.a4 with a lively game to follow. An alternative approach is one introduced in a game Carlsen–Karjakin (2009), where White continued with the thematic 11.e4 e5 12.d5 Nb6 13.Bb3 Bg4. This allows Black to inflict doubled pawns for White, but it seems that White is able to get a lot of play against Black's weak c-pawn. The game continued: 14.Rc1 0-0 15.h3 Bxf3 16.Qxf3 Qxf3 17.gxf3 Rfd8 18.Rfd1 Bf6 19.dxc6 bxc6 20.Rxd8+ Rxd8 21.Nd1 and White seems to have a slight advantage.
+In order to avoid the continuations above, Black can also play 7...g6 instead. This makes White's typical plan of e3–e4–e5 a bit less attractive (an example line could be: 8.Bd3 Bg7 9.e4 0-0 10.0-0 Qd8 11.e5 dxc4 12.Bxc4 c5 challenging White's center). One alternative approach was introduced in a game Kramnik–Topalov (2014 candidates), where the game continued 8.Bd3 Bg7 9.0-0 0-0 10.Ne5. This could be a strong square for the knight, since Black cannot really challenge it with a move ...f7–f6, given the weaknesses of the kingside pawns. The game continued  10...c5 11.cxd5 cxd4 12.exd4 exd5 13.Re1 Be6 14.Bb5, restricting the black knight and securing a good position for White.
+
+
+Anti-Moscow Variation: 5...h6 6.Bh4 dxc4[edit]
+Anti-Moscow Variation
+abcdefgh8877665544332211abcdefgh Position after 8...b5
+
+Instead of the more calm and positional 6.Bxf6, White has the option of retreating the bishop with 6.Bh4. This allows Black to capture and keep the c4-pawn, but in return offers White  a lot of active play against Black's weakened pawn structure and vulnerable king. The game typically continues 6...dxc4 7.e4 (note: 7.a4 to prevent Black's b5 does not work, see below) g5 8.Bg3 b5 and Black has been able to defend the pawn on c4, but his position is full of weaknesses for White to attack. The Anti-Moscow Variation leads to a very complicated game, similar to the Botvinnink Variation in many ways.
+Note: In such positions, White often considers pushing a2–a4 to prevent Black from defending the c4-pawn with b5. In this particular case, 7.a4 is a mistake. First, Black can play 7...b5 anyway, with the idea that 8.axb5 cxb5 9.Nxb5 Qb6 10.Na3 Qxb2 is very good for Black. (There are some other variations, including taking Bxf6 at some point, but Black is better in any case.) Second, Black can play 7...Bb4, followed up by b5, and Black is a pawn up and it is difficult to believe White has enough compensation.
+White has a number of typical plans to attack the Black position all over the board. On the kingside, White can consider the move h2–h4, possibly further weakening Black's kingside pawn structure. In the center, White often plays Ne5 and opens up the d1–h5 diagonal for his queen and bishop, as well as looks for opportunities to break through with d4–d5. It is worth mentioning that pushing the e-pawn to e5 is often not a good idea, since it blocks the white minor pieces. On the queenside, White often plays moves like a2–a4 and b2–b3 to undermine the Black pawn structure. All of this is combined with the fact that the Black king has no strong shelter to hide, so a constant threat of mating attacks hangs in the air.
+White typically continues 9.Be2, and Black responds with 9...Bb7. This is an important prophylactic move by Black, as White is constantly threatening to push d4–d5 to break through in the center.  White now has the option of playing either 10.h4 or 10.0-0. A typical line after the former is 10.h4 g4 11.Ne5 h5 12.0-0 Nbd7, 13.Qc2 Nxe5 14.Bxe5 Bg7 with various possible continuations and possibly still a slight advantage for White. The latter often leads to wild complications after 10.0-0 Nbd7 11.Ne5 Bg7, and now White can choose between two very different continuations. The first one is 12.Nxd7, which typically continues 12...Nxd7 13.Bd6 a6 14.a4 e5 and so on. The second one, first seen in 2008 in a game between Topalov and Kramnik, is the flashy 12.Nxf7 (a full piece sacrifice), which leads to a wild attack after 12...Kxf7 13.e5 Nd5 14.Ne4 Ke7 15.Nd6 Qb6 16.Bg4 and White has a great position, strong knight on d6, control over the center and the light squares, and pressure against the weak e6 pawn. Although Black might be objectively able to survive and even convert his material advantage to a win, the complications are huge, and whoever is better prepared to deal with the position certainly has the upper hand in practical games.
+
+Botvinnik Variation: 5...dxc4 [edit]
+Botvinnik Variation
+abcdefgh8877665544332211abcdefgh Position after 10...Nbd7
+
+The Botvinnik Variation is probably one of the most complicated of all chess openings, with theory stretching past move thirty in some variations. The opening was introduced by Mikhail Botvinnik in the 1945 USSR vs. USA radio match vs. Arnold Denker. Today, Alex Yermolinsky has an excellent record with the white pieces and Alexei Shirov has been Black's chief proponent in this variation. Although this variation bears Botvinnik's name, he was not the first person known to have played it—Klaus Junge is credited as the actual inventor.[8] Black makes the thematic pawn capture 5...dxc4 immediately. White takes control of the center with 6.e4 as Black defends his extra pawn with 6...b5. The main line of the Botvinnik now continues 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 (9...Nd5 is sometimes played, and after 10.Nxf7 Qxh4 11.Nxh8 Bb4 12.Rc1 White is objectively much better, but the position is incredibly complex to play in practice for both sides) 10.Bxg5 Nbd7 (diagram) (10...Be7 11.exf6 Bxf6 12.Bxf6 Qxf6 13.g3 should be favorable for White). White will regain his piece with interest, emerging with an extra pawn, but Black will soon complete his development, gaining great dynamic compensation, whereas White's task is rather more difficult. White will fianchetto his king bishop and castle kingside, while Black will play ...c5, ...Qb6, castle queenside, and can carry out an attack in the center or on either flank, leading to complex play.
+
+Botvinnik Variation
+abcdefgh8877665544332211abcdefgh Position after 15...b4
+The main continuation is 11.g3, aiming to quickly take control of the long diagonal. White can also play 11.exf6, but after 11...Bb7 12.g3 c5 13.d5 White has given Black some additional options compared to the main move, such as ...Nb6, ...Ne5, ...Qc7 or ...Bh6, which was not necessary. The 11.g3 move order does, however, open up the possibility of 11...Rg8, and play might continue 12.h4 Rxg5 13.hxg5 Nd5 14.g6 fxg6 15.Qg4 Qe7 16.Bg2 with a slight advantage for White. The main continuation is 11...Bb7 12.Bg2 Qb6 13.exf6 0-0-0 14.0-0 c5 (14...Ne5 is also an option: White can simply capture 15.dxe5, and while Black wins the queen after 15...Rxd1 16.Raxd1, white seems to have the upper hand at least according to engines. In practical play, this variation is no different to most Botvinnik variations – a slight sidestep may lead to immediate disaster for either player) 15.d5 b4 (diagram) and we have reached one of the key positions of the Botvinnik Variation. White now has two main continuations: 16.Na4 and 16.Rb1.
+16.Na4 variation[edit]
+The most challenging continuation is 16.Na4, where Black has two main replies. The first one, although not the best one, is 16...Qa6, leading to another wild and forcing continuation: 17.a3 Bxd5 18.Bxd5 Ne5 19.axb4 Rxd5 20.Qe2 cxb4 21.Nc3. The second one and probably the better one, is 16...Qb5, after which play might continue with multiple forcing moves 17.a3 Nb8 18.axb4 cxb4 19.Qg4 Bxd5 20.Rfc1 Nc6 21.Bxd5 Rxd5 22.Rxc4 Rxg5 23.Qd4 Kb8 24.Rxc6 Rxg3+ 25.fxg3 Qxc6 26.Rd1 Qc7 and so on.
+
+16.Rb1 variation[edit]
+With this somewhat odd-looking move White actually prevents Black from capturing the c3-knight (16...bxc3 17.bxc3 Qa6 18.Rxb7 followed up by 19.dxe6 would be completely winning for White). Black would respond 16...Qa6 and play typically continues in a completely bizarre Botvinnik fashion: 17.dxe6 Bxg2 18.e7 Bxf1 and now either 19.Kxf1 or 19.Qd5 and so on. These positions are highly dynamic and favor first and foremost the better-prepared player, although objectively speaking White might have a slight advantage.
+
+Cambridge Springs Variation: 5...Nbd7 6.e3 Qa5[edit]
+Black breaks the pin on the h4–d8 diagonal and forms a pin of his own on the c3-knight (exploiting the absence of the White's queen bishop from the queenside). If Black later plays dxc4, there may be threats against the g5-bishop.
+
+Orthodox Defense: 5...Be7[edit]
+Breaking the pin with 5...Be7 transposes to the lines of Orthodox Defense of the Queen's Gambit Declined. This move is, however, less challenging for White, at least judging by the fact that White scores more than 70% in top-level games. An example continuation is 6.e3 Nbd7 7.Qc2 0-0 8.Rd1 and White has a comfortable position.
+
+Semi-Slav: 5th move alternatives[edit]
+Although more than 90% of games continue with either 5.Bg5 or 5.e3, there are some sidelines that are worth a quick look.
+
+5.Qb3 variation[edit]
+The move 5.Qb3 is an alternative way of protecting the c-pawn. If Black continues with the typical 5...Nbd7, White can play 6.Bg5 and this is supposed to lead to a favorable version of a Queen's Gambit Declined. If Black plays 5...dxc4 instead, White will recapture with 6.Qxc4 (see below).
+
+5.Qd3 variation[edit]
+The move 5.Qd3 is often combined with the idea of pushing e2–e4 in the near future. If Black continues in a typical Semi-Slav fashion with 5...Nbd7, then White can immediately play 6.e4, and after 6...dxe4 7.Nxe4 Nxe4 8.Qxe4 Bb4+ 9.Bd2 Bxd2+ 10.Nxd2 the game is pretty much even. White also has the option of playing 6.g3, leading to some sort of Catalan setup. If Black plays 5...dxc4 instead, White will recapture with 6.Qxc4 (see below).
+
+5.Qb3/d3 dxc4 6.Qxc4 variation[edit]
+After either queen move, Black can continue in Semi-Slav style by capturing the white pawn with 5...dxc4. Play will continue 6.Qxc4 b5, and now White can retreat his queen back to either b3 or d3. After 7.Qb3, the game might continue 7...Nbd7 8.Bg5 Be7 9.e3 with equal opportunities. The move 7.Qd3 is an alternative, and Black's best reply is considered to be 7...a6 8.e4 c5 and Black is supposed to be fine after either 9.dxc5 or 9.e5.
+
+5.g3 variation[edit]
+By playing 5.g3, White makes a claim that he's ready to play the Catalan, with the black pawn a bit passively on c6. This practically forces Black to take the c-pawn with 5...dxc4. White will continue 6.Bg2 (6.a4 c5 is supposed to be good for Black), and Black has now two main choices. First, he can play 6...b5, and the game might continue in Catalan style with 7.Ne5 a6 8.a4 (8.Nxc6 Qb6 is fine for Black) Bb7 and so on. Second, he can play 6...Nbd7 preventing white's Ne5, which might lead to 7.0-0 Be7 8.e4 0-0.
+
+5.Bf4 variation[edit]
+Developing the bishop to f4 might seem reasonable at first, but in this particular opening it is not the correct approach by White. After 5.Bf4 Black responds thematically 5...dxc4 (anything else is good for White), and is ready to defend the c-pawn with the standard push b7–b5. White's best attempt might be to continue 6.a4, but Black now has the move 6...Nd5 (since the knight is not pinned by the White bishop as it would be in the standard Bg5 lines). White's best continuation is probably 7.Bg5, underlining the fact that this is where the bishop should have gone in the first place. After 7...Be7 8.Bxe7 Qxe7 Black is probably slightly better. If White plays 6.e4 as he would in a Botvinnik variation with the bishop on g5, Black simply responds 6...b5 and this must be a much better version of the Botvinnik for Black since White lacks the usual counterplay with e4–e5 against the pinned knight. Finally, the same logic applies for 6.e3 b5, and White cannot claim having enough dynamic compensation for the pawn.
+
+References[edit]
+
+
+^ "D45: Queen's Gambit Declined semi-Slav, accelerated Meran (Alekhine variation)".
+
+^ "Chess openings: Queen's Gambit Declined Semi-Slav, Meran (D48)".
+
+^ "An Opening Created in 1924 Still Leads to Complex Battles" New York Times , 29 January 2006
+
+^ Gligoric vs. Ljubojevic, Belgrade 1979
+
+^ "Larsen's Improved Meran: The Great Dane Deigns to Allow Check".
+
+^ "Magnus Carlsen vs Viswanathan Anand (2009) Magnus Carta". www.chessgames.com. Retrieved 2023-01-24.
+
+^ Kasparov vs. Deep Junior, Game 1
+
+^ Igor Štohl, Chessbase Tutorials Volume 3
+
+
+Bibliography
+
+
+
+
+The Wikibook Chess Opening Theory has a page on the topic of: Semi-Slav Defense
+
+Encyclopedia of Chess Openings, volume D, sections 43–49
+Kuijf, Marinus (1995). Slav: Botvinnik Variation. New In Chess. ISBN 90-71689-80-8.
+Glenn Flear (2005). Starting Out: Slav & Semi-Slav. Everyman chess. ISBN 1-85744-393-4.
+Vera, Reinaldo (2007). Chess Explained: The Meran Semi-Slav. Gambit. ISBN 9781904600817.
+David Vigorito, Play the Semi-Slav, Quality Chess, 2008 ISBN 978-91-85779-01-7
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+Authority control databases International
+FAST
+National
+Spain
+Germany
+Israel
+United States
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Semi-Slav_Defense&oldid=1184340723"

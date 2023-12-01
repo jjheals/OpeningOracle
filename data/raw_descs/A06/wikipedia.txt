@@ -1,0 +1,397 @@
+Chess opening
+This article is about the initial move 1.Nf3 itself.  For the system of moves commonly beginning with 1.Nf3, see Réti Opening.
+Chess openingZukertort Opening
+abcdefgh8877665544332211abcdefgh
+Moves1.Nf3ECOA04–A09Named afterJohannes Zukertort
+The Zukertort Opening is a chess opening named after Johannes Zukertort that begins with the move:
+
+1. Nf3
+Sometimes the name "Réti Opening" is used for the opening move 1.Nf3,[1] although most sources define the Réti more narrowly as the sequence 1.Nf3 d5 2.c4.[2]
+A flank opening, it is the third most popular of the twenty legal opening moves White has, behind only 1.e4 and 1.d4.[3][4][5]
+The move has been described by Edmar Mednis as a "perfect and flexible opening"[6] and by others such as Aron Nimzowitsch as "certainly the most solid move, whereas moves such as 1.e4 and 1.d4 are both 'committal' and 'compromising'."[7] The game can transpose into many other openings that usually start with 1.e4, 1.d4, or 1.c4. If Black is not careful, there is the risk of running unprepared into a highly theoretical opening, e.g. after 1.Nf3 c5 White can play 2.e4 leading to the mainline Sicilian Defense. Other common transpositions are to various lines of the Queen's Gambit Declined (after e.g. 1.Nf3 d5 2.d4 Nf6 3.c4) or the Catalan Opening (after e.g. 1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.0-0 Be7 5.c4).[6]
+The main independent lines which usually start with 1.Nf3 are the Réti Opening (1.Nf3 d5 2.c4) and the King's Indian Attack (where White plays 1.Nf3, 2.g3, 3.Bg2, 4.e4, and 5.d3, though not always in that order). By playing 1.Nf3 White has prevented Black from playing 1...e5, and many players who want to play the English Opening but avoid the reversed Sicilian lines beginning with 1.c4 e5 opt to start the game with 1.Nf3 instead.[6]
+In the Encyclopedia of Chess Openings, Zukertort Openings are classified in the coding series A04–A09. 1...d5 is under A06–A09, 1...Nf6 is under A05, and any other Black move is under A04.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Continuations[edit]
+The Black responses which are given one or more chapters in the Encyclopedia of Chess Openings are given below, ranked in order of popularity.[8]
+
+1...Nf6[edit]
+Like White's move, Black's move is non-committal as to opening. 2.d4 is identical to 1.d4 Nf6 2.Nf3 (see Queen's Pawn Game). 2.c4 is a common start for the English Opening or it may be brought back to the Queen's Gambit Declined 2.g3 is a common start for the King's Indian Attack.
+
+1...d5[edit]
+Black stakes a claim to the center. White has many transpositional options. 2.d4 is again the same as 1.d4 d5 2.Nf3 (see Queen's Pawn Game). 2.g3 is the King's Indian Attack. 2.c4 is the Reti Opening or English Opening.
+
+1...c5[edit]
+Black invites White to play 2.e4, transitioning into the Sicilian Defense, or 2.c4, the Symmetrical Defense of the English Opening.
+
+1...g6[edit]
+White can play 2.c4 for the English Opening, 2.e4 for the Sicilian Defense, 2.g3 for the King's Indian Attack, or 2.d4 for the King's Indian Defense.
+
+1...e6[edit]
+Like White's move, Black's move is non-committal as to opening. White can play 2.c4 for the English Opening or 2.e4 for the French Defense (if Black plays 2...d5) or the Sicilian Defense (if Black plays 2...c5). Another non-committal move for White is 2.d4, which can lead to the Sicilian Defense, the Queen's Gambit Declined, the Dutch Defense, the Indian Defenses, the King's Indian Attack, or the London System, depending on Black's reply.
+
+1...f5[edit]
+After 1...f5, 2.d4 is the Dutch Defense. 2.e4 borrows ideas from the Staunton Gambit.
+
+See also[edit]
+List of chess openings
+References[edit]
+
+
+^ "Reti Opening (A04)". Chessgames.com. Retrieved 2009-04-04.
+
+^ Hooper, David; Whyld, Kenneth (1992). The Oxford Companion to Chess (2nd ed.). Oxford University Press. ISBN 0-19-280049-3.
+
+^ "Opening Explorer". Chessgames.com. Retrieved 2009-04-04.
+
+^ "Online Chess Database". ChessBase. Retrieved 2009-04-04.
+
+^ "Chess Opening Explorer". 365chess.com. Retrieved 2009-04-04.
+
+^ a b c Mednis, Edmar (June 1990). "Move orders in the opening: The Modern Master's Tool". Chess Life. United States Chess Federation: 14–16.
+
+^ Keene, Raymond (1999). Aron Nimzowitsch – Master of Planning. Batsford. pp. 170. ISBN 0-7134-8438-1.
+
+^ "Opening explorer for 1.Nf3".
+
+
+Further reading[edit]
+Djuric, Stefan (2010). Chess Opening Essentials, Volume 4- 1.Nf3. New in Chess. ISBN 978-90-5691-308-3.
+vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
+1.Na3: Durkin  1.a3: Anderssen
+
+
+1.b3:  Nimzowitsch-Larsen
+
+
+1.Nc3: Dunst  1.c3: Saragossa
+
+
+1.d3:  Mieses
+
+
+1.e3:  Van 't Kruijs
+
+
+1.Nf3: Zukertort  1.f3: Barnes
+
+
+1.g3:  Benko
+
+
+1.Nh3: Amar  1.h3: Clemenz
+
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Zukertort_Opening&oldid=1118506623"
