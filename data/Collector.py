@@ -26,7 +26,6 @@ class Collector:
                 5. Save the results in the relevant JSON files and descriptions in the relevant directories   
                     
                     Files modified: 
-                         
                         => index -> data/index.json
                         => openings -> data/openings.json
                         => num terms in descs -> data/num_terms.json 

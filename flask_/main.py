@@ -3,7 +3,7 @@ from flask import Flask, abort, request     # Flask imports
 from gevent.pywsgi import WSGIServer        # To run local server
 from flask_compress import Compress         # Flask compress for initialization
 
-from QueryHandler import handle_user_query  # Custom import for function to handle the user's query
+from classes.QueryHandler import handle_user_query  # Custom import for function to handle the user's query
 
 # --- Flask initialization --- #
 app = Flask(__name__)
@@ -26,6 +26,7 @@ compress.init_app(app)
         [+] Data: application/json
             {
                 "message": "a single string of the user's query (literal)",
+                "color": "white" | "black" (literal) 
             }
     
     --- RETURN FORMAT ---  
