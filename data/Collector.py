@@ -9,13 +9,42 @@ class Collector:
     def __init__(self, ): 
         pass
     
+    ''' collect_all_data() - collect all the data from the various sources
+    
+        --- DESCRIPTION --- 
+            Collects all the data needed from all sources. Steps: 
+                1. Use the Scraper class (scraper/Scraper.py) to get the openings from chess.com
+                
+                2. Use the Kaggle dataset (data/kaggle-lichess.csv) to get more opening names/codes
+                   AND to calculate the success rates for each opening
+                   
+                3. Merge the results of step 1 and step 2 to create a single OpeningsDict object containing
+                   all the openings from both sources
+                   
+                4. Scrape the descriptions for all openings 
+                
+                5. Save the results in the relevant JSON files and descriptions in the relevant directories   
+                    
+                    Files modified: 
+                         
+                        => index -> data/index.json
+                        => openings -> data/openings.json
+                        => num terms in descs -> data/num_terms.json 
+                        => raw descriptions -> data/raw_descs/[code]/[chess.com.txt | wikipedia.txt]
+
+        --- PARAMETERS --- 
+            print_debug (bool) - specify whether to print the debug information while running. Default == True
+        
+        --- RETURNS --- 
+            (None) Returns nothing but saves all results in the relative locations.
+    '''
     def collect_all_data(self, print_debug:bool=True) -> None: 
         if print_debug: print("NOTICE: Collector - Starting data collection.")
         
         # Init classes and load dataset
         scraper = Scraper()                         # Init scraper 
         df = pd.read_csv(Paths.LICHESS_DATASET)     # Load kaggle dataset
-        scraper.get_openings()                      # Gets the openings from chess.com and saves in openings.json
+        scraper.get_openings(print_debug=print_debug)                      # Gets the openings from chess.com and saves in openings.json
         openings_dict:OpeningsDict = OpeningsDict.from_json()   # Load the openings we just got as an OpeningsDict object so we can modify them
 
         if print_debug: 
@@ -80,4 +109,4 @@ class Collector:
         
         # Scrape the descriptions
         scraper = Scraper(auto_load_data=True) 
-        scraper.scrape_descriptions()
+        scraper.scrape_descriptions(print_debug=print_debug)

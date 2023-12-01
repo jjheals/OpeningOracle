@@ -80,7 +80,7 @@ class Scraper:
                    - does NOT pull opening descriptions, rather just pulls the opening names and general info from chess.com
                    - does NOT separate variations from generic openings 
     ''' 
-    def get_openings(self) -> None:
+    def get_openings(self, print_debug:bool=True) -> None:
             
         all_openings:list[Opening] = []  # List of all openings once done
 
@@ -108,7 +108,7 @@ class Scraper:
         self.openings_dict.dump_json()
         
         # Print info about results
-        print(f"Scraper: done getting openings.\nSaved {len(all_openings)} results to \"{Paths.OPENINGS_JSON}.\"")
+        if print_debug: print(f"Scraper: done getting openings.\nSaved {len(all_openings)} results to \"{Paths.OPENINGS_JSON}.\"")
 
 
     ''' scrape_descriptions(openings_dict) - scrape the openings' descriptions from Wikipedia and Chess.com
@@ -121,14 +121,14 @@ class Scraper:
                                    
         NOTE: uses self.OpeningsDict to get the links and self.index for the index
     '''
-    def scrape_descriptions(self, auto_save_index:bool=True) -> None: 
+    def scrape_descriptions(self, auto_save_index:bool=True, print_debug:bool=True) -> None: 
         
         # For tracking purposes
         num_done:int=0 
         num_openings:int=len(self.openings_dict.openings)
         mod_openings_dict:bool = False 
         
-        print(f"Scraping {num_openings} openings...") 
+        if print_debug: print(f"Scraping {num_openings} openings...") 
         
         # Iterate over self.openings_dict.openings and visit all the URLs
         for c,v in self.openings_dict.openings.items(): 
@@ -146,7 +146,7 @@ class Scraper:
                 
                 # Skip if there is an error code 
                 if response.status_code != 200: 
-                    print(f"Error getting content for \n\tCode: {c}\n\tName: {v['opening-name']}\n\tURL: {url}")
+                    if print_debug: print(f"Error getting content for \n\tCode: {c}\n\tName: {v['opening-name']}\n\tURL: {url}")
                     continue
                 
                 # Use BeautifulSoup to parse the HTML
@@ -177,12 +177,13 @@ class Scraper:
                     try: 
                         f.write(content)    # Write the content
                     except Exception as e: 
-                        print(f"Error writing to file for description of {c} \n\tNAME: {v['opening-name']} \n\tSITE: {site}")
-                        print(f"\tERROR: {e}") 
+                        if print_debug: 
+                            print(f"Error writing to file for description of {c} \n\tNAME: {v['opening-name']} \n\tSITE: {site}")
+                            print(f"\tERROR: {e}") 
                     f.close()           # Close the file
                     
                 except AttributeError:
-                    print(f"Error getting content for \n\tCode: {c}\n\tName: {v['opening-name']}\n\tURL: {url}")
+                    if print_debug: print(f"Error getting content for \n\tCode: {c}\n\tName: {v['opening-name']}\n\tURL: {url}")
                     f.close()
                     continue
                 
@@ -203,7 +204,7 @@ class Scraper:
                 self.num_terms[c] = len(tokens)
                 
             num_done+=1
-            print(f"Done scraping for \"{c}\", \"{v['opening-name']}\" ({num_done}/{num_openings})")
+            if print_debug: print(f"Done scraping for \"{c}\", \"{v['opening-name']}\" ({num_done}/{num_openings})")
         
         # If configured, save the index to Paths.INDEX_JSON and overwrite whatever exists
         if auto_save_index: 
@@ -212,7 +213,7 @@ class Scraper:
             
             if mod_openings_dict: self.openings_dict.dump_json()
         
-        print(f"Scraper: Done scraping descriptions.\nNew index length = {len(self.index)}")
+        if print_debug: print(f"Scraper: Done scraping descriptions.\nNew index length = {len(self.index)}")
     
     
     ''' tokenize(text) - tokenize the given text in a standard way 
