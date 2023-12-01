@@ -1,9 +1,7 @@
 import './App.css';
-
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-import HeaderTest from './HeaderTest'
+import Header from './Header'
 import HomePage from './HomePage';
 import About from './About'
 import NoPage from './NoPage'
@@ -14,7 +12,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-          <Route path="/" element={<HeaderTest />}>
+          <Route path="/" element={<Header />}>
           <Route index element={<HomePage />} />
           <Route path="about" element={<About />} />
           <Route path="*" element={<NoPage />} />
