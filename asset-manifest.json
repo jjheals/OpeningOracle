@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OpeningOracle/static/css/main.2f5ab807.css",
+    "main.js": "/OpeningOracle/static/js/main.16791e55.js",
+    "index.html": "/OpeningOracle/index.html",
+    "main.2f5ab807.css.map": "/OpeningOracle/static/css/main.2f5ab807.css.map",
+    "main.16791e55.js.map": "/OpeningOracle/static/js/main.16791e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5ab807.css",
+    "static/js/main.16791e55.js"
+  ]
+}
