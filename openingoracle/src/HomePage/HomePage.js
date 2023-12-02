@@ -1,7 +1,8 @@
 import React from 'react';
 import axios from 'axios';
 
-const baseURL = "http://localhost:8080";
+//const baseURL = "http://localhost:8080";
+const baseURL = "https://openingoracle.justinhealey.repl.co";
 
 function HomePage() {
   const [responseBody, setResponseBody] = React.useState(null);
@@ -12,16 +13,19 @@ function HomePage() {
     const form = e.target;
     const formData = new FormData(form);
     const userMessage = Object.fromEntries(formData.entries()).userInput;
+    const userColor = "white";
 
     setResponseBody("...");
 
     axios
       .post(baseURL + "/postRequestOpening", {
-        message: userMessage
+        message: userMessage,
+        color: userColor
       })
       .then((response) => {
-        console.log(response.data.message)
-        setResponseBody(response.data.message);
+        console.log(response.data)
+        //console.log(response.data.message)
+        //setResponseBody(response.data.message);
       });
   }
 
@@ -29,7 +33,6 @@ function HomePage() {
     <div className="App">
       <header className="App-header">
         <p id="Heading"> OpeningOracle</p>
-
         <form id="Input" method="post" onSubmit={clickSubmitButton}>
           <p> How do you like to play chess? <br></br> Describe your playing style below <br></br> and enter to find a opening for you!</p>
           <label>

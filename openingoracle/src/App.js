@@ -1,22 +1,22 @@
 import './App.css';
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from './Header'
-import HomePage from './HomePage';
-import About from './About'
-import NoPage from './NoPage'
+import Header from './Header/Header'
+import HomePage from './HomePage/HomePage';
+import About from './About/About'
+import NoPage from './NoPage/NoPage'
 
 import React from 'react';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/OpeningOracle">
       <Routes>
-          <Route path="/" element={<Header />}>
-          <Route index element={<HomePage />} />
+          {/* <Route path="/" element={<Header />}> */}
+          <Route index path ="/" element={<HomePage />} />
           <Route path="about" element={<About />} />
           <Route path="*" element={<NoPage />} />
-        </Route>
+        {/*</Route> */}
       </Routes>
     </BrowserRouter>
   );
