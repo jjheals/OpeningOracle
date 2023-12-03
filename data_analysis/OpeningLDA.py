@@ -2,6 +2,7 @@ from gensim import corpora
 from gensim.models import LdaModel
 from os import listdir, path
 import json
+import numpy as np
 
 from scraper.Paths import Paths     # For static paths to files & directories
 from scraper.Scraper import Scraper # For tokenize()
@@ -57,6 +58,7 @@ class OpeningLDA:
     index:dict[str,dict[str,int]]
     openings:dict 
     num_terms:dict 
+    topic_doc_matrix:np.matrix
     
     # Parameters for LDA 
     num_topics:int                  # Number of topics for LDA
@@ -76,25 +78,13 @@ class OpeningLDA:
             self.openings = json.load(open(Paths.OPENINGS_JSON, "r", encoding="utf-8"))
             self.num_terms = json.load(open(Paths.NUM_TERMS_JSON, "r", encoding="utf-8"))
             
-            # Iterate through the subdirectories of the descriptions of each opening and save the combined description 
-            # of all files for that opening to self.texts[opening_code] (opening_code := sub_dir)
-            for sub_dir in listdir(OpeningLDA.docs_path): 
-                comb_descs:list[str] = [] # Init var for the combined descriptions
-                
-                # Iterate through the files in this sub directory and add the content to comb_descs
-                all_filenames:list[str] = listdir(OpeningLDA.docs_path + sub_dir)
-                for filename in all_filenames: 
-                    with open(OpeningLDA.docs_path + sub_dir + "/" + filename, "r", encoding="utf-8") as file: 
-                        comb_descs.extend(Scraper.tokenize(file.read()))
-                
-                # Save the combined description in self.texts
-                self.texts[sub_dir] = comb_descs
-                
+            self.__get_texts_dict__()   # Load self.texts
             self.dictionary = corpora.Dictionary(self.texts.values()) 
             self.corpus = [self.dictionary.doc2bow(text) for text in self.texts.values()]
             
             # Training 
             self.__lda__()
+            self.__construct_topic_matrix__()
         else: 
             # If not autotrain, then assume this is being used to create an OpeningLDA model from a pre-trained LDA model
             # most likely using OpeningLDA.__from_pretrained_model__() via OpeningLDA.load()
@@ -104,14 +94,83 @@ class OpeningLDA:
             self.index = {}
             self.dictionary = corpora.Dictionary()
             self.corpus = []
+            self.topic_doc_matrix = None
 
         
-    
-    
     ''' __lda__() - train the LDA model from the paramters in this instance of OpeningLDA '''
     def __lda__(self):
         self.lda_model = LdaModel(self.corpus, num_topics=self.num_topics, id2word=self.dictionary, passes=self.num_passes)
     
+    ''' __construct_topic_doc_matrix__() - construct a matrix of Openings and the percentage of their matched topics
+
+        --- DESCRIPTION --- 
+            Use self.lda_model & self.openings to construct self.topic_matrix in the form: 
+            
+                               Topic_0                Topic_1               Topic_2         . . .       Topic_K 
+                               
+                ECO_0 [   P(ECO_0, Topic_0)      P(ECO_0, Topic_1)      P(ECO_0, Topic_2)   . . .   P(ECO_0, Topic_K) 
+                
+                ECO_1     P(ECO_1, Topic_0)      P(ECO_1, Topic_1)      P(ECO_1, Topic_2)   . . .   P(ECO_1, Topic_K)
+                
+                ECO_2     P(ECO_2, Topic_0)      P(ECO_2, Topic_1)      P(ECO_2, Topic_2)   . . .   P(ECO_2, Topic_K)
+                  .              .                       .                      .                           . 
+                  .              .                       .                      .                           .
+                  .              .                       .                      .                           .
+                ECO_N     P(ECO_N, Topic_0)      P(ECO_N, Topic_1)      P(ECO_N, Topic_2)   . . .   P(ECO_N, Topic_K)   ]
+                
+        --- RETURNS --- 
+            (None) Saves the resulting matrix in self.topic_matrix
+    '''
+    def __construct_topic_doc_matrix__(self) -> None: 
+        
+        # Define local variables for clarity
+        P:int = len(self.corpus)                    # P := number of documents (same as len(self.texts))
+        N:int = self.num_topics                     # N := number of topics
+        self.topic_doc_matrix:np.matrix = np.zeros((P,N))    # Create initial empty matrix (PxN)
+        
+        # Keep track of the ECOs in order so that we can track which matches each topic (DO NOT ALTER ORDER)
+        loeco:list[str] = list(self.openings.keys())  # loeco[i] := eco code for row i in top_doc_matrix
+
+        # Iterate through loeco and perform LDA w/ the trained model on each text from self.texts 
+        for i in range(0, len(loeco)): 
+            this_eco:str = loeco[i]
+            
+            # Skip if this eco is not in self.texts, since some descriptions may have failed to be scraped
+            if not this_eco in self.texts: continue
+            
+            # Use self.process_new_text to process the description and save the result in self.topic_doc_matrix[i]
+            self.topic_doc_matrix[i] = self.process_new_text(self.texts[this_eco])
+            
+    ''' __get_texts_dict__() - get the saved descriptions of all the openings in self.openings
+    
+        --- DESCRIPTION ---
+            Iterate through the subdirectories of the descriptions of each opening in self.openings, combine all 
+            the descriptions (i.e. the content of each file) and save the concatenated description to
+            self.texts[opening_code] (opening_code := sub_dir)
+        
+        --- RETURNS --- 
+            (None) Populates self.texts with the appropriate combined descriptions for each opening 
+    ''' 
+    def __get_texts_dict__(self) -> None: 
+        print("Getting texts")
+        self.texts = {}
+        
+        # Iterate through the subdirectories of the descriptions of each opening and save the combined description 
+        # of all files for that opening to self.texts[opening_code] (opening_code := sub_dir)
+        for sub_dir in listdir(OpeningLDA.docs_path):             
+            comb_descs:list[str] = [] # Init var for the combined descriptions
+            
+            # Iterate through the files in this sub directory and add the content to comb_descs
+            all_filenames:list[str] = listdir(OpeningLDA.docs_path + sub_dir)
+            for filename in all_filenames: 
+                with open(OpeningLDA.docs_path + sub_dir + "/" + filename, "r", encoding="utf-8") as file: 
+                    comb_descs.extend(Scraper.tokenize(file.read()))
+            
+                # Save the combined description in self.texts
+                self.texts[sub_dir] = comb_descs
+        
+        print(f"New len(self.texts): {len(self.texts)}")
+        
     ''' process_new_text(text) - compare a new block of text with this instance of LDA model (self.lda_model)
     
         --- DESCRIPTION --- 
@@ -120,14 +179,23 @@ class OpeningLDA:
         
         --- PARAMETERS --- 
             tokens (list[str]) - a list of tokens to process.
+            pretrained_docs:list[list[str]]
             
         --- RETURNS --- 
-            (list:tuple) The topic distribution of the input text as a vector.
+            (list:float) The topic distribution of the input text as a vector, where the indices represent the topic id
+            and the value at that index represents the % match for that topic.
     ''' 
-    def process_new_text(self, tokens:list[str]) -> list[tuple]:
-         pass
+    def process_new_text(self, tokens:str) -> list[float]:
+        bow = self.dictionary.doc2bow(tokens)
+        matched_topics = self.lda_model.get_document_topics(bow)
         
-    
+        # Convert the list of tuples into a list of float where the index corresponds to the topic id
+        # and the value at that index corresponds to the % match for that topic
+        return_vector:list[float] = [0.0 for i in range(0,self.num_topics)]
+        for tup in matched_topics: return_vector[tup[0]] = tup[1]
+            
+        return return_vector
+        
     ''' save(filename) - save this OpeningLDA model with the filename given at the path Paths.MODELS_DIR ''' 
     def save(self, filename:str) -> None:
         self.lda_model.save(Paths.MODELS_DIR + filename)
@@ -148,7 +216,6 @@ class OpeningLDA:
             
         --- RAISES --- 
             FileNotFoundError if the given filename does not exist in Paths.MODELS_DIR
-    
     ''' 
     @staticmethod
     def load(filename:str) -> object: 
@@ -173,13 +240,13 @@ class OpeningLDA:
         opening_lda.index = json.load(open(Paths.INDEX_JSON, "r", encoding="utf-8"))
         opening_lda.openings = json.load(open(Paths.OPENINGS_JSON, "r", encoding="utf-8"))
         opening_lda.num_terms = json.load(open(Paths.NUM_TERMS_JSON, "r", encoding="utf-8"))
+        opening_lda.__get_texts_dict__()
         
         print(len(opening_lda.index))
         
         return opening_lda
         
-        
-        
-        
+    
+    
          
         

@@ -1,0 +1,7 @@
+{ 
+    "weights": {
+        "index": 0.3,
+        "cosine": 0.5,
+        "success": 0.2
+    }
+}
