@@ -1,6 +1,6 @@
 from gensim import corpora 
 from gensim.models import LdaModel
-from os import listdir, path
+from os import listdir, path, mkdir
 import json
 import numpy as np
 
@@ -84,7 +84,7 @@ class OpeningLDA:
             
             # Training 
             self.__lda__()
-            self.__construct_topic_matrix__()
+            self.__construct_topic_doc_matrix__()
         else: 
             # If not autotrain, then assume this is being used to create an OpeningLDA model from a pre-trained LDA model
             # most likely using OpeningLDA.__from_pretrained_model__() via OpeningLDA.load()
@@ -198,8 +198,13 @@ class OpeningLDA:
         
     ''' save(filename) - save this OpeningLDA model with the filename given at the path Paths.MODELS_DIR ''' 
     def save(self, filename:str) -> None:
-        self.lda_model.save(Paths.MODELS_DIR + filename)
-        corpora.MmCorpus.serialize(Paths.MODELS_DIR + filename + ".mm", self.corpus)
+        directory:str = Paths.MODELS_DIR + filename + "/"
+        if not path.exists(directory): mkdir(directory)
+        
+        self.lda_model.save(directory + filename)                               # Use gensim to save the model
+        corpora.MmCorpus.serialize(directory + filename + ".mm", self.corpus)   # Save the corpus
+        json.dump(self.texts, open(directory + "texts.json", "w+"), indent=4)   # Save self.texts 
+        json.dump(self.topic_doc_matrix, open(directory + "matrix.json", "w+"), indent=4)   # Save self.topic_doc_matrix
         return 
         
     ''' load(filename) - load the model at the given filename in the directory Paths.MODELS_DIR 
