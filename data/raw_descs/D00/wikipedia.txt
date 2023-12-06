@@ -1,124 +1,214 @@
-Chess opening
-Chess openingQueen's Pawn Game
-abcdefgh8877665544332211abcdefghMoves1.d4ECOA40–A99 D00–D99 E00–E99Synonym(s)d4
-The Queen's Pawn Game is any chess opening starting with the move 1.d4, which is the second-most popular opening move after 1.e4 (King's Pawn Game).
+Chess openingBlackmar–Diemer Gambit
+abcdefgh8877665544332211abcdefghMoves1.d4 d5 2.e4 dxe4 3.Nc3ECOD00Named afterArmand Blackmar Emil Josef DiemerParentQueen's Pawn GameSynonym(s)BDG
+The Blackmar–Diemer Gambit (or BDG) is a chess opening characterized by the moves:
+
+1. d4 d5
+2. e4 dxe4
+3. Nc3
+where White intends to follow up with f3, usually on the fourth move.  White obtains a tempo and a half-open f-file in return for a pawn, and as with most gambits, White aims to achieve rapid development and active posting of their pieces in order to rapidly build up an attack at the cost of the gambit pawn. It is one of the few gambits available to White after 1.d4.[1]
 
 
 
 This article uses algebraic notation to describe chess moves.
 
-Terminology[edit]
-The term "Queen's Pawn Game" is usually used to describe openings beginning with 1.d4 where White does not play the Queen's Gambit. The most common Queen's Pawn Game openings are: 
-
-The London System, 2.Bf4 or 2.Nf3 and 3.Bf4
-The Trompowsky Attack, 1...Nf6 2.Bg5 and the Pseudo-Trompowsky 1...d5 2.Bg5
-The Torre Attack, 2.Nf3 and 3.Bg5
-The Stonewall Attack, 2.e3
-The Colle System, 2.Nf3 and 3.e3
-The King's Fianchetto Opening, 2.Nf3 and 3.g3
-The Barry Attack, 1...Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4
-The Richter–Veresov Attack, 1...d5 2.Nc3 Nf6 3.Bg5 or 1...Nf6 2.Nc3 d5 3.Bg5
-The Blackmar–Diemer Gambit, 1...d5 2.e4, and the Hübsch Gambit 1...Nf6 2.Nc3 d5 3.e4
-The Nimzo-Indian Defence, 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
-In the Encyclopaedia of Chess Openings (ECO), Closed Games (1.d4 d5) are classified under codes D00–D69. Openings where Black does not play 1...d5 are called Semi-Closed Games and classified as:
-
-Indian Defences, where Black plays 1...Nf6 (ECO codes A45–A79, D70–D99, E00–E99); for instance the Queen's Indian Defence (ECO E12–E19);
-other Queen's Pawn Games, where Black plays neither 1...d5 nor 1...Nf6; these include the Dutch Defence (ECO A40–A44 and A80–A99).
 History[edit]
-In the 19th century and early 20th century, 1.e4 was by far the most common opening move by White (Watson 2006:87), while the different openings starting with 1.d4 were considered somewhat unusual and therefore classed together as "Queen's Pawn Game".
-As the merits of 1.d4 started to be explored, it was the Queen's Gambit which was played most often—more popular than all other 1.d4 openings combined. The term "Queen's Pawn Game" was then narrowed down to any opening with 1.d4 which was not a Queen's Gambit. Eventually, through the efforts of the hypermodernists, the various Indian Defences (such as the King's Indian, Nimzo-Indian, and Queen's Indian) became more popular, and as these openings were named, the term "Queen's Pawn Game" narrowed further.
+The Blackmar–Diemer Gambit arose as a development of the earlier Blackmar Gambit, named after Armand Blackmar, a relatively little-known New Orleans player of the late 19th century who popularized its characteristic moves (1.d4 d5 2.e4 dxe4 3.f3) and was the first player to publish analysis of the opening.[2] The popularity of the original Blackmar Gambit, however, was short-lived, as it was basically unsound, allowing Black to secure a superior position after White's immediate 3.f3 with 3...e5!.  In 1889, Ignatz von Popiel came up with the idea of 3.Nc3, though his main idea was to meet 3...Nf6 with 4.Bg5 (rather than the more usual 4.f3) and provided analysis of the Lemberger Counter-Gambit (3.Nc3 e5).
+The evolved, modern form of this gambit owes much to the German master Emil Josef Diemer (1908–1990), who popularized the continuation 3.Nc3 Nf6 and then 4.f3 (when 4...e5? is ineffective as 5.dxe5 hits Black's knight, and after 5...Qxd1+ 6.Kxd1 the knight has to retreat to d7 or g8). The position resulting after 3... Nf6 4.f3 reflects the main line of the gambit accepted, although other Black responses on move three are possible. After many years of analysis, Diemer wrote a book on the opening in the late 1950s, titled Vom Ersten Zug An Auf Matt! (Toward Mate From The First Move!), with most of the published analysis devoted to the Ryder Gambit (and associated Halosar Trap), a double-pawn sacrifice characterized by the moves 4...exf3 5.Qxf3.
 
-Continuations[edit]
-The Black responses given below are ranked in order of popularity according to ChessBase for FIDE-rated games.
+Assessment[edit]
+This gambit is considered an aggressive opening, but its soundness continues to be the subject of much debate both on and off the chessboard. Dismissed by many masters on the one hand, and embraced enthusiastically by many amateurs on the other, many consider that Black has good chances of defending successfully and converting the extra pawn in the endgame, while theory suggests that Black has many ways to equalize.  As a result, this opening is almost never seen in top-level play, but enjoys a certain popularity among club players. Some titled players, including International Master Gary Lane, consider the opening to be suitable at the club level and for young and improving players. In one of his Keybooks, the Rev Tim Sawyer said, "Stop playing for the endgame, play to end the game! Be a winner. Play the Blackmar–Diemer Gambit!"[3] On the other hand, Sam Collins (in his book Understanding the Chess Openings) noted the tendency for some Blackmar–Diemer fanatics to try to get the opening in every game, thus limiting their chess experience, and concluded, "Nobody who plays good chess plays this line, and nobody who plays good chess ever will."[4]  Other dismissive quotes include "playing the Blackmar–Diemer Gambit is like shopping for a tombstone" (Andrew Martin)[5] and "To convince an adherent of the BDG that it is unsound, is like trying to convince a child that there is no Santa Claus." (Kevin Denny).[6]  As a result of the intense controversy surrounding the opening, much of the literature on the opening is lacking in objectivity.[7]
+GM Boris Avrukh has written that the gambit "may not be fully correct" but cautioned that he "was surprised at just how potent White's initiative could become". Although he was unable to fully refute the gambit and considered that Black faced a non-trivial defensive task, he felt that with correct play Black could emerge with good chances.[8] GM Joe Gallagher wrote that he had "noticed a common trend among Blackmar–Diemer analysts; once there is no attack and the position looks rather balanced they tend to assess the game as =, forgetting the fact that they are a pawn down." Gallagher thought that the closely related Hübsch Gambit gave an equal game but that the Blackmar–Diemer provided "not really enough compensation" and there were "a number of areas where Black could fight for the advantage." Nevertheless, he cautioned that Black "inaccuracies can be swiftly punished" in the Blackmar–Diemer.[9] IM John Cox wrote that the gambit was "objectively weak" but pragmatically recommended that Black should enter the Hübsch gambit instead of accepting the Blackmar–Diemer as "sod's law dictates that [the reader would meet the gambit] in the third Saturday game of a weekender, when few of us are at our sharpest tactically ... one slip sees you getting torched."[10]
 
-1...Nf6[edit]
-This move prevents White from establishing a full pawn centre with 2.e4. The opening usually leads to a form of Indian Defence, but can also lead to versions of the Queen's Gambit if Black plays ...d5 at some point. Since 1...Nf6 is a move that is likely to be made anyway, the move is a flexible response to White's first move. White usually plays 2.c4. Then Black usually plays 2...e6 (typically leading to the Nimzo-Indian, Queen's Indian, or Queen's Gambit Declined), 2...g6 (leading to the King's Indian or Grünfeld Defence), or 2...c5 (leading to the Benoni Defence or Benko Gambit). Rarer tries include 2...e5 (Budapest Gambit) and 2...d6 (Old Indian Defence). White can also play 2.Nf3, which like Black's move is not specific as to opening. A third alternative is the Trompowsky Attack with 2.Bg5.
+Main variations[edit]
+It is easy for Black to decline the gambit on the second move with 2...e6 (leading to a French Defence) or 2...c6 (leading to a Caro–Kann Defence), although doing so does not eliminate White's ability to offer alternative gambits such as the Diemer–Duhm Gambit (2...e6 3.c4) or the Alapin–Diemer Gambit (2...e6 3.Be3), or for instance 2...c6 3.Nc3 dxe4 4.f3 or 4.Bc4 intending 5.f3.
 
-1...d5[edit]
-1...d5 (Closed Game) also prevents White from playing 2.e4 unless White wants to venture the dubious Blackmar–Diemer Gambit. 1...d5 is not any worse than 1...Nf6, but committing the pawn to d5 at once makes it somewhat less flexible since Black can no longer play the Indian Defences, although if Black is aiming for Queen's Gambit positions this may be of minor importance. Also, a move like 2.Bg5 (Hodgson Attack) is considered relatively harmless compared to 1.d4 Nf6 2.Bg5 since there is no knight on f6 for the bishop to harass. White's more common move is 2.c4, the Queen's Gambit, when Black usually chooses between 2...e6 (Queen's Gambit Declined), 2...c6 (Slav Defence) or 2...dxc4 (Queen's Gambit Accepted). White can also play 2.Nf3 which again is not specific as to opening. Then Black may play ...Nf6 (same as above) or ...e6. A Queen's Gambit may arise anyway if White plays c4 soon afterward, but lines like the Colle System and Torre Attack are also possible.
+Main line[edit]
+After 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3, Black has five main options:
 
-1...e6[edit]
-The Franco-Indian Defence is a chess opening characterized by the moves: 1.d4 e6. This play allows White to play 2.e4, entering the French Defence. If White wants to continue with a Queen's Pawn Game however, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Queen's Gambit Declined, Nimzo-Indian or Queen's Indian. A line that is unique to the 1...e6 move order is the Keres Defence, 1.d4 e6 2.c4 Bb4+.
+Gunderam Defence: 5...Bf5 [edit]
+The line 5...Bf5 (along with most of the ...c6/...Bf5 defences for Black in general) was extensively analysed by Gerhart Gunderam, who published his analysis in a book Blackmar–Diemer Gambit in 1984.[11] The main response for White is 6.Ne5, intending to attack the black bishop with an advance of the kingside pawns and, if appropriate, weaken Black's kingside pawn structure with Ne5xBg6.  Black can respond with 6...e6, when after 7.g4, 7...Be4 leads to tremendous complications, e.g. after 8.Nxe4 Nxe4 9.Qf3 Qxd4 10.Qxf7+ Kd8 11.Qf4.[12] More common is 7...Bg6, which leads to quieter play, when White's best response is probably 8.Bg2 c6 9.h4, with a sustained kingside initiative in return for the pawn.[13] However, Black also has the option 6...c6 intending 7.g4 Be6, when White has to play accurately to prove enough compensation for the pawn after 8.g5 Nd5 or 8.Bc4 Nd5 9.Qe2 Nd7.[14] White has an alternative in 6.Bd3, directly challenging the bishop, but Christoph Scheerer doubts that White gets enough compensation after 6...Bxd3 7.Qxd3 c6 intending ...e6, ...Nbd7, ...Be7 and ...0-0 with a solid position.[15]
 
-1...d6[edit]
-This move also allows 2.e4 entering the Pirc Defence. If White avoids this, 2.Nf3 or 2.c4 may lead to a King's Indian or Old Indian Defence, or Black may play 2...Bg4, sometimes called the Wade Defence (A41, see 1.d4 d6 2.Nf3 Bg4). 2.c4 e5 is the Rat Defense, English Rat.
+Teichmann Defence: 5...Bg4 [edit]
+The move 5...Bg4 pins the knight on f3, often with the intention of swapping it off and undermining White's central control.[16]  White's best response is to attack the bishop immediately with 6.h3, when play often continues 6...Bxf3 7.Qxf3 c6 (but not 7...Nc6, when 8.Bb5 is good for White).  In this position, White can defend the attacked d-pawn with 8.Qf2 (the Ciesielski Variation), but this allows Black an easy game by preparing ...e7–e5, e.g. after 8...Nbd7 9.Bd3 e5.[17] Alternatively, 8.Be3 is the Classical Variation, where White aims for a slow buildup to a kingside offensive.  White's other main alternative is 8.g4!?, the Seidel–Hall Attack, where White is happy to sacrifice the d-pawn in order to gain an increased initiative on the kingside, e.g. after 8...Qxd4 9.Be3 Qe5 10.0-0-0 e6 11.g5.  Black can decline the pawn, e.g. after 8...e6 9.g5 Nd5 10.Bd3, leading to sharp play.[18]
+Alternatively, after 6.h3, Black can retreat the bishop with 6...Bh5 7.g4 Bg6 8.Ne5, a line which often transposes to the Gunderam Defence line 5...Bf5 6.Ne5 e6 7.g4 Bg6 after a subsequent h3–h4, as White's extra tempo with h3 is not particularly useful.[19]
 
-1...f5[edit]
-1...f5 is the Dutch Defence. Common White moves are 2.g3, 2.Nf3, and 2.c4.
+Euwe Defence: 5...e6 [edit]
+The 5...e6 line, analysed by Max Euwe, aims to reach a French Defence type position, but with Black having an extra pawn.  Play usually continues 6.Bg5 Be7, when White's most popular option is 7.Bd3.  Black can attack the centre immediately with 7...c5!? here, as recommended by Joe Gallagher and James Rizzitano.[20]  Play can continue 8.dxc5 Qa5 9.0-0 Qxc5+ 10.Kh1, when White has to play accurately to prove compensation for the pawn.  Alternatively 7...Nc6 can be considered the main line of this variation, when 8.0-0 Nxd4 9.Kh1 is the notorious Zilbermints Gambit, sacrificing a second pawn in order to increase White's initiative.  The Zilbermints Gambit has scored well in practice, but objectively it probably does not give White enough compensation for two pawns.  However, the alternative 8.a3, despite the loss of time, offers White good compensation for the pawn, and White can also consider 8.Qd2, allowing the trade of the bishop on d3 but avoiding any loss of time.[21]  White's main alternative to 7.Bd3 is 7.Qd2, aiming to castle queenside and giving additional support to the d4-pawn, while aiming to launch a kingside offensive with Qd2–f4 and meeting ...h6 with a dangerous Bxh6 sacrifice.  Play can continue 7...0-0 8.0-0-0 (8.Bd3 c5! is better for Black) 8...c5 9.Qf4!? cxd4 10.Rxd4[22] or 7...h6 8.Bh4 (8.Bf4 is also possible, aiming to keep the Bxh6 sacrifice possibility open, but allowing 8...Bb4 9.Bc4 Ne4)[23] 8...Ne4 9.Nxe4 Bxh4+ 10.g3 Be7 11.Bg2, when White has some compensation for the pawn but the final verdict on the resulting positions is still yet to be reached.
 
-1...g6[edit]
-1...g6 is sometimes called the Modern Defence line.
-White can play 2.e4 to enter the Modern Defence. More commonly, White plays 2.c4. Black may play 2...Nf6 for the King's Indian Defence (same as 1.d4 Nf6 2.c4 g6). More commonly, Black plays 2...Bg7. Then White's moves include 3.Nc3, 3.e4, and 3.Nf3. 3.Nc3 and 3.e4 often lead to the Modern Defence, Averbakh System, as well as 2...d6. White may also play 2.Nf3. Black may respond 2...Nf6 for the King's Indian, or more commonly, 2...Bg7. Common White responses are 3.e4, 3.c4, and 3.g3.
+Bogoljubov Defence: 5...g6 [edit]
+The Bogoljubov Defence was played by Diemer himself in a game against Bogoljubov.  By fianchettoing the king's bishop Black aims to gain increased pressure against the d4-pawn following a subsequent ...c5.  White's most common response is the Studier Attack, 6.Bc4 Bg7 7.0-0 0-0 8.Qe1, intending Qh4, Bh6 and piling pressure on the kingside, sacrificing pawns at d4 and c2 if appropriate.  However, after Peter Leisebein's 8...Nc6 9.Qh4 Bg4!, it is doubtful if White obtains enough compensation for the pawn against accurate play.[24]  An alternative approach is to castle queenside, play Bh6 and then launch the h-pawn against the black kingside.  The best way to carry out this approach is via 6.Bf4, as 6.Bg5 (as played by Bogoljubov in his game against Diemer) is well met by 6...Bg7 7.Qd2 0-0 8.0-0-0 c5!, when Black stands better.[25]  If Black tries the same approach against 6.Bf4, i.e. 6...Bg7 7.Qd2 0-0 8.0-0-0 c5, then 9.d5 a6 10.d6! gives White good chances.[26]
 
-1...c5[edit]
-1...c5  is the Old Benoni Defence: this is a form of the Benoni Defence seldom used.
+Ziegler Defence: 5...c6 [edit]
+Black's most critical response to the Blackmar–Diemer Gambit is 5...c6, known as the Ziegler Defence due to Diemer's tendency to name lines after opponents that first played them against him, but most of the theory of the line was established by Gerhart Gunderam, who advocated 5...Bf5.[27]  Most modern authors recommend this as Black's antidote to the BDG,[28] sometimes via O'Kelly's move order 4...c6.  The old main line runs 6.Bc4 Bf5 7.0-0 e6 8.Ne5, when Black should avoid 8...Bxc2?! 9.Nxf7!, but instead play 8...Bg6!, when White ends up with very little to show for the lost pawn.[29]  More dangerous for Black is 8.Ng5, the Alchemy Variation, where Black has to be careful not to fall for various sacrifices on e6 and f7, but White probably does not get enough compensation for the pawn after 8...Bg6 9.Ne2 Bd6.  German FIDE master Stefan Bücker regards Black as clearly better after 10.Nf4 Bxf4 11.Bxf4 0-0,[30] but Christoph Scheerer believes that White can generate attacking chances with 12.c3 h6 13.Qg4!?.[31]  In view of White's problems proving compensation in these lines, ChessCafe.com reviewer Carsten Hansen concluded, "despite all the smoke and mirrors, the Blackmar–Diemer Gambit still isn't viable beyond club-level or rapid-play games".[32] However, Lev Gutman proposed the alternative 7.Bg5 e6 8.Nh4!? Bg6 9.Nxg6 hxg6 10.Qd3, intending to castle queenside and tie Black down to the f7-pawn, promising long-term positional compensation for the pawn.[30] There are currently insufficient practical tests to determine whether it amounts to enough compensation for the lost pawn.[33]  Black cannot easily deviate from this line, since after 7...Nbd7 White continues 8.Qe2 e6 9.0-0-0, aiming to launch a strong attack down the e- and f-files, and if 9...Bb4 then 10.d5!.  If White tries to enter this setup after 7...e6 8.Qe2, however, then 8...Bb4! prevents White from safely castling queenside, leaving White with insufficient compensation for the pawn.[33]  White also has the dangerous, though probably objectively insufficient, second pawn sacrifice 7.g4, analysed extensively by Stefan Bücker.[30] In the 5...c6 move order White has the alternative 6.Bd3, usually intending to sacrifice a second pawn after 6...Bg4 7.h3 Bxf3 8.Qxf3 Qxd4, leading to sharp complications, though Black can transpose back to the Classical Variation of the Teichmann Defence with 8...e6, since White's only good response is 9.Be3.[34]  Black can prevent this 6.Bd3 possibility by using O'Kelly's move order 4...c6.
 
-1...Nc6[edit]
-1...Nc6 is the Queen's Knight Defense (or Mikenas Defense): this can usually transpose to the Chigorin Defense or the Nimzowitsch Defense.
+Ryder Gambit: 5.Qxf3 [edit]
+Alternatively, White can offer a second pawn with 5.Qxf3. Gary Lane argued in 2000 that White has serious problems proving enough compensation for the sacrificed pawns after 5... Qxd4 6. Be3 Qg4 7.Qf2 e5. Black can also decline the pawn with 5...c6 or 5...e6, holding the position.[35]
+The Halosar Trap (named after Hermann Halosar) follows after 6... Qb4 7.0-0-0 Bg4? 8.Nb5! threatening mate with 9.Nxc7#. The black queen cannot capture the knight because 8...Qxb5 9.Bxb5+ is check, gaining time for the white queen to escape the threat from the bishop. The line continues 8...Na6 9. Qxb7 Qe4 (Black lost in Diemer–Halosar, Baden-Baden 1934, after 9...Rc8 10.Qxa6) 10. Qxa6 Qxe3+ (Worse is 10...Bxd1 11.Kxd1 Rd8+ 12.Bd2 and White is winning, for example 12...Ng4 13.Nxc7+ Kd7 14.Qxa7) 11. Kb1 Qc5 12. Nf3. Burgess wrote that "Although White has some advantage, Black has avoided instant loss".[36]
 
-1...c6[edit]
-This move allows White to play 2.e4, entering the Caro–Kann Defence. If, however, White wants to continue with a Queen's Pawn Game, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Slav Defence, London System, or Dutch Defence.
+Fourth-move alternatives for Black[edit]
+O'Kelly Defence: 4...c6 [edit]
+Many sources recommend the O'Kelly Defence as a means of transposing to the Ziegler Defence while cutting out White's 6.Bd3 possibility, since White has nothing better than 5.Bc4, when 5...exf3 6.Nxf3 Bf5 transposes directly to the 6.Bc4 Bf5 variation of the Ziegler Defence.  Alternatively, 5.Nxe4 is likely to land White in an inferior version of the Fantasy Variation of the Caro–Kann Defence, with equality at best in positions that may not attract Blackmar–Diemer players, 5.fxe4 e5! is good for Black and other bishop moves allow Black to achieve superior versions of standard Blackmar–Diemer Gambit variations.[30][37]  4...c6 also has some independent value, for example Evgeny Bareev used the continuation 5.f3 b5!? in a game against Nigel Short, achieving a superior position after 6.Bb3 Be6 7.fxe4 b4 8.Nce2 Nxe4, but 8.Na4!? improves for White and may give sufficient compensation for the pawn.[38]  Black can also try 5...Bf5, when White must play accurately to prove enough compensation, but probably obtains sufficient play after 6.g4 Bg6 7.g5 Nd5 8.fxe4 Nxc3 9.bxc3.[39]
 
-1...b6[edit]
-1...b6 is the English Defence. Common White moves are 2.e4 (which transposes to the Owen Defense), 2.Nf3, and 2.c4.
+Vienna Defence: 4...Bf5 [edit]
+The Vienna Defence was recommended by Matthias Wahls in his book Modernes Skandinavisch, where he saw it as a refutation of the Blackmar–Diemer Gambit.[40]  White can play for compensation for a pawn with 5.fxe4 Nxe4 6.Qf3, when both 6...Nxc3 and 6...Nd6 lead to complicated positions in which Black often tries to return a pawn on b7 in order to catch up on development, and in some cases secure a positional advantage.  White often does best to continue with a gambit policy and simply continue developing.  The main line runs 6...Nd6 7.Bf4 e6 8.0-0-0 c6 9.g4 Bg6 10.Qe3 Be7, when Black is solid, but White retains enough compensation for the pawn.[41]   Alternatively, 5.g4 aims to regain the pawn in most cases, e.g. after 5...Bg6 6.g5 Nd5 7.Nxe4 Nc6 8.Bb5 e6 9.Bxc6+ bxc6 10.Ne2 c5 11.dxc5 Nb4, when in a reversal of roles, White has an extra pawn but Black has the initiative and a superior pawn structure.[42]  White can use 5.g4 as a gambit option by continuing with 6.h4!?, which leads to sharp play and approximately equal chances.[43]
 
-1...b5[edit]
-1...b5 is the Polish Defence: this is risky and should be played with care. It is better to delay ...b5 until the 2nd move.
+Langeheinicke Defence: 4...e3 [edit]
+The push with 4...e3 is often used by strong players to avoid the complications arising from 4...exf3 5.Nxf3, but it is one of Black's weaker options against the Blackmar–Diemer as returning the pawn in this way does not significantly slow down White's initiative, and thus Black struggles to fully equalize in this line.  In most lines White must seek to place a knight on f4 (taking the sting out of ...Nd5) in order to secure an advantage.[44]
 
-1...a6[edit]
-1...a6 can quickly transpose to the St. George Defence.
+Third-move alternatives for Black[edit]
+Lemberger Counter-Gambit: 3...e5 [edit]
+The Lemberger Counter-Gambit is an important alternative, where Black counterattacks against the d4-pawn instead of defending the attacked e4-pawn.  White can head for a drawish endgame with 4.dxe5, e.g. 4...Qxd1+ 5.Kxd1 Nc6 6.Nxe4 Nxe5, or 5.Nxd1 Nc6 6.Bf4, with equality and few winning chances for either side.[45]  Since these positions typically do not attract gambiteers, White often chooses a riskier response in order to generate winning chances, such as 4.Qh5, 4.Nge2 or 4.Nxe4.  Both 4.Qh5 and 4.Nge2 are well met by 4...Nc6!, when Black has good chances of obtaining an advantage, while against 4.Nxe4 the most critical continuation is 4...Qxd4, when White can continue with either 5.Qe2 or 5.Bd3, with complications and some compensation for the pawn in either case, but it is unclear if it is enough.[46]
 
-1...e5[edit]
-1...e5?! is the Englund Gambit: this gives up a pawn for questionable compensation. 
+Other options for Black[edit]
+3...f5 is an important option for Black, since 4.f3 is well met by 4...e5!, with some advantage for Black.  Instead White does better to prevent ...e5 with 4.Bf4, and then obtain compensation for a pawn with a subsequent f3.[47]  3...Bf5 is well met by 4.f3, and if 4...exf3 then 5.Qxf3 attacking the bishop (thus Black may be better off transposing to the Vienna Defence with 4...Nf6).[48] 3...c6 and 3...e6 transpose to the Caro–Kann Defence and French Defence respectively, and in the former case White can continue in Blackmar–Diemer Gambit style with 4.f3 or 4.Bc4 intending 5.f3 (which often transposes to the O'Kelly Defence).  After 3...e6, however, White cannot easily force a Blackmar–Diemer Gambit type position as 4.f3 Bb4 (which also comes up via the French Rubinstein Variation) is very bad for White.
+Another option for White is to play the Veresov Opening moves – without 3.Bg5. If Black responds with the Alburt Defence after 1. d4 d5 2. Nc3 Bf5 it can transpose into a type of BDG Zeller Defence after 3. e4 dxe4. A new line only recently mentioned in Tim Sawyer's Blackmar–Diemer Books 5 and 8, is the Torning Gambit which occurs after 4. g4 Bg6 5. Qe2!? If Black gets greedy and captures 5...Qxd4, White gets a nice game after 6.Qb5+. Tim Sawyer's books mention several games played by Richard Torning who originally played this gambit in the 1980s. A trap is Richard Torning (1809) – amol52 (1424) [D00] (bullet 18.12.2016): 1.d4 d5 2.Nc3 Bf5 3.e4 dxe4 4.g4 Bg6 5.Qe2 Qxd4 6.Qb5+!? Qd7?? 7.Qxb7 Qc6 8.Qc8#.[49][50]
+Gary Danelishen, author of The Final Theory of Chess, posted analysis of the Torning Variation online.[51]
 
-1...Na6[edit]
-1...Na6 is the Australian Defence.[1]
+Related gambit ideas[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Blackmar–Diemer Gambit" – news · newspapers · books · scholar · JSTOR (July 2022) (Learn how and when to remove this template message)
+Since Black can sidestep the BDG in several ways, BDG adherents have developed related gambits:
 
-1...g5[edit]
-1...g5? is the Borg Defense, Borg Gambit: this simply loses a pawn to 2.Bxg5.
+1.d4 d5 2.e4 c6 (the Caro–Kann Defence) 3.Nc3 dxe4 4.f3 was invented by Philip Stuart Milner-Barry in 1932 and 4.Bc4 Nf6 (or Bf5) 5.f3 by Heinrich Von Hennig in 1920 and thus are older than Diemer's idea.
+1.d4 d5 2.e4 e6 (the French Defense) 3.Be3 is the Alapin–Diemer Gambit; sometimes White plays the typical f2–f3 a bit later.
+1.d4 d5 2.e4 e6 3.Nc3 dxe4 4.f3 and 3...Nf6 4.Bg5 dxe4 5.f3 are very rare.
+1.d4 d5 2.e4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 dxe4 6.f3 is the Winckelmann–Reimer Gambit.
+1.d4 d5 2.e4 Nc6 (the Nimzowitsch Defence) 3.Nc3 dxe4 4.d5 may be followed by 5.f3 or 5.f4.
+1.d4 Nf6 2.f3 d5 (c5 may lead to a kind of Benoni) 3.e4 dxe4 4.Nc3 simply transposes.
+1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 is called the Hübsch Gambit.
+1.d4 d5 2.Nc3 Bf5  3.e4 dxe4 4.g4 Bg6 5.Qe2!? Torning Gambit
+1.d4 f5 2.e4 (the Staunton Gambit)
+1.f3 d5 2.e4 dxe4 3.Nc3 is the Gedult Gambit.
+1.e4 d5 2.d4 is also a surprising transposition against the Scandinavian Defense.
+The list is incomplete and transpositions abound.
 
 See also[edit]
 List of chess openings
-Closed Game
+List of chess openings named after people
 References[edit]
 
 
+^ Blackmar–Diemer Gambit, Chess Digest (1977), p.5.
 
-The Wikibook Chess Opening Theory has a page on the topic of: Queen's Pawn Opening
+^ Armand Edward Blackmar at Chessgames.com.
 
+^ Scheerer 2011, p. 9.
 
+^ "Checkpoint: Bishops before knights" (PDF). Retrieved 2011-11-06.
 
-^ "Queen's Pawn Opening: Australian Defense - Chess Openings".
+^ "Shopping for a tombstone". Archived from the original on 2011-11-22. Retrieved 2011-11-06.
+
+^ "Topnotch analysis of the Blackmar–Diemer". Retrieved 2011-11-06.
+
+^ Scheerer 2011, p. 10
+
+^ Avrukh, Boris (2012). Beating 1.d4 Sidelines. Quality Chess UK LLP. pp. 20, 42. ISBN 9781907982125.
+
+^ Gallagher, Joe (1996). Beating the Anti-King's Indians. International Chess Enterprises. pp. 185, 189. ISBN 9781879479364.
+
+^ Cox, John (2005). Dealing with D4 Deviations: Fighting the Trompowsky, Torre, Blackmar–Diemer, Stonewall, Colle and Other Problem Openings. Everyman Chess. ISBN 9781857443998.
+
+^ Scheerer 2011, p. 206.
+
+^ Scheerer 2011, p. 216
+
+^ Scheerer 2011, p. 218
+
+^ Scheerer 2011, p. 219.
+
+^ Scheerer 2011, p. 207
+
+^ Scheerer 2011, p. 233.
+
+^ Scheerer 2011, p. 258
+
+^ Scheerer 2011, p. 262.
+
+^ Scheerer 2011, p. 234
+
+^ Scheerer 2011, p. 145
+
+^ Scheerer 2011, p. 155.
+
+^ Scheerer 2011, p. 163
+
+^ Scheerer 2011, p. 167
+
+^ Scheerer 2011, p. 200
+
+^ Scheerer 2011, p. 170
+
+^ Scheerer 2011, p. 204
+
+^ Scheerer 2011, p. 277
+
+^ Avrukh, Boris, Grandmaster Repertoire 11, Beating 1.d4 Sidelines, Quality Chess, 2012, Chapter 2.
+
+^ Scheerer 2011, p. 286
+
+^ a b c d "Over the Horizons: How to Detect a Novelty" (PDF). Retrieved 2010-05-07.
+
+^ Scheerer 2011, p. 293
+
+^ "Checkpoint: Good and Bad Weapons" (PDF). Retrieved 2011-11-06.
+
+^ a b Scheerer 2011, p. 279
+
+^ Scheerer 2011, p. 300
+
+^ "Gary Lane on Ryder Gambit". Retrieved 2011-11-06.
+
+^ Burgess, Graham (2000). The Mammoth Book of Chess (2nd ed.). UK: Robinson. pp. 202–3. ISBN 1-84119-126-4.
+
+^ Scheerer 2011, p. 96
+
+^ Scheerer 2011, p. 100
+
+^ Scheerer 2011, p. 101
+
+^ Scheerer 2011, p. 103
+
+^ Scheerer 2011, p. 116
+
+^ Scheerer 2011, p. 129
+
+^ Scheerer 2011, p. 120
+
+^ Scheerer 2011, p. 84
+
+^ Scheerer 2011, p. 16
+
+^ Scheerer 2011, p. 49
+
+^ Scheerer 2011, p. 68
+
+^ Scheerer 2011, p. 60
+
+^ Sawyer, Tim (2017). Blackmar–Diemer Games 5. United States: Sawyer Publications. p. 143.
+
+^ Sawyer, Tim (2018). Blackmar–Diemer Games 8. United States. pp. 154–58.{{cite book}}:  CS1 maint: location missing publisher (link)
+
+^ "Analysis Torning Variation". Chess.com.
 
 
 Bibliography
 
-Watson, John (2006), Mastering the Chess Openings, vol 1, Gambit, ISBN 978-1-904600-60-2
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
+Scheerer, Christoph (2011). The Blackmar–Diemer Gambit: A modern guide to a fascinating chess opening. Everyman Chess. ISBN 978-1-85744-598-5.
+Further reading[edit]
+Avrukh, Boris (2012). Grandmaster Repertoire 11, Beating 1.d4 Sidelines. Quality Chess. ISBN 978-1-907982-12-5.
+Lane, Gary (1995). Blackmar–Diemer Gambit. Batsford Chess Library / An Owl Book / Henry Holt and Company. ISBN 0-8050-4230-X.
+Purser, Tom; Anders, Tejler (1998). Blackmar, Diemer & Gedult. Blackmar Press. ISBN 0-9619606-3-9.
+Sawyer, Tim (1992). Blackmar–Diemer Gambit Keybook. Thinkers' Press.
+Sawyer, Tim Blackmar–Diemer Games Books 1 to 8. Sawyer Publications.
+Schiller, Eric (1986). Blackmar Diemer Gambit. Thinkers Pr Inc / Chessco. ISBN 0-931462-52-5.
+Danelishen, Gary M. (2008). The Final Theory of Chess. Open Wiki of Chess Openings. ISBN 978-0-9815677-0-9.
+External links[edit]
 
 
-1.b3:  Nimzowitsch-Larsen
 
+The Wikibook Chess Opening Theory has a page on the topic of: Blackmar–Diemer Gambit
 
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
-
-
+Emil Diemer (1908–90) et les gambits sur le site Mieux jouer aux échecs
+2009 column by Stefan Bücker
 vteChessOutline
 Chess theory
 Chess titles
@@ -434,4 +524,4 @@ United States
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Queen%27s_Pawn_Game&oldid=1184481267"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Blackmar–Diemer_Gambit&oldid=1180192871"

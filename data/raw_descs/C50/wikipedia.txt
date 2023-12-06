@@ -1,85 +1,106 @@
-Chess opening
-For the Italian Opening, see Giuoco Piano.
-Chess openingItalian Game
-abcdefgh8877665544332211abcdefghMoves1.e4 e5 2.Nf3 Nc6 3.Bc4ECOC50–C59Origin15th or 16th centuryParentKing's Knight Opening
-The Italian Game is a family of chess openings beginning with the moves:
+Chess openingFour Knights Game
+abcdefgh8877665544332211abcdefgh
+Moves1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6ECOC47–C49Named afterKnights on c3, c6, f3, f6ParentThree Knights Game
+The Four Knights Game is a chess opening that begins with the moves:
 
 1. e4 e5
 2. Nf3 Nc6
-3. Bc4
-This opening is defined by the development of the white bishop to c4 (the so-called "Italian bishop"), where it attacks Black's vulnerable f7-square. It is part of the large family of Open Games or Double King's Pawn Games.
-The Italian Game is one of the oldest recorded chess openings; it occurs in the Göttingen manuscript and was developed by players such as Damiano and Polerio in the 16th century, and later by Greco in 1620, who gave the game its main line. It has been extensively analyzed for more than 300 years. 
-The term Italian Game is sometimes used interchangeably with Giuoco Piano, although the latter also refers particularly to play after 3...Bc5.[1]
-The Encyclopaedia of Chess Openings gives the Italian Game ten codes: C50–C54 for the Giuoco Piano, and C55–C59 for the Two Knights Defense. Side lines are covered under C50.
+3. Nc3 Nf6
+This is the most common sequence, but the knights may develop in any order to reach the same position.
+The opening is fairly popular with beginners who strictly adhere to the opening principle: "Develop knights before bishops." It was one of the workhorses in the family of the Open Game, at even the highest levels, until World War I. Thereafter it fell by the wayside, along with a number of other Open Games. In this period ambitious players explored the Ruy Lopez, believing it a better attempt by White to exploit the advantage of the first move. In the 1990s, this opening saw a renaissance, and is now seen in the praxis of players from beginner to grandmaster.
+The Four Knights usually leads to quiet positional play, though there are some sharp variations. The Encyclopaedia of Chess Openings has three codes for the Four Knights Game:
 
+C49: 4.Bb5 Bb4 (Symmetrical Variation)
+C48: 4.Bb5 without 4...Bb4
+C47: 4.d4 and others
 
 
 This article uses algebraic notation to describe chess moves.
 
-Main variations[edit]
-Black's two main options are 3...Bc5, the Giuoco Piano, and 3...Nf6, the Two Knights Defense. They are about equally popular,[2] but the resulting positions usually have a very different character.
+Variations[edit]
+4.Bb5[edit]
 
+abcdefgh8877665544332211abcdefghSpanish Variation: 4.Bb5
 
+White's most common move is 4.Bb5, the Spanish Variation. This variation can also be reached from the Ruy Lopez, Berlin Defence. After 4.Bb5, Black has four major alternatives.
 
-abcdefgh8877665544332211abcdefghGiuoco Piano 3...Bc5
+The first of these is 4...Bb4, the Symmetrical Variation known as the Double Spanish Variation.
+Black can play more aggressively by 4...Nd4, the Rubinstein Variation. White cannot win a pawn with 5.Nxe5, since Black regains the pawn with the advantage of the bishop pair after 5...Qe7 6.Nf3 (6.f4 Nxb5 7.Nxb5 d6) Nxb5 7.Nxb5 Qxe4+ 8.Qe2 Qxe2+ 9.Kxe2 Nd5 10.c4 a6! White most often plays 5.Ba4, when Black usually continues in gambit fashion with 5...Bc5!? 6.Nxe5 0-0 7.Nd3 Bb6 8.e5 Ne8 followed by ...d6. Another line, which discourages many ambitious Black players from playing the Rubinstein, is 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 (7...cxd2+? 8.Bxd2 Qxf6 9.0-0 is dangerous for Black) 8.dxc3 Qe5+. This often leads to a quick draw after 9.Qe2 Qxe2+.
+The classical move 4...Bc5 is perfectly playable, see the famous game Louis Paulsen–Paul Morphy from the First American Chess Congress (1857).[1]
+In recent years, Black has tried 4...Bd6!? with varying results.[2] That move takes the sting out of 5.Bxc6, which is met with 5...dxc6 with a good game. If White plays quietly, Black will regroup with ...0-0, ...Re8, ...Bf8, and ...d6.
+4.d4[edit]
 
+abcdefgh8877665544332211abcdefghScotch Four Knights Game: 4.d4
 
-abcdefgh8877665544332211abcdefghTwo Knights Defense 3...Nf6
+If White plays 4.d4, the Scotch Four Knights Game arises. This leads to a more open position, which can also be reached from the Scotch Game, e.g. 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3. This variation was played in the fifth game of the 1996 Deep Blue versus Garry Kasparov match.
+One reason White may choose the Four Knights (3.Nc3) move order over the Scotch (3.d4), besides fearing that after 3.d4 exd4 4.Nxd4 Black may choose 4...Bc5 or 4...Qh4, is that White may want to play the Belgrade Gambit (1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?). It is not possible to reach the Belgrade from the Scotch; however, the Belgrade is a distant second in popularity to 5.Nxd4.
 
+4.Bc4[edit]
 
-3...Bc5[edit]
-Main article: Giuoco Piano
-Until the 19th century, this line was the main line of the Italian Game. Dubbed the Giuoco Piano ("Quiet Game") in contrast to the more aggressive lines then being developed, this continues 4.d3, the positional Giuoco Pianissimo ("Very Quiet Game"), or the main line 4.c3 (the original Giuoco Piano) leading to positions first analyzed by Greco in the 17th century, and revitalized at the turn of the 20th by the Moller Attack. 4.0-0 will usually transpose into the Giuoco Pianissimo after 4...Nf6 5.d3, while 4.Nc3 Nf6 is a transposition into the Four Knights Game.
-Another option for White is the aggressive Evans Gambit (4.b4), a popular opening in the 19th century which is still occasionally played. The Italian Gambit (4.d4) may transpose into the Scotch Gambit after 4...exd4; however, this move order allows Black the option of 4...Bxd4, so if White wants a Scotch Gambit, 3.d4 is usually preferred. The Jerome Gambit (4.Bxf7+) is unsound.
+abcdefgh8877665544332211abcdefgh Italian Four Knights Game/Prussian Four Knights Game: 4.Bc4
 
+A further possibility is 4.Bc4, the Italian Four Knights Game, or Prussian Four Knights Game, popular in the 1880s, though this line is regarded as inferior according to Pinski, and an outright mistake by IM Larry D. Evans.[3]  Black can preserve the symmetry by 4...Bc5, leading to the quiet Giuoco Pianissimo. A better move order for White that leads to this position is via the Giuoco Piano by 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6. The line is a favourite among younger players due to its simple and easy development, but was also used successfully by Nigel Short against Antoaneta Stefanova.[4]
+The problem with playing for this position via the Four Knights Game is that after 4.Bc4, Black can perform the center fork trick by pseudo-sacrificing a knight with 4...Nxe4!. Then 5.Bxf7+?, though superficially attractive, relinquishes the bishop pair and central control to Black. After 5...Kxf7 6.Nxe4 d5 7.Neg5+ Kg8, Black is already threatening 8...e4, and after 8.d3 h6 9.Nh3 Bg4, Black has a very powerful position, with an unopposed light-squared bishop, a strong duo of pawns in the centre, and a safe king, while White needs to work out how to get the displaced knight on h3 into play; often it will need to be played back to g1.
+Rather than 5.Bxf7+?, a better chance for White to play for equality is 5.Nxe4, even though 5...d5 regains the piece with a good game, e.g., 6.Bd3 (6.Bxd5? Qxd5 7.Nc3 Qd8 Estrin; 6.Bb5?! dxe4 7.Nxe5 Qg5! Collijn's Lärobok; 6.d4 dxc4 7.d5 Ne7 8.Nc3 c6 Cordel–Schupli, 1905) 6...dxe4 (the recently discovered 6...Nb4 is also playable) 7.Bxe4 Bd6 8.d4 Nxd4 9.Nxd4 exd4 10.Qxd4 0-0 11.Be3 (11.0-0?? Bxh2+ wins) Qe7 (Tartakower–Atkins, London 1922[5]) and now the natural 12.0-0 Be5 would be awkward for White.[6] In the above line, more ambitious is 8...exd4 9.Nxd4 0-0!?, as in a match game between Siegbert Tarrasch and Emanuel Lasker in 1916, which led to a Black win in 23 moves.[7]
+Another try is 5.0-0!? transposing to a variation of the Boden–Kieseritzky Gambit.
 
-3...Nf6[edit]
-Main article: Two Knights Defense
-3...Nf6 is the more aggressive Two Knights Defense. This is more in the nature of a counterattack, and some (e.g. Bronstein) have proposed it be renamed so.
-If White attempts to exploit the weakness of Black's f7-pawn with 4.Ng5, Black may try the knife-edged Traxler/Wilkes-Barre Variation (4...Bc5!?). After the more common 4...d5 5.exd5, Black generally avoids 5...Nxd5 allowing 6.Nxf7, the Fegatello or Fried Liver Attack, or 6.d4, the Lolli Variation, both of which are difficult to defend under practical conditions. Most common is 5...Na5, sacrificing a pawn for an active position. The very sharp Fritz Variation (5...Nd4) and the closely related Ulvestad Variation (5...b5) lead to wild positions with little margin for error for either side.
-A quieter option for White is 4.d3, when Black's main options are 4...Bc5, transposing into the Giuoco Pianissimo, and the solid 4...Be7, which is likely to lead to similar positions to the Bishop's Opening.
-Alternatively, White can play 4.d4, which may lead to the Scotch Gambit after the usual reply 4...exd4.
+4.g3[edit]
+Igor Glek has favoured 4.g3, preparing development of the bishop to g2. According to Pinski, Black's main responses are 4...Bc5 and 4...d5, both of which are reckoned to equalize for Black. A Halloween Gambit style 4...Nxe4 has also been tried at the grandmaster level as in two games between Ilya Smirin and Bartłomiej Macieja.[8]
 
-Uncommon 3rd moves for Black[edit]
-3...Be7 (Hungarian Defense). A solid, drawish defense which is occasionally seen in tournament play to avoid the complexities and risks of the other lines.
-3...d6 (Semi-Italian Opening). Another solid positional line, popular in the late 19th and early 20th centuries, but rarely seen today.
-3...g6. Allows White to attack with 4.d4 (4.d3 has also been tried) 4...exd4 5.c3! (5.Nxd4 and 5.Bg5 are also possible) 5...dxc3 6.Nxc3 Bg7 and now 7.Qb3 (Unzicker) or 7.Bg5 (O'Kelly).
-3...Nd4 (Blackburne Shilling Gambit). This ostensibly weak third move is a false gambit expectant upon White falling into the trap of capturing Black's undefended pawn (4.Nxe5?! Qg5). While generally considered time-wasting against more experienced players due to 4.Nxd4! exd4 5.c3, it has ensnared many chess novices and can provide a quick and easy mate against players unfamiliar with the line.
-3...f5 (Rousseau Gambit). White does best to avoid the pawn offer with 4.d3 or 4.d4.
-3...Qf6. After 3...Qf6?! 4.Nc3 Nge7 5.Nb5 White has a clear advantage (Unzicker).
-3...h6. Neglects Black's development and is generally considered a waste of time;[3] however, the move has no immediate refutation and has been tried by Czech grandmaster Pavel Blatny.[4]
+4.Be2[edit]
+Though rarely seen, this move is playable. For example, if Black plays 4...Bb4, White has the responses 5.Nd5, 5.0-0, and 5.d3, which retain equality with accurate play.
+
+4.a3[edit]
+The quiet waiting move 4.a3, the Gunsberg Variation, is a specialty of Polish grandmaster Paweł Blehm.
+
+4.Nxe5[edit]
+A dubious gambit is 4.Nxe5?!, the so-called Halloween Gambit. After 4...Nxe5 5.d4, White tries to seize the centre with his pawns and drive the black knights back to their home squares. Grandmaster Larry Kaufman says that this line is refuted by 5...Nc6 6.d5 Bb4! 7.dxc6 Nxe4 8.Qd4 Qe7, which he attributes to Jan Pinski.[9]  According to Max Euwe's opening series volume 11, Black has a decisive advantage after 5...Ng6 6.e5 Ng8 7.Bc4 d5 8.Bxd5 c6.[10]
+
 See also[edit]
-Chess opening
-Encyclopaedia of Chess Openings
-List of chess openings
-List of chess openings named after places
+Italian Game
+Ruy Lopez
+Scotch game
+Three Knights Game
+Two Knights Defense
 References[edit]
 
 
-^ Harding & Botterill (1977), p. Preface: "In Europe this complex [1.e4 e5 2.Nf3 Nc6 3.Bc4] is known as the Italian Game, but Anglo-Saxon readers may be more familiar with the term Giuoco Piano for the lines where Black replies 3...Bc5."
+^ "Louis Paulsen vs. Paul Morphy, First American Chess Congress (1857)". Chessgames.com. Retrieved 17 November 2020.
 
-^ Chessgames opening explorer, 1.e4 e5 2.Nf3 Nc6 3.Bc4
+^ 365chess.com
 
-^ Tim Harding, Better Chess for Average Players, p 156, Courier 2012, ISBN 9780486133690
+^ The Fork Trick, published in Chess Life April 2000 and May 2000 Facsimile online Archived 2013-05-18 at the Wayback Machine (chesscamp.net)
 
-^ Svidler vs. Blatny, Gausdal 1992
+^ Checkpoint no. 55, Carsten Hansen, ChessCafe.com, 2003, see review of The Four Knights.
+
+^ "Savielly Tartakower vs. Henry Ernest Atkins, London 1922". Chessgames.com.
+
+^ Dr. S. Tartakower and J. du Mont, 500 Master Games of Chess, Dover Publications, 1975, p. 53. ISBN 0-486-23208-5.
+
+^ This game is analysed by Jan Pinski in The Four Knights, and can be played through here.
+
+^ "Ilya Smirin vs. Bartlomiej Macieja, CZE-chT 0304 2003". Chessgames.com. Archived from the original on 4 June 2011. Retrieved 16 March 2010. and "Ilya Smirin vs. Bartlomiej Macieja, TCh-CZE Extraliga 2003-4 2004". Chessgames.com. Retrieved 16 March 2010.
+
+^ Kaufman, Larry (2004). The Chess Advantage in Black and White. McKay Chess Library. p. 328. ISBN 0-8129-3571-3.
+
+^ A Breeze in the sleepy Four Knight's Game
 
 
-Bibliography[edit]
-Bronstein, David (1991). 200 Open Games. Reprint Dover Publications, 1973. ISBN 0-486-26857-8.
-Burgess, Graham (2000). The Mammoth Book of Chess (2nd ed.). Carroll & Graf. ISBN 978-0-7867-0725-6.
-Estrin, Yakov (1983). The Two Knights Defence. ISBN 0-7134-3991-2.
-Harding, Tim; Botterill, G. S. (1977). The Italian Game. Batsford. ISBN 0-7134-3261-6.
-Levy, David; O'Donnell, K. (1981).  Oxford Encyclopaedia of Chess Games Vol I (1485-1866).  ISBN 0-19-217571-8.
-Matanović, Aleksandar (1981). Encyclopaedia of Chess Openings Vol C. ISBN 0-7134-2697-7.
-Zagororovsky, Zagorovsky (1982). Romantic Chess Openings. ISBN 0-7134-3623-9.
+Bibliography
+
+Harding, T. D.; Botterill, G. S. (1977). "Two Knights: Other Lines". The Italian Game. B. T. Batsford Limited. pp. 119–27. ISBN 0-7134-3261-6.
+Keene, Raymond; Kasparov, Garry (1994) [1989]. Batsford Chess Openings (2nd ed.). B.T. Batsford Ltd. ISBN 0-8050-3409-9.
+Pinski, Jan (2003). The Four Knights. Everyman Chess. ISBN 1-85744-311-X.
 Further reading[edit]
+Obodchuk, Andrey (2011). The Four Knights Game. New in Chess. ISBN 978-90-5691-372-4.
+External links[edit]
 
 
 
-The Wikibook Chess Opening Theory has a page on the topic of: Italian Game
+The Wikibook Chess Opening Theory has a page on the topic of: Four Knights Game
 
-Colins, Sam (2005), Understanding the Chess Openings, Gambit Publications, ISBN 1-904600-28-X
+Tim Krabbé's article on the Halloween Gambit
+Unorthodox Openings Newsletter #13, Critical Lines in the Halloween Gambit by Paul Keiser
 vteChessOutline
 Chess theory
 Chess titles
@@ -388,4 +409,4 @@ Category
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Italian_Game&oldid=1181352907"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Four_Knights_Game&oldid=1167046402"

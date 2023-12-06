@@ -80,7 +80,7 @@ class Scraper:
                    - does NOT pull opening descriptions, rather just pulls the opening names and general info from chess.com
                    - does NOT separate variations from generic openings 
     ''' 
-    def get_openings(self, print_debug:bool=True) -> None:
+    def get_openings(self, print_debug:bool=True, auto_save:bool=True) -> OpeningsDict:
             
         all_openings:list[Opening] = []  # List of all openings once done
 
@@ -96,6 +96,7 @@ class Scraper:
                                     Opening(
                                             o['name'],                                  # Name
                                             o['code'],                                  # Code 
+                                            "",                                         # Color 
                                             Opening.wiki_link_from_name(o['name']),     # Wiki link
                                             o['url'],                                   # Chess.com URL
                                             o['move_list']                              # Move list (as str)
@@ -103,13 +104,17 @@ class Scraper:
                             for o in openings]
                         )
             
-        # Persistent save to json
+        # Create an openings dict obj to return and save if configured
         self.openings_dict = OpeningsDict.from_list(all_openings)
-        self.openings_dict.dump_json()
+        
+        # Persistent save to json
+        if auto_save: self.openings_dict.dump_json()
         
         # Print info about results
         if print_debug: print(f"Scraper: done getting openings.\nSaved {len(all_openings)} results to \"{Paths.OPENINGS_JSON}.\"")
-
+        
+        # Return self.openings_dict 
+        return self.openings_dict
 
     ''' scrape_descriptions(openings_dict) - scrape the openings' descriptions from Wikipedia and Chess.com
 

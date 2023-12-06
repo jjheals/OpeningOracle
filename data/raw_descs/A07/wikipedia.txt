@@ -3,6 +3,7 @@ This article is about the opening system for White. For the opening that creates
 Chess openingKing's Indian Attack
 abcdefgh8877665544332211abcdefghTypical KIA setup for White
 Movese4, d3, N(b)d2, N(g)f3, g3, Bg2, and 0-0ECOA07–A08Synonym(s)KIA
+
 The King's Indian Attack (or KIA) is a chess opening system where White adopts the setup more commonly seen being played by Black in the King's Indian Defence. The King's Indian Attack is characterised by the following moves: the central pawns are developed to e4 and d3, the knights are developed to d2 and f3, the king's bishop is fianchettoed at g2 following the g-pawn's move to g3, and White castles kingside.
 This pattern can either be achieved via a 1.e4 move order (typically against either the French Defence or a Sicilian Defence with a subsequent ...e6) or as a universal system starting with 1.Nf3.
 
@@ -390,4 +391,4 @@ Category
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Attack&oldid=1186825298"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Attack&oldid=1188542848"

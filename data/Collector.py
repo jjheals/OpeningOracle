@@ -41,71 +41,108 @@ class Collector:
         if print_debug: print("NOTICE: Collector - Starting data collection.")
         
         # Init classes and load dataset
-        scraper = Scraper()                         # Init scraper 
-        df = pd.read_csv(Paths.LICHESS_DATASET)     # Load kaggle dataset
-        scraper.get_openings(print_debug=print_debug)                      # Gets the openings from chess.com and saves in openings.json
-        openings_dict:OpeningsDict = OpeningsDict.from_json()   # Load the openings we just got as an OpeningsDict object so we can modify them
-
-        if print_debug: 
-            print("NOTICE: Collector - Done getting openings from Scraper.")
-            print("NOTICE: Collector - Starting dataset aggregation & analysis.")
+        scraper = Scraper()                                 # Init scraper 
         
-        # Add the Kaggle dataset Openings to our dict of openings
-        all_names:list[str] = list(df['opening_name'])
-        all_codes:list[str] = list(df['opening_eco'])
-        all_openings:list[Opening] = []
+        # Load the datasets 
+        lichess_df = pd.read_csv(Paths.LICHESS_DATASET)                     
+        openings_df:pd.DataFrame = pd.read_csv(Paths.OPENINGS_DATASET)
         
-        # Convert all the names to Openings 
-        for n,c in zip(all_names, all_codes): 
-            new_opening:Opening = Opening(n, c, Opening.wiki_link_from_name(n), "", "")
-            all_openings.append(new_opening)
 
-        # Create an OpeningsDict object to get the correct format for openings.json
-        openings_dict2:OpeningsDict = OpeningsDict.from_list(all_openings)
+        # STEP 1: use scraper to get the openings from chess.com 
+        chess_com_openings:OpeningsDict = scraper.get_openings(auto_save=False) 
+       
+        # STEP 2: Processing the datasets
+        lichess_ds_dict:OpeningsDict = Collector.__process_lichess_dataset__(lichess_df)
+        openings_ds_dict:OpeningsDict = Collector.__process_openings_dataset__(openings_df)   
 
+        # STEP 3: combine the results from the scraper and the two datasets into one openings dict obj
+        
         # Load the openings.json, and add the openings that we just created IF AND ONLY IF they do not exist already
         # NOTE: it is important that they do not already exist (that the code does not exist) so we don't overwrite 
         #       data we have
-        print(f"Original len(openings_dict): {len(openings_dict.openings)}")
+        combined_openings_dict:OpeningsDict = OpeningsDict.concat([chess_com_openings, lichess_ds_dict, openings_ds_dict])
 
-        for c,d in openings_dict2.openings.items(): 
-            if c in openings_dict.openings: continue  # SKIP if code exists already
-            openings_dict.openings[c] = d             # ADD if code does not exist 
-
-        print(f"New len(openings_dict): {len(openings_dict.openings)}")
+        if print_debug: 
+            print("NOTICE: Collector - Done getting openings from Scraper, Lichess dataset, & Openings dataset.")
+            print(f"NOTICE: Collector - Saving Openings to \"{Paths.OPENINGS_JSON}\". Starting to scrape descriptions.")
         
-        # Calculate the success rates from the Kaggle dataset 
-        # Create a dict of the succcess rates for all openings in the dataset
-        opening_success_rates:dict = {                                                                                                                                           
-                                    c: { 
-                                        'white':0.0, 
-                                        'black':0.0, 
-                                        'draw':0.0 
-                                    } 
-                                for c in df['opening_eco']
-                                }
-        
-        # Parse the dataset and calculate the win percentages for white & black for each opening 
-        for code in opening_success_rates.keys():
-            sub_df:pd.DataFrame = df.loc[df['opening_eco'] == code]
-            white_wins:pd.DataFrame = sub_df.loc[sub_df['winner'] == 'white']
-            black_wins:pd.DataFrame = sub_df.loc[sub_df['winner'] == 'black']
-            draws:pd.DataFrame = sub_df.loc[sub_df['winner'] == 'draw']
-            
-            opening_success_rates[code] = { 
-                                'white': round(len(white_wins) / len(sub_df), 3),
-                                'black': round(len(black_wins) / len(sub_df), 3),
-                                'draw': round(len(draws) / len(sub_df), 3)
-            }
-            
-        # Now add these new success-rates to the actual dictionary of all openings 
-        for c,d in opening_success_rates.items():
-            try: openings_dict.openings[c]['success-rate'] = d
-            except KeyError: print(c)
-            
-        # Dump openings_dict
-        openings_dict.dump_json()
+        # Dump openings_dict to Paths.OPENINGS_JSON
+        combined_openings_dict.dump_json()
         
         # Scrape the descriptions
-        scraper = Scraper(auto_load_data=True) 
-        scraper.scrape_descriptions(print_debug=print_debug)
+        scraper = Scraper(auto_load_data=True)                # Reinit scraper to reload the openings json
+        scraper.scrape_descriptions(print_debug=print_debug)  # Call scraper.scrape_descriptions
+        
+        if print_debug: print("Collector.collect_all_data() - DONE.")
+        
+        
+    ''' __process_openings_dataset__(df) - process the openings dataset (Paths.OPENINGS_DATASET) ''' 
+    @staticmethod 
+    def __process_openings_dataset__(df:pd.DataFrame) -> OpeningsDict: 
+        print("Processing openings dataset")
+        df.fillna("", inplace=True)                 # Replace NaN with empty string 
+        return_dict:OpeningsDict = OpeningsDict()   # Create an OpeningsDict obj to return in the correct format
+
+        # Cut the df down to the columns we care about
+        columns = ['opening_name', 'side', 'ECO', 'perc_white_win', 'perc_draw', 'perc_black_win', 'move1w', 'move1b', 'move2w', 'move2b', 'move3w', 'move3b', 'move4w', 'move4b']
+        df = df[columns]        
+            
+        # Now iterate through ALL the ecos of the df and combine the average results into the return dict values for that eco
+        for eco in df['ECO'].unique():     
+                   
+            # Get all the matches in the df for this eco
+            row_matches = df.loc[df['ECO'] == eco]                       
+            white_avg:float = round(sum(row_matches['perc_white_win']) / 100 / len(row_matches), Opening.PRECISION)
+            black_avg:float = round(sum(row_matches['perc_black_win']) / 100 / len(row_matches), Opening.PRECISION)
+            draw_avg:float = round(sum(row_matches['perc_draw']) / 100 / len(row_matches), Opening.PRECISION)
+        
+            these_success_rates:dict[str,float] = { 
+                             'white': white_avg,
+                             'black': black_avg,
+                             'draw': draw_avg     
+                        }
+                        
+            first_match = list(row_matches.iterrows())[0][1]            
+            opening_name:str = str(first_match['opening_name'])
+            side:str = first_match['side']
+            move_list:list[str] = [
+                                    first_match['move1w'],    # move1w
+                                    first_match['move1b'],    # move1b
+                                    first_match['move2w'],    # move2w    
+                                    first_match['move2b'],    # move2b
+                                    first_match['move3w'],    # move3w
+                                    first_match['move3b'],    # move3b
+                                    first_match['move4w'],    # move4w
+                                    first_match['move4b']     # move 4b
+                                ]
+            
+            
+            new_opening:Opening = Opening(opening_name, eco, side, Opening.wiki_link_from_name(opening_name), "", move_list,these_success_rates)
+            return_dict.openings[eco] = new_opening.to_dict()
+
+        return return_dict
+    
+    ''' __process_lichess_dataset__(df) - process the lichess dataset (Paths.LICHESS_DATASET) ''' 
+    @staticmethod
+    def __process_lichess_dataset__(df:pd.DataFrame) -> OpeningsDict:
+        return_dict:OpeningsDict = OpeningsDict()
+        
+        for eco in df['opening_eco'].unique():
+
+            matches:pd.DataFrame = df.loc[df['opening_eco'] == eco]
+            opening_name:str = list(matches['opening_name'])[0]
+            
+            white_wins:pd.DataFrame = matches.loc[matches['winner'] == 'white']
+            black_wins:pd.DataFrame = matches.loc[matches['winner'] == 'black']
+            draws:pd.DataFrame = matches.loc[matches['winner'] == 'draw']
+            
+            success_rates = { 
+                                'white': round(len(white_wins) / len(matches), Opening.PRECISION),
+                                'black': round(len(black_wins) / len(matches), Opening.PRECISION),
+                                'draw': round(len(draws) / len(matches), Opening.PRECISION)
+            }
+
+            lich_new_opening:Opening = Opening(opening_name, eco, "", Opening.wiki_link_from_name(opening_name), "", success_rates)
+            return_dict.openings[eco] = lich_new_opening.to_dict()
+        
+        return return_dict

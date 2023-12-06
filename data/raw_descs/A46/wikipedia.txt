@@ -1,384 +1,233 @@
-Chess opening
-Chess openingTorre Attack
-abcdefgh8877665544332211abcdefgh
-Moves1.d4 Nf6 2.Nf3 ... 3.Bg5ECOA46–48, D03Origin1920sNamed afterCarlos Torre
-The Torre Attack is a chess opening characterized by the moves: 
-
-1. d4 Nf6
-2. Nf3 e6
-3. Bg5 (ECO code A46)
-or the Tartakower Variation in the Queen's Pawn Game (ECO code D03):
-
-2... d5
-3. Bg5
-or the Torre Attack in the East Indian Defence (ECO code A48):
-
-2... g6
-3. Bg5
-or the Torre Attack in the Indian Defence (ECO code A47):
-
-2... b6
-3. Bg5
+British breed of chicken
 
 
-This article uses algebraic notation to describe chess moves.
-
-Description[edit]
-A common position for White's opening attack on Black's kingside will be with the light-squared bishop at d3 and the dark-squared bishop at g5, and the knights at d2 and f3:
-
-
-abcdefgh8877665544332211abcdefghTorre Attack: ready to go
+This article is about the breed of chicken. For the chess opening, see Indian Defence. For games of India, see Category:Indian games.
+Indian GameDark Indian GameConservation statusFAO (2007): not at risk[1]: 152 Country of originUnited KingdomDistributionworld-wideUseformerly cockfightingmeatshowTraitsWeightMale: standard: 3.6 kg[2]: 139 bantam: 2.0 kg[2]: 139 Female: standard: 2.7 kg[2]: 139 bantam: 1.5 kg[2]: 139 Egg colourlight brown[3]: 80 ClassificationAPAEnglish[4]: 13 EEyes[5]PCGBheavy: hard feather[6]ChickenGallus gallus domesticus
+The Indian Game is a British breed of game chicken, now reared either for meat or show. It originated in the early nineteenth century in the counties of Cornwall and Devon in south-west England.[7][8] It is a heavy, muscular bird with an unusually broad breast; the eggs are brown.[9]: 158 
+In the United States the name was changed in the early twentieth century to Cornish. A white variant, the White Cornish, was developed there at about the same time, and is much used in modern industrial chicken meat production in many parts of the world, either for cross-breeding to produce  hybrid broilers, or to produce fast-growing "game hens".[10]
 
 
-abcdefgh8877665544332211abcdefgh White's Torre structure with c3 and e4
+History[edit]
+The breed was developed by Sir Walter Gilbert, of Bodmin in Cornwall, in about 1820. It was intended to be a gamecock, but had no aptitude for cockfighting.[10]
+It is recognised as "Indian Game" in Australia,[11]: 196  by the Poultry Club of Great Britain in the United Kingdom,[12] and by the Entente Européenne in Europe.[5] In the United States the name was changed in 1905 to "Cornish Indian Game", and then in 1910 to "Cornish".[10] It was accepted by the American Poultry Association in 1893.[10]
 
-White pursues quick and harmonious development, will bolster his d4-pawn by c2–c3, then often enforces e2–e4 to obtain attacking chances on the kingside as the Torre bishop pins the f6-knight. If White plays an early c4, the opening will transpose to a number of more common queen pawn openings, such as the Queen's Gambit or one of the various Indian defences.
-The opening is named after the Mexican grandmaster Carlos Torre Repetto, who beat former World Champion Emanuel Lasker with it.[1] The variation was also employed by Savielly Tartakower, Boris Spassky, and Tigran Petrosian early in his career. Other noted top-level exponents include Alexey Dreev, Pentala Harikrishna, Krishnan Sasikiran and Jan Timman.[2]
-The Torre Attack is rarely met in modern top-flight play as a "Go-to or Primary" system, and statistics suggest that it is not particularly advantageous for White.[3][4][5] Due to its calm nature and relative lack of theory, however, it is popular at club level, giving White chances to seize a middlegame initiative. In recent years it has also been used against Black's kingside fianchetto pawn structure.
+Characteristics[edit]
+The Indian Game is a large and stocky bird, short in the legs and unusually broad and deep in the breast. Some cock birds may be so short-legged and broad-breasted that they are incapable of reproducing.[3]: 80 [7]
+Three colour variants are recognised in the United Kingdom: the dark, the original colour; the Jubilee; and the double-laced blue, which is rare.[7] The Entente Européenne d'Aviculture et de Cuniculture and some European countries recognise the white variant in addition to these three.[5] In the United States, the Cornish is recognised in four colours: the original dark, added to the Standard of Perfection in 1893; the white, added in 1898; the white-laced red, added in 1909; and the buff, added in 1938.[4][10][13]: 100 
+It is resistant to most common diseases of poultry, but vulnerable to parasites.[7] The feathers are thin and hard, without down; this may render the birds susceptible to cold, which may delay breeding in early Spring.[7]
 
+Use[edit]
+The Indian Game was bred as a gamecock, but was not successful as a fighting bird.[10] It was found to be a good meat breed, and was much used for cross-breeding with established meat breeds such as the Dorking, Orpington and Sussex.[9]: 158 [3]: 80  It is a poor layer: the eggs are small and light brown; hens may lay about 80 per year.[3]: 80 
 
-Torre Attack in the East Indian Defence (ECO A48)[edit]
-A variation of East Indian Defence, after 1.d4 Nf6 2.Nf3 g6 3.Bg5, is often also called Torre Attack. After 3...Bg7, White usually plays 4.Nbd2 but can also play 4.c3. After 4.Nbd2, common lines include 4...0-0 5.c3 and 4...d5 5.e3 0-0.
-
-Example game[edit]
-Loek Van Wely vs. Peter Leko, 1996 1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 0-0 5.c3 d6 6.e4 c5 7.dxc5 dxc5 8.Bc4 Nc6 9.0-0 Qc7 10.Qe2 h6 11.Bh4 Nh5 12.Rfe1 Ne5 13.Nxe5 Bxe5 14.g3 Bh8 15.f4 Ng7 16.Qf3 Be6 17.Rad1 Rad8 18.Bxe6 Nxe6 19.f5 g5 20.fxe6 gxh4 21.Qg4 Bg7 22.Qxh4 c4 23.Kg2 fxe6 24.Qg4 Rf6 25.Nf3 Rdf8 26.Nd4 h5 27.Qxh5 Rf2 28.Kh3 Qe5 29.Qxe5 Bxe5 30.Nxe6 R8f6 31.Rd8 Kf7 32.Ng5 Kg7 33.Rd7 Rh6 34.Kg4 Bf6 35.Ne6 Kf7 36.Nf4 Rh8 37.h4 Rg8 38.Kh3 Be5 39.Rd5 Bxf4 40.Rf5 Ke6 41.Rxf4 Rxb2 42.h5 b5 43.Rg4 Rxg4 44.Kxg4 Rxa2 45.h6 Rh2 46.Kg5 Ke5 47.g4 a5 48.Rb1 Kxe4 49.Rxb5 a4 50.Ra5 Kd3 51.Kg6 a3 52.h7 e5 53.Rxe5 Rxh7 54.Kxh7 Kxc3 55.Ra5 Kb2 56.g5 a2 57.g6 a1=Q 58.Rxa1 Kxa1 59.g7 c3 60.g8=Q c2 ½–½[6]
-
-See also[edit]
-Trompowsky Attack · another set of openings with White utilizing d4 and Bg5 attacking Black's Nf6, which may sometimes transpose to a Torre Attack
-List of chess openings
-List of chess openings named after people
 References[edit]
 
 
-^ "Carlos Torre Repetto vs Emanuel Lasker, Moscow (1925)". Chessgames.com. Retrieved 2016-03-09.
 
-^ Palliser, Richard (2012). The Torre Attack Move by Move. Everyman Chess. p. 7. ISBN 978-1-85744-923-5.
-
-^ "Torre Attack: Tartakower variation (D03)". Chessgames.com. Retrieved 2016-03-09.
-
-^ "Torre Attack: Queen's Pawn Game (A46)". Chessgames.com. Retrieved 2016-03-09.
-
-^ "Torre Attack: King's Indian Defence (A48)". Chessgames.com. Retrieved 2016-03-09.
-
-^ "Loek Van Wely vs. Peter Leko (1996) "Loek of the Draw"". Chessgames.com.
-
-
-Further reading[edit]
-Tangborn, Eric (1993). The Complete Torre Attack. International Chess Enterprises. ISBN 978-1-879479-14-2.
-Gufeld, Eduard; Stetsko, Oleg (1994). Winning With the Torre Attack. Henry Holt & Co. ISBN 978-0805032802.
-vteChessOutline
-Chess theory
-Chess titles
-Grandmaster
-Computer chess
-glossary
-matches
-engines
-software
-Correspondence chess
-FIDE
-Glossary
-Online chess
-Premove
-Internet chess server
-list
-Rating system
-world rankings
-norms
-Variants
-List
-World records
-Equipment
-Chess set
-chessboard
-Dubrovnik chess set
-Staunton chess set
-Chess pieces
-King
-Queen
-Rook
-Bishop
-Knight
-Pawn
-Fairy
-Chess clock
-Chess table
-Score sheets
-History
-Timeline
-Versus de scachis
-Göttingen manuscript
-Charlemagne chessmen
-Lewis chessmen
-Romantic chess
-Hypermodernism
-Soviet chess school
-Top player comparison
-Geography of chess
-Africa
-South Africa
-China
-Europe
-Armenia
-Spain
-India
-Notable games
-List of chess players
-amateurs
-female
-grandmasters
-Women in chess
-Chess museums
-Bobby Fischer Center
-Gökyay Association Chess Museum
-World Chess Hall of Fame
-Rules
-Castling
-Cheating in chess
-Check
-Checkmate
-Draw
-by agreement
-Fifty-move rule
-Perpetual check
-Stalemate
-Threefold repetition
-En passant
-Pawn promotion
-Time control
-Fast chess
-Touch-move rule
-White and Black
-Terms
-Blunder
-Chess notation
-algebraic
-descriptive
-PGN
-annotation symbols
-symbols in Unicode
-Fianchetto
-Gambit
-Key square
-King walk
-Open file
-Half-open file
-Outpost
-Pawns
-backward
-connected
-doubled
-isolated
-passed
-Swindle
-Tempo
-Transposition
-Trap
-Tactics
-Artificial castling
-Battery
-Alekhine's gun
-Block
-Checkmate patterns
-Combination
-Decoy
-Deflection
-Desperado
-Discovered attack
-Double check
-Fork
-Interference
-Overloading
-Pawn storm
-Pin
-Sacrifice
-Queen sacrifice
-Skewer
-Undermining
-Windmill
-X-ray
-Zwischenzug
-Strategy
-Compensation
-Exchange
-the exchange
-Initiative
-first-move advantage
-Middlegame
-Pawn structure
-Hedgehog
-Isolated Queen's Pawn
-Maróczy Bind
-Minority attack
-Piece values
-Prophylaxis
-School of chess
-OpeningsFlank opening
-Benko Opening
-Bird's Opening
-Dunst Opening
-English Opening
-Grob's Attack
-Larsen's Opening
-Zukertort Opening
-King's Indian Attack
-Réti Opening
-King's Pawn Game
-Alekhine's Defence
-Caro–Kann Defence
-French Defence
-Modern Defence
-Nimzowitsch Defence
-Open Game
-Four Knights Game
-Giuoco Piano
-Italian Game
-King's Gambit
-Petrov's Defence
-Philidor Defence
-Ponziani Opening
-Ruy Lopez
-Semi-Italian Opening
-Scotch Game
-Two Knights Defense
-Vienna Game
-Owen's Defence
-Pirc Defence
-Austrian Attack
-Scandinavian Defense
-Sicilian Defence
-Alapin
-Dragon/Accelerated Dragon
-Najdorf
-Scheveningen
-Queen's Pawn Game
-Budapest Gambit
-Colle System
-Dutch Defence
-English Defence
-Indian Defence
-Benoni Defence
-Modern Benoni
-Bogo-Indian Defence
-Catalan Opening
-Grünfeld Defence
-King's Indian Defence
-Nimzo-Indian Defence
-Old Indian Defense
-Queen's Indian Defence
-London System
-Richter–Veresov Attack
-Queen's Gambit
-Accepted
-Declined
-Slav Defence
-Semi-Slav Defence
-Chigorin Defense
-Torre Attack
-Trompowsky Attack
-Other
-List of openings
-theory table
-List of chess gambits
-Irregular
-Bongcloud Attack
-Fool's mate
-Scholar's mate
-Endgames
-Bishop and knight checkmate
-King and pawn vs king
-Opposite-coloured bishops
-Pawnless endgame
-Queen and pawn vs queen
-Queen vs pawn
-Rook and bishop vs rook
-Rook and pawn vs rook
-Lucena position
-Philidor position
-Strategy
-fortress
-opposition
-Tarrasch rule
-triangulation
-Zugzwang
-Study
-Tablebase
-Two knights endgame
-Wrong bishop
-Wrong rook pawn
-Tournaments
-List of strong chess tournaments
-Chess Olympiad
-Women
-World Chess Championship
-List
-Candidates Tournament
-Chess World Cup
-FIDE Grand Prix
-Other world championships
-Women
-Team
-Rapid
-Blitz
-Junior
-Youth
-Senior
-Amateur
-Chess composition
-Solving
-Computer chess championships
-CCC
-CSVN
-North American
-TCEC
-WCCC
-WCSCC
-Art and media
-Caïssa
-Chess aesthetics
-Chess in the arts
-early literature
-film
-novels
-paintings
-poetry
-short stories
-Chess books
-opening books
-endgame literature
-Oxford Companion
-Chess libraries
-Chess newspaper columns
-Chess periodicals
-Related
-Arbiter
-Chess boxing
-Chess club
-Chess composer
-Chess engine
-AlphaZero
-Deep Blue
-Leela Chess Zero
-Stockfish
-Chess problem
-glossary
-joke chess
-Chess prodigy
-Simultaneous exhibition
-Solving chess
-
- Chess portal
-Category
-
-Authority control databases: National 
-Israel
-United States
+Wikimedia Commons has media related to Indian Game.
 
 
 
-This chess opening-related article is a stub. You can help Wikipedia by expanding it.vte
+^ Barbara Rischkowsky, D. Pilling (eds.) (2007). List of breeds documented in the Global Databank for Animal Genetic Resources, annex to The State of the World's Animal Genetic Resources for Food and Agriculture. Rome: Food and Agriculture Organization of the United Nations. ISBN 9789251057629. Archived 23 June 2020.
+
+^ a b c d Victoria Roberts (2008). British Poultry Standards: complete specifications and judging points of all standardized breeds and varieties of poultry as compiled by the specialist breed clubs and recognised by the Poultry Club of Great Britain, sixth edition. Oxford: Blackwell. ISBN 9781405156424.
+
+^ a b c d Chris Graham (2006). Choosing and Keeping Chickens. London: Octopus Publishing. ISBN 9780793806010.
+
+^ a b APA Recognized Breeds and Varieties: As of January 1, 2012. American Poultry Association. Archived 4 November 2017.
+
+^ a b c Liste des races et variétés homologuée dans les pays EE (28.04.2013). Entente Européenne d'Aviculture et de Cuniculture. Archived 16 June 2013.
+
+^ Breed Classification. Poultry Club of Great Britain. Archived 12 June 2018.
+
+^ a b c d e Indian Game. Rare Breeds Survival Trust. Archived 31 October 2020.
+
+^ Chickens. Poultry Club of Great Britain. Archived 9 November 2018.
+
+^ a b J. Ian H. Allonby, Philippe B. Wilson (editors) (2018). British Poultry Standards: complete specifications and judging points of all standardized breeds and varieties of poultry as compiled by the specialist breed clubs and recognised by the Poultry Club of Great Britain, seventh edition. Chichester; Hoboken, New Jersey: Wiley Blackwell. ISBN 9781119509141.
+
+^ a b c d e f Cornish Chicken. The Livestock Conservancy. Archived 30 October 2020.
+
+^ Australian Poultry Standards (2nd ed.). Poultry Stud Breeders and Exhibitors Victoria.
+
+^ Indian Game. Poultry Club of Great Britain. Accessed August 2021.
+
+^ Christie Aschwanden (2019). Beautiful Chickens: Portraits of champion breeds. Minneapolis: Ivy Press. ISBN 9781782407614.
+
+
+vteLivestock breeds of the British IslesCattleBeef cattle
+Aberdeen Angus
+Beef Shorthorn
+Belted Galloway
+Blue Grey
+Devon
+ Dexter
+English Longhorn
+Galloway
+ Hereford
+ Highland
+Lincoln Red
+Luing
+Shorthorn
+South Devon
+Sussex
+Welsh Black
+Dairy cattle
+Ayrshire
+Dairy Shorthorn
+Guernsey
+Jersey
+Kerry
+Dual purpose
+Albion
+British White
+Droimeann
+Irish Moiled
+Glamorgan
+Old Gloucester
+Pembroke
+Red Poll
+Shetland
+Whitebred Shorthorn
+Primitive
+Chillingham Wild Cattle
+Tory Island
+Vaynol
+White Park
+Extinct
+Alderney
+Blue Albion
+SheepExtant
+Badger Face Welsh Mountain
+Balwen Welsh Mountain
+Beulah Speckled Face
+Black Welsh Mountain
+Bluefaced Leicester
+Border Cheviot
+Border Leicester
+Brecknock Hill Cheviot
+British Milksheep
+Cambridge
+Cheviot
+Clun Forest
+Cotswold
+Dalesbred
+Derbyshire Gritstone
+Devon Closewool
+Devon and Cornwall Longwool
+Dorset Down
+Dorset Horn
+Easycare
+Exmoor Horn
+Galway
+Greyface Dartmoor
+Hampshire Down
+Herdwick
+Hill Radnor
+Kerry Hill
+Leicester Longwool
+Lincoln
+ Llanwenog
+Lleyn
+Lonk
+Masham
+Norfolk Horn
+North Country Cheviot
+Oxford Down
+Portland
+Romney
+Rough Fell
+Ryeland
+Scottish Blackface
+Shetland
+Shropshire
+Southdown
+Suffolk
+Swaledale
+Teeswater
+Welsh Mountain
+ Wensleydale
+Whiteface Dartmoor
+Whitefaced Woodland
+Wiltshire Horn
+Primitive
+Boreray
+Castlemilk Moorit
+Hebridean
+Jacob
+Manx Loaghtan
+North Ronaldsay
+Soay
+Extinct
+Devon Longwool
+Scottish Dunface
+South Devon
+PigsExtant
+Berkshire
+British Landrace
+British Lop
+British Saddleback
+Essex
+Gloucestershire Old Spots
+Large Black
+Large White
+Middle White
+Oxford Sandy and Black
+Tamworth
+Welsh
+Wessex Saddleback
+Extinct
+Cumberland
+Dorset Gold Tip
+Grice
+Irish Greyhound Pig
+Large White Ulster
+Lincolnshire Curly Coat
+Small Black
+Small White
+Yorkshire Blue and White
+Goats
+Anglo-Nubian
+Bagot
+Bilberry
+British Alpine
+British Primitive
+Golden Guernsey
+Irish
+Pygmy
+PoultryChickens
+Croad Langshan
+Derbyshire Redcap
+Dorking
+Ixworth
+Indian Game
+Legbar
+Modern Game
+Modern Langshan
+Nankin Bantam
+Norfolk Grey
+Old English Game
+Old English Pheasant Fowl
+Orpington
+Rosecomb
+Scots Dumpy
+Scots Grey
+Sebright
+Sussex
+Ducks
+Abacot Ranger
+Aylesbury
+Orpington
+Khaki Campbell
+Magpie
+Shetland
+Silver Appleyard
+Welsh Harlequin
+Geese
+Brecon Buff
+Shetland
 
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Torre_Attack&oldid=1174914451"
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Indian_Game&oldid=1144463814"

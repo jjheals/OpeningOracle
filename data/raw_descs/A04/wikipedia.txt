@@ -1,398 +1,123 @@
 Chess opening
-This article is about the system of moves commonly beginning with 1.Nf3.  For the initial move 1.Nf3 itself, see Zukertort Opening.
-Chess openingRéti Opening
-abcdefgh8877665544332211abcdefgh
-Moves1.Nf3 d5 2.c4ECOA04–A09OriginRéti–Rubinstein, Carlsbad, 1923Named afterRichard RétiParentZukertort OpeningSynonym(s)Réti System  Réti–Zukertort Opening
-The Réti Opening is a hypermodern chess opening whose "traditional" or "classic method" begins with the moves:[1]
+Chess openingSokolsky Opening
+abcdefgh8877665544332211abcdefghMoves1. b4ECOA00Named afterAlexei Pavlovich SokolskySynonym(s)Polish OpeningOrangutan
+The Sokolsky Opening, also known as the Orangutan and the  Polish Opening, is an uncommon chess opening that begins with the move:
 
-1. Nf3 d5
-2. c4
-White attacks Black's pawn from the flank, which may occasion 2...dxc4. White may couple this plan with a kingside fianchetto (g3 and Bg2) to create pressure on the light squares in the center.
-The opening is named after Czechoslovakian chess player Richard Réti (1889–1929). The opening is in the spirit of the hypermodernism movement that Réti championed, with the center being dominated from the wings rather than by direct occupation. If White fianchettoes both bishops, castles kingside, and refrains from occupying the center with pawns, the result may be described as the Réti System.[1]
-In the Encyclopaedia of Chess Openings, Réti Opening is classified as codes A04–A09, where it is closely associated with the King's Indian Attack.[2]
+1. b4
+According to various databases, out of the twenty possible first moves from White, the move 1.b4 ranks ninth in popularity.[1] It is considered an irregular opening, so it is classified under the A00 code in the Encyclopaedia of Chess Openings.
 
 
 
 This article uses algebraic notation to describe chess moves.
 
-History[edit]
-Scoresheet of Réti–Capablanca, New York 1924
-According to Réti, the opening was introduced into master play in the early part of 1923.[3] Réti used the opening most famously to defeat José Raúl Capablanca, the reigning World Chess Champion, in a game at the 1924 New York tournament.[4] Alexander Alekhine played the Réti in the 1920s, but at that time almost any game that began with Nf3 and c4 by White was considered to be the Réti. Réti popularized these moves against all defenses in the spirit of hypermodernism, and as the opening developed it gained structure and a clearer distinction between it and other openings.
-Hans Kmoch called the system of attack employed by Réti in the game Réti–Rubinstein, Carlsbad 1923,[5] "the Réti Opening" or "the Réti System". Savielly Tartakower called the opening the "Réti–Zukertort Opening", and said of 1.Nf3: "An opening of the past, which became, towards 1923, the opening of the future."[6]
+Origins[edit]
+One of the earliest opening plays of b4 was by Bernhard Fleissig playing against Carl Schlechter in 1893, although Fleissig was handily defeated in just 18 moves.[2][3] Nikolai Bugaev defeated former world champion Wilhelm Steinitz with it in a simul exhibition game, and later published an analysis of the opening in 1903 in a Russian magazine article.  Savielly Tartakower defeated Richard Réti using b4 in a match in 1919 when both were top-level players,[4] and Reti himself defeated Abraham Speijer in Scheveningen 1923 using the opening.[5][6]
+The most famous use came in a game between Tartakower and Géza Maróczy at the New York 1924 chess tournament on March 21, 1924.[7]  The name "The Orangutan" originates from that game: the players visited the Bronx Zoo the previous day,[8] where Tartakower consulted an orangutan named Susan.  She somehow indicated, Tartakower insisted, that he should open with b4.  Also, Tartakower was impressed with the climbing skills of the orangutan, and thought that the "climb" of the b-pawn was similar.  In that particular game, Tartakower came out of the opening with a decent position, but the game was ultimately drawn.[9][6]
+The opening received sporadic play in the decades that followed.  Tartakower had more success in 1926 when he used it against Edgard Colle for a victory.[10] One of the largest proponents was the Soviet player Alexei Pavlovich Sokolsky (1908–1969), who often used it in high-level play.  Sokolsky wrote a monograph on the opening in 1963, Debyut 1 b2–b4, which would lead to the opening being called the "Sokolsky Opening".  Sokolsky's work defended the viability of the opening even at the highest levels of professional play.[10]
+The final term, and the one used in contemporary books and chess websites such as Chess.com and Lichess, is the Polish Opening.  This is by analogy to the Polish Defense (1. d4 b5), where Black is who advances their Queen's Knight pawn two spaces.[6]
 
-Classic method: 2.c4 [edit]
-In modern times the Réti refers only to the configuration Nf3 and c4 by White with ...d5 by Black, where White fianchettos at least one bishop and does not play an early d4.[7]
-After 2.c4 (ECO code A09), Black's choices are:
+Notable later usage[edit]
+In general, the opening is not popular at the top level.  Alexander Alekhine, who played in the same 1924 New York tournament as Tartakower and the Orangutan game, wrote that the problem is that it reveals White's intentions before White knows what Black's intentions are.[11]  That said, it still sees sporadic use among top level grandmasters.  Boris Spassky used it against Vasily Smyslov in a 1960 match, albeit having to settle for a draw.[12]  In May 2021, world champion Magnus Carlsen essayed the opening against GMs Hikaru Nakamura and Wesley So in the online FTX Crypto Cup rapid tournament.[13]
 
-2...e6 or 2...c6 (holding the d5-point)
-2...dxc4 (giving up the d5-point)
-2...d4 (pushing the pawn)
-If Black takes the pawn, then in the same manner as the QGA, 3.e3 or 3.e4 regains the pawn with a slight advantage to White, as Black is left somewhat undeveloped. 3.Na3 and 3.Qa4+ are also good, and commonly played. This variety of White options limits the popularity of 2...dxc4. Trying to protect the pawn with 3...b5?! allows 4.a4! leaving White with a superior position. The alternatives 2...d4, 2...c6, and 2...e6 are more common, with the latter two generally leading to a Queen's Gambit type of position, and 2...d4 typically being answered with 3.e3 or the interesting 3.b4!?
+Details[edit]
 
-Transpositions[edit]
+abcdefgh8877665544332211abcdefghCommon response after 1...e5
 
-abcdefgh8877665544332211abcdefgh Position after 1.Nf3 d5 2.c4 e6
+The opening is largely based upon tactics on the queenside or the f6- and g7-squares. Black can respond in a variety of ways: For example, a common response is for Black to make a claim on the centre, which White's first move ignores, with 1...e5 (it is normal for White to ignore the attack on the b-pawn and play 2.Bb2, where 2...d6, 2...f6, and 2...Bxb4 are all playable), 1...d5 (possibly followed by 2.Bb2 Qd6, attacking b4 and supporting ...e7–e5),[14] or 1...f5. Less ambitious moves like 1...Nf6, 1...c6 (called the Outflank Variation, preparing ...Qb6 or ...a5), and 1...e6 are also reasonable. Rarer attempts have been made with 1...a5 or 1...c5. Black's reply 1...e6 is usually followed by ...d5, ...Nf6 and an eventual ...c5. After 1...a5 White will most likely play 2.b5 and take advantage of Black's queenside weakness. Black's 1...c5 is much sharper and more aggressive and is normally used to avoid theory. After the capture Black will generally place pressure on the c5-square and will develop an attack against White's weak queenside structure at the cost of an inferior central position.
 
-After 2.c4 e6 (diagram):
-
-3.d4 transposes to the Queen's Gambit Declined.
-3.g3 Nf6 is the Neo-Catalan Opening; after 4.Bg2, Black may play ...Be7 or ...dxc4.
-After 4...Be7, 5.d4 transposes to a Closed Catalan.
-After 4...dxc4, White's most common reply is 5.Qa4+, and this will not correspond to a 1.d4 line.
-After 2.c4 c6:
-
-3.d4 transposes to the Slav Defense.
-After 3.e3 Nf6:
-4.d4 transposes to the Slow Slav.
-After 4.Nc3 e6, 5.d4 transposes to the Semi-Slav. A separate option for White is 5.b3.
+Named variations[edit]
+1…b5 (Symmetrical Variation)
+2.a4 (Queen's Knight's Gambit)
+1...c5 (Birmingham Gambit)
+1...c6 (Outflank Variation)
+1...c6 2.Bb2 a5 3.b5 cxb5 4.e4 (Schuhler Gambit)
+1...d5 2.Bb2 c6 3.a4 (Myers Variation)
+1...d5 2.Bb2 Qd6 3.a3 e5 4.Nf3 e4 5.Nd4 Nf6 6.c4! dxc4 7.e3 Be7 8.Bxc4 O-O 9.Nc3 (German Defense)
+1...e5 2.a3 (Bugayev Attack)
+1...e5 2.Bb2 c5 (Wolferts Gambit)
+1...e5 2.Bb2 f6 3.e4 Bxb4 (Tartakower Gambit)
+1...e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Nc6 5.f4 Qe7 6.f5 g6 (Brinckmann Variation)
+1...Na6 (Bucker Defense Kingsley Variation)
+1...Nc6 (Grigorian Variation)
+1...Nf6 2.Bb2 g6 3.g4 (Polish Spike)
+1...Nh6 (Karniewski Variation)
 See also[edit]
-Flank opening
-King's Indian Attack
 List of chess openings
 List of chess openings named after people
-Tennison Gambit, 1.Nf3 d5 2.e4
-Zukertort Opening
 References[edit]
 
 
-^ a b Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. The Oxford Companion to Chess (2nd ed.). Oxford University Press. pp. 337, 479. ISBN 0-19-280049-3.
+^ See for example ChessBase Archived 2009-02-28 at the Wayback Machine, 365chess opening explorer, and ChessGames.com opening explorer
 
-^ "ECO codes, A04-A09". 365chess.
+^ Copeland, Sam (August 20, 2022). "Schlechter Wins An Immortal vs. 1.b4 - Best of the pre-1900s - Fleissig vs. Schlechter, 1893". Chess.com.
 
-^ Schiller, Eric (1988). How to Play the Réti. Coraopolis, Pennsylvania: Chess Enterprises, Inc. ISBN 978-0-931462-78-8.
+^ Lapshun & Conticello 2008, p. 5 Sources conflict on the date; some say the game was in 1895.
 
-^ "Richard Reti vs. Jose Raul Capablanca, New York 1924". Chessgames.com.
+^ Lapshun & Conticello 2008, pp. 12–13
 
-^ "Richard Reti vs. Akiba Rubinstein, Karlsbad 1923". Chessgames.com.
+^ "Richard Reti vs Abraham Speijer". Chessgames.com. Retrieved September 23, 2023.
 
-^ Tartakower, Savielly; du Mont, Julius (1975). 500 Master Games of Chess (1952). Dover Publications. p. 636. ISBN 0-486-23208-5.
+^ a b c Danelishen, Gary; M.  "The Final Theory of Chess". Phillidore Press 2008 ISBN 978-0981567709.  pp. 15-16.
 
-^ Modern Chess Openings, 15th edition, by Nick de Firmian, ISBN 978-0-8129-3682-7, p. 718
+^ "Savielly Tartakower vs Geza Maroczy". Chessgames.com. Retrieved 2008-01-20.
+
+^ Some sources indicate it was the Central Park Zoo instead.  Tartakower simply said the "New York Zoo" in his book, leaving the matter unclear. Sources indicating it was specifically the Central Park Zoo include Lapshun & Conticello 2008, p. 6 and Hansen 2021, History of the Orangutan Opening.
+
+^ Weinreb, Michael.  "Kings of New York".  Gotham Books. 2007
+
+^ a b Lapshun & Conticello 2008, pp. 14–15
+
+^ Alekhine, Alexander.  "New York 1924". Russell Enterprises, Inc. 2009 p. 64 ISBN 978-1888690484
+
+^ "Boris Spassky vs Vasily Smyslov". Chessgames.com. Retrieved September 23, 2023.
+
+^ "Magnus Carlsen wins "absolutely insane" FTX Crypto Cup final". Chess24. Retrieved 2021-06-01.
+
+^ Martin, Andrew (2004). "How To Meet The Polish & Grob". www.jeremysilman.com. Archived from the original on 2012-04-19.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
 
 
-Further reading[edit]
+Bibliography[edit]
+Dunnington, Angus (2000). Winning Unorthodox Openings. Everyman Chess. ISBN 978-1-85744-285-4.
+Hansen, Carsten (2021). Play the Orangutan 1.b4!. CarstenChess. ISBN 978-87-93812-64-2.
+Konikowski, Jerzy; Soszynski, Marek: The Sokolsky Opening 1.b4 in Theory & Practice. Russell Enterprises, Milford USA 2009, ISBN 978-1-888690-65-1
+Lapshun, Yury; Conticello, Nick (2008). Play 1b4!: Shock your opponents with the Sokolsky. Everyman Chess. ISBN 978-1-85744-560-2.
+Schiller, Eric (2002). Unorthodox Chess Openings (Second ed.). Cardoza Publishing. pp. 354–57. ISBN 1-58042-072-9.
+External links[edit]
 
 
 
-The Wikibook Chess Opening Theory has a page on the topic of: Réti Opening
+The Wikibook Chess Opening Theory has a page on the topic of: Sokolsky Opening
 
-Davies, Nigel (2004). The Dynamic Reti. Everyman Chess. ISBN 978-1-85744-352-3.
-Delchev, Alexander (2012). The Modern Reti - An Anti-Slav Repertoire. Chess Stars. ISBN 978-9548782876.
-Demuth, Adrien (2017). The Modernized Reti. Thinkers Publishing. ISBN 978-9492510181.
-Dunnington, Angus (1998). Easy Guide to the Reti Opening. Cadogan. ISBN 978-1-85744-518-3.
-vteChessOutline
-Chess theory
-Chess titles
-Grandmaster
-Computer chess
-glossary
-matches
-engines
-software
-Correspondence chess
-FIDE
-Glossary
-Online chess
-Premove
-Internet chess server
-list
-Rating system
-world rankings
-norms
-Variants
-List
-World records
-Equipment
-Chess set
-chessboard
-Dubrovnik chess set
-Staunton chess set
-Chess pieces
-King
-Queen
-Rook
-Bishop
-Knight
-Pawn
-Fairy
-Chess clock
-Chess table
-Score sheets
-History
-Timeline
-Versus de scachis
-Göttingen manuscript
-Charlemagne chessmen
-Lewis chessmen
-Romantic chess
-Hypermodernism
-Soviet chess school
-Top player comparison
-Geography of chess
-Africa
-South Africa
-China
-Europe
-Armenia
-Spain
-India
-Notable games
-List of chess players
-amateurs
-female
-grandmasters
-Women in chess
-Chess museums
-Bobby Fischer Center
-Gökyay Association Chess Museum
-World Chess Hall of Fame
-Rules
-Castling
-Cheating in chess
-Check
-Checkmate
-Draw
-by agreement
-Fifty-move rule
-Perpetual check
-Stalemate
-Threefold repetition
-En passant
-Pawn promotion
-Time control
-Fast chess
-Touch-move rule
-White and Black
-Terms
-Blunder
-Chess notation
-algebraic
-descriptive
-PGN
-annotation symbols
-symbols in Unicode
-Fianchetto
-Gambit
-Key square
-King walk
-Open file
-Half-open file
-Outpost
-Pawns
-backward
-connected
-doubled
-isolated
-passed
-Swindle
-Tempo
-Transposition
-Trap
-Tactics
-Artificial castling
-Battery
-Alekhine's gun
-Block
-Checkmate patterns
-Combination
-Decoy
-Deflection
-Desperado
-Discovered attack
-Double check
-Fork
-Interference
-Overloading
-Pawn storm
-Pin
-Sacrifice
-Queen sacrifice
-Skewer
-Undermining
-Windmill
-X-ray
-Zwischenzug
-Strategy
-Compensation
-Exchange
-the exchange
-Initiative
-first-move advantage
-Middlegame
-Pawn structure
-Hedgehog
-Isolated Queen's Pawn
-Maróczy Bind
-Minority attack
-Piece values
-Prophylaxis
-School of chess
-OpeningsFlank opening
-Benko Opening
-Bird's Opening
-Dunst Opening
-English Opening
-Grob's Attack
-Larsen's Opening
-Zukertort Opening
-King's Indian Attack
-Réti Opening
-King's Pawn Game
-Alekhine's Defence
-Caro–Kann Defence
-French Defence
-Modern Defence
-Nimzowitsch Defence
-Open Game
-Four Knights Game
-Giuoco Piano
-Italian Game
-King's Gambit
-Petrov's Defence
-Philidor Defence
-Ponziani Opening
-Ruy Lopez
-Semi-Italian Opening
-Scotch Game
-Two Knights Defense
-Vienna Game
-Owen's Defence
-Pirc Defence
-Austrian Attack
-Scandinavian Defense
-Sicilian Defence
-Alapin
-Dragon/Accelerated Dragon
-Najdorf
-Scheveningen
-Queen's Pawn Game
-Budapest Gambit
-Colle System
-Dutch Defence
-English Defence
-Indian Defence
-Benoni Defence
-Modern Benoni
-Bogo-Indian Defence
-Catalan Opening
-Grünfeld Defence
-King's Indian Defence
-Nimzo-Indian Defence
-Old Indian Defense
-Queen's Indian Defence
-London System
-Richter–Veresov Attack
-Queen's Gambit
-Accepted
-Declined
-Slav Defence
-Semi-Slav Defence
-Chigorin Defense
-Torre Attack
-Trompowsky Attack
-Other
-List of openings
-theory table
-List of chess gambits
-Irregular
-Bongcloud Attack
-Fool's mate
-Scholar's mate
-Endgames
-Bishop and knight checkmate
-King and pawn vs king
-Opposite-coloured bishops
-Pawnless endgame
-Queen and pawn vs queen
-Queen vs pawn
-Rook and bishop vs rook
-Rook and pawn vs rook
-Lucena position
-Philidor position
-Strategy
-fortress
-opposition
-Tarrasch rule
-triangulation
-Zugzwang
-Study
-Tablebase
-Two knights endgame
-Wrong bishop
-Wrong rook pawn
-Tournaments
-List of strong chess tournaments
-Chess Olympiad
-Women
-World Chess Championship
-List
-Candidates Tournament
-Chess World Cup
-FIDE Grand Prix
-Other world championships
-Women
-Team
-Rapid
-Blitz
-Junior
-Youth
-Senior
-Amateur
-Chess composition
-Solving
-Computer chess championships
-CCC
-CSVN
-North American
-TCEC
-WCCC
-WCSCC
-Art and media
-Caïssa
-Chess aesthetics
-Chess in the arts
-early literature
-film
-novels
-paintings
-poetry
-short stories
-Chess books
-opening books
-endgame literature
-Oxford Companion
-Chess libraries
-Chess newspaper columns
-Chess periodicals
-Related
-Arbiter
-Chess boxing
-Chess club
-Chess composer
-Chess engine
-AlphaZero
-Deep Blue
-Leela Chess Zero
-Stockfish
-Chess problem
-glossary
-joke chess
-Chess prodigy
-Simultaneous exhibition
-Solving chess
+1. b4 variations and games by Marek Trokenheim (Marek's 1.b4 Encyclopaedia)
+"The Chess Moves 1 b4 and 1...b5" by Edward Winter
+Sokolsky a web site dedicated to the Sokolsky opening
+vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
+1.Na3: Durkin  1.a3: Anderssen
 
- Chess portal
-Category
 
-Authority control databases International
-FAST
-National
-Germany
-Israel
-United States
+1.b3:  Nimzowitsch-Larsen
+
+
+1.Nc3: Dunst  1.c3: Saragossa
+
+
+1.d3:  Mieses
+
+
+1.e3:  Van 't Kruijs
+
+
+1.Nf3: Zukertort  1.f3: Barnes
+
+
+1.g3:  Benko
+
+
+1.Nh3: Amar  1.h3: Clemenz
 
 
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Réti_Opening&oldid=1154523647"
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sokolsky_Opening&oldid=1186747902"

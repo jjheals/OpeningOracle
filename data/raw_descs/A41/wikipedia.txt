@@ -1,124 +1,73 @@
 Chess opening
-Chess openingQueen's Pawn Game
-abcdefgh8877665544332211abcdefghMoves1.d4ECOA40–A99 D00–D99 E00–E99Synonym(s)d4
-The Queen's Pawn Game is any chess opening starting with the move 1.d4, which is the second-most popular opening move after 1.e4 (King's Pawn Game).
+Chess openingModern Defense
+abcdefgh8877665544332211abcdefgh
+Moves1.e4 g6ECOB06ParentKing's Pawn GameSynonym(s)Robatsch Defence
+The Modern Defense (also known as the Robatsch Defence after Karl Robatsch) is a hypermodern chess opening in which Black allows White to occupy the center with pawns on d4 and e4, then proceeds to attack and undermine this "ideal" center without attempting to occupy it. The opening has been most notably used by British grandmasters Nigel Davies and Colin McNab.
+The Modern Defense is closely related to the Pirc Defence, the primary difference being that in the Modern, Black delays developing the knight to f6. The delay of ...Nf6 attacking White's pawn on e4 gives White the option of blunting the g7-bishop with c2–c3. There are numerous transpositional possibilities between the two openings.
+The Encyclopaedia of Chess Openings (ECO) classifies the Modern Defense as code B06, while codes B07 to B09 are assigned to the Pirc.  The tenth edition of Modern Chess Openings (1965) grouped the Pirc and Robatsch together as the "Pirc–Robatsch Defense".
 
 
 
 This article uses algebraic notation to describe chess moves.
 
-Terminology[edit]
-The term "Queen's Pawn Game" is usually used to describe openings beginning with 1.d4 where White does not play the Queen's Gambit. The most common Queen's Pawn Game openings are: 
+2.d4[edit]
+Main line: 2.d4 Bg7[edit]
+White's strongest response to the Modern Defense is 2.d4, to which Black typically responds 2...Bg7. The main continuations are:
 
-The London System, 2.Bf4 or 2.Nf3 and 3.Bf4
-The Trompowsky Attack, 1...Nf6 2.Bg5 and the Pseudo-Trompowsky 1...d5 2.Bg5
-The Torre Attack, 2.Nf3 and 3.Bg5
-The Stonewall Attack, 2.e3
-The Colle System, 2.Nf3 and 3.e3
-The King's Fianchetto Opening, 2.Nf3 and 3.g3
-The Barry Attack, 1...Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4
-The Richter–Veresov Attack, 1...d5 2.Nc3 Nf6 3.Bg5 or 1...Nf6 2.Nc3 d5 3.Bg5
-The Blackmar–Diemer Gambit, 1...d5 2.e4, and the Hübsch Gambit 1...Nf6 2.Nc3 d5 3.e4
-The Nimzo-Indian Defence, 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
-In the Encyclopaedia of Chess Openings (ECO), Closed Games (1.d4 d5) are classified under codes D00–D69. Openings where Black does not play 1...d5 are called Semi-Closed Games and classified as:
+3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 (the Standard Line, ECO B06)
+3. c4 (ECO A40) d6 4. Nc3 Nc6 5. Be3 e5 6. d5 Nce7 (7.g4 will be answered by 7...f5 8.gxf5 gxf5 9.Qh5+ Ng6 10.exf5 Qh4 11.Qxh4 Nxh4 12.Nb5 Kd8)
+Other possibilities include:
 
-Indian Defences, where Black plays 1...Nf6 (ECO codes A45–A79, D70–D99, E00–E99); for instance the Queen's Indian Defence (ECO E12–E19);
-other Queen's Pawn Games, where Black plays neither 1...d5 nor 1...Nf6; these include the Dutch Defence (ECO A40–A44 and A80–A99).
-History[edit]
-In the 19th century and early 20th century, 1.e4 was by far the most common opening move by White (Watson 2006:87), while the different openings starting with 1.d4 were considered somewhat unusual and therefore classed together as "Queen's Pawn Game".
-As the merits of 1.d4 started to be explored, it was the Queen's Gambit which was played most often—more popular than all other 1.d4 openings combined. The term "Queen's Pawn Game" was then narrowed down to any opening with 1.d4 which was not a Queen's Gambit. Eventually, through the efforts of the hypermodernists, the various Indian Defences (such as the King's Indian, Nimzo-Indian, and Queen's Indian) became more popular, and as these openings were named, the term "Queen's Pawn Game" narrowed further.
+3.Bc4 (Bishop Attack)
+3.Bd2 (Westermann Gambit)
+3.Bd3 (Wind Gambit)
+3.f4 (Three Pawns Attack)
+3.g3
+3.Nf3
+Fischer's 3.h4!?[edit]
+Bobby Fischer suggested the move 3.h4!? as an unorthodox try against 1...g6 2.d4 Bg7, in his annotation to a game against Pal Benko.[1] (Fischer played 3.Nc3 in the actual game.) The idea is to pry open Black's kingside by h4–h5 followed by hxg6, as ...gxh5 would greatly weaken the cover to Black's king.
 
-Continuations[edit]
-The Black responses given below are ranked in order of popularity according to ChessBase for FIDE-rated games.
+Averbakh System[edit]
 
-1...Nf6[edit]
-This move prevents White from establishing a full pawn centre with 2.e4. The opening usually leads to a form of Indian Defence, but can also lead to versions of the Queen's Gambit if Black plays ...d5 at some point. Since 1...Nf6 is a move that is likely to be made anyway, the move is a flexible response to White's first move. White usually plays 2.c4. Then Black usually plays 2...e6 (typically leading to the Nimzo-Indian, Queen's Indian, or Queen's Gambit Declined), 2...g6 (leading to the King's Indian or Grünfeld Defence), or 2...c5 (leading to the Benoni Defence or Benko Gambit). Rarer tries include 2...e5 (Budapest Gambit) and 2...d6 (Old Indian Defence). White can also play 2.Nf3, which like Black's move is not specific as to opening. A third alternative is the Trompowsky Attack with 2.Bg5.
+abcdefgh8877665544332211abcdefghAverbakh System
 
-1...d5[edit]
-1...d5 (Closed Game) also prevents White from playing 2.e4 unless White wants to venture the dubious Blackmar–Diemer Gambit. 1...d5 is not any worse than 1...Nf6, but committing the pawn to d5 at once makes it somewhat less flexible since Black can no longer play the Indian Defences, although if Black is aiming for Queen's Gambit positions this may be of minor importance. Also, a move like 2.Bg5 (Hodgson Attack) is considered relatively harmless compared to 1.d4 Nf6 2.Bg5 since there is no knight on f6 for the bishop to harass. White's more common move is 2.c4, the Queen's Gambit, when Black usually chooses between 2...e6 (Queen's Gambit Declined), 2...c6 (Slav Defence) or 2...dxc4 (Queen's Gambit Accepted). White can also play 2.Nf3 which again is not specific as to opening. Then Black may play ...Nf6 (same as above) or ...e6. A Queen's Gambit may arise anyway if White plays c4 soon afterward, but lines like the Colle System and Torre Attack are also possible.
+The Modern Defense, Averbakh System (ECO A42) can be reached by the lines:
 
-1...e6[edit]
-The Franco-Indian Defence is a chess opening characterized by the moves: 1.d4 e6. This play allows White to play 2.e4, entering the French Defence. If White wants to continue with a Queen's Pawn Game however, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Queen's Gambit Declined, Nimzo-Indian or Queen's Indian. A line that is unique to the 1...e6 move order is the Keres Defence, 1.d4 e6 2.c4 Bb4+.
+1.e4 g6 2.d4 Bg7 3.c4 d6 4.Nc3 (diagram)
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 (diagram)
+Possible moves for Black at this point include 4...Nf6, 4...Nc6, 4...e5, and 4...Nd7. The move 4...Nf6 
+leads to a position of the King's Indian Defence, where White has options 5.Nf3, 5.f3, 5.Be2, 5.f4, and so on. 
 
-1...d6[edit]
-This move also allows 2.e4 entering the Pirc Defence. If White avoids this, 2.Nf3 or 2.c4 may lead to a King's Indian or Old Indian Defence, or Black may play 2...Bg4, sometimes called the Wade Defence (A41, see 1.d4 d6 2.Nf3 Bg4). 2.c4 e5 is the Rat Defense, English Rat.
 
-1...f5[edit]
-1...f5 is the Dutch Defence. Common White moves are 2.g3, 2.Nf3, and 2.c4.
+Unusual White responses[edit]
+The flexibility and toughness of the Modern Defense have provoked some very aggressive responses by White, including the crudely named Monkey's Bum, a typical sequence being 1.e4 g6 2.Bc4 Bg7 3.Qf3.  (A more refined version is the Monkey's Bum Deferred, where White plays Bc4 and Qf3 only after developing the queen's knight.)
 
-1...g6[edit]
-1...g6 is sometimes called the Modern Defence line.
-White can play 2.e4 to enter the Modern Defence. More commonly, White plays 2.c4. Black may play 2...Nf6 for the King's Indian Defence (same as 1.d4 Nf6 2.c4 g6). More commonly, Black plays 2...Bg7. Then White's moves include 3.Nc3, 3.e4, and 3.Nf3. 3.Nc3 and 3.e4 often lead to the Modern Defence, Averbakh System, as well as 2...d6. White may also play 2.Nf3. Black may respond 2...Nf6 for the King's Indian, or more commonly, 2...Bg7. Common White responses are 3.e4, 3.c4, and 3.g3.
+Unusual Black responses[edit]
+Other unusual openings can be reached after 1.e4 g6. The Hippopotamus Defence is one such system.  Another is the Norwegian Defence (also known as the North Sea Defence) which begins 1.e4 g6 2.d4 Nf6 3.e5 Nh5. (If White plays 4.g4, Black retreats the knight with 4...Ng7. On 4.Be2, Black can retreat the knight or gambit a pawn with 4...d6!? If White plays 3.Nc3 instead of 3.e5, Black can transpose to the Pirc Defence with 3...d6 or continue in unconventional fashion with 3...d5!?)
 
-1...c5[edit]
-1...c5  is the Old Benoni Defence: this is a form of the Benoni Defence seldom used.
+Transpositions[edit]
+Transpositions are possible after 2.c4, for example a Maróczy Bind results after 2...c5 3.Nf3 Bg7 (or Nc6) 4.d4 cxd4 5.Nxd4 and the Averbakh system is reached after 2...Bg7 3.d4 d6 4.Nc3.
+After 2.Nf3, Black can play 2...c5, transposing to the Sicilian Defense, or 2...Bg7.  Following 2.Nc3, Black can transpose to a closed Sicilian  with 2...c5  or play 2...Bg7.
 
-1...Nc6[edit]
-1...Nc6 is the Queen's Knight Defense (or Mikenas Defense): this can usually transpose to the Chigorin Defense or the Nimzowitsch Defense.
+Kavalek vs. Suttles[edit]
+In the following game played at the Nice Olympiad in 1974, Canadian GM Duncan Suttles, one of the Modern's leading exponents, defeats Czech-American GM Lubomir Kavalek:
 
-1...c6[edit]
-This move allows White to play 2.e4, entering the Caro–Kann Defence. If, however, White wants to continue with a Queen's Pawn Game, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Slav Defence, London System, or Dutch Defence.
-
-1...b6[edit]
-1...b6 is the English Defence. Common White moves are 2.e4 (which transposes to the Owen Defense), 2.Nf3, and 2.c4.
-
-1...b5[edit]
-1...b5 is the Polish Defence: this is risky and should be played with care. It is better to delay ...b5 until the 2nd move.
-
-1...a6[edit]
-1...a6 can quickly transpose to the St. George Defence.
-
-1...e5[edit]
-1...e5?! is the Englund Gambit: this gives up a pawn for questionable compensation. 
-
-1...Na6[edit]
-1...Na6 is the Australian Defence.[1]
-
-1...g5[edit]
-1...g5? is the Borg Defense, Borg Gambit: this simply loses a pawn to 2.Bxg5.
-
-See also[edit]
-List of chess openings
-Closed Game
+1. e4 g6 2. d4 d6 3. Nf3 Bg7 4. Be2 Nf6 5. Nc3 (Pirc Defence by transposition) 5... a6 6. a4 0-0 7. 0-0 b6 8. Re1 Bb7 9. Bc4 e6 10. Bf4 Nbd7 11. Qd2 b5! (initiating a deep combination; Suttles later remarked that Kavalek has occupied the center and developed his pieces in the manner advocated by Fred Reinfeld, yet now stands worse) 12. axb5 axb5 13. Rxa8 Qxa8 14. Bxb5 Bxe4 15. Nxe4 Nxe4 16. Rxe4 Qxe4 17. Bxd7 Ra8 18. h4 Qb7! (despite his material advantage, White is in trouble; note that his bishop on d7 is nearly trapped) 19. d5 e5 20. Bh6 Qxb2 21. h5 Ra1+ 22. Kh2 Qb1 23. Bxg7 Qh1+ 24. Kg3 Kxg7 25. Bh3 Qc1 26. h6+ Kf6 27. c4 Qxd2 28. Nxd2 Kg5 29. Ne4+ Kxh6 30. Bd7 f5 31. Nf6 Ra7 32. Bb5 g5 33. Ng8+ Kg7 34. Ne7 Kf6 35. Nc6 Ra3+ 36. Kh2 h5 37. Nb8 h4 38. Na6 g4 39. Nxc7 Ra2 40. Kg1 g3 41. fxg3 hxg3 42. Kf1 e4 0–1[2]
 References[edit]
 
 
+^ Bobby Fischer, My 60 Memorable Games, 2008, p. 286
 
-The Wikibook Chess Opening Theory has a page on the topic of: Queen's Pawn Opening
-
-
-
-^ "Queen's Pawn Opening: Australian Defense - Chess Openings".
+^ "Kavalek vs. Suttles, Nice Olympiad 1974". Chessgames.com.
 
 
-Bibliography
-
-Watson, John (2006), Mastering the Chess Openings, vol 1, Gambit, ISBN 978-1-904600-60-2
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
+Further reading[edit]
 
 
-1.b3:  Nimzowitsch-Larsen
 
+The Wikibook Chess Opening Theory has a page on the topic of: Modern Defense
 
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
-
-
+Davies, Nigel (2008). Starting Out: The Modern. Everyman Chess. ISBN 9781857445664.
 vteChessOutline
 Chess theory
 Chess titles
@@ -423,15 +372,11 @@ Solving chess
  Chess portal
 Category
 
-Authority control databases International
-FAST
-National
+Authority control databases: National 
 Germany
-Israel
-United States
 
 
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Queen%27s_Pawn_Game&oldid=1184481267"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Modern_Defense&oldid=1108788355"
