@@ -237,7 +237,7 @@ class OpeningLDA:
     @staticmethod
     def load(filename:str) -> object: 
         if path.exists(Paths.MODELS_DIR + filename): 
-            model:LdaModel = LdaModel.load(Paths.MODELS_DIR + filename) 
+            model:LdaModel = LdaModel.load(Paths.MODELS_DIR + filename + "/" + filename) 
             return OpeningLDA.__from_pretrained_model__(model, filename)
         else: 
             raise FileNotFoundError(f"Error in OpeningLDA.load(): the given filename (\"{filename}\") was not found in the directory \"{Paths.MODELS_DIR}\".")
@@ -252,7 +252,7 @@ class OpeningLDA:
         opening_lda.lda_model = lda_model
         opening_lda.num_passes = lda_model.passes
         opening_lda.num_topics = lda_model.num_topics
-        opening_lda.corpus = corpora.MmCorpus(Paths.MODELS_DIR + corpus_filename + ".mm")
+        opening_lda.corpus = corpora.MmCorpus(Paths.MODELS_DIR + corpus_filename + "/" + corpus_filename + ".mm")
         opening_lda.dictionary = lda_model.id2word
         opening_lda.index = json.load(open(Paths.INDEX_JSON, "r", encoding="utf-8"))
         opening_lda.openings = json.load(open(Paths.OPENINGS_JSON, "r", encoding="utf-8"))

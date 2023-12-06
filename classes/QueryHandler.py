@@ -88,8 +88,13 @@ class QueryHandler:
                 except KeyError: rel_index_matches[k] = v   # If this code (k) does not exist already in the sum matches dict, then add it
 
         # Convert these sums of tfs to relative tfs using the values in self.opening_lda.num_terms
-        for k,v in rel_index_matches.items(): rel_index_matches[k] = v / self.opening_lda.num_terms[k]
         
+        for k,v in rel_index_matches.items(): 
+            if self.opening_lda.num_terms[k] > 0: 
+                rel_index_matches[k] = v / self.opening_lda.num_terms[k]
+            else: 
+                rel_index_matches[k] = 0
+                
         # Sort the index matches (descending order)
         rel_index_matches = dict(sorted(rel_index_matches.items(), key=lambda item: item[1], reverse=True))
         
