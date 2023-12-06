@@ -137,16 +137,14 @@ class Scraper:
         
         # Iterate over self.openings_dict.openings and visit all the URLs
         for c,v in self.openings_dict.openings.items(): 
+            num_terms:int = 0   # Track the number of terms for this opening across all descriptions
             
             # Create dir to save raw content if needed 
             if not path.exists(Paths.RAW_DESC_BASE + c): mkdir(Paths.RAW_DESC_BASE + c)
             
             # Iterate over the links for this opening and get the content
             for site,url in v['links'].items(): 
-                
-                # If there is no url, skip; some do not have chess.com or wikipedia URLs
-                if not url: continue
-                
+                if not url: continue                                    # If there is no url, skip; some do not have chess.com or wikipedia URLs
                 response = requests.get(url, headers=Scraper.headers)   # Make the request
                 
                 # Skip if there is an error code 
@@ -184,7 +182,7 @@ class Scraper:
                     except Exception as e: 
                         if print_debug: 
                             print(f"Error writing to file for description of {c} \n\tNAME: {v['opening-name']} \n\tSITE: {site}")
-                            print(f"\tERROR: {e}") 
+                            print(f"\tERROR: {e}")                         
                     f.close()           # Close the file
                     
                 except AttributeError:
@@ -206,8 +204,10 @@ class Scraper:
                         self.index[t] = {c:1}           # Add it with just this code (c) and 1 as the term freq
                 
                 # Add the number of tokens to num_terms
-                self.num_terms[c] = len(tokens)
+                num_terms += len(tokens)
                 
+            self.num_terms[c] = num_terms   # Save the final sum of the number of terms in self.num_terms
+            
             num_done+=1
             if print_debug: print(f"Done scraping for \"{c}\", \"{v['opening-name']}\" ({num_done}/{num_openings})")
         
@@ -216,7 +216,7 @@ class Scraper:
             json.dump(self.index, open(Paths.INDEX_JSON, 'w'), indent=4)
             json.dump(self.num_terms, open(Paths.NUM_TERMS_JSON, 'w'), indent=4)
             
-            if mod_openings_dict: self.openings_dict.dump_json()
+            self.openings_dict.dump_json()
         
         if print_debug: print(f"Scraper: Done scraping descriptions.\nNew index length = {len(self.index)}")
     

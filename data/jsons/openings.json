@@ -2814,7 +2814,9 @@
             "Nf3",
             "b6",
             "g3",
-            "Bb7"
+            "Bb7",
+            "Bg2",
+            "c5"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Indian_Game_Defense",
@@ -4011,7 +4013,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4035,7 +4039,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4059,7 +4065,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4083,7 +4091,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4107,7 +4117,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4131,7 +4143,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4155,7 +4169,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4179,7 +4195,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -4203,7 +4221,9 @@
             "c4",
             "g6",
             "g3",
-            "d5"
+            "d5",
+            "Bg2",
+            "Bg7"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Neo-Gruenfeld_Defense",
@@ -5757,6 +5777,8 @@
             "c4",
             "e5",
             "",
+            "",
+            "",
             ""
         ],
         "links": {
@@ -5781,7 +5803,9 @@
             "c4",
             "e5",
             "dxe5",
-            "d4"
+            "d4",
+            "Nf3",
+            "Nc6"
         ],
         "links": {
             "wikipedia": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Refused",
@@ -5804,6 +5828,8 @@
             "d5",
             "c4",
             "c5",
+            "",
+            "",
             "",
             ""
         ],
@@ -5828,6 +5854,8 @@
             "d5",
             "c4",
             "Nc6",
+            "",
+            "",
             "",
             ""
         ],

@@ -67,7 +67,7 @@ class OpeningLDA:
     dictionary:corpora.Dictionary   # Dictionary from the openings decriptions
     corpus:list[tuple]              # Corpus created by gensim.corpora
     
-    def __init__(self, num_topics:int=10, num_passes:int=15, autotrain=True):
+    def __init__(self, num_topics:int=10, num_passes:int=15, autotrain:bool=True, print_debug:bool=False):
         
         # Train LDA model if specified 
         if autotrain: 
@@ -78,12 +78,22 @@ class OpeningLDA:
             self.openings = json.load(open(Paths.OPENINGS_JSON, "r", encoding="utf-8"))
             self.num_terms = json.load(open(Paths.NUM_TERMS_JSON, "r", encoding="utf-8"))
             
+            if print_debug: print(f"Done loading data.\nlen(self.index) = {len(self.index)}\nlen(self.openings) = {len(self.openings)}\nlen(self.num_terms) = {len(self.num_terms)}")
+            
+            if print_debug: print("Calling OpeningLDA.__get_texts_dict__().")
             self.__get_texts_dict__()   # Load self.texts
+            
+            if print_debug: print("Done getting texts dict. Constructing dictionary and corpus.")
             self.dictionary = corpora.Dictionary(self.texts.values()) 
             self.corpus = [self.dictionary.doc2bow(text) for text in self.texts.values()]
             
+            if print_debug: print(f"Done getting dictionary & corpus.\nlen(self.dictionary) = {len(self.dictionary)}\nlen(self.corpus) = {len(self.corpus)}")
+            
             # Training 
+            if print_debug: print("Training LDA model.")
             self.__lda__()
+            
+            if print_debug: print("Done training model. Constructing topic-doc matrix.")
             self.__construct_topic_doc_matrix__()
         else: 
             # If not autotrain, then assume this is being used to create an OpeningLDA model from a pre-trained LDA model
@@ -129,11 +139,13 @@ class OpeningLDA:
         self.topic_doc_matrix:np.matrix = np.zeros((P,N))    # Create initial empty matrix (PxN)
         
         # Keep track of the ECOs in order so that we can track which matches each topic (DO NOT ALTER ORDER)
-        loeco:list[str] = list(self.openings.keys())  # loeco[i] := eco code for row i in top_doc_matrix
+        loeco:list[str] = list(self.texts.keys())  # loeco[i] := eco code for row i in top_doc_matrix
 
         # Iterate through loeco and perform LDA w/ the trained model on each text from self.texts 
         for i in range(0, len(loeco)): 
             this_eco:str = loeco[i]
+            
+            print(f"Processing \"{this_eco}\" ({i}/{len(loeco)})")
             
             # Skip if this eco is not in self.texts, since some descriptions may have failed to be scraped
             if not this_eco in self.texts: continue
@@ -204,7 +216,7 @@ class OpeningLDA:
         self.lda_model.save(directory + filename)                               # Use gensim to save the model
         corpora.MmCorpus.serialize(directory + filename + ".mm", self.corpus)   # Save the corpus
         json.dump(self.texts, open(directory + "texts.json", "w+"), indent=4)   # Save self.texts 
-        json.dump(self.topic_doc_matrix, open(directory + "matrix.json", "w+"), indent=4)   # Save self.topic_doc_matrix
+        json.dump(self.topic_doc_matrix.tolist(), open(directory + "matrix.json", "w+"), indent=4)   # Save self.topic_doc_matrix
         return 
         
     ''' load(filename) - load the model at the given filename in the directory Paths.MODELS_DIR 
