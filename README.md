@@ -61,25 +61,41 @@ To collect data from Wikipedia, we created wikipedia URLs for each opening we go
 
 - Exclude variations; i.e., truncate anything after a ":" or ","
 
-After constructing the wikipedia URL for each opening, we scraped the content of that page and added these descriptions to our index. Additionally, we saved the raw content for each so we could process them later (without having to scrape the pages again). 
-
-Wikipedia has variations on the format of particular pages, which becomes slightly problematic when trying to differentiate between an opening and its variations. Thus, we used the methods described in the [above section](#####2.-high-elo-openings-dataset) to account for this nuance. 
-
-### Data Aggregation & Analysis 
-
-
-#### Naming conventions and forming URLs: 
-
-Wikipedia has a standard for how the URLs for chess openings are constructed; in relation to how Chess.com's openings are named, i.e. to get a Wikipedia URL for a particular opening given the name from Chess.com, we follow the following rules: 
-
-
-
-#### Constructing URLs from the above results
-
 After standardizing the names, the format for Wikipedia URLs for pages about a specific opening is: 
 
     http://en.wikipedia.org/wiki/[opening_name]
 
     Ex. http://en.wikipedia.org/wiki/Sicilian_Defence
 
-Using these results, we can get the wikipedia pages for all the openings gathered from Chess.com (32 total), including their variations *(to be completed later).*
+After constructing the wikipedia URL for each opening, we scraped the content of that page and added these descriptions to our index. Additionally, we saved the raw content for each so we could process them later (without having to scrape the pages again). 
+
+Wikipedia has differences on the format of particular pages, which becomes slightly problematic when trying to differentiate between an opening and its variations. Thus, we used the methods described in the [above section](#####2.-high-elo-openings-dataset) to account for this nuance. 
+
+### Data Aggregation & Analysis 
+
+#### Storage, Aggregation & Standardization
+As we collected all the data from each source, we stored it in a standard format in the "[data/](data/)" directory. 
+
+##### Datasets (csv) 
+
+The datasets are stored in the "[data/csvs/](data/csvs/)" directory. 
+
+##### Index & related data
+
+To perform NLP analysis, we saved a variety of data in JSON format in the "[data/jsons/](data/jsons/)" directory. 
+
+- [index.json](data/jsons/index.json): an inverted index of the descriptions for each opening. For each term, we store the term and the frequency of that term for each opening ECO. 
+
+- [num_terms.json](data/jsons/num_terms.json): contains the sum of the number of terms in ALL descriptions for a particular opening. These values are used to calculate the relative term frequency at runtime when comparing queries to the index. 
+
+- [openings.json](data/jsons/openings.json): contains all of the chess openings in a single dictionary with [key : value] pairs -> [ECO : opening_as_dict]. The opening_as_dict is a standard format defined in the [Opening class in "classes/Opening.py](classes/Opening.py) file. Notably, the openings.json file matches the format as an OpeningDict object (custom class defined in "[classes/Openings.py](classes/Opening.py)).  
+
+##### Scraped Descriptions
+
+When scraping the descriptions for each opening, we saved the raw descriptions of each (ECO) in subdirectories of "[data/raw_descs/](data/raw_descs/) to perform further analysis. These descriptions are then used to train an LDA model, and are used to match a user's query to a particular opening using the trained model (and other factors).
+
+#### Classes and Objects
+
+
+
+#### Analysis & NLP methods
