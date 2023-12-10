@@ -4,9 +4,6 @@ abcdefgh8877665544332211abcdefghMoves1.d4ECOA40–A99 D00–D99 E00–E99Synonym
 The Queen's Pawn Game is any chess opening starting with the move 1.d4, which is the second-most popular opening move after 1.e4 (King's Pawn Game).
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 Terminology[edit]
 The term "Queen's Pawn Game" is usually used to describe openings beginning with 1.d4 where White does not play the Queen's Gambit. The most common Queen's Pawn Game openings are: 
 
@@ -83,40 +80,8 @@ Closed Game
 References[edit]
 
 
-
-The Wikibook Chess Opening Theory has a page on the topic of: Queen's Pawn Opening
-
-
-
-^ "Queen's Pawn Opening: Australian Defense - Chess Openings".
-
-
 Bibliography
 
-Watson, John (2006), Mastering the Chess Openings, vol 1, Gambit, ISBN 978-1-904600-60-2
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
-
-
-1.b3:  Nimzowitsch-Larsen
-
-
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
 
 
 vteChessOutline

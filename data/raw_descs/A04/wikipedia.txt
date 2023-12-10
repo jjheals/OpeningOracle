@@ -7,9 +7,6 @@ The Sokolsky Opening, also known as the Orangutan and the  Polish Opening, is an
 According to various databases, out of the twenty possible first moves from White, the move 1.b4 ranks ninth in popularity.[1] It is considered an irregular opening, so it is classified under the A00 code in the Encyclopaedia of Chess Openings.
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 Origins[edit]
 One of the earliest opening plays of b4 was by Bernhard Fleissig playing against Carl Schlechter in 1893, although Fleissig was handily defeated in just 18 moves.[2][3] Nikolai Bugaev defeated former world champion Wilhelm Steinitz with it in a simul exhibition game, and later published an analysis of the opening in 1903 in a Russian magazine article.  Savielly Tartakower defeated Richard Réti using b4 in a match in 1919 when both were top-level players,[4] and Reti himself defeated Abraham Speijer in Scheveningen 1923 using the opening.[5][6]
 The most famous use came in a game between Tartakower and Géza Maróczy at the New York 1924 chess tournament on March 21, 1924.[7]  The name "The Orangutan" originates from that game: the players visited the Bronx Zoo the previous day,[8] where Tartakower consulted an orangutan named Susan.  She somehow indicated, Tartakower insisted, that he should open with b4.  Also, Tartakower was impressed with the climbing skills of the orangutan, and thought that the "climb" of the b-pawn was similar.  In that particular game, Tartakower came out of the opening with a decent position, but the game was ultimately drawn.[9][6]
@@ -46,75 +43,17 @@ List of chess openings
 List of chess openings named after people
 References[edit]
 
-
-^ See for example ChessBase Archived 2009-02-28 at the Wayback Machine, 365chess opening explorer, and ChessGames.com opening explorer
-
-^ Copeland, Sam (August 20, 2022). "Schlechter Wins An Immortal vs. 1.b4 - Best of the pre-1900s - Fleissig vs. Schlechter, 1893". Chess.com.
-
-^ Lapshun & Conticello 2008, p. 5 Sources conflict on the date; some say the game was in 1895.
-
-^ Lapshun & Conticello 2008, pp. 12–13
-
-^ "Richard Reti vs Abraham Speijer". Chessgames.com. Retrieved September 23, 2023.
-
-^ a b c Danelishen, Gary; M.  "The Final Theory of Chess". Phillidore Press 2008 ISBN 978-0981567709.  pp. 15-16.
-
-^ "Savielly Tartakower vs Geza Maroczy". Chessgames.com. Retrieved 2008-01-20.
-
-^ Some sources indicate it was the Central Park Zoo instead.  Tartakower simply said the "New York Zoo" in his book, leaving the matter unclear. Sources indicating it was specifically the Central Park Zoo include Lapshun & Conticello 2008, p. 6 and Hansen 2021, History of the Orangutan Opening.
-
-^ Weinreb, Michael.  "Kings of New York".  Gotham Books. 2007
-
-^ a b Lapshun & Conticello 2008, pp. 14–15
-
-^ Alekhine, Alexander.  "New York 1924". Russell Enterprises, Inc. 2009 p. 64 ISBN 978-1888690484
-
-^ "Boris Spassky vs Vasily Smyslov". Chessgames.com. Retrieved September 23, 2023.
-
-^ "Magnus Carlsen wins "absolutely insane" FTX Crypto Cup final". Chess24. Retrieved 2021-06-01.
-
-^ Martin, Andrew (2004). "How To Meet The Polish & Grob". www.jeremysilman.com. Archived from the original on 2012-04-19.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
-
-
 Bibliography[edit]
-Dunnington, Angus (2000). Winning Unorthodox Openings. Everyman Chess. ISBN 978-1-85744-285-4.
-Hansen, Carsten (2021). Play the Orangutan 1.b4!. CarstenChess. ISBN 978-87-93812-64-2.
+
+
 Konikowski, Jerzy; Soszynski, Marek: The Sokolsky Opening 1.b4 in Theory & Practice. Russell Enterprises, Milford USA 2009, ISBN 978-1-888690-65-1
-Lapshun, Yury; Conticello, Nick (2008). Play 1b4!: Shock your opponents with the Sokolsky. Everyman Chess. ISBN 978-1-85744-560-2.
-Schiller, Eric (2002). Unorthodox Chess Openings (Second ed.). Cardoza Publishing. pp. 354–57. ISBN 1-58042-072-9.
+
+
 External links[edit]
-
-
-
-The Wikibook Chess Opening Theory has a page on the topic of: Sokolsky Opening
 
 1. b4 variations and games by Marek Trokenheim (Marek's 1.b4 Encyclopaedia)
 "The Chess Moves 1 b4 and 1...b5" by Edward Winter
 Sokolsky a web site dedicated to the Sokolsky opening
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
-
-
-1.b3:  Nimzowitsch-Larsen
-
-
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
-
 
 
 

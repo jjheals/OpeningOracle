@@ -12,9 +12,8 @@ The Encyclopaedia of Chess Openings code for Philidor Defence is C41.
 
 
 
-This article uses algebraic notation to describe chess moves.
-
-Use[edit]
+History[edit]
+In his 1561 book, Ruy Lopez, seeking to debunk Pedro Damiano, advocated 2...d6 as superior to 2...Nc6, on the grounds that 2...Nc6 allows the strong move 3.Bb5, now known as the Ruy Lopez or Spanish Opening. Philidor evidently concurred with this assessment, though he also considered 2.Nf3 inferior to 2.Bc4. Philidor advocated the risky continuation 3.d4 f5!? The Philidor Defence subsequently became a popular opening, though 2...Nc6 remained the most common reply.
 The Philidor occurred in one of the most famous games ever played, "The Opera Game" played in 1858 between the American chess master Paul Morphy and two strong amateurs, the German noble Duke Karl of Brunswick and the French aristocrat Count Isouard. The game continued 3.d4 Bg4, a deviation from modern standard lines. The Philidor Defence declined in popularity as positional play became more developed, and it had almost completely vanished from top-tier chess by World War I.
 As of 2017[update], there are no top players who employ the Philidor with regularity, although Étienne Bacrot and Liviu-Dieter Nisipeanu have occasionally experimented with it in classical play. Its popularity in master play has increased slightly, however, over the last 20 years. It has also become fairly popular in rapid, blitz, and bullet chess.[1]
 
@@ -79,126 +78,22 @@ List of chess openings
 List of chess openings named after people
 References[edit]
 
-
-^ "The Philidor". Chessgames.com.
-
-^ Hooper & Whyld 1996, p. 293. Paulsen Attack.
-
-^ Matanović 1997 (Vol C), p. 214, n. 19.
-
-^ "Mikhail Tal vs. Bent Larsen, Eersel NED (1969)". Chessgames.com.
-
-^ Kaufman 2004, p. 65.
-
-^ Hooper & Whyld 1996, p. 334. Rellstab Variation.
-
-^ Hooper & Whyld 1996, p. 378. Sokolsky Variation.
-
-^ a b Kaufman 2004, p. 69.
-
-^ Bauer 2006, p. 32.
-
-^ Bauer 2006, p. 16.
-
-^ Bauer 2006, pp. 17–22.
-
-^ Bauer 2006, p. 179.
-
-^ a b Kaufman 2004, p. 199.
-
-^ Bauer 2006, pp. 197–206.
-
-^ Bauer 2006, p. 174.
-
-^ Kaufman 2004, p. 22.
-
-^ Bauer 2006, pp. 22–32.
-
-^ Tony Kosten, Winning with the Philidor, Batsford Chess, 1992.
-
-^ Hooper & Whyld 1996, p. 460. Zukertort Variation.
-
-^ Matanović 1981 (Vol C), p. 196, n. 21.
-
-^ Matanović 1981 (Vol C), p. 197, n. 24.
-
-^ Matanović 1997 (Vol C), p. 214, n. 6.
-
-^ a b c d Korn 1982, p. 16, n. (p).
-
-^ Matanović 1997 (Vol C), p. 214, n. 3.
-
-^ Hooper & Whyld 1996, p. 185. Jaenisch Variation.
-
-^ a b Matanović 1981 (Vol C), p. 196, n. 14.
-
-^ a b c d Matanović 1997 (Vol C), p. 214, n. 2.
-
-^ Hooper & Whyld 1996, p. 104. del Rio Attack.
-
-^ Hooper & Whyld 1996, p. 36. Berger Variation.
-
-^ a b Matanović 1981 (Vol C), p. 196, n. 10.
-
-^ Matanović 1981 (Vol C), p. 196, n. 13.
-
-^ Matanović 1981 (Vol C), p. 196, n. 9.
-
-^ Matanović 1981 (Vol C), p. 196, n. 8.
-
-^ Hooper & Whyld 1996, p. 6. Albin Variation.
-
-^ a b Matanović 1981 (Vol C), p. 196, n. 7.
-
-^ Matanović 1997 (Vol C), p. 214, n. 1.
-
-^ Hooper & Whyld 1996, p. 234. López Countergambit.
-
-^ a b c Matanović 1981 (Vol C), p. 196, n. 2.
-
-^ François André Philidor, Analyse du jeu des Échecs, 1749.
-
-^ Hooper & Whyld 1996, p. 398. Steinitz Variation.
-
-^ Kasparov & Keene 1982, p. 294.
-
-
 Bibliography
 
-Bauer, Christian (2006). The Philidor Files. Everyman Chess. ISBN 1-85744-436-1.
-Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. The Oxford Companion to Chess (2nd ed.). Oxford University Press. ISBN 978-0-19-280049-7.
-Kasparov, Gary; Keene, Raymond (1982). Batsford Chess Openings. American Chess Promotions. ISBN 978-0-7134-2112-5.
-Kaufman, Larry (2004). The Chess Advantage in Black and White. McKay Chess Library. ISBN 0-8129-3571-3.
-Korn, Walter (1982). Modern Chess Openings (12th ed.). David McKay Company, Inc. ISBN 978-0-679-13500-5.
-Matanović, Aleksandar, ed. (1981). Encyclopaedia of Chess Openings. Vol. C (2nd ed.). Yugoslavia: Chess Informant.
-Matanović, Aleksandar, ed. (1997). Encyclopaedia of Chess Openings. Vol. C (3rd ed.). Yugoslavia: Chess Informant. ISBN 978-86-7297-035-7.
+
+
+
+
+
+
+
 Further reading[edit]
-Barsky, Vladimir (2010). The Modern Philidor Defence. Chess Stars. ISBN 978-954-8782-77-7.
+
 External links[edit]
-
-
-
-The Wikibook Chess Opening Theory has a page on the topic of: Philidor Defence
 
 Opening overview
 
-vteFrançois-André Danican PhilidorList of operasOpera
-Blaise le savetier (1759)
-Le maréchal ferrant (1761)
-Tom Jones (1765)
-Ernelinde (1767)
-Les femmes vengées (1775)
-Persée (1780)
-Thémistocle (1785)
-Chess
-Philidor Defence
-Philidor's mate
-Philidor position
-People
-Jean Danican Philidor (grandfather)
-André Danican Philidor (father)
-Anne Danican Philidor (brother)
- Category
+
 vteChessOutline
 Chess theory
 Chess titles
@@ -507,4 +402,4 @@ Category
 
 
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Philidor_Defence&oldid=1183177664"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Philidor_Defence&oldid=1188871384"

@@ -166,7 +166,20 @@ class Scraper:
                 try: 
                     match(div_attr_type): 
                         case 0: content = soup.find(class_=div_attr_name).text  # Looking for class
-                        case 1: content = soup.find(id=div_attr_name).text      # Looking for id
+                        case 1: 
+                            reflist_div = soup.find(class_='reflist')
+                            reflist_div.extract()
+                            
+                            sidebox_divs = soup.find_all(class_='side-box')
+                            for d in sidebox_divs: d.extract()
+                            
+                            navbox_div = soup.find(class_='navbox')
+                            navbox_div.extract()
+                            
+                            citation_divs = soup.find_all(class_='citation')
+                            for d in citation_divs: d.extract()
+                            
+                            content = soup.find(id=div_attr_name).text      # Looking for id
                     try: 
                         f.write(content)    # Write the content
                     except Exception as e: 

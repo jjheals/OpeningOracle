@@ -9,9 +9,6 @@ The Center Game is a chess opening that begins with the moves:
 The game usually continues 3.Qxd4 Nc6, developing with a gain of tempo for Black due to the attack on the white queen. (Note that 3.c3 is considered a separate opening: the Danish Gambit.)
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 General concepts[edit]
 
 abcdefgh8877665544332211abcdefgh Typical position (Paulsen's Attack variation) with White castled long and Qg3
@@ -37,26 +34,12 @@ The Halasz Gambit (3.f4?!) is another rare try. Although the move dates back to 
 
 References[edit]
 
-
-^ "Finding Nepo (On an old laptop) : Chess news by ChessVibes". Archived from the original on 2009-08-17. Retrieved 2009-08-15. Arne Moll, Finding Nepo (on an old laptop) (2009) at ChessVibes.com
-
-^ British Chess Magazine, August 1898, page 324, article title The BCM Guide to the Openings. The Centre Game, by Hobart
-
-^ Budzinski, Glenn (1998). "Anatomy of a Gambit: Dissecting the Halasz". ChessCafe. Retrieved 24 May 2016.
-
-
 Further reading[edit]
-Soszynski, Marek (2021). The Centre Game Re-examined. MarekMedia. ISBN 9781393536963.
+
 External links[edit]
-
-
-
-The Wikibook Chess Opening Theory has a page on the topic of: Center Game
 
 Tim Harding on the Halasz Gambit
 Tim Harding on the Center Game
-Authority control databases: National 
-Germany
 
 
 

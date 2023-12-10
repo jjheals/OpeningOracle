@@ -61,62 +61,18 @@ List of chess openings
 List of chess openings named after people
 References[edit]
 
-
-^ Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. "Larsen Opening". The Oxford Companion to Chess (2nd ed.). Oxford University Press. p. 216. ISBN 0-19-280049-3.
-
-^ "Bent Larsen vs. Boris Spassky, Belgrade 1970". Chessgames.com.
-
-^ Jacobs, B & Tait, J, 2001, Nimzo–Larsen Attack, Everyman Chess, pp. 7–8
-
-^ "Aron Nimzowitsch vs. Rudolf Spielmann, New York 1927". Chessgames.com.
-
-^ "Bent Larsen vs. Brian Eley, Hastings 1972/73". Chessgames.com.
-
-^ "Raymond Keene vs. Vladimir Kovacevic, Amsterdam 1973". Chessgames.com.
-
-^ "Baadur Jobava vs. Yangyi Yu, Wijk aan Zee 2014". Chessgames.com.
-
-
 Bibliography[edit]
-Adhiban, Baskaran (2021). Lifetime Repertoires: 1.b3. Chessable.com.
-Alkhatib, Ahmad (2019). Fight Like Nakamura, Play 1.b3!. Chessable.com.
-Dunnington, Angus (2000). Winning Unorthodox Openings. Everyman Chess. ISBN 978-1-85744-285-4.
-Jacobs, Byron; Tait, Jonathan (2001). Nimzo–Larsen Attack. Everyman Chess. ISBN 978-1-85744-286-1.
-Keene, Raymond (1977). Nimzowitsch/Larsen Attack. B.T. Batsford. ISBN 978-0713402445.
-Lakdawala, Cyrus (2013). The Nimzo–Larsen Attack: Move by Move. Everyman Chess. ISBN 978-1781941126.
-Odessky, Ilya (2008). Play 1.b3! The Nimzo-Larsen Attack. New In Chess. ISBN 978-9056912567.
-Odessky, Ilya (2020). Winning Quickly with 1.b3 and 1...b6. New In Chess. ISBN 978-9056918903.
+
+
+
+
+
+
+
+
 External links[edit]
 
-
-
-The Wikibook Chess Opening Theory has a page on the topic of: Larsen's Opening
-
 ECO A01: Nimzovich–Larsen Attack
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
-
-
-1.b3:  Nimzowitsch-Larsen
-
-
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
-
 
 vteChessOutline
 Chess theory

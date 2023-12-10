@@ -7,9 +7,6 @@ Anderssen's Opening is named after unofficial World Chess Champion Adolf Anderss
 Anderssen's Opening is not commonly played, and is an irregular opening. The move is classified under the A00 code in the Encyclopaedia of Chess Openings. Anderssen's Opening is also the very first opening enumerated in the Oxford Companion to Chess' index of 1327 openings, due to a systematic ordering which begins at White's left-hand queenside and proceeds to White's right-hand kingside.[4]
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 Themes[edit]
 Anderssen's Opening does little in the way of development or control of the center, and is rather more of a waiting move. However some players may enjoy the psychological value of such a move, or believe it will help them against an opponent with superior knowledge of opening theory. Usually used by chess players as a form of a joke, or to simply challenge themselves by playing such a move.
 Among the more common Black responses to Anderssen's Opening are:
@@ -59,73 +56,11 @@ List of chess openings
 List of chess openings named after people
 References[edit]
 
-
-^ a b "Anderssen vs. Morphy, Game 6, Paris 1858". chessgames.com.
-
-^ a b "Anderssen vs. Morphy, Game 8, Paris 1858". chessgames.com.
-
-^ a b "Anderssen vs. Morphy, Game 10, Paris 1858". chessgames.com.
-
-^ Hooper, David; Whyld, Kenneth (1992). The Oxford Companion to Chess (2nd ed.). Oxford University Press. pp. 16, 461–480. ISBN 9780198661641.
-
-^ a b c d Sergeant, Philip W. (1957). Morphy's Games of Chess. Dover. pp. 103–126. ISBN 0486203867.
-
-^ Sergeant, p. 114.
-
-^ "Anderssen vs. Paulsen, Leipzig 1877". chessgames.com.
-
-^ "Anderssen vs. Mackenzie, Paris 1878". chessgames.com.
-
-^ "Anderssen vs. Mason, Paris 1878". chessgames.com.
-
-^ "Steinitz vs. Blackburne, Vienna 1873". chessgames.com.
-
-^ "Blackburne vs. Lee, London 1904". chessgames.com.
-
-^ "Mieses v. Cohn, Ostend 1907". chessgames.com.
-
-^ Dr. Zvonko Krečak games at ChessGames.com
-
-^ Carlsen vs Ivanchuk, Nice 2010
-
-^ "Chess: GM Hikaru vs GM MagnusCarlsen". Chess.com. Retrieved 2023-01-10.
-
-^ Magnus finally Streams and Runs Into Hikaru in Titled Tuesday, retrieved 2023-01-10
-
-
 Bibliography
 
 
 
 
-The Wikibook Chess Opening Theory has a page on the topic of: Anderssen's Opening
-
-Dunnington, Angus (2000). Winning Unorthodox Openings. Everyman Chess. ISBN 978-1-85744-285-4.
-Schiller, Eric (2002). Unorthodox Chess Openings (Second ed.). Cardoza. p. 48. ISBN 1-58042-072-9.
-Benjamin, Joel; Schiller, Eric (1987). Unorthodox Openings. Macmillan Publishing Company. ISBN 0-02-016590-0.
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
-
-
-1.b3:  Nimzowitsch-Larsen
-
-
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
 
 
 vteChessOutline

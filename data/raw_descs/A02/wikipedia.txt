@@ -9,9 +9,6 @@ Named after 19th century English player Henry Bird, Bird's opening is a standard
 The Encyclopaedia of Chess Openings assigns two codes for Bird's Opening: A02 (1.f4) and A03 (1.f4 d5).
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 History[edit]
 The opening was mentioned by Luis Ramírez de Lucena in his book Repetición de Amores y Arte de Ajedrez con Cien Juegos de Partido, published c. 1497. In the mid-nineteenth century the opening was sometimes played by La Bourdonnais and Elijah Williams, among others. The British master Henry Edward Bird first played it in 1855 and continued to do so for the next 40 years.[1] In 1885, the Hereford Times named it after him.[2] In the first half of the 20th century Aron Nimzowitsch and Savielly Tartakower sometimes played 1.f4.[3] In more recent decades, grandmasters who have used the Bird's with any regularity include Bent Larsen, Andrew Soltis, Lars Karlsson,[4] Mikhail Gurevich, and Henrik Danielsen.[5]
 
@@ -50,78 +47,12 @@ List of chess openings
 List of chess openings named after people
 References[edit]
 
-
-^ "Having forgotten familiar openings, I commenced adopting KBP for first move, and finding it led to highly interesting games out of the usual groove, I became partial to it." — Henry Bird (1873, entering match play after a six year absence from chess); Hooper and Whyld (1987), p. 32.
-
-^ Hooper and Whyld (1992), p. 40.
-
-^ de Firmian (2008), p. 732.
-
-^ "The chess games of Lars Karlsson". Chessgames.com. Retrieved 2012-09-07.
-
-^ "The chess games of Henrik Danielsen". Chessgames.com. 2010-07-26. Retrieved 2012-09-07.
-
-^ Taylor (2005), p. 182.
-
-^ Taylor (2005), pp. 150–51.
-
-^ Taylor (2005), pp. 149–52.
-
-^ Taylor (2005), pp. 135–45.
-
-^ Palliser (2006), p. 124.
-
-^ Taylor (2005), pp. 202–03.
-
-^ Taylor (2005), p. 210.
-
-^ Taylor (2005), pp. 214–16.
-
-^ Edward Winter, 'The Swiss Gambit' (1998).
-
-^ a b c d "Opening Explorer". Chessgames.com. Retrieved 2009-02-06.
-
-^ Adorján (1998), p. 27.
-
-^ White's overall winning percentage is calculated by taking the percentage of games won by White and adding half of the percentage of drawn games, in this case 32.8 plus half of 25.3.
-
-^ a b "Chess Opening Explorer". 365Chess.com. Retrieved 2022-10-09.
-
-
 Bibliography[edit]
 
 
 
-The Wikibook Chess Opening Theory has a page on the topic of: Bird's Opening
-
-Adorján, András (1998). Black is O.K. in Rare Openings. CAISSA Ltd.
-de Firmian, Nick (2008). Modern Chess Openings (15th ed.). Random House Puzzles & Games. ISBN 978-0-8129-3682-7.
-Hooper, David; Whyld, Kenneth (1992). The Oxford Companion to Chess. Oxford University Press. ISBN 0-19-866164-9.
-Palliser, Richard (2006). Beating Unusual Chess Openings. Gloucester Publishers. ISBN 978-1-85744-429-2.
-Taylor, Timothy (2005). Bird's Opening: Detailed Coverage of an Underrated and Dynamic Choice for White. Gloucester Publishers. ISBN 1-85744-402-7.
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
 
 
-1.b3:  Nimzowitsch-Larsen
-
-
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
 
 
 vteChessOutline

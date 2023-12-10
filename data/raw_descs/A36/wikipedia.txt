@@ -11,9 +11,6 @@ History of the opening[edit]
 The English derives its name from the leading 19th century English master Howard Staunton, who played it during his 1843 match with Saint-Amant and at London 1851, the first international tournament.[5] It did not inspire Staunton's contemporaries and caught on only in the twentieth century.[5] It is now recognised as a solid opening that may be used to reach both classical and hypermodern chess positions. Mikhail Botvinnik, Tigran Petrosian, Anatoly Karpov, Garry Kasparov, Magnus Carlsen, and Ding Liren have employed it during their world championship matches. Bobby Fischer created a stir when he switched to it from his customary 1.e4 late in his career, employing it against Lev Polugaevsky and Oscar Panno at the Palma de Mallorca Interzonal in 1970, and in his world championship match against Boris Spassky.
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 Taxonomy[edit]
 Opening theoreticians who write on the English Opening divide it into three broad categories, generally determined by Black's choice of defensive setup.
 
@@ -108,84 +105,15 @@ List of chess openings
 List of chess openings named after places
 References[edit]
 
-
-^ a b Meyer-Kahlen, Stefan. "Shredder opening database statistics". Retrieved 2008-01-19.
-
-^ "Chess Opening Explorer". Chessgames.com. Retrieved 2008-01-19.
-
-^ "Chess Openings Database statistics". Archived from the original on 2010-07-26. Retrieved 2009-08-17.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
-
-^ Chess Life. Vol. 59 (1–7 ed.). United States Chess Federation. 2004. p. 303.
-
-^ a b de Firmian, Nick (2008). Modern Chess Openings: MCO-15. New York: David McKay Co. p. 675. ISBN 978-0-8129-3682-7.
-
-^ Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. "Symmetrical Defence". The Oxford Companion to Chess (2nd ed.). Oxford University Press. p. 404. ISBN 0-19-280049-3.
-
-^ Cummings, David (October 1, 2001). Symmetrical English. Everyman Chess. ISBN 978-1-85744-292-2.
-
-^ de Firmian, Nick (1999). Modern Chess Openings: MCO-14. New York: David McKay Co. pp. 661–65. ISBN 0-8129-3084-3.
-
-^ Weeks, Mark. "Chess Opening Tutorial : English – 1...e5". About, Inc. Archived from the original on December 3, 2007. Retrieved 2008-01-19.
-
-^ Kasparov, Gary; Keene, Raymond (1982). Batsford Chess Openings. B.T.Batsford Ltd. ISBN 0-7134-2114-2.
-
-^ "English Opening: Anglo-Scandinavian Defense - Chess Openings".
-
-^ ChessBase.com, Hugh Myers (1930–2008), opening theoretician (2008-12-25). Retrieved on 2008-12-25.
-
-^ a b c "The Impoliteness of Ice Age Openings" (PDF). Stefan Bücker. Archived from the original (PDF) on 2006-06-15. Retrieved 2021-10-26.
-
-^ Rick Kennedy, Review of A Chess Explorer. Retrieved on 2008-12-27.
-
-^ Watson remarks, "Note ... how White (by his shockingly committal first move) has forfeited his chance for [c3], the key move in several of the most effective defences to Grob's Attack". John L. Watson, English: Franco, Slav and Flank Defences, Batsford,
-1981, p. 103. ISBN 0-7134-2690-X. Watson considers 1...g5 "playable". Id.
-
-^ John Nunn, Graham Burgess, John Emms, and Joe Gallagher, Nunn's Chess Openings, Everyman Publishers, 1999, p. 19 n. 1. ISBN 1-85744-221-0.
-
-^ "A10: English, Jaenisch gambit - 1. c4 b5 - Chess Opening explorer". www.365chess.com. Retrieved 3 April 2018.
-
-^ Schiller, Eric (1998). "English Opening • Halbut Gambit". Unorthodox Chess Openings. Cardoza Publishing. pp. 135–36. ISBN 0-940685-73-6.
-
-^ Silman, Jeremy (2004). "The Dynamic English". Archived from the original on 2016-10-01. Retrieved 2008-01-19.
-
-
 Further reading[edit]
-Kallai, Gabor; Ribli, Zoltán (1993). Winning With the English. Henry Holt. ISBN 978-0-8050-2642-9.
-Kosten, Tony (1999). The Dynamic English. Gambit Publications. ISBN 978-1-901983-14-2.
-Hansen, Carsten (2001). The Symmetrical English. Gambit. ISBN 978-1-901983-40-1.
-Pritchett, Craig (2008). Play the English. Everyman Chess. ISBN 978-1-85744-545-9.
+
+
+
+
 External links[edit]
-
-
-
-The Wikibook Chess Opening Theory has a page on the topic of: English Opening
 
 Database Of English Opening Variations
 "The English Opening" by Edward Winter
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
-
-
-1.b3:  Nimzowitsch-Larsen
-
-
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
-
 
 vteChessOutline
 Chess theory

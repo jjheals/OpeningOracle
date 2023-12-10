@@ -14,9 +14,6 @@ To my mind there is quite a straightforward explanation. To profit from the init
 The earliest recorded notes on the Sicilian Defence date back to the late 16th century by the Italian chess players Giulio Polerio and Gioachino Greco.[5][6]
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 General concepts[edit]
 By advancing the c-pawn two squares, Black asserts control over the d4-square and begins the fight for the centre of the board. The move resembles 1…e5, the next most common response to 1.e4, in that respect. Unlike 1...e5, however, 1...c5 breaks the symmetry of the position, which strongly influences both players' future actions. White, having pushed a kingside pawn, tends to hold the initiative on that side of the board. However, 1...c5 does little for Black's development, unlike moves such as 1...e5, 1...g6, or 1...Nc6, which either develop a minor piece or prepare to do so. In many variations of the Sicilian, Black makes a number of further pawn moves in the opening (for example, ...d6, ...e6, ...a6, and ...b5). Consequently, White often obtains a substantial lead in development and dangerous attacking chances.
 Meanwhile, advancing a queenside pawn has given Black a spatial advantage there and provides a basis for future operations on that flank. Often, Black's c5-pawn is traded for White's d4-pawn in the early stages of the game, granting Black a central pawn majority. The pawn trade also opens the c-file for Black, who can place a rook or queen on that file to support the queenside counterplay. In many variations, White castles queenside to exploit attacking chances on the kingside at the cost of moving his king to the flank where Black has a spatial advantage.[citation needed]
@@ -313,84 +310,72 @@ List of chess openings
 List of chess openings named after places
 Notes[edit]
 
-
-^ Henry Bird, writing in 1883, summarized the fluctuations in the Sicilian's reputation thus:The Sicilian ... has probably undergone more vicissitudes in regard to its estimation and appreciation than any other form of defence. In 1851, when the Great Exhibition London Tournament was commenced, it was entirely out of favor, but its successful adoption on so many occasions by Anderssen, the first prize winner, entirely restored it to confidence. Its rejection by Morphy in 1857–8, and by Steinitz in 1862, caused it again to lapse in consideration as not being a perfectly valid and reliable defence. Its fortunes have ever since continued in an unsettled state. Staunton (three weeks before his death), ... pronounced it to be quite trustworthy, and on the same date Lowenthal expressed a similar opinion. Baron Kolisch ... concurs in these views.
-J.I. Minchin, ed. (1973). Games Played in the London International Chess Tournament 1883 (reprint ed.). British Chess Magazine. pp. 286–87. SBN 90084608-9.
-
-
-^ "Steinitz, throughout his life, had a certain dislike of the Sicilian. He never ceased to write that he preferred 1...e5 and the majority of players followed his example." Polugaevsky, Lev; Jeroen Piket; Christophe Guéneau (1995). Sicilian Love: Lev Polugaevsky Chess Tournament, Bueno Aires 1994. New in Chess. p. 65. ISBN 90-71689-99-9.
-
-^ Griffith, R.C.; J. H. White (1925). Modern Chess Openings. Leeds: Whitehead & Miller. p. 191. Twelve years earlier, in the second edition, the authors had written, "For many years, the Sicilian has enjoyed a fair, though fluctuating amount of favour for match play. While it is not analytically so sound as the French, it affords greater opportunity for counter attack and less chance of an early draw." Griffith, R.C.; J. H. White (1913). Modern Chess Openings. London: Longmans, Green and Co. p. 164.
-
-^ Fine, Reuben (1965). Great Moments in Modern Chess. New York: Dover Publications. ISBN 0-486-21449-4. (described as "an unabriged and unaltered republication" of McKay, David (1948). The World's a Chessboard. p. 212..
-
-
 References[edit]
 
 
-^ a b Rowson, Jonathan (2005). Chess for Zebras: Thinking Differently About Black and White. Gambit Publications. p. 243. ISBN 1-901983-85-4.
+^ a b 
 
-^ Sosonko, Gennady; Paul van der Sterren (2000). New In Chess Yearbook 55. Interchess BV. p. 227. ISBN 90-5691-069-8.
+^ 
 
-^ Watson, John (October 2006). Mastering the Chess Openings: Unlocking the Mysteries of the Modern Chess Openings, Volume 1. Gambit Publications. p. 175. ISBN 1-904600-60-3.
+^ 
 
-^ Nunn, John (February 2001). Understanding Chess Move by Move. Gambit Publications. p. 57. ISBN 1-901983-41-2.
+^ 
 
-^ De Firmian, Nick (2008). Modern Chess Openings: MCO-15. Random House Puzzles & Games. p. 244. ISBN 978-0-8129-3084-9.
+^ 
 
-^ Ristoja, Thomas; Aulikki Ristoja (1995). Perusteet. Shakki (in Finnish). WSOY. p. 63. ISBN 951-0-20505-2.
+^ 
 
-^ "Chess and Chess Players of the Renaissance". Archived from the original on 2008-01-23. Retrieved 2008-01-19.
+^ 
 
-^ Polugaevsky, Lev; Jeroen Piket; Christophe Guéneau (1995). Sicilian Love: Lev Polugaevsky Chess Tournament, Bueno Aires 1994. New in Chess. p. 50. ISBN 90-71689-99-9.
+^ 
 
-^ Philidor, François-André Danican (2005). Analysis of the Game of Chess (1777). Hardinge Simpole Ltd. pp. 200–01. ISBN 1-84382-161-3.
+^ 
 
-^ Polugaevsky, Lev; Jeroen Piket; Christophe Guéneau (1995). Sicilian Love: Lev Polugaevsky Chess Tournament, Bueno Aires 1994. New in Chess. p. 53. ISBN 90-71689-99-9.
+^ 
 
-^ Korn, Walter; John W. Collins (1957). Modern Chess Openings (9th ed.). Pitman. p. 113. ISBN 0-7134-8656-2.
+^ 
 
-^ Staunton, Howard (1848). The Chess-Player's Handbook (2nd ed.). Henry G. Bohn. p. 371. ISBN 1-84382-088-9. Modern players would consider the notion that the Sicilian "prevents every attack" naive.
+^  Modern players would consider the notion that the Sicilian "prevents every attack" naive.
 
-^ Shibut, Macon (2004). Paul Morphy and the Evolution of Chess Theory. Dover. p. 42. ISBN 0-486-43574-1.
+^ 
 
-^ J.I. Minchin, ed. (1973). Games Played in the London International Chess Tournament 1883 (reprint ed.). British Chess Magazine. pp. 286–87. SBN 90084608-9. Remarks of Henry Bird, quoted above.
+^  Remarks of Henry Bird, quoted above.
 
-^ Polugaevsky, Lev; Jeroen Piket; Christophe Gueneau (1995). Sicilian Love: Lev Polugaevsky Chess Tournament, Bueno Aires 1994. New in Chess. p. 64. ISBN 90-71689-99-9.
+^ 
 
-^ Gossip, G. H. D.; Lipschütz, S. (1902). The Chess-Player's Manual. David McKay. p. 799.
+^ 
 
-^ Freeborough, E.; Rev. C. E. Ranken (1889). Chess Openings: Ancient and Modern (1st ed.). Trübner and Co., Ltd. p. 239. ISBN 0-88254-179-X.
+^ 
 
-^ Freeborough, E.; Rev. C. E. Ranken (1896). Chess Openings: Ancient and Modern (3rd ed.). Kegan Paul, Trench, Trübner and Co., Ltd. p. 248. ISBN 0-88254-179-X.
+^ 
 
-^ "Capablanca on the Sicilian Defence". Archived from the original on 2008-05-09. Retrieved 2008-01-19.
+^ 
 
-^ Mason, James (1958) [originally published in 1894]. The Art of Chess. David McKay. pp. 461–62.
+^ 
 
-^ Tarrasch, Siegbert (1976). The Game of Chess. David McKay. p. 322. ISBN 0-679-14042-5.
+^ 
 
 ^ The Grand International Masters' Tournament at St. Petersburg 1914, David McKay, c. 1915, p. 75.
 
-^ Polugaevsky, Lev; Jeroen Piket; Christophe Gueneau (1995). Sicilian Love: Lev Polugaevsky Chess Tournament, Bueno Aires 1994. New in Chess. pp. 67–69. ISBN 90-71689-99-9.
+^ 
 
-^ Keene, R. (March 22, 1997). "Mafia connections". The Spectator. Archived from the original on 2005-05-17. Retrieved 2008-07-13.
+^ 
 
-^ "Capablanca plays the Sicilian". Archived from the original on 2016-03-03.
+^ 
 
-^ "Tarrasch plays the Sicilian". Archived from the original on 2016-03-03.
+^ 
 
-^ Alekhine, Alexander (1961). The Book of the New York International Chess Tournament 1924. New York: Dover Publications. p. 253. ISBN 0-486-20752-8.
+^ 
 
-^ Harding, T. "The Openings at New York 1924". Archived from the original on 2008-05-31. Retrieved 2008-07-13.
+^ 
 
-^ Korn, Walter; Nick DeFirmian (1990). Modern Chess Openings. David McKay. p. 243. ISBN 0-8129-1785-5.
+^ 
 
-^ Evans, Larry; Walter Korn (1965). Modern Chess Openings. Pitman. p. 182. ASIN B000HX7GR0.
+^ 
 
-^ Gufeld, Eduard (June 1998). Secrets of the Sicilian Dragon. Cardoza Publishing. ISBN 0-940685-92-2.
+^ 
 
-^ Chess Openings for Kids. pp. Mighty Opening 28 "Sveshnikov Sicilian".
+^ 
 
 ^ Atanas Kolev and Trajko Nedev, The Easiest Sicilian, Chess Stars (Bulgaria), 2008, pp. 203–05. ISBN 978-954-8782-66-1.
 
@@ -400,9 +385,9 @@ References[edit]
 
 ^ Kolev & Nedev, pp. 209–10.
 
-^ "Kalashnikov Variation". Archived from the original on 2016-03-03.
+^ 
 
-^ "FOXY OPENINGS - VOLUME 30 - Kopec Anti-Sicilian System". Archived from the original on 2016-01-06.
+^ 
 
 ^ Aron Nimzowitsch, My System (21st Century Edition), Hays Publishing, 1991, p. 250, ISBN 1-880673-85-1; Aron Nimzovich, My System, David McKay, 1947, p. 358, ISBN 0-679-14025-5.
 
@@ -416,7 +401,7 @@ References[edit]
 
 ^ Tal Gambit Declined Archived 2012-06-24 at the Wayback Machine jeremysilman.com
 
-^ Nigel Davies (1998). The Chess Player's Battle Manual (book). London: Batsford Books. p. 104. ISBN 978-0-7134-7043-7. Retrieved 7 December 2013.
+^ 
 
 ^ Alexander Raetsky, Meeting 1.e4, Everyman Chess, 2002, p. 134. ISBN 1-85744-219-9.
 
@@ -430,339 +415,32 @@ References[edit]
 
 ^ Joe Gallagher, Beating the Anti-Sicilians, Batsford/Henry Holt, 1994, pp. 78–79. ISBN 0-8050-3575-3.
 
-^ Rotella, Tony (2014). The Killer Sicilian. Everyman Chess. p. 431. ISBN 978-1-85744-665-4.
+^ 
 
-^ "Chess Database". chesstempo.com. Retrieved 3 May 2018.
+^ 
 
-^ Kavalek, Lubomir (26 September 2005). "Lubomir Kavalek - CHESS Lubomir Kavalek". Retrieved 3 May 2018 – via www.washingtonpost.com.
+^ 
 
-^ Snyder, Robert (1977). Snyder Sicilian: A Complete Opening System – 2. P-QN3 Versus the Sicilian. Ron's Postal Chess Club.
+^ 
 
 ^ Andy Soltis, The Great Chess Tournaments and Their Stories, Chilton Book Company, 1975, pp. 17–18. ISBN 0-8019-6138-6.
 
-^ Gallagher, Joe (1994). Beating the Anti-Sicilians. Henry Holt and Company. p. 81. ISBN 0-8050-3575-3.
+^ 
 
 
 Further reading[edit]
 
 
 
-The Wikibook Chess Opening Theory has a page on the topic of: Sicilian Defence
 
-de la Villa, Jesus (2009). Dismantling the Sicilian. New in Chess. ISBN 978-90-5691-294-9.
-Emms, John; Palliser, Richard (2006). Dangerous Weapons: The Sicilian. Everyman Chess. ISBN 978-1857444230.
-Emms, John (2009). Starting Out: The Sicilian. Everyman Chess. ISBN 978-1857445886.
-Ftacnik, Lubomir (2010). The Sicilian Defence. Quality Chess. ISBN 978-1-906552-08-4.
-Golubev, Mikhail (2000). The Sicilian Sozin. Gambit Publications. ISBN 978-1-901983-38-8.
-Hellsten, Johan (2008). Play the Sicilian Kan. Everyman Chess. ISBN 978-1-85744-581-7.
-Raetsky, Alexander; Chetverik, Maxim (2007). Classical Sicilian. Everyman Chess. ISBN 978-1-85744-537-4.
-Rogozenko, Dorian (2003). Anti-Sicilians A Guide for Black. Gambit Publications. ISBN 1-901983-84-6.
-Rogozenko, Dorian (2005). Sveshnikov Reloaded. Quality Chess. ISBN 91-97524-35-2.
-Taylor, Timothy (2012). Slay the Sicilian!. Everyman Chess. ISBN 978-1857446845.
-Yakovich, Yuri (2010). Sicilian Attacks. New In Chess. ISBN 978-90-5691-332-8.
-vteChessOutline
-Chess theory
-Chess titles
-Grandmaster
-Computer chess
-glossary
-matches
-engines
-software
-Correspondence chess
-FIDE
-Glossary
-Online chess
-Premove
-Internet chess server
-list
-Rating system
-world rankings
-norms
-Variants
-List
-World records
-Equipment
-Chess set
-chessboard
-Dubrovnik chess set
-Staunton chess set
-Chess pieces
-King
-Queen
-Rook
-Bishop
-Knight
-Pawn
-Fairy
-Chess clock
-Chess table
-Score sheets
-History
-Timeline
-Versus de scachis
-Göttingen manuscript
-Charlemagne chessmen
-Lewis chessmen
-Romantic chess
-Hypermodernism
-Soviet chess school
-Top player comparison
-Geography of chess
-Africa
-South Africa
-China
-Europe
-Armenia
-Spain
-India
-Notable games
-List of chess players
-amateurs
-female
-grandmasters
-Women in chess
-Chess museums
-Bobby Fischer Center
-Gökyay Association Chess Museum
-World Chess Hall of Fame
-Rules
-Castling
-Cheating in chess
-Check
-Checkmate
-Draw
-by agreement
-Fifty-move rule
-Perpetual check
-Stalemate
-Threefold repetition
-En passant
-Pawn promotion
-Time control
-Fast chess
-Touch-move rule
-White and Black
-Terms
-Blunder
-Chess notation
-algebraic
-descriptive
-PGN
-annotation symbols
-symbols in Unicode
-Fianchetto
-Gambit
-Key square
-King walk
-Open file
-Half-open file
-Outpost
-Pawns
-backward
-connected
-doubled
-isolated
-passed
-Swindle
-Tempo
-Transposition
-Trap
-Tactics
-Artificial castling
-Battery
-Alekhine's gun
-Block
-Checkmate patterns
-Combination
-Decoy
-Deflection
-Desperado
-Discovered attack
-Double check
-Fork
-Interference
-Overloading
-Pawn storm
-Pin
-Sacrifice
-Queen sacrifice
-Skewer
-Undermining
-Windmill
-X-ray
-Zwischenzug
-Strategy
-Compensation
-Exchange
-the exchange
-Initiative
-first-move advantage
-Middlegame
-Pawn structure
-Hedgehog
-Isolated Queen's Pawn
-Maróczy Bind
-Minority attack
-Piece values
-Prophylaxis
-School of chess
-OpeningsFlank opening
-Benko Opening
-Bird's Opening
-Dunst Opening
-English Opening
-Grob's Attack
-Larsen's Opening
-Zukertort Opening
-King's Indian Attack
-Réti Opening
-King's Pawn Game
-Alekhine's Defence
-Caro–Kann Defence
-French Defence
-Modern Defence
-Nimzowitsch Defence
-Open Game
-Four Knights Game
-Giuoco Piano
-Italian Game
-King's Gambit
-Petrov's Defence
-Philidor Defence
-Ponziani Opening
-Ruy Lopez
-Semi-Italian Opening
-Scotch Game
-Two Knights Defense
-Vienna Game
-Owen's Defence
-Pirc Defence
-Austrian Attack
-Scandinavian Defense
-Sicilian Defence
-Alapin
-Dragon/Accelerated Dragon
-Najdorf
-Scheveningen
-Queen's Pawn Game
-Budapest Gambit
-Colle System
-Dutch Defence
-English Defence
-Indian Defence
-Benoni Defence
-Modern Benoni
-Bogo-Indian Defence
-Catalan Opening
-Grünfeld Defence
-King's Indian Defence
-Nimzo-Indian Defence
-Old Indian Defense
-Queen's Indian Defence
-London System
-Richter–Veresov Attack
-Queen's Gambit
-Accepted
-Declined
-Slav Defence
-Semi-Slav Defence
-Chigorin Defense
-Torre Attack
-Trompowsky Attack
-Other
-List of openings
-theory table
-List of chess gambits
-Irregular
-Bongcloud Attack
-Fool's mate
-Scholar's mate
-Endgames
-Bishop and knight checkmate
-King and pawn vs king
-Opposite-coloured bishops
-Pawnless endgame
-Queen and pawn vs queen
-Queen vs pawn
-Rook and bishop vs rook
-Rook and pawn vs rook
-Lucena position
-Philidor position
-Strategy
-fortress
-opposition
-Tarrasch rule
-triangulation
-Zugzwang
-Study
-Tablebase
-Two knights endgame
-Wrong bishop
-Wrong rook pawn
-Tournaments
-List of strong chess tournaments
-Chess Olympiad
-Women
-World Chess Championship
-List
-Candidates Tournament
-Chess World Cup
-FIDE Grand Prix
-Other world championships
-Women
-Team
-Rapid
-Blitz
-Junior
-Youth
-Senior
-Amateur
-Chess composition
-Solving
-Computer chess championships
-CCC
-CSVN
-North American
-TCEC
-WCCC
-WCSCC
-Art and media
-Caïssa
-Chess aesthetics
-Chess in the arts
-early literature
-film
-novels
-paintings
-poetry
-short stories
-Chess books
-opening books
-endgame literature
-Oxford Companion
-Chess libraries
-Chess newspaper columns
-Chess periodicals
-Related
-Arbiter
-Chess boxing
-Chess club
-Chess composer
-Chess engine
-AlphaZero
-Deep Blue
-Leela Chess Zero
-Stockfish
-Chess problem
-glossary
-joke chess
-Chess prodigy
-Simultaneous exhibition
-Solving chess
 
- Chess portal
-Category
+
+
+
+
+
+
+
 
 Authority control databases International
 FAST

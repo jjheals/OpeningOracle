@@ -8,9 +8,6 @@ The King's Pawn Game is any chess opening starting with the move:
 It is the most popular opening move in chess,[1] followed by the Queen's Pawn Game.
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 Details about the move and the game plan[edit]
 White opens with the most popular of the twenty possible opening moves. Although effective in winning for White (54.25%), it is not quite as successful as the four next most common openings for White: 1.d4 (55.95%), 1.Nf3 (55.8%), 1.c4 (56.3%), and 1.g3 (55.8%).[2] Since nearly all openings beginning 1.e4 have names of their own, the term King's Pawn Game, unlike Queen's Pawn Game, is rarely used to describe the opening of the game.
 Advancing the king's pawn two squares is highly useful because it occupies a center square, attacks the center square d5, and allows the development of White's king's bishop and queen. Chess grandmaster Bobby Fischer said that the King's Pawn Game is "Best by test",[3] and proclaimed that "With 1.e4! I win."[4][page needed]
@@ -52,60 +49,10 @@ Open Game
 Semi-Open Game
 References[edit]
 
-
-^ Keene, Raymond; Levy, David (1993). How to Play the Opening in Chess. ISBN 978-0805029376.
-
-^ Chess Opening Explorer. Chessgames.com. Retrieved on 2013-09-27.
-
-^ Fischer, Bobby (1969). "45. Fischer–Bisguier, New York State Open 1963". My 60 Memorable Games. Simon and Schuster. p. 280. ISBN 978-0-671-21483-8.
-
-^ Seirawan, Yasser (2003). Winning Chess Brilliancies. Microsoft Press. ISBN 978-1857443479.
-
-^ "Karpov vs. Miles, European Team Championship, Skara 1980". Chessgames.com.
-
-^ Nick de Firmian, Modern Chess Openings, 15th edition, Random House, 2008, p. 384. ISBN 978-0-8129-3682-7.
-
-^ "Other defenses, such as 1...h5, are not considered as they are simply too bad and need no discussion." Modern Chess Openings, 15th edition, p. 384.
-
-^ a b Wall, Bill (April 30, 2006). "Unorthodox Openings". Archived from the original on 2009-08-03. Retrieved 2009-04-24.
-
-^ Philip W. Sergeant, Morphy's Games of Chess, Dover Publications, 1957, pp. 238–40. ISBN 0-486-20386-7
-
-^ "Paul Morphy vs. Thomas Wilson Barnes, casual game (1858), London". Chessgames.com.
-
-
 Bibliography[edit]
 
 
 
-The Wikibook Chess Opening Theory has a page on the topic of: King's Pawn Opening
-
-de Firmian, Nick (2008). Modern Chess Openings (15th ed.). McKay. ISBN 978-0-8129-3682-7.
-Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. The Oxford Companion to Chess (2nd ed.). Oxford University Press. ISBN 0-19-280049-3.
-Schiller, Eric (2002). Unorthodox Chess Openings (2nd ed.). Cardoza. ISBN 978-1-58042-072-3.
-vteWhite's twenty opening moves in chess1.a4:  Ware1.b4:  Sokolsky1.c4:  English1.d4:  Queen's Pawn1.e4:  King's Pawn1.f4:  Bird1.g4:  Grob1.h4:  Desprez
-1.Na3: Durkin  1.a3: Anderssen
-
-
-1.b3:  Nimzowitsch-Larsen
-
-
-1.Nc3: Dunst  1.c3: Saragossa
-
-
-1.d3:  Mieses
-
-
-1.e3:  Van 't Kruijs
-
-
-1.Nf3: Zukertort  1.f3: Barnes
-
-
-1.g3:  Benko
-
-
-1.Nh3: Amar  1.h3: Clemenz
 
 
 vteChessOutline

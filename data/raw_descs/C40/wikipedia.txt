@@ -8,9 +8,6 @@ The Elephant Gambit (also called the Queen's Pawn Countergambit or Englund Count
 The Elephant Gambit is generally considered unsound, with black typically unable to gain compensation for the sacrificed pawn.
 
 
-
-This article uses algebraic notation to describe chess moves.
-
 Lines[edit]
 White is able to capture either of Black's center pawns with the advantage, either by 3.exd5 or 3.Nxe5. With a center pawn removed, Black is in a passive position with White clearly having the initiative as White controls more space.
 
@@ -43,24 +40,14 @@ See also[edit]
 List of chess openings
 References[edit]
 
-
-^ "Mikhail Tal vs. Anatoly S. Lutikov, Tallinn (1964)". Chessgames.com.
-
-
 Bibliography
 
 Burgess, Graham. The Mammoth Book of Chess. London: Constable and Robinson, 2000.
-de Firmian, Nick (1999). Modern Chess Openings (14th ed.). New York: David McKay Company Inc. pp. 150–51.
-Hooper, David; Whyld, Kenneth (1996) [First pub. 1992]. "Queen's Pawn Counter-gambit". The Oxford Companion to Chess (2nd ed.). Oxford University Press. p. 329. ISBN 0-19-280049-3.
+
+
 External links[edit]
 
-
-
-The Wikibook Chess Opening Theory has a page on the topic of: Elephant Gambit
-
 The Kibitzer: "We're Going On An Elephant Hunt" by Tim Harding (August 1997) at ChessCafe.com
-Authority control databases: National 
-Germany
 
 
 
