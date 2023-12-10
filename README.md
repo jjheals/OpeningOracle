@@ -6,6 +6,34 @@ OpeningOracle is a solution for chess players to find statistically successful o
 
 The primary goal of OpeningOracle, and what sets it apart from other applications, is that users can arbitrarily describe their playstyle. There are current applications that provide opening recommendations based on pre-set parameters, like the user's self-reported skill level, some keywords to choose from, and/or a color to play with. At the time of writing, we did not come across any solutions that allow the user to arbitrarily define their own playstyle, and very few that operate independently of the user's reported playstyle. 
 
+## Prerequisites & Dependencies 
+
+The required packages can be found in the [requirements.txt](requirements.txt) file. Descriptions and purposes are listed below. 
+
+- transformers : required for the pipeline function call to create a GPT model to summarize the opening descriptions. 
+
+- gensim : required for the LdaModel in [OpeningLDA.py](data_analysis/OpeningLDA.py).
+
+- flask : used to create the flask backend framework and handle API calls.
+
+- flask_compress : required for compression of the flask app. 
+
+- bs4 : (BeautifulSoup4) used by [Scraper.py](scraper/Scraper.py) to parse the opening descriptions from the internet. 
+
+- nltk : required by the [Scraper.py](scraper/Scraper.py) to get the stopwords to remove when creating the index. 
+
+- requests : used by the [Scraper.py](scraper/Scraper.py) to get the opening descriptions from chess.com and Wikipedia.
+
+- pandas : required by [OpeningLDA.py](data_analysis/OpeningLDA.py) to parse the datasets in the [data folder](data/csvs/).
+
+- numpy : (dependency of pandas, may not need to be separately installed) used by [OpeningLDA.py](data_analysis/OpeningLDA.py). 
+
+- sklearn : used by [QueryHandler](classes/QueryHandler.py) to perform cosine similarity with the query and LDA model.
+
+- gevent : used to host the [flask app](flask_/main.py) for the API.
+
+- torch : required by transformers for the pretrained GPT model. 
+
 ## Data Sources 
 
 To collect data, we used the following sources: 

@@ -157,18 +157,6 @@ class Scraper:
                 
                 # Save the raw content
                 f = open(Paths.RAW_DESC_BASE + c + f"/{site}.txt", "w+", encoding="utf-8")
-                
-                '''
-                # NOTE: if wikipedia, get the move list from the infobox 
-                if site == "wikipedia": 
-                    move_list:str = soup.find(class_="infobox-data").text
-                    
-                    # Save this move list in self.openings_dict
-                    self.openings_dict.openings[c]['move-list'] = move_list
-                    
-                    # Set a flag so we know that we modified self.openings_dict
-                    mod_openings_dict = True
-                '''
                    
                 # Get the correct div that contains the content for this link
                 div_attr_type:int = Scraper.divs[site][0]   # Get the div attribute of interest (class==0 or id==1)

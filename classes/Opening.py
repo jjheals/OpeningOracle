@@ -78,7 +78,7 @@ class Opening:
             split_name:str = self.opening_name.split(',')
             self.opening_name = split_name[0].strip()
             self.is_variation = True
-            self.variation_name = ','.join(split_name[1:])
+            self.variation_name = ','.join(split_name[1:]).strip()
         else: 
             self.is_variation = False
             self.variation_name = ""

@@ -18,7 +18,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Balogh Variation",
+        "variation-name": "Balogh Variation",
         "success-rate": {
             "white": 0.304,
             "black": 0.32,
@@ -44,7 +44,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Brooklyn Variation",
+        "variation-name": "Brooklyn Variation",
         "success-rate": {
             "white": 0.342,
             "black": 0.346,
@@ -70,7 +70,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Modern Variation",
+        "variation-name": "Modern Variation",
         "success-rate": {
             "white": 0.295,
             "black": 0.36,
@@ -96,7 +96,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Modern Variation, Main Line",
+        "variation-name": "Modern Variation, Main Line",
         "success-rate": {
             "white": 0.277,
             "black": 0.354,
@@ -122,7 +122,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.346,
             "black": 0.343,
@@ -148,7 +148,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Central Storming Variation",
+        "variation-name": "Accepted, Central Storming Variation",
         "success-rate": {
             "white": 0.352,
             "black": 0.337,
@@ -174,7 +174,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Fianchetto Variation",
+        "variation-name": "Accepted, Fianchetto Variation",
         "success-rate": {
             "white": 0.312,
             "black": 0.321,
@@ -200,7 +200,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, King Walk Variation",
+        "variation-name": "Accepted, King Walk Variation",
         "success-rate": {
             "white": 0.302,
             "black": 0.337,
@@ -226,7 +226,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Benoni Gambit Accepted",
+        "variation-name": "Benoni Gambit Accepted",
         "success-rate": {
             "white": 0.352,
             "black": 0.333,
@@ -252,7 +252,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Argentine Counterattack",
+        "variation-name": "Classical Variation, Argentine Counterattack",
         "success-rate": {
             "white": 0.368,
             "black": 0.338,
@@ -278,7 +278,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Averbakh-Grivas Attack",
+        "variation-name": "Classical Variation, Averbakh-Grivas Attack",
         "success-rate": {
             "white": 0.265,
             "black": 0.345,
@@ -304,7 +304,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Czerniak Defense",
+        "variation-name": "Classical Variation, Czerniak Defense",
         "success-rate": {
             "white": 0.35,
             "black": 0.381,
@@ -330,7 +330,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Czerniak Defense",
+        "variation-name": "Classical Variation, Czerniak Defense",
         "success-rate": {
             "white": 0.341,
             "black": 0.363,
@@ -356,7 +356,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Czerniak Defense",
+        "variation-name": "Classical Variation, Czerniak Defense",
         "success-rate": {
             "white": 0.452,
             "black": 0.266,
@@ -382,7 +382,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Czerniak Defense, Tal Line",
+        "variation-name": "Classical Variation, Czerniak Defense, Tal Line",
         "success-rate": {
             "white": 0.428,
             "black": 0.313,
@@ -408,7 +408,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Full line",
+        "variation-name": "Classical Variation, Full line",
         "success-rate": {
             "white": 0.43,
             "black": 0.342,
@@ -434,7 +434,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, General",
+        "variation-name": "Classical Variation, General",
         "success-rate": {
             "white": 0.302,
             "black": 0.342,
@@ -460,7 +460,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Main line",
+        "variation-name": "Classical Variation, Main line",
         "success-rate": {
             "white": 0.321,
             "black": 0.334,
@@ -486,7 +486,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Traditional Variation",
+        "variation-name": "Classical Variation, Traditional Variation",
         "success-rate": {
             "white": 0.341,
             "black": 0.349,
@@ -512,7 +512,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Czech Benoni Defense",
+        "variation-name": "Czech Benoni Defense",
         "success-rate": {
             "white": 0.307,
             "black": 0.339,
@@ -538,7 +538,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation",
+        "variation-name": "Fianchetto Variation",
         "success-rate": {
             "white": 0.39,
             "black": 0.324,
@@ -564,7 +564,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Hastings Defense",
+        "variation-name": "Fianchetto Variation, Hastings Defense",
         "success-rate": {
             "white": 0.296,
             "black": 0.367,
@@ -590,7 +590,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Hastings Defense, Main Line",
+        "variation-name": "Fianchetto Variation, Hastings Defense, Main Line",
         "success-rate": {
             "white": 0.304,
             "black": 0.404,
@@ -616,7 +616,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Four Pawns Attack",
+        "variation-name": "Four Pawns Attack",
         "success-rate": {
             "white": 0.336,
             "black": 0.451,
@@ -642,7 +642,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Four Pawns Attack, Main Line",
+        "variation-name": "Four Pawns Attack, Main Line",
         "success-rate": {
             "white": 0.473,
             "black": 0.296,
@@ -668,7 +668,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King Pawn lines",
+        "variation-name": "King Pawn lines",
         "success-rate": {
             "white": 0.277,
             "black": 0.334,
@@ -694,7 +694,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Knight's Tour Variation",
+        "variation-name": "Knight's Tour Variation",
         "success-rate": {
             "white": 0.45,
             "black": 0.286,
@@ -720,7 +720,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Mikenas Variation",
+        "variation-name": "Mikenas Variation",
         "success-rate": {
             "white": 0.525,
             "black": 0.311,
@@ -746,7 +746,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Modern Variation",
+        "variation-name": "Modern Variation",
         "success-rate": {
             "white": 0.355,
             "black": 0.339,
@@ -772,7 +772,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Old Benoni, Pawn Thrust",
+        "variation-name": "Old Benoni, Pawn Thrust",
         "success-rate": {
             "white": 0.269,
             "black": 0.356,
@@ -798,7 +798,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Taimanov Variation",
+        "variation-name": "Taimanov Variation",
         "success-rate": {
             "white": 0.252,
             "black": 0.351,
@@ -824,7 +824,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dutch Variation",
+        "variation-name": "Dutch Variation",
         "success-rate": {
             "white": 0.326,
             "black": 0.302,
@@ -850,7 +850,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " From Gambit",
+        "variation-name": "From Gambit",
         "success-rate": {
             "white": 0.347,
             "black": 0.35,
@@ -876,7 +876,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Berlin Defense",
+        "variation-name": "Berlin Defense",
         "success-rate": {
             "white": 0.261,
             "black": 0.349,
@@ -902,7 +902,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Blanel Gambit",
+        "variation-name": "Blanel Gambit",
         "success-rate": {
             "white": 0.35,
             "black": 0.328,
@@ -928,7 +928,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Boden-Kieseritsky Gambit",
+        "variation-name": "Boden-Kieseritsky Gambit",
         "success-rate": {
             "white": 0.308,
             "black": 0.327,
@@ -954,7 +954,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Boi Variation",
+        "variation-name": "Boi Variation",
         "success-rate": {
             "white": 0.302,
             "black": 0.301,
@@ -980,7 +980,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Vienna Hybrid",
+        "variation-name": "Vienna Hybrid",
         "success-rate": {
             "white": 0.271,
             "black": 0.354,
@@ -1006,7 +1006,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Vienna Hybrid, Spielmann Attack",
+        "variation-name": "Vienna Hybrid, Spielmann Attack",
         "success-rate": {
             "white": 0.301,
             "black": 0.319,
@@ -1032,7 +1032,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Declined, Langeheinecke Defense",
+        "variation-name": "Declined, Langeheinecke Defense",
         "success-rate": {
             "white": 0.342,
             "black": 0.347,
@@ -1058,7 +1058,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted",
+        "variation-name": "Accepted",
         "success-rate": {
             "white": 0.307,
             "black": 0.335,
@@ -1084,7 +1084,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.34,
             "black": 0.314,
@@ -1110,7 +1110,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Adler Variation",
+        "variation-name": "Adler Variation",
         "success-rate": {
             "white": 0.253,
             "black": 0.363,
@@ -1136,7 +1136,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fajarowicz Variation",
+        "variation-name": "Fajarowicz Variation",
         "success-rate": {
             "white": 0.355,
             "black": 0.34,
@@ -1162,7 +1162,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Panov Attack",
+        "variation-name": "Accelerated Panov Attack",
         "success-rate": {
             "white": 0.358,
             "black": 0.322,
@@ -1188,7 +1188,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Advance Variation",
+        "variation-name": "Advance Variation",
         "success-rate": {
             "white": 0.359,
             "black": 0.327,
@@ -1214,7 +1214,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bronstein-Larsen Variation",
+        "variation-name": "Bronstein-Larsen Variation",
         "success-rate": {
             "white": 0.417,
             "black": 0.31,
@@ -1240,7 +1240,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.344,
             "black": 0.321,
@@ -1266,7 +1266,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Lobron System",
+        "variation-name": "Classical Variation, Lobron System",
         "success-rate": {
             "white": 0.331,
             "black": 0.367,
@@ -1292,7 +1292,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " De Bruycker Defense",
+        "variation-name": "De Bruycker Defense",
         "success-rate": {
             "white": 0.351,
             "black": 0.336,
@@ -1318,7 +1318,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Rubinstein Variation",
+        "variation-name": "Exchange Variation, Rubinstein Variation",
         "success-rate": {
             "white": 0.35,
             "black": 0.32,
@@ -1344,7 +1344,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Forgacs Variation",
+        "variation-name": "Forgacs Variation",
         "success-rate": {
             "white": 0.31,
             "black": 0.333,
@@ -1370,7 +1370,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Hillbilly Attack",
+        "variation-name": "Hillbilly Attack",
         "success-rate": {
             "white": 0.358,
             "black": 0.337,
@@ -1396,7 +1396,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Karpov Variation",
+        "variation-name": "Karpov Variation",
         "success-rate": {
             "white": 0.305,
             "black": 0.38,
@@ -1422,7 +1422,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Panov Attack",
+        "variation-name": "Panov Attack",
         "success-rate": {
             "white": 0.31,
             "black": 0.359,
@@ -1448,7 +1448,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Two Knights Attack, Mindeno Variation",
+        "variation-name": "Two Knights Attack, Mindeno Variation",
         "success-rate": {
             "white": 0.314,
             "black": 0.337,
@@ -1474,7 +1474,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation",
+        "variation-name": "Closed Variation",
         "success-rate": {
             "white": 0.293,
             "black": 0.408,
@@ -1500,7 +1500,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation",
+        "variation-name": "Closed Variation",
         "success-rate": {
             "white": 0.563,
             "black": 0.127,
@@ -1526,7 +1526,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation",
+        "variation-name": "Closed Variation",
         "success-rate": {
             "white": 0.495,
             "black": 0.193,
@@ -1552,7 +1552,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation",
+        "variation-name": "Closed Variation",
         "success-rate": {
             "white": 0.352,
             "black": 0.313,
@@ -1578,7 +1578,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation, Rabinovich Variation",
+        "variation-name": "Closed Variation, Rabinovich Variation",
         "success-rate": {
             "white": 0.46,
             "black": 0.195,
@@ -1604,7 +1604,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.32,
             "black": 0.33,
@@ -1630,7 +1630,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Open Defense",
+        "variation-name": "Open Defense",
         "success-rate": {
             "white": 0.275,
             "black": 0.275,
@@ -1656,7 +1656,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Open Defense",
+        "variation-name": "Open Defense",
         "success-rate": {
             "white": 0.4,
             "black": 0.225,
@@ -1682,7 +1682,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Open Defense, Classical Line",
+        "variation-name": "Open Defense, Classical Line",
         "success-rate": {
             "white": 0.479,
             "black": 0.157,
@@ -1708,7 +1708,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted",
+        "variation-name": "Accepted",
         "success-rate": {
             "white": 0.357,
             "black": 0.336,
@@ -1734,7 +1734,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Berger Variation",
+        "variation-name": "Berger Variation",
         "success-rate": {
             "white": 0.31,
             "black": 0.287,
@@ -1786,7 +1786,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.361,
             "black": 0.327,
@@ -1812,7 +1812,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alekhine Variation",
+        "variation-name": "Alekhine Variation",
         "success-rate": {
             "white": 0.274,
             "black": 0.39,
@@ -1838,7 +1838,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Blackburne Variation",
+        "variation-name": "Blackburne Variation",
         "success-rate": {
             "white": 0.286,
             "black": 0.371,
@@ -1864,7 +1864,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Blackmar's Second Gambit",
+        "variation-name": "Blackmar's Second Gambit",
         "success-rate": {
             "white": 0.359,
             "black": 0.333,
@@ -1890,7 +1890,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.302,
             "black": 0.329,
@@ -1916,7 +1916,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.436,
             "black": 0.25,
@@ -1942,7 +1942,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.275,
             "black": 0.38,
@@ -1968,7 +1968,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Buenos Aires Variation",
+        "variation-name": "Classical Variation, Buenos Aires Variation",
         "success-rate": {
             "white": 0.44,
             "black": 0.26,
@@ -1994,7 +1994,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Ilyin-Zhenevsky Variation, Alatortsev-Lisitsyn Line",
+        "variation-name": "Classical Variation, Ilyin-Zhenevsky Variation, Alatortsev-Lisitsyn Line",
         "success-rate": {
             "white": 0.42,
             "black": 0.277,
@@ -2020,7 +2020,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Ilyin-Zhenevsky Variation, General",
+        "variation-name": "Classical Variation, Ilyin-Zhenevsky Variation, General",
         "success-rate": {
             "white": 0.298,
             "black": 0.38,
@@ -2046,7 +2046,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line",
+        "variation-name": "Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line",
         "success-rate": {
             "white": 0.235,
             "black": 0.398,
@@ -2072,7 +2072,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Stonewall Variation",
+        "variation-name": "Classical Variation, Stonewall Variation",
         "success-rate": {
             "white": 0.444,
             "black": 0.255,
@@ -2098,7 +2098,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Stonewall Variation",
+        "variation-name": "Classical Variation, Stonewall Variation",
         "success-rate": {
             "white": 0.522,
             "black": 0.156,
@@ -2124,7 +2124,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Stonewall Variation, Botvinnik Variation",
+        "variation-name": "Classical Variation, Stonewall Variation, Botvinnik Variation",
         "success-rate": {
             "white": 0.393,
             "black": 0.256,
@@ -2150,7 +2150,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation",
+        "variation-name": "Fianchetto Variation",
         "success-rate": {
             "white": 0.398,
             "black": 0.308,
@@ -2176,7 +2176,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Leningrad Variation",
+        "variation-name": "Leningrad Variation",
         "success-rate": {
             "white": 0.304,
             "black": 0.358,
@@ -2202,7 +2202,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Leningrad Variation, Matulovic Variation",
+        "variation-name": "Leningrad Variation, Matulovic Variation",
         "success-rate": {
             "white": 0.305,
             "black": 0.34,
@@ -2228,7 +2228,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Leningrad Variation, Warsaw Variation",
+        "variation-name": "Leningrad Variation, Warsaw Variation",
         "success-rate": {
             "white": 0.358,
             "black": 0.304,
@@ -2254,7 +2254,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Queen's Knight Variation",
+        "variation-name": "Queen's Knight Variation",
         "success-rate": {
             "white": 0.31,
             "black": 0.312,
@@ -2280,7 +2280,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Staunton Gambit, Accepted",
+        "variation-name": "Staunton Gambit, Accepted",
         "success-rate": {
             "white": 0.378,
             "black": 0.323,
@@ -2306,7 +2306,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Staunton Gambit, Chigorin Variation",
+        "variation-name": "Staunton Gambit, Chigorin Variation",
         "success-rate": {
             "white": 0.282,
             "black": 0.347,
@@ -2332,7 +2332,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.238,
             "black": 0.348,
@@ -2358,7 +2358,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Adorjan Defense",
+        "variation-name": "Adorjan Defense",
         "success-rate": {
             "white": 0.352,
             "black": 0.328,
@@ -2384,7 +2384,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Agincourt Defense",
+        "variation-name": "Agincourt Defense",
         "success-rate": {
             "white": 0.301,
             "black": 0.369,
@@ -2410,7 +2410,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Agincourt Defense, Keres Defense",
+        "variation-name": "Agincourt Defense, Keres Defense",
         "success-rate": {
             "white": 0.308,
             "black": 0.385,
@@ -2436,7 +2436,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anglo-Indian Defense, Anglo-Gr\u00fcnfeld Variation",
+        "variation-name": "Anglo-Indian Defense, Anglo-Gr\u00fcnfeld Variation",
         "success-rate": {
             "white": 0.287,
             "black": 0.371,
@@ -2462,7 +2462,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anglo-Indian Defense, Anti-Anti-Gr\u00fcnfeld",
+        "variation-name": "Anglo-Indian Defense, Anti-Anti-Gr\u00fcnfeld",
         "success-rate": {
             "white": 0.295,
             "black": 0.377,
@@ -2488,7 +2488,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anglo-Indian Defense, Flohr-Mikenas-Carls Variation",
+        "variation-name": "Anglo-Indian Defense, Flohr-Mikenas-Carls Variation",
         "success-rate": {
             "white": 0.247,
             "black": 0.38,
@@ -2514,7 +2514,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anglo-Indian Defense, Flohr-Mikenas-Carls Variation",
+        "variation-name": "Anglo-Indian Defense, Flohr-Mikenas-Carls Variation",
         "success-rate": {
             "white": 0.391,
             "black": 0.278,
@@ -2540,7 +2540,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anglo-Indian Defense, King's Indian Formation",
+        "variation-name": "Anglo-Indian Defense, King's Indian Formation",
         "success-rate": {
             "white": 0.278,
             "black": 0.386,
@@ -2566,7 +2566,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anglo-Indian Defense, Romanishin Variation",
+        "variation-name": "Anglo-Indian Defense, Romanishin Variation",
         "success-rate": {
             "white": 0.328,
             "black": 0.352,
@@ -2592,7 +2592,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Drill Variation",
+        "variation-name": "Drill Variation",
         "success-rate": {
             "white": 0.342,
             "black": 0.336,
@@ -2618,7 +2618,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Bellon Gambit",
+        "variation-name": "King's English Variation, Bellon Gambit",
         "success-rate": {
             "white": 0.315,
             "black": 0.331,
@@ -2644,7 +2644,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Botvinnik System",
+        "variation-name": "King's English Variation, Botvinnik System",
         "success-rate": {
             "white": 0.316,
             "black": 0.332,
@@ -2670,7 +2670,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Bremen-Hort Variation",
+        "variation-name": "King's English Variation, Bremen-Hort Variation",
         "success-rate": {
             "white": 0.307,
             "black": 0.343,
@@ -2696,7 +2696,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Four Knights Variation",
+        "variation-name": "King's English Variation, Four Knights Variation",
         "success-rate": {
             "white": 0.322,
             "black": 0.35,
@@ -2722,7 +2722,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Four Knights Variation, Fianchetto Lines",
+        "variation-name": "King's English Variation, Four Knights Variation, Fianchetto Lines",
         "success-rate": {
             "white": 0.318,
             "black": 0.366,
@@ -2748,7 +2748,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, General Variation",
+        "variation-name": "King's English Variation, General Variation",
         "success-rate": {
             "white": 0.318,
             "black": 0.325,
@@ -2774,7 +2774,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Three Knights System, General",
+        "variation-name": "King's English Variation, Three Knights System, General",
         "success-rate": {
             "white": 0.302,
             "black": 0.339,
@@ -2800,7 +2800,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Two Knights' Variation, Fianchetto Lines",
+        "variation-name": "King's English Variation, Two Knights' Variation, Fianchetto Lines",
         "success-rate": {
             "white": 0.279,
             "black": 0.347,
@@ -2826,7 +2826,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " King's English Variation, Two Knights' Variation, Keres Variation",
+        "variation-name": "King's English Variation, Two Knights' Variation, Keres Variation",
         "success-rate": {
             "white": 0.318,
             "black": 0.326,
@@ -2852,7 +2852,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Anti-Benoni Variation",
+        "variation-name": "Symmetrical Variation, Anti-Benoni Variation",
         "success-rate": {
             "white": 0.315,
             "black": 0.33,
@@ -2878,7 +2878,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Anti-Benoni Variation, Geller Variation",
+        "variation-name": "Symmetrical Variation, Anti-Benoni Variation, Geller Variation",
         "success-rate": {
             "white": 0.337,
             "black": 0.369,
@@ -2904,7 +2904,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",
+        "variation-name": "Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",
         "success-rate": {
             "white": 0.296,
             "black": 0.322,
@@ -2930,7 +2930,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Botvinnik System Reversed",
+        "variation-name": "Symmetrical Variation, Botvinnik System Reversed",
         "success-rate": {
             "white": 0.327,
             "black": 0.342,
@@ -2956,7 +2956,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Botvinnik System Reversed",
+        "variation-name": "Symmetrical Variation, Botvinnik System Reversed",
         "success-rate": {
             "white": 0.29,
             "black": 0.325,
@@ -2982,7 +2982,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Duchamp Variation",
+        "variation-name": "Symmetrical Variation, Duchamp Variation",
         "success-rate": {
             "white": 0.326,
             "black": 0.386,
@@ -3008,7 +3008,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Fianchetto Variation",
+        "variation-name": "Symmetrical Variation, Fianchetto Variation",
         "success-rate": {
             "white": 0.315,
             "black": 0.348,
@@ -3034,7 +3034,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Four Knights Variation",
+        "variation-name": "Symmetrical Variation, Four Knights Variation",
         "success-rate": {
             "white": 0.286,
             "black": 0.381,
@@ -3060,7 +3060,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, General",
+        "variation-name": "Symmetrical Variation, General",
         "success-rate": {
             "white": 0.347,
             "black": 0.307,
@@ -3086,7 +3086,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Symmetrical Variation, Mecking Variation",
+        "variation-name": "Symmetrical Variation, Mecking Variation",
         "success-rate": {
             "white": 0.291,
             "black": 0.407,
@@ -3112,7 +3112,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Double Spanish",
+        "variation-name": "Double Spanish",
         "success-rate": {
             "white": 0.337,
             "black": 0.369,
@@ -3138,7 +3138,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.311,
             "black": 0.327,
@@ -3164,7 +3164,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Italian Variation",
+        "variation-name": "Italian Variation",
         "success-rate": {
             "white": 0.353,
             "black": 0.334,
@@ -3190,7 +3190,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Italian Variation, Noa Gambit",
+        "variation-name": "Italian Variation, Noa Gambit",
         "success-rate": {
             "white": 0.332,
             "black": 0.336,
@@ -3216,7 +3216,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Ranken Variation",
+        "variation-name": "Ranken Variation",
         "success-rate": {
             "white": 0.314,
             "black": 0.371,
@@ -3242,7 +3242,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Advance Variation",
+        "variation-name": "Advance Variation",
         "success-rate": {
             "white": 0.346,
             "black": 0.348,
@@ -3268,7 +3268,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alapin Gambit",
+        "variation-name": "Alapin Gambit",
         "success-rate": {
             "white": 0.352,
             "black": 0.339,
@@ -3294,7 +3294,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alekhine-Chatard Attack",
+        "variation-name": "Alekhine-Chatard Attack",
         "success-rate": {
             "white": 0.272,
             "black": 0.341,
@@ -3320,7 +3320,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Alapin Variation",
+        "variation-name": "Classical Variation, Alapin Variation",
         "success-rate": {
             "white": 0.274,
             "black": 0.348,
@@ -3346,7 +3346,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Burn Variation",
+        "variation-name": "Classical Variation, Burn Variation",
         "success-rate": {
             "white": 0.345,
             "black": 0.325,
@@ -3372,7 +3372,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.349,
             "black": 0.324,
@@ -3398,7 +3398,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " MacCutcheon Variation",
+        "variation-name": "MacCutcheon Variation",
         "success-rate": {
             "white": 0.309,
             "black": 0.333,
@@ -3424,7 +3424,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation",
+        "variation-name": "Normal Variation",
         "success-rate": {
             "white": 0.364,
             "black": 0.303,
@@ -3450,7 +3450,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tarrasch Variation",
+        "variation-name": "Tarrasch Variation",
         "success-rate": {
             "white": 0.35,
             "black": 0.32,
@@ -3476,7 +3476,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tarrasch Variation, Botvinnik Variation",
+        "variation-name": "Tarrasch Variation, Botvinnik Variation",
         "success-rate": {
             "white": 0.27,
             "black": 0.36,
@@ -3502,7 +3502,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tarrasch Variation, Chistyakov Defense",
+        "variation-name": "Tarrasch Variation, Chistyakov Defense",
         "success-rate": {
             "white": 0.326,
             "black": 0.36,
@@ -3528,7 +3528,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tarrasch Variation, Closed Variation, Main Line",
+        "variation-name": "Tarrasch Variation, Closed Variation, Main Line",
         "success-rate": {
             "white": 0.28,
             "black": 0.368,
@@ -3554,7 +3554,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tarrasch Variation, Guimard Defense, Main Line",
+        "variation-name": "Tarrasch Variation, Guimard Defense, Main Line",
         "success-rate": {
             "white": 0.289,
             "black": 0.351,
@@ -3580,7 +3580,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tarrasch Variation, Open System, Advance Line",
+        "variation-name": "Tarrasch Variation, Open System, Advance Line",
         "success-rate": {
             "white": 0.351,
             "black": 0.343,
@@ -3606,7 +3606,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tarrasch Variation, Open System, Main Line",
+        "variation-name": "Tarrasch Variation, Open System, Main Line",
         "success-rate": {
             "white": 0.314,
             "black": 0.414,
@@ -3632,7 +3632,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Winawer Variation",
+        "variation-name": "Winawer Variation",
         "success-rate": {
             "white": 0.352,
             "black": 0.33,
@@ -3658,7 +3658,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Winawer Variation, Advance Variation",
+        "variation-name": "Winawer Variation, Advance Variation",
         "success-rate": {
             "white": 0.28,
             "black": 0.358,
@@ -3684,7 +3684,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Winawer Variation, Advance Variation",
+        "variation-name": "Winawer Variation, Advance Variation",
         "success-rate": {
             "white": 0.284,
             "black": 0.349,
@@ -3710,7 +3710,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Winawer Variation, Advance Variation",
+        "variation-name": "Winawer Variation, Advance Variation",
         "success-rate": {
             "white": 0.402,
             "black": 0.302,
@@ -3736,7 +3736,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Winawer Variation, Advance Variation, General",
+        "variation-name": "Winawer Variation, Advance Variation, General",
         "success-rate": {
             "white": 0.289,
             "black": 0.353,
@@ -3762,7 +3762,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Botvinnik Variation",
+        "variation-name": "Botvinnik Variation",
         "success-rate": {
             "white": 0.328,
             "black": 0.361,
@@ -3788,7 +3788,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Brinckmann Attack",
+        "variation-name": "Brinckmann Attack",
         "success-rate": {
             "white": 0.337,
             "black": 0.314,
@@ -3814,7 +3814,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Brinckmann Attack, Gr\u00fcnfeld Gambit",
+        "variation-name": "Brinckmann Attack, Gr\u00fcnfeld Gambit",
         "success-rate": {
             "white": 0.373,
             "black": 0.27,
@@ -3840,7 +3840,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Brinckmann Attack, Gr\u00fcnfeld Gambit, Accepted",
+        "variation-name": "Brinckmann Attack, Gr\u00fcnfeld Gambit, Accepted",
         "success-rate": {
             "white": 0.315,
             "black": 0.251,
@@ -3866,7 +3866,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.35,
             "black": 0.315,
@@ -3892,7 +3892,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Classical Variation",
+        "variation-name": "Exchange Variation, Classical Variation",
         "success-rate": {
             "white": 0.333,
             "black": 0.341,
@@ -3918,7 +3918,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Seville Variation",
+        "variation-name": "Exchange Variation, Seville Variation",
         "success-rate": {
             "white": 0.332,
             "black": 0.356,
@@ -3944,7 +3944,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Sokolsky Variation",
+        "variation-name": "Exchange Variation, Sokolsky Variation",
         "success-rate": {
             "white": 0.366,
             "black": 0.29,
@@ -3970,7 +3970,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Spassky Variation",
+        "variation-name": "Exchange Variation, Spassky Variation",
         "success-rate": {
             "white": 0.4,
             "black": 0.259,
@@ -3996,7 +3996,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Flohr Defense",
+        "variation-name": "Flohr Defense",
         "success-rate": {
             "white": 0.349,
             "black": 0.344,
@@ -4022,7 +4022,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Flohr Variation",
+        "variation-name": "Flohr Variation",
         "success-rate": {
             "white": 0.346,
             "black": 0.319,
@@ -4048,7 +4048,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.35,
             "black": 0.322,
@@ -4074,7 +4074,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Lutikov Variation",
+        "variation-name": "Lutikov Variation",
         "success-rate": {
             "white": 0.26,
             "black": 0.358,
@@ -4100,7 +4100,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Russian Variation",
+        "variation-name": "Russian Variation",
         "success-rate": {
             "white": 0.458,
             "black": 0.254,
@@ -4126,7 +4126,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Russian Variation, Accelerated Variation",
+        "variation-name": "Russian Variation, Accelerated Variation",
         "success-rate": {
             "white": 0.292,
             "black": 0.379,
@@ -4152,7 +4152,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Russian Variation, Byrne (Simagin) Variation",
+        "variation-name": "Russian Variation, Byrne (Simagin) Variation",
         "success-rate": {
             "white": 0.395,
             "black": 0.266,
@@ -4178,7 +4178,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Russian Variation, Smyslov Variation",
+        "variation-name": "Russian Variation, Smyslov Variation",
         "success-rate": {
             "white": 0.338,
             "black": 0.277,
@@ -4204,7 +4204,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Russian Variation, Smyslov Variation",
+        "variation-name": "Russian Variation, Smyslov Variation",
         "success-rate": {
             "white": 0.432,
             "black": 0.21,
@@ -4230,7 +4230,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Three Knights Variation, Hungarian Attack",
+        "variation-name": "Three Knights Variation, Hungarian Attack",
         "success-rate": {
             "white": 0.316,
             "black": 0.363,
@@ -4256,7 +4256,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Three Knights Variation, Hungarian Variation",
+        "variation-name": "Three Knights Variation, Hungarian Variation",
         "success-rate": {
             "white": 0.335,
             "black": 0.342,
@@ -4282,7 +4282,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Three Knights Variation, Petrosian System",
+        "variation-name": "Three Knights Variation, Petrosian System",
         "success-rate": {
             "white": 0.333,
             "black": 0.348,
@@ -4308,7 +4308,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Pseudo-Queen's Indian, Marienbad System",
+        "variation-name": "Pseudo-Queen's Indian, Marienbad System",
         "success-rate": {
             "white": 0.356,
             "black": 0.317,
@@ -4334,7 +4334,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anti-Gr\u00fcnfeld, Advance Variation",
+        "variation-name": "Anti-Gr\u00fcnfeld, Advance Variation",
         "success-rate": {
             "white": 0.346,
             "black": 0.324,
@@ -4360,7 +4360,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Colle System, King's Indian Variation",
+        "variation-name": "Colle System, King's Indian Variation",
         "success-rate": {
             "white": 0.353,
             "black": 0.303,
@@ -4386,7 +4386,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Czech-Indian",
+        "variation-name": "Czech-Indian",
         "success-rate": {
             "white": 0.317,
             "black": 0.338,
@@ -4412,7 +4412,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.348,
             "black": 0.339,
@@ -4438,7 +4438,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Kingside Fianchetto",
+        "variation-name": "Kingside Fianchetto",
         "success-rate": {
             "white": 0.346,
             "black": 0.329,
@@ -4464,7 +4464,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation",
+        "variation-name": "Normal Variation",
         "success-rate": {
             "white": 0.308,
             "black": 0.337,
@@ -4490,7 +4490,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Przepiorka Variation",
+        "variation-name": "Przepiorka Variation",
         "success-rate": {
             "white": 0.314,
             "black": 0.349,
@@ -4516,7 +4516,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anti-Fried Liver Defense",
+        "variation-name": "Anti-Fried Liver Defense",
         "success-rate": {
             "white": 0.356,
             "black": 0.338,
@@ -4542,7 +4542,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bird's Attack",
+        "variation-name": "Bird's Attack",
         "success-rate": {
             "white": 0.274,
             "black": 0.345,
@@ -4568,7 +4568,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Greco Gambit, Anderssen Variation",
+        "variation-name": "Classical Variation, Greco Gambit, Anderssen Variation",
         "success-rate": {
             "white": 0.31,
             "black": 0.309,
@@ -4594,7 +4594,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Evans Gambit, Anderssen Variation",
+        "variation-name": "Evans Gambit, Anderssen Variation",
         "success-rate": {
             "white": 0.371,
             "black": 0.336,
@@ -4620,7 +4620,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Evans Gambit, Main Line",
+        "variation-name": "Evans Gambit, Main Line",
         "success-rate": {
             "white": 0.305,
             "black": 0.302,
@@ -4646,7 +4646,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Scotch Gambit, Anderssen Attack",
+        "variation-name": "Scotch Gambit, Anderssen Attack",
         "success-rate": {
             "white": 0.37,
             "black": 0.319,
@@ -4672,7 +4672,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Two Knights Defense, Fried Liver Attack",
+        "variation-name": "Two Knights Defense, Fried Liver Attack",
         "success-rate": {
             "white": 0.273,
             "black": 0.314,
@@ -4698,7 +4698,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Two Knights Defense, Polerio Defense, Bishop Check line",
+        "variation-name": "Two Knights Defense, Polerio Defense, Bishop Check line",
         "success-rate": {
             "white": 0.291,
             "black": 0.308,
@@ -4724,7 +4724,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Two Knights Defense, Polerio Defense, Suhle Defense",
+        "variation-name": "Two Knights Defense, Polerio Defense, Suhle Defense",
         "success-rate": {
             "white": 0.307,
             "black": 0.307,
@@ -4750,7 +4750,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tayler Opening",
+        "variation-name": "Tayler Opening",
         "success-rate": {
             "white": 0.285,
             "black": 0.328,
@@ -4776,7 +4776,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Abbazia Defense",
+        "variation-name": "Accepted, Abbazia Defense",
         "success-rate": {
             "white": 0.359,
             "black": 0.339,
@@ -4802,7 +4802,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Becker Defense",
+        "variation-name": "Accepted, Becker Defense",
         "success-rate": {
             "white": 0.269,
             "black": 0.317,
@@ -4828,7 +4828,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Bishop's Gambit",
+        "variation-name": "Accepted, Bishop's Gambit",
         "success-rate": {
             "white": 0.345,
             "black": 0.347,
@@ -4854,7 +4854,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Cunningham Defense",
+        "variation-name": "Accepted, Cunningham Defense",
         "success-rate": {
             "white": 0.297,
             "black": 0.318,
@@ -4880,7 +4880,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Greco Gambit",
+        "variation-name": "Accepted, Greco Gambit",
         "success-rate": {
             "white": 0.339,
             "black": 0.223,
@@ -4906,7 +4906,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accepted, Kieseritsky Gambit, Kolisch Defense",
+        "variation-name": "Accepted, Kieseritsky Gambit, Kolisch Defense",
         "success-rate": {
             "white": 0.344,
             "black": 0.291,
@@ -4932,7 +4932,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Declined, Classical Variation",
+        "variation-name": "Declined, Classical Variation",
         "success-rate": {
             "white": 0.372,
             "black": 0.328,
@@ -4958,7 +4958,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Falkbeer Countergambit, Charousek Gambit",
+        "variation-name": "Falkbeer Countergambit, Charousek Gambit",
         "success-rate": {
             "white": 0.357,
             "black": 0.338,
@@ -4984,7 +4984,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Falkbeer Countergambit, Charousek Gambit, Accepted",
+        "variation-name": "Falkbeer Countergambit, Charousek Gambit, Accepted",
         "success-rate": {
             "white": 0.244,
             "black": 0.35,
@@ -5010,7 +5010,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Double Fianchetto",
+        "variation-name": "Double Fianchetto",
         "success-rate": {
             "white": 0.333,
             "black": 0.35,
@@ -5036,7 +5036,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Sicilian Variation",
+        "variation-name": "Sicilian Variation",
         "success-rate": {
             "white": 0.275,
             "black": 0.359,
@@ -5062,7 +5062,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Smyslov Variation",
+        "variation-name": "Smyslov Variation",
         "success-rate": {
             "white": 0.32,
             "black": 0.353,
@@ -5088,7 +5088,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Averbakh Variation",
+        "variation-name": "Accelerated Averbakh Variation",
         "success-rate": {
             "white": 0.287,
             "black": 0.34,
@@ -5114,7 +5114,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Averbakh Variation, 6\u0085Nc6 Defense",
+        "variation-name": "Averbakh Variation, 6\u0085Nc6 Defense",
         "success-rate": {
             "white": 0.359,
             "black": 0.321,
@@ -5140,7 +5140,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Averbakh Variation, Benoni Defense, Advance Variation",
+        "variation-name": "Averbakh Variation, Benoni Defense, Advance Variation",
         "success-rate": {
             "white": 0.436,
             "black": 0.248,
@@ -5166,7 +5166,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Averbakh Variation, Benoni Defense, Exchange Variation",
+        "variation-name": "Averbakh Variation, Benoni Defense, Exchange Variation",
         "success-rate": {
             "white": 0.354,
             "black": 0.273,
@@ -5192,7 +5192,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.316,
             "black": 0.351,
@@ -5218,7 +5218,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Classical Fianchetto",
+        "variation-name": "Fianchetto Variation, Classical Fianchetto",
         "success-rate": {
             "white": 0.291,
             "black": 0.355,
@@ -5244,7 +5244,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Classical Main Line",
+        "variation-name": "Fianchetto Variation, Classical Main Line",
         "success-rate": {
             "white": 0.449,
             "black": 0.235,
@@ -5270,7 +5270,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Delayed Fianchetto",
+        "variation-name": "Fianchetto Variation, Delayed Fianchetto",
         "success-rate": {
             "white": 0.304,
             "black": 0.364,
@@ -5296,7 +5296,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Double Fianchetto Attack",
+        "variation-name": "Fianchetto Variation, Double Fianchetto Attack",
         "success-rate": {
             "white": 0.296,
             "black": 0.375,
@@ -5322,7 +5322,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Long Variation",
+        "variation-name": "Fianchetto Variation, Long Variation",
         "success-rate": {
             "white": 0.248,
             "black": 0.397,
@@ -5348,7 +5348,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Panno Variation",
+        "variation-name": "Fianchetto Variation, Panno Variation",
         "success-rate": {
             "white": 0.312,
             "black": 0.357,
@@ -5374,7 +5374,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Yugoslav Variation",
+        "variation-name": "Fianchetto Variation, Yugoslav Variation",
         "success-rate": {
             "white": 0.533,
             "black": 0.209,
@@ -5400,7 +5400,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Variation, Yugoslav Variation, Advance Line",
+        "variation-name": "Fianchetto Variation, Yugoslav Variation, Advance Line",
         "success-rate": {
             "white": 0.388,
             "black": 0.235,
@@ -5426,7 +5426,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Four Pawns Attack",
+        "variation-name": "Four Pawns Attack",
         "success-rate": {
             "white": 0.362,
             "black": 0.324,
@@ -5452,7 +5452,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Four Pawns Attack, Exchange Variation",
+        "variation-name": "Four Pawns Attack, Exchange Variation",
         "success-rate": {
             "white": 0.375,
             "black": 0.217,
@@ -5478,7 +5478,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Four Pawns Attack, Florentine Gambit",
+        "variation-name": "Four Pawns Attack, Florentine Gambit",
         "success-rate": {
             "white": 0.307,
             "black": 0.314,
@@ -5504,7 +5504,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Four Pawns Attack, Fluid Attack",
+        "variation-name": "Four Pawns Attack, Fluid Attack",
         "success-rate": {
             "white": 0.349,
             "black": 0.266,
@@ -5530,7 +5530,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Kazakh Variation",
+        "variation-name": "Kazakh Variation",
         "success-rate": {
             "white": 0.352,
             "black": 0.324,
@@ -5556,7 +5556,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Larsen Variation",
+        "variation-name": "Larsen Variation",
         "success-rate": {
             "white": 0.3,
             "black": 0.333,
@@ -5582,7 +5582,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Makagonov Variation",
+        "variation-name": "Makagonov Variation",
         "success-rate": {
             "white": 0.262,
             "black": 0.369,
@@ -5608,7 +5608,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Deferred Fianchetto",
+        "variation-name": "Normal Variation, Deferred Fianchetto",
         "success-rate": {
             "white": 0.3,
             "black": 0.336,
@@ -5634,7 +5634,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Variation",
+        "variation-name": "Orthodox Variation",
         "success-rate": {
             "white": 0.318,
             "black": 0.346,
@@ -5660,7 +5660,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Variation, Aronin-Taimanov Defense",
+        "variation-name": "Orthodox Variation, Aronin-Taimanov Defense",
         "success-rate": {
             "white": 0.357,
             "black": 0.319,
@@ -5686,7 +5686,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Variation, Classical System, Benko Attack",
+        "variation-name": "Orthodox Variation, Classical System, Benko Attack",
         "success-rate": {
             "white": 0.426,
             "black": 0.316,
@@ -5712,7 +5712,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Variation, Classical System, Misc. Lines",
+        "variation-name": "Orthodox Variation, Classical System, Misc. Lines",
         "success-rate": {
             "white": 0.281,
             "black": 0.347,
@@ -5738,7 +5738,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Variation, Positional Defense, Main Line",
+        "variation-name": "Orthodox Variation, Positional Defense, Main Line",
         "success-rate": {
             "white": 0.373,
             "black": 0.208,
@@ -5764,7 +5764,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Petrosian Variation, Keres Defense",
+        "variation-name": "Petrosian Variation, Keres Defense",
         "success-rate": {
             "white": 0.459,
             "black": 0.279,
@@ -5790,7 +5790,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation",
+        "variation-name": "Saemisch Variation",
         "success-rate": {
             "white": 0.367,
             "black": 0.316,
@@ -5816,7 +5816,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation",
+        "variation-name": "Saemisch Variation",
         "success-rate": {
             "white": 0.438,
             "black": 0.272,
@@ -5842,7 +5842,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Bobotsov-Korchnoi-Petrosian Variation",
+        "variation-name": "Saemisch Variation, Bobotsov-Korchnoi-Petrosian Variation",
         "success-rate": {
             "white": 0.302,
             "black": 0.355,
@@ -5868,7 +5868,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Closed Variation",
+        "variation-name": "Saemisch Variation, Closed Variation",
         "success-rate": {
             "white": 0.268,
             "black": 0.35,
@@ -5894,7 +5894,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Closed Variation, 7\u0085c6",
+        "variation-name": "Saemisch Variation, Closed Variation, 7\u0085c6",
         "success-rate": {
             "white": 0.287,
             "black": 0.344,
@@ -5920,7 +5920,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Closed Variation, Main Line",
+        "variation-name": "Saemisch Variation, Closed Variation, Main Line",
         "success-rate": {
             "white": 0.387,
             "black": 0.318,
@@ -5946,7 +5946,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Double Fianchetto",
+        "variation-name": "Saemisch Variation, Double Fianchetto",
         "success-rate": {
             "white": 0.417,
             "black": 0.303,
@@ -5972,7 +5972,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Orthodox Variation",
+        "variation-name": "Saemisch Variation, Orthodox Variation",
         "success-rate": {
             "white": 0.49,
             "black": 0.271,
@@ -5998,7 +5998,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Panno Formation",
+        "variation-name": "Saemisch Variation, Panno Formation",
         "success-rate": {
             "white": 0.395,
             "black": 0.343,
@@ -6024,7 +6024,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Poisoned Pawn Variation",
+        "variation-name": "Poisoned Pawn Variation",
         "success-rate": {
             "white": 0.351,
             "black": 0.325,
@@ -6050,7 +6050,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Averbakh System, Kotov Variation",
+        "variation-name": "Averbakh System, Kotov Variation",
         "success-rate": {
             "white": 0.275,
             "black": 0.354,
@@ -6076,7 +6076,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bishop Attack",
+        "variation-name": "Bishop Attack",
         "success-rate": {
             "white": 0.349,
             "black": 0.331,
@@ -6102,7 +6102,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.311,
             "black": 0.341,
@@ -6128,7 +6128,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.258,
             "black": 0.392,
@@ -6154,7 +6154,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Modern Defense",
+        "variation-name": "Classical Variation, Modern Defense",
         "success-rate": {
             "white": 0.316,
             "black": 0.376,
@@ -6180,7 +6180,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Delayed Exchange Variation",
+        "variation-name": "Delayed Exchange Variation",
         "success-rate": {
             "white": 0.32,
             "black": 0.39,
@@ -6206,7 +6206,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Delayed Exchange Variation",
+        "variation-name": "Delayed Exchange Variation",
         "success-rate": {
             "white": 0.256,
             "black": 0.397,
@@ -6232,7 +6232,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Delayed Exchange Variation",
+        "variation-name": "Delayed Exchange Variation",
         "success-rate": {
             "white": 0.338,
             "black": 0.203,
@@ -6258,7 +6258,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation with 6.e4",
+        "variation-name": "Exchange Variation with 6.e4",
         "success-rate": {
             "white": 0.456,
             "black": 0.193,
@@ -6284,7 +6284,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.316,
             "black": 0.267,
@@ -6310,7 +6310,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Misc. with 5.Nf3",
+        "variation-name": "Misc. with 5.Nf3",
         "success-rate": {
             "white": 0.305,
             "black": 0.251,
@@ -6336,7 +6336,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Ultra-delayed Exchange Variation",
+        "variation-name": "Ultra-delayed Exchange Variation",
         "success-rate": {
             "white": 0.28,
             "black": 0.186,
@@ -6362,7 +6362,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.329,
             "black": 0.321,
@@ -6388,7 +6388,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Berlin Variation",
+        "variation-name": "Classical Variation, Berlin Variation",
         "success-rate": {
             "white": 0.311,
             "black": 0.344,
@@ -6414,7 +6414,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Berlin Variation, Macieja System",
+        "variation-name": "Classical Variation, Berlin Variation, Macieja System",
         "success-rate": {
             "white": 0.327,
             "black": 0.249,
@@ -6440,7 +6440,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Milner-Barry Variation",
+        "variation-name": "Classical Variation, Milner-Barry Variation",
         "success-rate": {
             "white": 0.303,
             "black": 0.357,
@@ -6466,7 +6466,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Noa Variation",
+        "variation-name": "Classical Variation, Noa Variation",
         "success-rate": {
             "white": 0.335,
             "black": 0.357,
@@ -6492,7 +6492,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Noa Variation",
+        "variation-name": "Classical Variation, Noa Variation",
         "success-rate": {
             "white": 0.371,
             "black": 0.193,
@@ -6518,7 +6518,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Noa Variation",
+        "variation-name": "Classical Variation, Noa Variation",
         "success-rate": {
             "white": 0.341,
             "black": 0.284,
@@ -6544,7 +6544,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Noa Variation, Modern Line",
+        "variation-name": "Classical Variation, Noa Variation, Modern Line",
         "success-rate": {
             "white": 0.351,
             "black": 0.414,
@@ -6570,7 +6570,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fischer Variation",
+        "variation-name": "Fischer Variation",
         "success-rate": {
             "white": 0.3,
             "black": 0.358,
@@ -6596,7 +6596,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.336,
             "black": 0.322,
@@ -6622,7 +6622,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Huebner Variation",
+        "variation-name": "Huebner Variation",
         "success-rate": {
             "white": 0.34,
             "black": 0.342,
@@ -6648,7 +6648,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Huebner Variation, Rubinstein Variation",
+        "variation-name": "Huebner Variation, Rubinstein Variation",
         "success-rate": {
             "white": 0.345,
             "black": 0.317,
@@ -6674,7 +6674,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Leningrad Variation",
+        "variation-name": "Leningrad Variation",
         "success-rate": {
             "white": 0.335,
             "black": 0.312,
@@ -6700,7 +6700,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Leningrad Variation, Benoni Defense",
+        "variation-name": "Leningrad Variation, Benoni Defense",
         "success-rate": {
             "white": 0.329,
             "black": 0.335,
@@ -6726,7 +6726,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Line",
+        "variation-name": "Normal Line",
         "success-rate": {
             "white": 0.291,
             "black": 0.362,
@@ -6752,7 +6752,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation",
+        "variation-name": "Normal Variation",
         "success-rate": {
             "white": 0.333,
             "black": 0.346,
@@ -6778,7 +6778,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Bernstein Defense",
+        "variation-name": "Normal Variation, Bernstein Defense",
         "success-rate": {
             "white": 0.336,
             "black": 0.363,
@@ -6804,7 +6804,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Bernstein Defense, Except Gligoric System",
+        "variation-name": "Normal Variation, Bernstein Defense, Except Gligoric System",
         "success-rate": {
             "white": 0.327,
             "black": 0.372,
@@ -6830,7 +6830,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Bernstein Defense, Exchange Line",
+        "variation-name": "Normal Variation, Bernstein Defense, Exchange Line",
         "success-rate": {
             "white": 0.316,
             "black": 0.302,
@@ -6856,7 +6856,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Bishop Attack",
+        "variation-name": "Normal Variation, Bishop Attack",
         "success-rate": {
             "white": 0.315,
             "black": 0.35,
@@ -6882,7 +6882,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Bishop Attack, Classical Defense",
+        "variation-name": "Normal Variation, Bishop Attack, Classical Defense",
         "success-rate": {
             "white": 0.332,
             "black": 0.345,
@@ -6908,7 +6908,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Botvinnik System",
+        "variation-name": "Normal Variation, Botvinnik System",
         "success-rate": {
             "white": 0.388,
             "black": 0.323,
@@ -6934,7 +6934,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Bronstein (Byrne) Variation",
+        "variation-name": "Normal Variation, Bronstein (Byrne) Variation",
         "success-rate": {
             "white": 0.375,
             "black": 0.293,
@@ -6960,7 +6960,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Gligoric System, Bernstein Defense",
+        "variation-name": "Normal Variation, Gligoric System, Bernstein Defense",
         "success-rate": {
             "white": 0.334,
             "black": 0.372,
@@ -6986,7 +6986,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Gligoric System, Bronstein Variation",
+        "variation-name": "Normal Variation, Gligoric System, Bronstein Variation",
         "success-rate": {
             "white": 0.261,
             "black": 0.261,
@@ -7012,7 +7012,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Gligoric System, Exchange at c4",
+        "variation-name": "Normal Variation, Gligoric System, Exchange at c4",
         "success-rate": {
             "white": 0.342,
             "black": 0.372,
@@ -7038,7 +7038,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, H\u00fcbner Deferred",
+        "variation-name": "Normal Variation, H\u00fcbner Deferred",
         "success-rate": {
             "white": 0.338,
             "black": 0.326,
@@ -7064,7 +7064,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Ragozin Variation",
+        "variation-name": "Normal Variation, Ragozin Variation",
         "success-rate": {
             "white": 0.339,
             "black": 0.34,
@@ -7090,7 +7090,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation, Schlechter Defense",
+        "variation-name": "Normal Variation, Schlechter Defense",
         "success-rate": {
             "white": 0.348,
             "black": 0.361,
@@ -7116,7 +7116,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation",
+        "variation-name": "Saemisch Variation",
         "success-rate": {
             "white": 0.391,
             "black": 0.346,
@@ -7142,7 +7142,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation",
+        "variation-name": "Saemisch Variation",
         "success-rate": {
             "white": 0.322,
             "black": 0.305,
@@ -7168,7 +7168,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation",
+        "variation-name": "Saemisch Variation",
         "success-rate": {
             "white": 0.351,
             "black": 0.285,
@@ -7194,7 +7194,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation",
+        "variation-name": "Saemisch Variation",
         "success-rate": {
             "white": 0.34,
             "black": 0.409,
@@ -7220,7 +7220,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation",
+        "variation-name": "Saemisch Variation",
         "success-rate": {
             "white": 0.314,
             "black": 0.37,
@@ -7246,7 +7246,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Saemisch Variation, Accelerated",
+        "variation-name": "Saemisch Variation, Accelerated",
         "success-rate": {
             "white": 0.333,
             "black": 0.359,
@@ -7272,7 +7272,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Spielmann Variation",
+        "variation-name": "Spielmann Variation",
         "success-rate": {
             "white": 0.362,
             "black": 0.342,
@@ -7298,7 +7298,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Spielmann Variation, Karlsbad Variation",
+        "variation-name": "Spielmann Variation, Karlsbad Variation",
         "success-rate": {
             "white": 0.296,
             "black": 0.315,
@@ -7324,7 +7324,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " St. Petersburg Variation",
+        "variation-name": "St. Petersburg Variation",
         "success-rate": {
             "white": 0.345,
             "black": 0.344,
@@ -7350,7 +7350,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Three Knights Variation",
+        "variation-name": "Three Knights Variation",
         "success-rate": {
             "white": 0.315,
             "black": 0.362,
@@ -7376,7 +7376,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.346,
             "black": 0.334,
@@ -7402,7 +7402,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.323,
             "black": 0.312,
@@ -7428,7 +7428,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.356,
             "black": 0.319,
@@ -7454,7 +7454,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Normal Variation",
+        "variation-name": "Normal Variation",
         "success-rate": {
             "white": 0.446,
             "black": 0.251,
@@ -7480,7 +7480,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tartakower-Indian",
+        "variation-name": "Tartakower-Indian",
         "success-rate": {
             "white": 0.304,
             "black": 0.357,
@@ -7506,7 +7506,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.367,
             "black": 0.322,
@@ -7532,7 +7532,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Austrian Attack",
+        "variation-name": "Austrian Attack",
         "success-rate": {
             "white": 0.359,
             "black": 0.325,
@@ -7558,7 +7558,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Quiet System",
+        "variation-name": "Classical Variation, Quiet System",
         "success-rate": {
             "white": 0.338,
             "black": 0.325,
@@ -7584,7 +7584,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Zukertort System",
+        "variation-name": "Zukertort System",
         "success-rate": {
             "white": 0.353,
             "black": 0.326,
@@ -7610,7 +7610,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Colle System",
+        "variation-name": "Colle System",
         "success-rate": {
             "white": 0.343,
             "black": 0.311,
@@ -7636,7 +7636,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Torre Attack",
+        "variation-name": "Torre Attack",
         "success-rate": {
             "white": 0.339,
             "black": 0.33,
@@ -7662,7 +7662,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Veresov Atack, Boyce Defense",
+        "variation-name": "Veresov Atack, Boyce Defense",
         "success-rate": {
             "white": 0.347,
             "black": 0.334,
@@ -7688,7 +7688,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Mannheim Variation",
+        "variation-name": "Accelerated Mannheim Variation",
         "success-rate": {
             "white": 0.357,
             "black": 0.323,
@@ -7714,7 +7714,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alekhine Defense",
+        "variation-name": "Alekhine Defense",
         "success-rate": {
             "white": 0.352,
             "black": 0.404,
@@ -7740,7 +7740,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alekhine Defense, Borisenko-Furman Variation",
+        "variation-name": "Alekhine Defense, Borisenko-Furman Variation",
         "success-rate": {
             "white": 0.319,
             "black": 0.355,
@@ -7766,7 +7766,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bogoljubow Defense",
+        "variation-name": "Bogoljubow Defense",
         "success-rate": {
             "white": 0.298,
             "black": 0.365,
@@ -7792,7 +7792,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Defense",
+        "variation-name": "Classical Defense",
         "success-rate": {
             "white": 0.271,
             "black": 0.42,
@@ -7818,7 +7818,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Defense, Alekhine System",
+        "variation-name": "Classical Defense, Alekhine System",
         "success-rate": {
             "white": 0.396,
             "black": 0.234,
@@ -7844,7 +7844,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Defense, Alekhine System, Main Line",
+        "variation-name": "Classical Defense, Alekhine System, Main Line",
         "success-rate": {
             "white": 0.315,
             "black": 0.316,
@@ -7870,7 +7870,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Defense, Main Lines",
+        "variation-name": "Classical Defense, Main Lines",
         "success-rate": {
             "white": 0.326,
             "black": 0.186,
@@ -7896,7 +7896,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Deferred",
+        "variation-name": "Deferred",
         "success-rate": {
             "white": 0.311,
             "black": 0.368,
@@ -7922,7 +7922,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Mannheim Variation",
+        "variation-name": "Mannheim Variation",
         "success-rate": {
             "white": 0.386,
             "black": 0.245,
@@ -7948,7 +7948,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anti-Tartakower Variation",
+        "variation-name": "Anti-Tartakower Variation",
         "success-rate": {
             "white": 0.315,
             "black": 0.397,
@@ -7974,7 +7974,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Barmen Variation",
+        "variation-name": "Barmen Variation",
         "success-rate": {
             "white": 0.286,
             "black": 0.408,
@@ -8000,7 +8000,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Cambridge Springs Variation",
+        "variation-name": "Cambridge Springs Variation",
         "success-rate": {
             "white": 0.303,
             "black": 0.363,
@@ -8026,7 +8026,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Capablanca - General",
+        "variation-name": "Capablanca - General",
         "success-rate": {
             "white": 0.354,
             "black": 0.306,
@@ -8052,7 +8052,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Charousek (Petrosian) Variation",
+        "variation-name": "Charousek (Petrosian) Variation",
         "success-rate": {
             "white": 0.296,
             "black": 0.353,
@@ -8078,7 +8078,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.278,
             "black": 0.381,
@@ -8104,7 +8104,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Reshevsky Variation",
+        "variation-name": "Exchange Variation, Reshevsky Variation",
         "success-rate": {
             "white": 0.272,
             "black": 0.386,
@@ -8130,7 +8130,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Lasker Defense",
+        "variation-name": "Lasker Defense",
         "success-rate": {
             "white": 0.364,
             "black": 0.427,
@@ -8156,7 +8156,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Lasker Defense, Main Line",
+        "variation-name": "Lasker Defense, Main Line",
         "success-rate": {
             "white": 0.314,
             "black": 0.39,
@@ -8182,7 +8182,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Manhattan Variation",
+        "variation-name": "Manhattan Variation",
         "success-rate": {
             "white": 0.285,
             "black": 0.365,
@@ -8208,7 +8208,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Miles Variation, Dzhindzhi Attack",
+        "variation-name": "Miles Variation, Dzhindzhi Attack",
         "success-rate": {
             "white": 0.248,
             "black": 0.4,
@@ -8234,7 +8234,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Modern Variation",
+        "variation-name": "Modern Variation",
         "success-rate": {
             "white": 0.286,
             "black": 0.373,
@@ -8260,7 +8260,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Neo-Orthodox Variation",
+        "variation-name": "Neo-Orthodox Variation",
         "success-rate": {
             "white": 0.44,
             "black": 0.138,
@@ -8286,7 +8286,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Alekhine Variation",
+        "variation-name": "Orthodox Defense, Alekhine Variation",
         "success-rate": {
             "white": 0.393,
             "black": 0.116,
@@ -8312,7 +8312,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Botvinnik Variation",
+        "variation-name": "Orthodox Defense, Botvinnik Variation",
         "success-rate": {
             "white": 0.346,
             "black": 0.311,
@@ -8338,7 +8338,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Classical Variation",
+        "variation-name": "Orthodox Defense, Classical Variation",
         "success-rate": {
             "white": 0.426,
             "black": 0.119,
@@ -8364,7 +8364,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Classical Variation",
+        "variation-name": "Orthodox Defense, Classical Variation",
         "success-rate": {
             "white": 0.237,
             "black": 0.098,
@@ -8390,7 +8390,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Fianchetto Variation",
+        "variation-name": "Orthodox Defense, Fianchetto Variation",
         "success-rate": {
             "white": 0.502,
             "black": 0.182,
@@ -8416,7 +8416,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Hennegerger Variation",
+        "variation-name": "Orthodox Defense, Hennegerger Variation",
         "success-rate": {
             "white": 0.458,
             "black": 0.195,
@@ -8442,7 +8442,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Rubinstein Variation",
+        "variation-name": "Orthodox Defense, Rubinstein Variation",
         "success-rate": {
             "white": 0.493,
             "black": 0.185,
@@ -8468,7 +8468,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Orthodox Defense, Rubinstein Variation, Flohr Line",
+        "variation-name": "Orthodox Defense, Rubinstein Variation, Flohr Line",
         "success-rate": {
             "white": 0.305,
             "black": 0.136,
@@ -8494,7 +8494,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Ragozin Defense",
+        "variation-name": "Ragozin Defense",
         "success-rate": {
             "white": 0.319,
             "black": 0.374,
@@ -8520,7 +8520,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Ragozin Defense, Vienna Variation",
+        "variation-name": "Ragozin Defense, Vienna Variation",
         "success-rate": {
             "white": 0.298,
             "black": 0.339,
@@ -8546,7 +8546,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Semi-Tarrasch Defense",
+        "variation-name": "Semi-Tarrasch Defense",
         "success-rate": {
             "white": 0.352,
             "black": 0.316,
@@ -8572,7 +8572,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Semi-Tarrasch Defense, Exchange Variation",
+        "variation-name": "Semi-Tarrasch Defense, Exchange Variation",
         "success-rate": {
             "white": 0.318,
             "black": 0.411,
@@ -8598,7 +8598,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Semi-Tarrasch Defense, Main Line",
+        "variation-name": "Semi-Tarrasch Defense, Main Line",
         "success-rate": {
             "white": 0.379,
             "black": 0.152,
@@ -8624,7 +8624,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tartakower Defense, General",
+        "variation-name": "Tartakower Defense, General",
         "success-rate": {
             "white": 0.34,
             "black": 0.405,
@@ -8650,7 +8650,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Tartakower Defense, Makogonov Exchange Variation",
+        "variation-name": "Tartakower Defense, Makogonov Exchange Variation",
         "success-rate": {
             "white": 0.385,
             "black": 0.37,
@@ -8676,7 +8676,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Vienna Variation",
+        "variation-name": "Vienna Variation",
         "success-rate": {
             "white": 0.307,
             "black": 0.348,
@@ -8702,7 +8702,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Albin Countergambit",
+        "variation-name": "Albin Countergambit",
         "success-rate": {
             "white": 0.366,
             "black": 0.33,
@@ -8728,7 +8728,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Albin Countergambit, Fianchetto Variation",
+        "variation-name": "Albin Countergambit, Fianchetto Variation",
         "success-rate": {
             "white": 0.496,
             "black": 0.305,
@@ -8754,7 +8754,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Austrian Defense",
+        "variation-name": "Austrian Defense",
         "success-rate": {
             "white": 0.234,
             "black": 0.386,
@@ -8780,7 +8780,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Chigorin Defense",
+        "variation-name": "Chigorin Defense",
         "success-rate": {
             "white": 0.37,
             "black": 0.31,
@@ -8806,7 +8806,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anti-Queen's Indian System",
+        "variation-name": "Anti-Queen's Indian System",
         "success-rate": {
             "white": 0.295,
             "black": 0.39,
@@ -8832,7 +8832,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Capablanca Variation",
+        "variation-name": "Capablanca Variation",
         "success-rate": {
             "white": 0.302,
             "black": 0.382,
@@ -8858,7 +8858,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Traditional Variation, Main Line",
+        "variation-name": "Classical Variation, Traditional Variation, Main Line",
         "success-rate": {
             "white": 0.271,
             "black": 0.214,
@@ -8884,7 +8884,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Traditional Variation, Nimowitsch Line",
+        "variation-name": "Classical Variation, Traditional Variation, Nimowitsch Line",
         "success-rate": {
             "white": 0.267,
             "black": 0.392,
@@ -8910,7 +8910,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Fianchetto Traditional",
+        "variation-name": "Fianchetto Traditional",
         "success-rate": {
             "white": 0.334,
             "black": 0.372,
@@ -8936,7 +8936,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.34,
             "black": 0.318,
@@ -8962,7 +8962,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Kasparov Variation, General",
+        "variation-name": "Kasparov Variation, General",
         "success-rate": {
             "white": 0.368,
             "black": 0.314,
@@ -8988,7 +8988,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Spassky System",
+        "variation-name": "Spassky System",
         "success-rate": {
             "white": 0.337,
             "black": 0.352,
@@ -9014,7 +9014,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Advance Variation",
+        "variation-name": "Advance Variation",
         "success-rate": {
             "white": 0.353,
             "black": 0.325,
@@ -9040,7 +9040,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anglo-Slav Variation, Bled Variation",
+        "variation-name": "Anglo-Slav Variation, Bled Variation",
         "success-rate": {
             "white": 0.303,
             "black": 0.364,
@@ -9066,7 +9066,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Attack",
+        "variation-name": "Classical Attack",
         "success-rate": {
             "white": 0.351,
             "black": 0.307,
@@ -9092,7 +9092,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Modern Attack",
+        "variation-name": "Modern Attack",
         "success-rate": {
             "white": 0.359,
             "black": 0.3,
@@ -9118,7 +9118,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anderssen Counterattack",
+        "variation-name": "Anderssen Counterattack",
         "success-rate": {
             "white": 0.361,
             "black": 0.324,
@@ -9144,7 +9144,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.345,
             "black": 0.337,
@@ -9170,7 +9170,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Meran Variation",
+        "variation-name": "Accelerated Meran Variation",
         "success-rate": {
             "white": 0.309,
             "black": 0.369,
@@ -9196,7 +9196,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bogoljubow Variation",
+        "variation-name": "Bogoljubow Variation",
         "success-rate": {
             "white": 0.271,
             "black": 0.395,
@@ -9222,7 +9222,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.35,
             "black": 0.311,
@@ -9248,7 +9248,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Meran Variation",
+        "variation-name": "Meran Variation",
         "success-rate": {
             "white": 0.312,
             "black": 0.367,
@@ -9274,7 +9274,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Meran Variation",
+        "variation-name": "Meran Variation",
         "success-rate": {
             "white": 0.32,
             "black": 0.333,
@@ -9300,7 +9300,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Meran Variation, Blumenfeld Variation",
+        "variation-name": "Meran Variation, Blumenfeld Variation",
         "success-rate": {
             "white": 0.384,
             "black": 0.235,
@@ -9326,7 +9326,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Dragon, Exchange Variation",
+        "variation-name": "Accelerated Dragon, Exchange Variation",
         "success-rate": {
             "white": 0.344,
             "black": 0.276,
@@ -9352,7 +9352,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Dragon, General",
+        "variation-name": "Accelerated Dragon, General",
         "success-rate": {
             "white": 0.333,
             "black": 0.323,
@@ -9378,7 +9378,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Dragon, Maroczy Bind",
+        "variation-name": "Accelerated Dragon, Maroczy Bind",
         "success-rate": {
             "white": 0.293,
             "black": 0.385,
@@ -9404,7 +9404,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Dragon, Maroczy Bind, Breyer Variation",
+        "variation-name": "Accelerated Dragon, Maroczy Bind, Breyer Variation",
         "success-rate": {
             "white": 0.28,
             "black": 0.392,
@@ -9430,7 +9430,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Accelerated Dragon, Modern Bc4 Variation",
+        "variation-name": "Accelerated Dragon, Modern Bc4 Variation",
         "success-rate": {
             "white": 0.3,
             "black": 0.336,
@@ -9456,7 +9456,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alapin Variation, Barmen Defense",
+        "variation-name": "Alapin Variation, Barmen Defense",
         "success-rate": {
             "white": 0.35,
             "black": 0.323,
@@ -9482,7 +9482,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Boleslavsky Variation",
+        "variation-name": "Boleslavsky Variation",
         "success-rate": {
             "white": 0.213,
             "black": 0.484,
@@ -9508,7 +9508,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Boleslavsky Variation, General Variation",
+        "variation-name": "Boleslavsky Variation, General Variation",
         "success-rate": {
             "white": 0.357,
             "black": 0.307,
@@ -9534,7 +9534,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bowlder Attack",
+        "variation-name": "Bowlder Attack",
         "success-rate": {
             "white": 0.335,
             "black": 0.359,
@@ -9560,7 +9560,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Canal Attack",
+        "variation-name": "Canal Attack",
         "success-rate": {
             "white": 0.332,
             "black": 0.342,
@@ -9586,7 +9586,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Canal Attack, Main Line",
+        "variation-name": "Canal Attack, Main Line",
         "success-rate": {
             "white": 0.331,
             "black": 0.368,
@@ -9612,7 +9612,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Chekhover Variation",
+        "variation-name": "Chekhover Variation",
         "success-rate": {
             "white": 0.305,
             "black": 0.33,
@@ -9638,7 +9638,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, Anti-Sozin Variation",
+        "variation-name": "Classical Variation, Anti-Sozin Variation",
         "success-rate": {
             "white": 0.348,
             "black": 0.285,
@@ -9664,7 +9664,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation, General",
+        "variation-name": "Classical Variation, General",
         "success-rate": {
             "white": 0.312,
             "black": 0.336,
@@ -9690,7 +9690,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Sicilian, Anti-Sveshnikov Variation, Kharlov-Kramnik Line",
+        "variation-name": "Closed Sicilian, Anti-Sveshnikov Variation, Kharlov-Kramnik Line",
         "success-rate": {
             "white": 0.309,
             "black": 0.364,
@@ -9716,7 +9716,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation",
+        "variation-name": "Closed Variation",
         "success-rate": {
             "white": 0.338,
             "black": 0.309,
@@ -9742,7 +9742,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation",
+        "variation-name": "Closed Variation",
         "success-rate": {
             "white": 0.305,
             "black": 0.398,
@@ -9768,7 +9768,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation",
+        "variation-name": "Closed Variation",
         "success-rate": {
             "white": 0.348,
             "black": 0.341,
@@ -9794,7 +9794,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variation, Fianchetto Variation",
+        "variation-name": "Closed Variation, Fianchetto Variation",
         "success-rate": {
             "white": 0.336,
             "black": 0.297,
@@ -9820,7 +9820,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Delayed Alapin Variation",
+        "variation-name": "Delayed Alapin Variation",
         "success-rate": {
             "white": 0.304,
             "black": 0.326,
@@ -9846,7 +9846,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Delayed Alapin",
+        "variation-name": "Delayed Alapin",
         "success-rate": {
             "white": 0.308,
             "black": 0.328,
@@ -9872,7 +9872,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Classical Variation",
+        "variation-name": "Dragon Variation, Classical Variation",
         "success-rate": {
             "white": 0.309,
             "black": 0.33,
@@ -9898,7 +9898,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Classical Variation",
+        "variation-name": "Dragon Variation, Classical Variation",
         "success-rate": {
             "white": 0.352,
             "black": 0.303,
@@ -9924,7 +9924,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Classical Variation, Alekhine Line",
+        "variation-name": "Dragon Variation, Classical Variation, Alekhine Line",
         "success-rate": {
             "white": 0.336,
             "black": 0.32,
@@ -9950,7 +9950,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Fianchetto Variation",
+        "variation-name": "Dragon Variation, Fianchetto Variation",
         "success-rate": {
             "white": 0.351,
             "black": 0.335,
@@ -9976,7 +9976,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Levenfish Variation",
+        "variation-name": "Dragon Variation, Levenfish Variation",
         "success-rate": {
             "white": 0.301,
             "black": 0.317,
@@ -10002,7 +10002,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Yugoslav Attack",
+        "variation-name": "Dragon Variation, Yugoslav Attack",
         "success-rate": {
             "white": 0.285,
             "black": 0.342,
@@ -10028,7 +10028,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Yugoslav Attack",
+        "variation-name": "Dragon Variation, Yugoslav Attack",
         "success-rate": {
             "white": 0.257,
             "black": 0.361,
@@ -10054,7 +10054,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Yugoslav Attack",
+        "variation-name": "Dragon Variation, Yugoslav Attack",
         "success-rate": {
             "white": 0.275,
             "black": 0.335,
@@ -10080,7 +10080,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Dragon Variation, Yugoslav Attack, Early deviations",
+        "variation-name": "Dragon Variation, Yugoslav Attack, Early deviations",
         "success-rate": {
             "white": 0.274,
             "black": 0.335,
@@ -10106,7 +10106,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Flohr Variation",
+        "variation-name": "Flohr Variation",
         "success-rate": {
             "white": 0.281,
             "black": 0.342,
@@ -10132,7 +10132,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Four Knights Variation",
+        "variation-name": "Four Knights Variation",
         "success-rate": {
             "white": 0.306,
             "black": 0.339,
@@ -10158,7 +10158,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.341,
             "black": 0.406,
@@ -10184,7 +10184,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Hyperaccelerated Dragon",
+        "variation-name": "Hyperaccelerated Dragon",
         "success-rate": {
             "white": 0.311,
             "black": 0.32,
@@ -10210,7 +10210,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Kan Variation",
+        "variation-name": "Kan Variation",
         "success-rate": {
             "white": 0.333,
             "black": 0.347,
@@ -10236,7 +10236,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Kan Variation, Knight Variation",
+        "variation-name": "Kan Variation, Knight Variation",
         "success-rate": {
             "white": 0.331,
             "black": 0.306,
@@ -10262,7 +10262,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Kan Variation, Modern Variation",
+        "variation-name": "Kan Variation, Modern Variation",
         "success-rate": {
             "white": 0.317,
             "black": 0.338,
@@ -10288,7 +10288,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Lasker-Pelikan Variation, Bird Variation",
+        "variation-name": "Lasker-Pelikan Variation, Bird Variation",
         "success-rate": {
             "white": 0.315,
             "black": 0.313,
@@ -10314,7 +10314,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " McDonnell Attack",
+        "variation-name": "McDonnell Attack",
         "success-rate": {
             "white": 0.335,
             "black": 0.359,
@@ -10340,7 +10340,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Modern Variations",
+        "variation-name": "Modern Variations",
         "success-rate": {
             "white": 0.267,
             "black": 0.363,
@@ -10366,7 +10366,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation",
+        "variation-name": "Najdorf Variation",
         "success-rate": {
             "white": 0.378,
             "black": 0.375,
@@ -10392,7 +10392,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation",
+        "variation-name": "Najdorf Variation",
         "success-rate": {
             "white": 0.323,
             "black": 0.282,
@@ -10418,7 +10418,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation",
+        "variation-name": "Najdorf Variation",
         "success-rate": {
             "white": 0.3,
             "black": 0.323,
@@ -10444,7 +10444,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation",
+        "variation-name": "Najdorf Variation",
         "success-rate": {
             "white": 0.278,
             "black": 0.341,
@@ -10470,7 +10470,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation",
+        "variation-name": "Najdorf Variation",
         "success-rate": {
             "white": 0.322,
             "black": 0.3,
@@ -10496,7 +10496,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation, Adams Attack",
+        "variation-name": "Najdorf Variation, Adams Attack",
         "success-rate": {
             "white": 0.348,
             "black": 0.326,
@@ -10522,7 +10522,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation, Amsterdam Variation",
+        "variation-name": "Najdorf Variation, Amsterdam Variation",
         "success-rate": {
             "white": 0.309,
             "black": 0.338,
@@ -10548,7 +10548,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation, Main Line",
+        "variation-name": "Najdorf Variation, Main Line",
         "success-rate": {
             "white": 0.458,
             "black": 0.313,
@@ -10574,7 +10574,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation, Opocensky Variation",
+        "variation-name": "Najdorf Variation, Opocensky Variation",
         "success-rate": {
             "white": 0.33,
             "black": 0.327,
@@ -10600,7 +10600,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation, Poisoned Pawn Variation",
+        "variation-name": "Najdorf Variation, Poisoned Pawn Variation",
         "success-rate": {
             "white": 0.35,
             "black": 0.335,
@@ -10626,7 +10626,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation, Scheveningen Variation",
+        "variation-name": "Najdorf Variation, Scheveningen Variation",
         "success-rate": {
             "white": 0.318,
             "black": 0.32,
@@ -10652,7 +10652,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Najdorf Variation, Zagreb (Fianchetto) Variation",
+        "variation-name": "Najdorf Variation, Zagreb (Fianchetto) Variation",
         "success-rate": {
             "white": 0.316,
             "black": 0.345,
@@ -10678,7 +10678,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Nimzowitsch Variation, Advance Variation",
+        "variation-name": "Nimzowitsch Variation, Advance Variation",
         "success-rate": {
             "white": 0.301,
             "black": 0.348,
@@ -10704,7 +10704,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",
+        "variation-name": "Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",
         "success-rate": {
             "white": 0.273,
             "black": 0.365,
@@ -10730,7 +10730,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " O'Kelly Variation",
+        "variation-name": "O'Kelly Variation",
         "success-rate": {
             "white": 0.31,
             "black": 0.314,
@@ -10756,7 +10756,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Paulsen Variation",
+        "variation-name": "Paulsen Variation",
         "success-rate": {
             "white": 0.305,
             "black": 0.363,
@@ -10782,7 +10782,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Paulsen Variation, Bastrikov Variation",
+        "variation-name": "Paulsen Variation, Bastrikov Variation",
         "success-rate": {
             "white": 0.331,
             "black": 0.343,
@@ -10808,7 +10808,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Paulsen Variation, Bastrikov Variation",
+        "variation-name": "Paulsen Variation, Bastrikov Variation",
         "success-rate": {
             "white": 0.31,
             "black": 0.373,
@@ -10834,7 +10834,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Paulsen Variation, Bastrikov Variation",
+        "variation-name": "Paulsen Variation, Bastrikov Variation",
         "success-rate": {
             "white": 0.31,
             "black": 0.327,
@@ -10860,7 +10860,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Paulsen Variation, General",
+        "variation-name": "Paulsen Variation, General",
         "success-rate": {
             "white": 0.327,
             "black": 0.345,
@@ -10886,7 +10886,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Prins Variation, Venice Attack",
+        "variation-name": "Prins Variation, Venice Attack",
         "success-rate": {
             "white": 0.414,
             "black": 0.294,
@@ -10912,7 +10912,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation",
+        "variation-name": "Richter-Rauzer Variation",
         "success-rate": {
             "white": 0.319,
             "black": 0.342,
@@ -10938,7 +10938,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Classical Variation",
+        "variation-name": "Richter-Rauzer Variation, Classical Variation",
         "success-rate": {
             "white": 0.38,
             "black": 0.294,
@@ -10964,7 +10964,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Classical Variation",
+        "variation-name": "Richter-Rauzer Variation, Classical Variation",
         "success-rate": {
             "white": 0.398,
             "black": 0.249,
@@ -10990,7 +10990,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Classical Variation",
+        "variation-name": "Richter-Rauzer Variation, Classical Variation",
         "success-rate": {
             "white": 0.369,
             "black": 0.234,
@@ -11016,7 +11016,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Classical Variation, Kantscher Line",
+        "variation-name": "Richter-Rauzer Variation, Classical Variation, Kantscher Line",
         "success-rate": {
             "white": 0.355,
             "black": 0.255,
@@ -11042,7 +11042,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Dragon Variation",
+        "variation-name": "Richter-Rauzer Variation, Dragon Variation",
         "success-rate": {
             "white": 0.35,
             "black": 0.325,
@@ -11068,7 +11068,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Modern Variation",
+        "variation-name": "Richter-Rauzer Variation, Modern Variation",
         "success-rate": {
             "white": 0.395,
             "black": 0.277,
@@ -11094,7 +11094,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Neo-Modern Variation",
+        "variation-name": "Richter-Rauzer Variation, Neo-Modern Variation",
         "success-rate": {
             "white": 0.401,
             "black": 0.327,
@@ -11120,7 +11120,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Neo-Modern Variation",
+        "variation-name": "Richter-Rauzer Variation, Neo-Modern Variation",
         "success-rate": {
             "white": 0.388,
             "black": 0.318,
@@ -11146,7 +11146,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack",
+        "variation-name": "Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack",
         "success-rate": {
             "white": 0.403,
             "black": 0.253,
@@ -11172,7 +11172,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Scheveningen Variation",
+        "variation-name": "Scheveningen Variation",
         "success-rate": {
             "white": 0.341,
             "black": 0.346,
@@ -11198,7 +11198,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Scheveningen Variation, Classical Variation, General",
+        "variation-name": "Scheveningen Variation, Classical Variation, General",
         "success-rate": {
             "white": 0.335,
             "black": 0.34,
@@ -11224,7 +11224,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Scheveningen Variation, Classical Variation, Paulsen Variation",
+        "variation-name": "Scheveningen Variation, Classical Variation, Paulsen Variation",
         "success-rate": {
             "white": 0.398,
             "black": 0.273,
@@ -11250,7 +11250,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Scheveningen Variation, Delayed Keres Attack",
+        "variation-name": "Scheveningen Variation, Delayed Keres Attack",
         "success-rate": {
             "white": 0.267,
             "black": 0.361,
@@ -11276,7 +11276,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Scheveningen Variation, Matanovic Attack",
+        "variation-name": "Scheveningen Variation, Matanovic Attack",
         "success-rate": {
             "white": 0.269,
             "black": 0.371,
@@ -11302,7 +11302,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Sozin Attack, Flank Variation",
+        "variation-name": "Sozin Attack, Flank Variation",
         "success-rate": {
             "white": 0.321,
             "black": 0.305,
@@ -11328,7 +11328,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Sozin Attack, General Variation",
+        "variation-name": "Sozin Attack, General Variation",
         "success-rate": {
             "white": 0.325,
             "black": 0.3,
@@ -11354,7 +11354,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Sozin Attack, Leonhardt Variation",
+        "variation-name": "Sozin Attack, Leonhardt Variation",
         "success-rate": {
             "white": 0.335,
             "black": 0.313,
@@ -11380,7 +11380,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Sozin Attack, Main Line",
+        "variation-name": "Sozin Attack, Main Line",
         "success-rate": {
             "white": 0.404,
             "black": 0.347,
@@ -11406,7 +11406,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alapin Variation",
+        "variation-name": "Alapin Variation",
         "success-rate": {
             "white": 0.29,
             "black": 0.379,
@@ -11432,7 +11432,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alekhine Variation",
+        "variation-name": "Alekhine Variation",
         "success-rate": {
             "white": 0.288,
             "black": 0.359,
@@ -11458,7 +11458,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bonet Gambit",
+        "variation-name": "Bonet Gambit",
         "success-rate": {
             "white": 0.301,
             "black": 0.364,
@@ -11484,7 +11484,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Czech Variation",
+        "variation-name": "Czech Variation",
         "success-rate": {
             "white": 0.302,
             "black": 0.376,
@@ -11510,7 +11510,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Czech Variation, Classical System",
+        "variation-name": "Czech Variation, Classical System",
         "success-rate": {
             "white": 0.283,
             "black": 0.366,
@@ -11536,7 +11536,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Czech Variation, Classical System, Main Line",
+        "variation-name": "Czech Variation, Classical System, Main Line",
         "success-rate": {
             "white": 0.332,
             "black": 0.373,
@@ -11562,7 +11562,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.349,
             "black": 0.314,
@@ -11588,7 +11588,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation",
+        "variation-name": "Exchange Variation",
         "success-rate": {
             "white": 0.37,
             "black": 0.379,
@@ -11614,7 +11614,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Schallopp Variation",
+        "variation-name": "Exchange Variation, Schallopp Variation",
         "success-rate": {
             "white": 0.316,
             "black": 0.376,
@@ -11640,7 +11640,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Symmetrical Line",
+        "variation-name": "Exchange Variation, Symmetrical Line",
         "success-rate": {
             "white": 0.393,
             "black": 0.423,
@@ -11666,7 +11666,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Alapin Defense",
+        "variation-name": "Alapin Defense",
         "success-rate": {
             "white": 0.347,
             "black": 0.325,
@@ -11692,7 +11692,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Berlin Defense",
+        "variation-name": "Berlin Defense",
         "success-rate": {
             "white": 0.356,
             "black": 0.314,
@@ -11718,7 +11718,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Berlin Defense, Berlin Wall, J. Rogers Line",
+        "variation-name": "Berlin Defense, Berlin Wall, J. Rogers Line",
         "success-rate": {
             "white": 0.344,
             "black": 0.378,
@@ -11744,7 +11744,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Berlin Defense, Closed Showalter Variation",
+        "variation-name": "Berlin Defense, Closed Showalter Variation",
         "success-rate": {
             "white": 0.266,
             "black": 0.398,
@@ -11770,7 +11770,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Bird Variation",
+        "variation-name": "Bird Variation",
         "success-rate": {
             "white": 0.257,
             "black": 0.368,
@@ -11796,7 +11796,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.363,
             "black": 0.317,
@@ -11822,7 +11822,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations",
+        "variation-name": "Closed Variations",
         "success-rate": {
             "white": 0.316,
             "black": 0.363,
@@ -11848,7 +11848,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Averbakh Variation",
+        "variation-name": "Closed Variations, Averbakh Variation",
         "success-rate": {
             "white": 0.41,
             "black": 0.211,
@@ -11874,7 +11874,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Bogoljubow Variation",
+        "variation-name": "Closed Variations, Bogoljubow Variation",
         "success-rate": {
             "white": 0.281,
             "black": 0.39,
@@ -11900,7 +11900,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Borisenko Variation",
+        "variation-name": "Closed Variations, Borisenko Variation",
         "success-rate": {
             "white": 0.398,
             "black": 0.244,
@@ -11926,7 +11926,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Breyer Defense",
+        "variation-name": "Closed Variations, Breyer Defense",
         "success-rate": {
             "white": 0.343,
             "black": 0.273,
@@ -11952,7 +11952,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Chigorin Defense",
+        "variation-name": "Closed Variations, Chigorin Defense",
         "success-rate": {
             "white": 0.36,
             "black": 0.175,
@@ -11978,7 +11978,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Chigorin Defense",
+        "variation-name": "Closed Variations, Chigorin Defense",
         "success-rate": {
             "white": 0.421,
             "black": 0.241,
@@ -12004,7 +12004,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Closed Defense",
+        "variation-name": "Closed Variations, Closed Defense",
         "success-rate": {
             "white": 0.298,
             "black": 0.383,
@@ -12030,7 +12030,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Delayed Exchange",
+        "variation-name": "Closed Variations, Delayed Exchange",
         "success-rate": {
             "white": 0.331,
             "black": 0.244,
@@ -12056,7 +12056,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Flohr System",
+        "variation-name": "Closed Variations, Flohr System",
         "success-rate": {
             "white": 0.325,
             "black": 0.387,
@@ -12082,7 +12082,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Martinez Variation",
+        "variation-name": "Closed Variations, Martinez Variation",
         "success-rate": {
             "white": 0.283,
             "black": 0.377,
@@ -12108,7 +12108,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Smyslov Defense",
+        "variation-name": "Closed Variations, Smyslov Defense",
         "success-rate": {
             "white": 0.378,
             "black": 0.19,
@@ -12134,7 +12134,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Trajkovic Counterattack",
+        "variation-name": "Closed Variations, Trajkovic Counterattack",
         "success-rate": {
             "white": 0.262,
             "black": 0.372,
@@ -12160,7 +12160,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Closed Variations, Worrall Attack",
+        "variation-name": "Closed Variations, Worrall Attack",
         "success-rate": {
             "white": 0.432,
             "black": 0.26,
@@ -12186,7 +12186,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Columbus Variation",
+        "variation-name": "Columbus Variation",
         "success-rate": {
             "white": 0.246,
             "black": 0.361,
@@ -12212,7 +12212,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, Alapin Gambit",
+        "variation-name": "Exchange Variation, Alapin Gambit",
         "success-rate": {
             "white": 0.33,
             "black": 0.36,
@@ -12238,7 +12238,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Exchange Variation, General",
+        "variation-name": "Exchange Variation, General",
         "success-rate": {
             "white": 0.345,
             "black": 0.322,
@@ -12264,7 +12264,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Marshall Attack, General",
+        "variation-name": "Marshall Attack, General",
         "success-rate": {
             "white": 0.318,
             "black": 0.339,
@@ -12290,7 +12290,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Anderssen Variation",
+        "variation-name": "Morphy Defense, Anderssen Variation",
         "success-rate": {
             "white": 0.309,
             "black": 0.354,
@@ -12316,7 +12316,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Breyer Defense, Quiet Variation",
+        "variation-name": "Morphy Defense, Breyer Defense, Quiet Variation",
         "success-rate": {
             "white": 0.324,
             "black": 0.398,
@@ -12342,7 +12342,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Chigorin Defense, Panov System",
+        "variation-name": "Morphy Defense, Chigorin Defense, Panov System",
         "success-rate": {
             "white": 0.402,
             "black": 0.239,
@@ -12368,7 +12368,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Modern Steinitz Defense",
+        "variation-name": "Morphy Defense, Modern Steinitz Defense",
         "success-rate": {
             "white": 0.288,
             "black": 0.376,
@@ -12394,7 +12394,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Modern Steinitz Defense",
+        "variation-name": "Morphy Defense, Modern Steinitz Defense",
         "success-rate": {
             "white": 0.3,
             "black": 0.377,
@@ -12420,7 +12420,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Modern Steinitz Defense",
+        "variation-name": "Morphy Defense, Modern Steinitz Defense",
         "success-rate": {
             "white": 0.303,
             "black": 0.351,
@@ -12446,7 +12446,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Modern Steinitz Defense",
+        "variation-name": "Morphy Defense, Modern Steinitz Defense",
         "success-rate": {
             "white": 0.37,
             "black": 0.29,
@@ -12472,7 +12472,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Modern Steinitz Defense",
+        "variation-name": "Morphy Defense, Modern Steinitz Defense",
         "success-rate": {
             "white": 0.335,
             "black": 0.333,
@@ -12498,7 +12498,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Modern Steinitz Defense, Fianchetto Variation",
+        "variation-name": "Morphy Defense, Modern Steinitz Defense, Fianchetto Variation",
         "success-rate": {
             "white": 0.344,
             "black": 0.24,
@@ -12524,7 +12524,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Morphy Defense, Steinitz Deferred",
+        "variation-name": "Morphy Defense, Steinitz Deferred",
         "success-rate": {
             "white": 0.262,
             "black": 0.381,
@@ -12550,7 +12550,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Open Variations",
+        "variation-name": "Open Variations",
         "success-rate": {
             "white": 0.304,
             "black": 0.371,
@@ -12576,7 +12576,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Open Variations, Berlin Variation",
+        "variation-name": "Open Variations, Berlin Variation",
         "success-rate": {
             "white": 0.378,
             "black": 0.288,
@@ -12602,7 +12602,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Open Variations, Classical Defense",
+        "variation-name": "Open Variations, Classical Defense",
         "success-rate": {
             "white": 0.292,
             "black": 0.36,
@@ -12628,7 +12628,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Open Variations, Howell Attack",
+        "variation-name": "Open Variations, Howell Attack",
         "success-rate": {
             "white": 0.299,
             "black": 0.397,
@@ -12654,7 +12654,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Schliemann Defense",
+        "variation-name": "Schliemann Defense",
         "success-rate": {
             "white": 0.354,
             "black": 0.324,
@@ -12680,7 +12680,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Steinitz Defense",
+        "variation-name": "Steinitz Defense",
         "success-rate": {
             "white": 0.399,
             "black": 0.302,
@@ -12706,7 +12706,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Classical Variation",
+        "variation-name": "Classical Variation",
         "success-rate": {
             "white": 0.279,
             "black": 0.403,
@@ -12732,7 +12732,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " General",
+        "variation-name": "General",
         "success-rate": {
             "white": 0.306,
             "black": 0.351,
@@ -12758,7 +12758,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Prague Variation",
+        "variation-name": "Prague Variation",
         "success-rate": {
             "white": 0.494,
             "black": 0.186,
@@ -12784,7 +12784,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Anderssen Defense",
+        "variation-name": "Anderssen Defense",
         "success-rate": {
             "white": 0.263,
             "black": 0.35,
@@ -12810,7 +12810,7 @@
             "chess.com": ""
         },
         "is-variation": true,
-        "variation-name": " Vienna Gambit, Breyer Variation",
+        "variation-name": "Vienna Gambit, Breyer Variation",
         "success-rate": {
             "white": 0.304,
             "black": 0.336,
