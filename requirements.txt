@@ -1,0 +1,12 @@
+transformers
+gensim
+flask
+flask_compress 
+bs4
+nltk
+requests
+pandas
+numpy
+sklearn
+gevent
+torch
