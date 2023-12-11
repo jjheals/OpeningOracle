@@ -1,0 +1,34 @@
+  .header {
+    background-color: #806944;
+    height: 100%;
+    padding: 10px;
+    margin: 0px;
+
+    font-family: 'Roboto', sans-serif;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .header>div {
+    flex: 1 0 33.33%;
+  }
+
+  .header>div:first-child {
+    flex: 0 1 100%;
+  }
+
+  .title {
+    font-weight: bold;
+    color: #33240C;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .link {
+    font-weight: bold;
+    color: #33240C;
+    font-size: 20px;
+  }

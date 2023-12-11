@@ -1,0 +1,27 @@
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #E6DAC8;
+  }
+  
+  .App {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .App > * {
+    width: 100%;
+    padding: 1rem;
+  }
+  
+  #Input {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+  }
+  
+  #Response {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+  }
+
