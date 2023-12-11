@@ -72,13 +72,13 @@ function HomePage() {
               <p>{responseBody}</p>
               <br></br>
               <p><b>Alternatively, the Oracle also thinks...</b></p>
-              <p>
+              <div>
                   {
-                    oracleResponses.map((m) => {
-                     return <p>{m}</p>;
+                    oracleResponses.map((m, i) => {
+                     return <p key={i}>{m}</p>;
                     })
                 }
-              </p>
+              </div>
             </>
             : <p></p>}
         </div>
