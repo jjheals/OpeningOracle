@@ -58,7 +58,7 @@ function HomePage() {
       <div className="App">
         <div id='Prompt'>
           <form id="Input" method="post" onSubmit={clickSubmitButton}>
-              <p> How do <b>you</b> like to play chess? Describe your playing style below and enter to find a opening for you!</p>
+              <p> How do <b>you</b> like to play chess? Describe your playing style below and let the Oracle find a opening for you!</p>
               <label>
                 <TextField id="outlined-basic" label="Type your playstyle!" multiline fullWidth variant="filled" name="userInput" defaultValue="" />
               </label>
@@ -71,7 +71,7 @@ function HomePage() {
             <>
               <p>{responseBody}</p>
               <br></br>
-              <p><b>Alternatively, the Oracle also thinks...</b></p>
+              <p><b>Looking for something different? The Oracle also thinks...</b></p>
               <div>
                   {
                     oracleResponses.map((m, i) => {
