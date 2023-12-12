@@ -8,13 +8,13 @@ The Elephant Gambit (also called the Queen's Pawn Countergambit or Englund Count
 The Elephant Gambit is generally considered unsound, with black typically unable to gain compensation for the sacrificed pawn.
 
 
-Lines[edit]
+[edit]
 White is able to capture either of Black's center pawns with the advantage, either by 3.exd5 or 3.Nxe5. With a center pawn removed, Black is in a passive position with White clearly having the initiative as White controls more space.
 
-3.exd5[edit]
+[edit]
 Black's responses to 3.exd5 include 3...e4 and 3...Bd6 (the Elephant Gambit proper). 3...Qxd5 saves the pawn, but leaves White with a big lead in development after 4.Nc3.
 
-3...e4[edit]
+[edit]
 After 3...e4 4.Qe2 Nf6 lines might continue: 
 
 5.d3 Qxd5 6.Nbd2 Be7 7.dxe4 Qe6 and White remains a pawn ahead, although Black's development is somewhat smoother.
@@ -24,28 +24,28 @@ After 3...e4 4.Qe2 Nf6 lines might continue:
 6...0-0 7.Nxf6+ Bxf6 8.d4 Re8 9.Be3 with distinct superiority for White (de Firmian).
 After 3...e4 4.Qe2, Tal–Lutikov, Tallinn 1964[1] continued 4...f5 5.d3 Nf6 6.dxe4 fxe4 7.Nc3 Bb4 8.Qb5+ c6 9.Qxb4 exf3 10.Bg5 cxd5 11.0-0-0 Nc6 with advantage for White.
 
-Elephant Gambit proper: 3...Bd6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Elephant Gambit proper: 3.exd5 Bd6
 
 After 3...Bd6 4.d4 e4 5.Ne5 Nf6 6.Nc3 0-0 7.Bc4, according to de Firmian, White enjoys a distinct superiority but no immediate attack.
 
-3.Nxe5[edit]
+[edit]
 After 3.Nxe5:
 
 Black plays 3...Bd6 4.d4 dxe4 5.Bc4 Bxe5 6.Qh5 Qf6 7.dxe5, which is thought to be slightly better for White.
 In Lob–Eliskases, German CC 1929, Black played 3...dxe4. The game continued 4.Bc4 Qg5 5.Bxf7+ Ke7 6.d4 Qxg2 7.Rf1 Bh3 8.Bc4 Nf6 9.Bf4 and White went on to win.
 3...Qe7? leads to an advantage for White after 4.d4 f6 5.Nd3 dxe4 6.Nf4 Qf7 7.Nd2 (Bondarevsky–Lilienthal, USSR 1941).
-See also[edit]
+[edit]
 List of chess openings
-References[edit]
+[edit]
 
 Bibliography
 
 Burgess, Graham. The Mammoth Book of Chess. London: Constable and Robinson, 2000.
 
 
-External links[edit]
+[edit]
 
 The Kibitzer: "We're Going On An Elephant Hunt" by Tim Harding (August 1997) at ChessCafe.com
 

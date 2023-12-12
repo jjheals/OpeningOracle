@@ -1,23 +1,10 @@
-
-In the Torre Attack, White combines the early Nf3 and Bg5 moves, delaying or avoiding c2-c4. This way White develops the pieces actively while maintaining a solid center - and idea opening for those who like active play, but do not want to deal with a lot of theory.
-Pros:
-
-The bishop on g5 pins the Nf6
-White maintains a solid d4-point
-Natural play with little heavy theory
-
-Cons:
-
-The bishop on g5 can sometimes be traded off
-Does not put Black under a lot of immediate pressure
-
 Chess opening
 Chess openingQueen's Pawn Game
 abcdefgh8877665544332211abcdefghMoves1.d4ECOA40–A99 D00–D99 E00–E99Synonym(s)d4
 The Queen's Pawn Game is any chess opening starting with the move 1.d4, which is the second-most popular opening move after 1.e4 (King's Pawn Game).
 
 
-Terminology[edit]
+[edit]
 The term "Queen's Pawn Game" is usually used to describe openings beginning with 1.d4 where White does not play the Queen's Gambit. The most common Queen's Pawn Game openings are: 
 
 The London System, 2.Bf4 or 2.Nf3 and 3.Bf4
@@ -34,70 +21,70 @@ In the Encyclopaedia of Chess Openings (ECO), Closed Games (1.d4 d5) are classif
 
 Indian Defences, where Black plays 1...Nf6 (ECO codes A45–A79, D70–D99, E00–E99); for instance the Queen's Indian Defence (ECO E12–E19);
 other Queen's Pawn Games, where Black plays neither 1...d5 nor 1...Nf6; these include the Dutch Defence (ECO A40–A44 and A80–A99).
-History[edit]
+[edit]
 In the 19th century and early 20th century, 1.e4 was by far the most common opening move by White (Watson 2006:87), while the different openings starting with 1.d4 were considered somewhat unusual and therefore classed together as "Queen's Pawn Game".
 As the merits of 1.d4 started to be explored, it was the Queen's Gambit which was played most often—more popular than all other 1.d4 openings combined. The term "Queen's Pawn Game" was then narrowed down to any opening with 1.d4 which was not a Queen's Gambit. Eventually, through the efforts of the hypermodernists, the various Indian Defences (such as the King's Indian, Nimzo-Indian, and Queen's Indian) became more popular, and as these openings were named, the term "Queen's Pawn Game" narrowed further.
 
-Continuations[edit]
+[edit]
 The Black responses given below are ranked in order of popularity according to ChessBase for FIDE-rated games.
 
-1...Nf6[edit]
+[edit]
 This move prevents White from establishing a full pawn centre with 2.e4. The opening usually leads to a form of Indian Defence, but can also lead to versions of the Queen's Gambit if Black plays ...d5 at some point. Since 1...Nf6 is a move that is likely to be made anyway, the move is a flexible response to White's first move. White usually plays 2.c4. Then Black usually plays 2...e6 (typically leading to the Nimzo-Indian, Queen's Indian, or Queen's Gambit Declined), 2...g6 (leading to the King's Indian or Grünfeld Defence), or 2...c5 (leading to the Benoni Defence or Benko Gambit). Rarer tries include 2...e5 (Budapest Gambit) and 2...d6 (Old Indian Defence). White can also play 2.Nf3, which like Black's move is not specific as to opening. A third alternative is the Trompowsky Attack with 2.Bg5.
 
-1...d5[edit]
+[edit]
 1...d5 (Closed Game) also prevents White from playing 2.e4 unless White wants to venture the dubious Blackmar–Diemer Gambit. 1...d5 is not any worse than 1...Nf6, but committing the pawn to d5 at once makes it somewhat less flexible since Black can no longer play the Indian Defences, although if Black is aiming for Queen's Gambit positions this may be of minor importance. Also, a move like 2.Bg5 (Hodgson Attack) is considered relatively harmless compared to 1.d4 Nf6 2.Bg5 since there is no knight on f6 for the bishop to harass. White's more common move is 2.c4, the Queen's Gambit, when Black usually chooses between 2...e6 (Queen's Gambit Declined), 2...c6 (Slav Defence) or 2...dxc4 (Queen's Gambit Accepted). White can also play 2.Nf3 which again is not specific as to opening. Then Black may play ...Nf6 (same as above) or ...e6. A Queen's Gambit may arise anyway if White plays c4 soon afterward, but lines like the Colle System and Torre Attack are also possible.
 
-1...e6[edit]
+[edit]
 The Franco-Indian Defence is a chess opening characterized by the moves: 1.d4 e6. This play allows White to play 2.e4, entering the French Defence. If White wants to continue with a Queen's Pawn Game however, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Queen's Gambit Declined, Nimzo-Indian or Queen's Indian. A line that is unique to the 1...e6 move order is the Keres Defence, 1.d4 e6 2.c4 Bb4+.
 
-1...d6[edit]
+[edit]
 This move also allows 2.e4 entering the Pirc Defence. If White avoids this, 2.Nf3 or 2.c4 may lead to a King's Indian or Old Indian Defence, or Black may play 2...Bg4, sometimes called the Wade Defence (A41, see 1.d4 d6 2.Nf3 Bg4). 2.c4 e5 is the Rat Defense, English Rat.
 
-1...f5[edit]
+[edit]
 1...f5 is the Dutch Defence. Common White moves are 2.g3, 2.Nf3, and 2.c4.
 
-1...g6[edit]
+[edit]
 1...g6 is sometimes called the Modern Defence line.
 White can play 2.e4 to enter the Modern Defence. More commonly, White plays 2.c4. Black may play 2...Nf6 for the King's Indian Defence (same as 1.d4 Nf6 2.c4 g6). More commonly, Black plays 2...Bg7. Then White's moves include 3.Nc3, 3.e4, and 3.Nf3. 3.Nc3 and 3.e4 often lead to the Modern Defence, Averbakh System, as well as 2...d6. White may also play 2.Nf3. Black may respond 2...Nf6 for the King's Indian, or more commonly, 2...Bg7. Common White responses are 3.e4, 3.c4, and 3.g3.
 
-1...c5[edit]
+[edit]
 1...c5  is the Old Benoni Defence: this is a form of the Benoni Defence seldom used.
 
-1...Nc6[edit]
+[edit]
 1...Nc6 is the Queen's Knight Defense (or Mikenas Defense): this can usually transpose to the Chigorin Defense or the Nimzowitsch Defense.
 
-1...c6[edit]
+[edit]
 This move allows White to play 2.e4, entering the Caro–Kann Defence. If, however, White wants to continue with a Queen's Pawn Game, 2.c4 and 2.Nf3 usually transpose to a familiar opening such as the Slav Defence, London System, or Dutch Defence.
 
-1...b6[edit]
+[edit]
 1...b6 is the English Defence. Common White moves are 2.e4 (which transposes to the Owen Defense), 2.Nf3, and 2.c4.
 
-1...b5[edit]
+[edit]
 1...b5 is the Polish Defence: this is risky and should be played with care. It is better to delay ...b5 until the 2nd move.
 
-1...a6[edit]
+[edit]
 1...a6 can quickly transpose to the St. George Defence.
 
-1...e5[edit]
+[edit]
 1...e5?! is the Englund Gambit: this gives up a pawn for questionable compensation. 
 
-1...Na6[edit]
+[edit]
 1...Na6 is the Australian Defence.[1]
 
-1...g5[edit]
+[edit]
 1...g5? is the Borg Defense, Borg Gambit: this simply loses a pawn to 2.Bxg5.
 
-See also[edit]
+[edit]
 List of chess openings
 Closed Game
-References[edit]
+[edit]
 
 
 Bibliography
 
 
 
-vteChessOutline
+Outline
 Chess theory
 Chess titles
 Grandmaster
@@ -401,7 +388,7 @@ Solving chess
  Chess portal
 Category
 
-Authority control databases International
+International
 FAST
 National
 Germany

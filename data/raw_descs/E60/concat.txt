@@ -1,101 +1,3 @@
-
-The King's Indian Defense is a hypermodern aggressive opening for Black as a response for 1.d4. Following hypermodern principles, Black allows White to build a strong pawn center to later counter-attack it. A sharp opening, the King's Indian is not be the best choice for beginners. However, a number of strong grandmasters like Bobby Fischer and Garry Kasparov consistently employed this opening when fighting for a win with the black pieces.
-
-Starting Position
-
-Pros
-Cons
-
-
-Variations
-
-Main Line
-Samisch
-Averbakh
-Petrosian
-Four Pawns Attack
-
-
-How To Play Against The King's Indian Defense
-
-Main Line
-Makogonov Setup
-
-
-History Of The King's Indian Defense
-Famous Games
-Conclusion
-
-
-Starting Position
-The King's Indian Defense arises after the moves 1.d4 Nf6 2.c4 g6. Like in other hypermodern openings, Black doesn't try to control the center with pawns. Instead, the idea is to let White build a strong pawn center and then counter-attack it using pieces and pawns.
-
-The starting position of the King's Indian Defense.
-
-The King's Indian leads to unbalanced positions where Black tries to fight for an advantage instead of equality. For this reason, it's also a risky opening which usually leads to White having an edge when playing accurately. However, it's also more difficult for White to play for a draw, which tends to lead to more decisive games.
-Pros
-
-Sharp opening
-Leads to fascinating positions
-Black often gets attack against the white king
-
-Cons
-
-White usually gets a space advantage
-White typically builds considerable pressure on the queenside
-There are decent responses for every style of player
-
-Variations
-The theory on the King's Indian is extensive, with many different lines that are popular among top players.
-Main Line
-The main line of the King's Indian sees White building a strong pawn center and Black playing the thematic central pawn break with 6...e5. Black will usually play for checkmate with a kingside attack, while White will likely counter-attack the queenside.
-1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6
-
-
-
-
-Samisch
-The widely popular Samisch variation starts after White plays 5.f3. With this move, White lends support to the e4-pawn and prevents the black f6-knight from jumping to g4. The game usually develops into an all-out war, with players castling to opposite sides of the board. White can also try to squeeze Black slowly with their space advantage.
-1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3
-
-
-
-Averbakh
-Another popular variation is the Averbakh, where White develops the dark-squared bishop to g5. This move discourages the typical King's Indian e7-e5 pawn break.
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5
-
-
-
-Petrosian
-The Petrosian variation is another way to face the King's Indian. White plays the early 7.d5, closing down the center and slowing down the game—something not all King's Indian players are comfortable with. Black will usually maneuver to attack the kingside, with White going for the queenside.
-1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5
-
-
-
-Four Pawns Attack
-The Four Pawns Attack was considered one of the best responses of the King's Indian for years. White accepts Black's challenge and takes the whole center with pawns on c4, d4, e4, and f4. White can then go for a sharp game or try to create a bind. However, the current theory states that White's immense pawn center is slightly flimsy and can be a liability.
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4
-
-How To Play Against The King's Indian Defense
-White's score is usually favorable against the King's Indian Defense. Black's attempt to create an unbalanced position to fight for the advantage can backfire, and statistics show that the well-prepared White player will usually win or draw the game. Below are the variations that have been played numerous times by masters and score well against the King's Indian:
-Main Line
-If you study the main line of the King's Indian for White, you're likely to enjoy considerable success against it. Of the more than 54,000 games in our masters database following the main line, White wins 42%, draws 30%, and loses merely 28%. As stated above, the main line goes 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2.
-Makogonov Variation
-If you'd like to try to surprise your opponent with a sideline, you might want to consider the Makogonov Variation. This variation is gaining popularity among super grandmasters as a way of fighting the King's Indian. With close to 5,000 games in our masters database, White won 51% of the games, drew 24%, and lost only 25%.
-1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3.
-
-With 5.h3, White wants to make the g2-g4 push to stop Black's thematic plan of playing f7-f5. The h3-pawn also stops Black from playing Ng4, allowing White to develop their dark-squared bishop to d3 safely.
-History Of The King's Indian Defense
-The King's Indian Defense has been around for centuries, but many masters considered it a suspicious opening since it gave up control of the center. The opening started gaining traction after the rise of hypermodernism in chess and became widely accepted after strong players like GM David Bronstein employed it successfully.
-Many strong grandmasters have adopted this opening, including former world champions GM Mikhail Tal and Kasparov. The King's Indian is still largely used in tournaments, with players such as GMs Teimour Radjabov and Hikaru Nakamura choosing it as one of their main weapons with Black.
-Famous Games
-If you want to improve your understanding of the King's Indian, you should study the games of players like Bronstein, Tal, Kasparov, and GM Bobby Fischer. Below are some famous games with this opening:
-GM Viktor Korchnoi vs. Fischer
-
-GM Anatoly Karpov vs. Kasparov
-
-Conclusion
-You now know what the King's Indian Defense is, how to reach it, its main ideas, and how to play against it. Head over to our Master Games to learn the main ideas behind this opening and win more games!
 British breed of chicken
 
 
@@ -105,19 +7,19 @@ The Indian Game is a British breed of game chicken, now reared either for meat o
 In the United States the name was changed in the early twentieth century to Cornish. A white variant, the White Cornish, was developed there at about the same time, and is much used in modern industrial chicken meat production in many parts of the world, either for cross-breeding to produce  hybrid broilers, or to produce fast-growing "game hens".[10]
 
 
-History[edit]
+[edit]
 The breed was developed by Sir Walter Gilbert, of Bodmin in Cornwall, in about 1820. It was intended to be a gamecock, but had no aptitude for cockfighting.[10]
 It is recognised as "Indian Game" in Australia,[11]: 196  by the Poultry Club of Great Britain in the United Kingdom,[12] and by the Entente Européenne in Europe.[5] In the United States the name was changed in 1905 to "Cornish Indian Game", and then in 1910 to "Cornish".[10] It was accepted by the American Poultry Association in 1893.[10]
 
-Characteristics[edit]
+[edit]
 The Indian Game is a large and stocky bird, short in the legs and unusually broad and deep in the breast. Some cock birds may be so short-legged and broad-breasted that they are incapable of reproducing.[3]: 80 [7]
 Three colour variants are recognised in the United Kingdom: the dark, the original colour; the Jubilee; and the double-laced blue, which is rare.[7] The Entente Européenne d'Aviculture et de Cuniculture and some European countries recognise the white variant in addition to these three.[5] In the United States, the Cornish is recognised in four colours: the original dark, added to the Standard of Perfection in 1893; the white, added in 1898; the white-laced red, added in 1909; and the buff, added in 1938.[4][10][13]: 100 
 It is resistant to most common diseases of poultry, but vulnerable to parasites.[7] The feathers are thin and hard, without down; this may render the birds susceptible to cold, which may delay breeding in early Spring.[7]
 
-Use[edit]
+[edit]
 The Indian Game was bred as a gamecock, but was not successful as a fighting bird.[10] It was found to be a good meat breed, and was much used for cross-breeding with established meat breeds such as the Dorking, Orpington and Sussex.[9]: 158 [3]: 80  It is a poor layer: the eggs are small and light brown; hens may lay about 80 per year.[3]: 80 
 
-References[edit]
+[edit]
 
 
 

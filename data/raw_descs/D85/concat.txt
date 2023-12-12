@@ -1,16 +1,3 @@
-
-The Exchange Variation of the Gruenfeld is considered one of White's most critical attempts. Since the d5 pawn is not defended by another pawn, White is able to capture it and remove Black's central pawn, leaving White able to build a strong pawn center, which Black tries to pressure with pieces.
-Pros:
-
-White builds a big center
-White might get attacking chances
-
-Cons:
-
-It can be hard to maintain White's center
-Black will get active piece play
-Black can get counterplay on the queenside
-
 Chess openingGrünfeld Defence
 abcdefgh8877665544332211abcdefgh
 Moves1.d4 Nf6 2.c4 g6 3.Nc3 d5ECOD70–D99OriginBad Pistyan, Piešťany, 1922Named afterErnst GrünfeldParentKing's Indian Defence
@@ -22,7 +9,7 @@ The Grünfeld Defence is a chess opening characterised by the moves:
 Black offers White the possibility of 4.cxd5, which may be followed by 4...Nxd5 and 5.e4, giving White an imposing central pawn duo. If White does not take the d5-pawn, Black may eventually play ...dxc4, when a White response of e4 again leads to the same pawn structure. In classical opening theory this imposing pawn centre was held to give White a large advantage, but the hypermodern school, which was coming to the fore in the 1920s, held that a large pawn centre could be a liability rather than an asset. The Grünfeld is therefore a key hypermodern opening, showing in stark terms how a large pawn centre can either be a powerful battering ram or a target for attack.
 
 
-History[edit]
+[edit]
 The first instance of this opening is in an 1855 game by Moheschunder Bannerjee, an Indian player who had transitioned from Indian chess rules, playing Black against John Cochrane in Calcutta, in May 1855:
 
 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Nf3 0-0 6.cxd5 Nxd5 7.Be2 Nxc3 8.bxc3 c5 9.0-0 cxd4 10.cxd4 Nc6 11.Bb2 Bg4 12.Rc1 Rc8 13.Ba3 Qa5 14.Qb3 Rfe8 15.Rc5 Qb6 16.Rb5 Qd8 17.Ng5 Bxe2 18.Nxf7 Na5
@@ -30,7 +17,7 @@ and White mates in three (19.Nh6+ double check Kh8 20.Qg8+ Rxg8 21.Nf7#).[1][2] 
 It gained popularity after Ernst Grünfeld introduced it into international play at Vienna 1922, where, in his first game with the defense, he defeated future world champion Alexander Alekhine.[3] Grünfeld usually employed a very classical style. The defence was later adopted by a number of prominent players, including Vasily Smyslov, Viktor Korchnoi, Leonid Stein and Bobby Fischer. Garry Kasparov often used the defence, including in his World Championship matches against Anatoly Karpov in 1986, 1987 and 1990, and Vladimir Kramnik in 2000. Currently active notable players who employ the opening include Magnus Carlsen, Maxime Vachier-Lagrave, Loek van Wely, Peter Svidler, Peter Leko, Viswanathan Anand, Luke McShane, Ian Nepomniachtchi and Gata Kamsky.[4]  Anand employed it twice in the World Chess Championship 2010. In the World Chess Championship 2012 between Anand and Boris Gelfand, each player used the Grünfeld once with both games ending in draws. Anand faced the Grünfeld against Magnus Carlsen during the first game of the World Chess Championship 2014 and drew in a Rook and Queen ending.
 The Game of the Century between Donald Byrne and 13-year-old Bobby Fischer on October 17, 1956, featured this opening, although arriving in the Grünfeld via a transposition of moves (using 1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.d4 0-0 5.Bf4 d5).
 
-Exchange Variation: 4.cxd5 Nxd5 5.e4 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Exchange Variation
 
@@ -38,35 +25,35 @@ The main line of the Grünfeld, the Exchange Variation (ECO codes D85–D89), is
 White can develop their pieces in a number of ways in the Exchange Variation. For decades, theory held that the correct method of  development was with Bc4 and Ne2, often followed by 0-0 and f4–f5, playing for a central breakthrough or kingside attack. It was generally thought that an early Nf3 was weak in the Exchange Variation because it allowed Black too much pressure on the centre with ...Bg4. In the late 1970s, however, Karpov, Kasparov and others found different methods to play the Exchange Variation with White, often involving an early Rb1 to remove the rook from the sensitive a1–h8 diagonal, as well as attempting to hinder the development of Black's queenside. Another, relatively recently developed system involves quickly playing Be3, Qd2 and Rc1 or Rd1 to fortify White's centre, remove White's rook from the diagonal and possibly enable an early d5 push by White.
 Vladimir Kramnik and Boris Gelfand are the leading practitioners as White, and Ľubomír Ftáčnik has had many fine results with the black pieces.[4]
 
-Russian System: 4.Nf3 Bg7 5.Qb3 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Russian System 5.Qb3
 
 In bringing more pressure to bear against Black's central outpost on d5, White practically forces ...dxc4, thus gaining a central preponderance; however, in return, their queen will often be exposed as Black's queenside play unfolds in the middlegame. After 5...dxc4 6.Qxc4 0-0 7.e4 Black has several primary options:
 
-Hungarian Variation: 7...a6 [edit]
+[edit]
 The Hungarian Variation, 7...a6, has been championed by Peter Leko.
 
-Smyslov Variation: 7...Bg4 8.Be3 Nfd7 [edit]
+[edit]
 Named after Vasily Smyslov, 7...Bg4 8.Be3 Nfd7 was a topical line from the 1950s through the mid-1970s.
 
-Prins Variation: 7...Na6 [edit]
+[edit]
 7...Na6 is Lodewijk Prins's idea, which Kasparov favoured in several of his World Championship matches against Karpov.[5]
 
-Byrne Variation: 7...Nc6 [edit]
+[edit]
 This line is commonly seen in recent games.[6] After 7...Nc6, White will most commonly play 8.Be2, followed by 8...e5! 9.d5 Nd4 10.Nxd4 exd4 11.Qxd4. A pawn sacrifice to develop Black's pieces and generate active counterplay.
 
-Other lines[edit]
+[edit]
 7...c6, 7...b6
 
-Taimanov Variation (aka Petrosian Variation): 4.Nf3 Bg7 5.Bg5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Taimanov Variation 4.Nf3 Bg7 5.Bg5
 
 In this line, favoured by Yasser Seirawan, after the nearly universal 5...Ne4, White plays 6.Bh4 or 6.cxd5, with Black then opting for either 6...Nxc3 7.bxc3 dxc4 or 6...Nxg5 7.Nxg5 e6. In the latter case, 7...c6 is sometimes tried. 6.Nxd5? grabbing the pawn loses a piece after 6...Nxg5 7.Nxg5 e6. After 6.cxd5 Nxg5 7.Nxg5 e6, White has 8.Qd2 exd5 9.Qe3+, with attacking chances (though the interpolation 8...h6 9.Nf3 exd5 is a significant alternative), or the more usual 8.Nf3 exd5 after which play generally proceeds on lines analogous to the Queen's Gambit Declined, Exchange Variation, with a queenside minority attack by White (b2–b4–b5xc6), as Black aims for their traditional kingside play with f7–f5–f4 and, in this case, g6–g5.
 
 
-Lines with 4.Bf4 and the Grünfeld Gambit[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh 4.Bf4
 
@@ -79,29 +66,29 @@ abcdefgh8877665544332211abcdefgh Grünfeld Gambit
 In this variation, play may also continue 4.Bf4 Bg7 5.e3 0-0, which is known as the Grünfeld Gambit (ECO code D83). White can accept the gambit by playing 6.cxd5 Nxd5 7.Nxd5 Qxd5 8.Bxc7, or decline it with 6.Qb3 or 6.Rc1, to which Black responds with 6...c5.
 
 
-Neo-Grünfeld Defence[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Neo-Grünfeld Defence
 
 Systems in which White delays the development Nc3 are known as the Neo-Grünfeld Defence (ECO code D70–D79); typical move orders are 1.d4 Nf6 2.g3 g6 3.c4 d5 or, more commonly, 1.d4 Nf6 2.c4 g6 3.g3 d5 (the latter is known as the Kemeri Variation). 
 
 
-Other variations[edit]
+[edit]
 Apart from the above, among the more popular continuations are:
 
 4.Qb3 (Accelerated Russian System) ECO D81
 4.Nf3 Bg7 5.Qa4+ (Flohr Variation) ECO D90
 4.Nf3 Bg7 5.e3 (Quiet System or Slow System) ECO D94
 4.cxd5 Nxd5 5.Na4 (Nadanian Variation) ECO D85
-Illustrative games[edit]
+[edit]
 Smyslov vs. Fischer, Herceg Novi Blitz Tournament, 1970: 1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.Nf3 0-0 5.0-0 c6 6.d4 d5 7.cxd5 cxd5 8.Nc3 Ne4 9.Qb3 Nc6 10.Be3 Na5 11.Qd1 Nxc3 12.bxc3 b6 13.Ne5 Ba6 14.Re1 Rc8 15.Bd2 e6 16.e4 Bb7 17.exd5 Bxd5 18.Bxd5 Qxd5 19.Qe2 Rfd8 20.Ng4 Nc4 21.Bh6 f5 22.Bxg7 Kxg7 23.Ne3 Nxe3 24.Qxe3 Rc6 25.Rac1 Rdc8 26.c4 Rxc4 27.Rxc4 Rxc4 28.Qxe6 Qxe6 29.Rxe6 Kf7 30.Re3 Rxd4 31.Ra3 a5 32.Rc3 Ke6 33.Kg2 Kd6 34.h4 Ra4 35.Rc2 b5 36.Kf3 b4 37.Ke3 Kd5 38.f3 Ra3+ 39.Kf4 a4 40.g4 fxg4 41.fxg4 b3 42.axb3 axb3 43.Rc7 Ra4+ 44.Kg5 Rb4 45.Rc1 Kd4 46.Kh6 Rb7 0–1[11]
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
-References[edit]
+[edit]
 
-Further reading[edit]
+[edit]
 András Adorján; Jeno Dory, Winning With the Grunfeld (Macmillan, 1987)
 Alexey Suetin, The Complete Grünfeld (Batsford, 1991)
 Anatoly Karpov, Beating the Grünfeld (Batsford, 1992)
@@ -115,13 +102,13 @@ Konstantin Sakaev, An Expert's Guide to the 7.Bc4 Gruenfeld (Chess Stars, 2006)
 Yelena Dembo, Play the Grünfeld (Everyman Chess, 2007)
 
 
-External links[edit]
+[edit]
 
 Chessgames: Grünfeld Gambit
 Chessgames: Neo-Grünfeld 3.f3
 Chessgames: Neo-Grünfeld 3.g3
 
-Authority control databases International
+International
 FAST
 National
 Germany

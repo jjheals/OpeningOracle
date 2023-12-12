@@ -1,7 +1,7 @@
 Chess opening
 
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "French Defence" – news · newspapers · books · scholar · JSTOR (July 2022) (Learn how and when to remove this template message)
+
 Chess openingFrench Defence
 abcdefgh8877665544332211abcdefgh
 Moves1.e4 e6ECOC00–C19Named afterLondon vs. Paris correspondence match (1834–1836)[1]ParentKing's Pawn Game
@@ -11,15 +11,15 @@ The French Defence is a chess opening characterised by the moves:
 This is most commonly followed by 2.d4 d5. Black usually plays ...c5 soon after, attacking White's pawn centre and gaining space on the queenside.[2] The French has a reputation for solidity and resilience, although some lines such as the Winawer Variation can lead to sharp complications. Black's position is often somewhat cramped in the early game; in particular, the pawn on e6 can impede the development of the bishop on c8. [3]
 
 
-Basics[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghPosition after 1.e4 e6 2.d4 d5
 
 Following the opening moves 1.e4 e6, the main line of the French Defence continues 2.d4 d5 (see below for alternatives). White sets up a pawn centre, which Black immediately challenges by attacking the pawn on e4. The same position can be reached by transposition from a Queen's Pawn Game after 1.d4 e6 2.e4 d5 or the declining of a Blackmar–Diemer Gambit after 1.d4 d5 2.e4 e6.
 White's options include defending the e4-pawn with 3.Nc3 or 3.Nd2, advancing it with 3.e5, or exchanging it with 3.exd5, each of which leads to different types of positions. Defending the pawn with 3.Bd3 allows 3...dxe4 4.Bxe4 Nf6, when Black gains either a tempo or the advantage of the two bishops.
 
-General themes[edit]
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "French Defence" – news · newspapers · books · scholar · JSTOR (July 2022) (Learn how and when to remove this template message)
+[edit]
+
 
 abcdefgh8877665544332211abcdefgh Typical pawn structure
 
@@ -44,11 +44,11 @@ abcdefgh8877665544332211abcdefghPosition after 15...Nxc5
 One of the drawbacks of the French Defence for Black is the queen's bishop, which is blocked in by the pawn on e6 and can remain passive throughout the game. An often-cited example of the potential weakness of this bishop is S. Tarrasch–R. Teichmann, San Sebastián 1912, in which the diagrammed position was reached after fifteen moves of a Classical French.
 Black's position is passive because the light-square bishop is hemmed in by pawns on a6, b5, d5, e6 and f7. White will probably try to exchange Black's knight, which is the only one of Black's pieces that has any scope. Although it might be possible for Black to hold on for a draw, it is not easy and, barring any mistakes by White, Black will have few chances to create counterplay; this is why, for many years, the classical lines fell out of favour, and 3...Bb4 began to be seen more frequently after World War I, owing to the efforts of Nimzowitsch and Botvinnik. In Tarrasch–Teichmann, White won after 41 moves. In order to avoid this fate, Black usually makes it a priority early in the game to find a useful post for the bishop. Black can play ...Bd7–a4 to attack a pawn on c2, which occurs in many lines of the Winawer Variation. If Black's f-pawn has moved to f6, then Black may also consider bringing the bishop to g6 or h5 via d7 and e8. If White's light-square bishop is on the f1–a6 diagonal, Black can try to exchange it by playing ...b6 and ...Ba6, or ...Qb6 followed by ...Bd7–b5.
 
-Main line: 2.d4 d5 [edit]
-3.Nc3[edit]
+[edit]
+[edit]
 Played in over 40% of all games after 1.e4 e6 2.d4 d5, 3.Nc3 is the most commonly seen line against the French. Black has three main options, 3...Bb4 (the Winawer Variation), 3...Nf6 (the Classical Variation), and 3...dxe4 (the Rubinstein Variation). An eccentric idea is 3...Nc6!? 4.Nf3 Nf6 with the idea of 5.e5 Ne4; German IM Helmut Reefschlaeger has been fond of this move.
 
-Winawer Variation: 3...Bb4 [edit]
+[edit]
 This variation, named after Szymon Winawer and pioneered by Nimzowitsch and Botvinnik, is one of the main systems in the French, due chiefly to the latter's efforts in the 1940s, becoming the most often seen rejoinder to 3.Nc3, though in the 1980s, the Classical Variation with 3...Nf6 began a revival, and has since become more popular.
 
 
@@ -63,7 +63,7 @@ The purpose behind 7.a4 is threefold: it prepares Bc1–a3, taking advantage of 
 White also has 7.h4, which has the ideas of either pushing this pawn to h6 to cause more dark-square weaknesses in the Black kingside (if Black meets h5 with ...h6, White can play g4–g5), or getting the rook into the game via Rh3–g3.
 Black can also gain attacking chances in most lines: against 7.Qg4, Black will attack White's king in the centre; whereas against the other lines, Black can often gain an attack with ...0-0-0, normally combined with ...c4 to close the queenside, and then ...f6 to open up the kingside, where White's king often resides. If Black can accomplish this, White is often left without meaningful play, although ...c4 does permit White a4 followed by Ba3 if Black has not stopped this by placing a piece on a4 (for example, by Bd7–a4).
 
-Sidelines[edit]
+[edit]
 5th-move deviations for White include:
 
 5.Qg4
@@ -83,34 +83,34 @@ Deviations for Black include:
 4...Ne7 although this move usually transposes to the main line.
 4...b6 followed by ...Ba6, or 4...Qd7 with the idea of meeting 5.Qg4 with 5...f5. However, theory currently prefers White's chances in both lines.
 Another popular way for Black to deviate is 4.e5 c5 5.a3 Ba5, the Armenian Variation, as its theory and practice have been much enriched by players from that country, the most notable of whom is Rafael Vaganian. Black maintains the pin on the knight, which White usually tries to break by playing 6.b4 cxb4 7.Qg4 or 7.Nb5 (usually 7.Nb5 bxa3+ 8.c3 Bc7 9.Bxa3 and White has the upper hand).
-Classical Variation: 3...Nf6 [edit]
+[edit]
 This is another major system in the French. White can continue with the following options:
 
-4.Bg5[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghClassical Variation after 3...Nf6 4.Bg5
 
 White threatens 5.e5, attacking the pinned knight. Black has a number of ways to meet this threat.
 
-Burn Variation: 4...dxe4 [edit]
+[edit]
 Named after Amos Burn, the Burn Variation is the most common reply at the top level. 4...dxe4 5.Nxe4 and usually there now follows: 5...Be7 6.Bxf6 Bxf6 7.Nf3 Nd7 or 7...0-0, resulting in a position resembling those arising from the Rubinstein Variation. However, here Black has the bishop pair, with greater dynamic chances (although White's knight is well placed on e4), so this line is more popular than the Rubinstein and has long been a favourite of Evgeny Bareev. Black can also try 5...Be7 6.Bxf6 gxf6, as played by Alexander Morozevich and Gregory Kaidanov; by following up with ...f5 and ...Bf6, Black obtains active piece play in return for his shattered pawn structure. Another line that resembles the Rubinstein is 5...Nbd7 6.Nf3 Be7 (6...h6 is also tried) 7.Nxf6+ Bxf6.
 
-4...Be7 5.e5 Nfd7 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghAlekhine–Chatard Attack Declined, White forces an attack after 6...h6 7.Bxe7 Qxe7 8.f4 a6 9.g4.
 
 4...Be7 5.e5 Nfd7 used to be the main line, even though the Burn Variation has overtaken it in popularity. The usual continuation is 6.Bxe7 Qxe7 7.f4 0-0 (not 7...c5? 8.Nb5!) 8.Nf3 c5, when White has a number of options, including 9.Bd3, 9.Qd2 and 9.dxc5.
 An alternative for White is the gambit 6.h4, which was devised by Adolf Albin and played by Chatard, but not taken seriously until the game Alekhine–Fahrni, Mannheim 1914. It is known today as the Albin–Chatard Attack or the Alekhine–Chatard Attack. After 6...Bxg5 7.hxg5 Qxg5 8.Nh3 Qe7 9.Qg4 g6 10.Ng5 (the reason for 8.Nh3 rather than 8.Nf3 is to play Qg4), White has sacrificed a pawn to keep the black king in the centre, as castling neither queenside nor kingside appears safe. Another point of the gambit is that Black's natural French Defence move 6...c5 runs into 7.Bxe7 when Black must either move the king with 7...Kxe7 or allow 7...Qxe7 8.Nb5! with a dual threat of Nc7+, winning the rook on a8, and Nd6+, when Black's king must move and the knight is very strong on d6. Black may decline the gambit in several ways such as 6...a6 and 6...h6. After 6...a6, White can continue to play for an attack with the aggressive 7.Qg4! threatening Bxe7 and then Qxg7. Black is forced to eliminate the bishop with 7...Bxg5 8.hxg5, opening up the h-file. A wild game with unsafe kings is sure to ensue. 6...h6 is a safer declination of the sacrifice, forcing the bishop to trade with 7.Bxe7 Qxe7 after which White may continue to try to attack on the kingside in anticipation of Black castling kingside (since queenside castling is undesirable due to the need for c5) with 8.f4 a6 9.g4 with a menacing attack.
-McCutcheon Variation: 4...Bb4 [edit]
+[edit]
 A third choice for Black is to counterattack with the McCutcheon Variation. In this variation, the second player ignores White's threat of e4–e5 and instead plays 4...Bb4. The main line continues: 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4. At this point Black may play 8...g6, which weakens the kingside dark squares but keeps the option of castling queenside, or 8...Kf8. An alternative way White can treat 5...h6 is to carry through with the threat with 6.exf6 hxg5 7.fxg7 Rg8. The McCutcheon Variation is named for John Lindsay McCutcheon of Philadelphia (1857–1905), who brought the variation to public attention when he used it to defeat World Champion Steinitz in a simultaneous exhibition in Manhattan in 1885.[4][5][6]
-Steinitz Variation: 4.e5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghSteinitz Variation after 4.e5 Nfd7
 
 Named after Wilhelm Steinitz, the Steinitz Variation continues with 4.e5 Nfd7. Here 5.Nce2, the Shirov–Anand Variation, prepares to bolster the white pawn centre with c2–c3 and f2–f4; while 5.Nf3 transposes to a position also reached via the Two Knights Variation (2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.d4). The main line of the Steinitz is 5.f4 c5 6.Nf3 Nc6 7.Be3. (Instead 7.Ne2 transposes to the Shirov–Anand Variation, while 7.Be2? cxd4 8.Nxd4 Ndxe5! 9.fxe5 Qh4+ wins a pawn for Black.) Here Black may step up the pressure on d4 by playing 7...Qb6 or 7...cxd4 8.Nxd4 Qb6, begin queenside play with 7...a6 8.Qd2 b5, or continue kingside development by playing 7...Be7 or 7...cxd4 8.Nxd4 Bc5. In these lines, White has the option of playing either Qd2 and 0-0-0, or Be2 and 0-0, with the former typically leading to sharper positions due to opposite-side castling when Black castles kingside in both cases.
 
 
-Rubinstein Variation: 3...dxe4 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Rubinstein Variation after 3...dxe4 4.Nxe4
 
@@ -119,13 +119,13 @@ This variation is named after Akiba Rubinstein and can also arise from a differe
 The mainline 4...Nd7 (the most frequent high-level exponent of this variation is Georg Meier). Play might typically proceed 5.Nf3 Ngf6 6.Nxf6+ Nxf6 when Black is ready for ...c5.
 4...Bd7 5.Nf3 Bc6 (the Fort Knox Variation) activating the light-square bishop, which is often played by Alexander Rustemov.
 
-Hecht Reefschlager Variation: 3...Nc6 [edit]
+[edit]
 3...Nc6 is the Hecht Reefschlager Variation, a name coined by John Watson.[7] This sideline has been played by Aron Nimzowitsch and many other players.
 
-Rare sidelines after 3.Nc3[edit]
+[edit]
 One rare sideline after 3.Nc3 is 3...c6, which is known as the Paulsen Variation, after Louis Paulsen. It can also be reached via a Caro–Kann Defence move order (1.e4 c6 2.d4 d5 3.Nc3 e6).
 
-Tarrasch Variation: 3.Nd2 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Tarrasch Variation after 3.Nd2 Nf6
 
@@ -139,7 +139,7 @@ Like 3.Nc3, 3.Nd2 protects e4, but is different in several key respects: it does
 3...Nc6 is known as the Guimard Variation: after 4.Ngf3 Nf6 5.e5 Nd7 Black will exchange White's cramping e-pawn next move by ...f6. However, Black does not exert any pressure on d4 because he cannot play ...c5, so White should maintain a slight advantage, with 6.Be2 or 6 Nb3.
 3...Be7 is known as the Morozevich Variation.[8] A fashionable line among top GMs in recent years, this odd-looking move aims to prove that every White move now has its drawbacks, e.g. after 4.Ngf3 Nf6 5.e5 Nfd7 White cannot play f4, whereas 4.Bd3 c5 5.dxc5 Nf6 and 4.e5 c5 5. Qg4 Kf8!? lead to obscure complications. 3...h6?!, with a similar rationale, has also gained some adventurous followers in recent years, including GM Alexander Morozevich.
 Another rare line is 3...a6, which gained some popularity in the 1970s. Similar to 3...Be7, the idea is to play a waiting move to make White declare his intentions before Black commits to a plan of his own. 3...a6 also controls the b5-square, which is typically useful for Black in most French lines because, for example, White no longer has the option of playing Bb5.
-Advance Variation: 3.e5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Advance Variation after 3.e5 c5 4.c3 Nc6 5.Nf3
 
@@ -153,7 +153,7 @@ The main line of the Advance Variation continues 3...c5 4.c3 Nc6 5.Nf3 and then 
 5...Nh6 has recently become a popular alternative; the idea is that 6.Bxh6 gxh6 gains Black a semi-open g-file to attack the White king, or Black can play ...Bg7 to support ...f6 to attack White's pawn on e5. If White doesn't take the knight, it will move to f5 to pressure d4, or (after ...f6) to f7 to pressure e5.
 There are alternative strategies to 3...c5 that were tried in the early 20th century such as 3...b6, intending to fianchetto the bad bishop and which can transpose to Owen's Defence. Also possible is 4...Qb6 5.Nf3 Bd7 intending 6...Bb5 to trade off the "bad" queen's bishop. Playing 3...Nc6 is a misguided attempt to reach the Hecht Reefschlager Variation or the Guimard Variation.
 
-Exchange Variation: 3.exd5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Exchange Variation after 3.exd5 exd5
 
@@ -163,7 +163,7 @@ To create genuine winning chances, White will often play c2–c4 at some stage t
 If c2–c4 is not played, White and Black have two main piece setups. White may put his pieces on Nf3, Bd3, Bg5 (pinning the black knight), Nc3, Qd2 or the queen's knight can go to d2 instead and White can support the centre with c3 and perhaps play Qb3. Conversely, when the queen's knight is on c3, the king's knight may go to e2 when the enemy bishop and knight can be kept out of the key squares e4 and g4 by f3. When the knight is on c3 in the first and last of the above strategies, White may choose either short or long castling. The positions are so symmetrical that the options and strategies are the same for both sides.
 Another way to unbalance the position is for White or Black to castle on opposite sides of the board. An example of this is the line 4.Bd3 Nc6 5.c3 Bd6 6.Nf3 Bg4 7.0-0 Nge7 8.Re1 Qd7 9.Nbd2 0-0-0.
 
-Early deviations for White[edit]
+[edit]
 After 1.e4 e6, the main variation continues 2.d4 d5, but White can try other ideas.
 
 2.d3 is usually played with the idea of adopting a King's Indian Attack setup after 2...d5 3.Nd2. It has been used by many leading players over the years, including GMs Pal Benko, Bobby Fischer, Leonid Stein and Lev Psakhis. White will likely play Ngf3, g3, Bg2, 0-0, c3 and/or Re1 in some order on the next few moves. Black may combat this setup with 3...c5 followed by ...Nc6, ...Nf6, ...Be7, and ...0-0; developing the kingside by ...Bd6 and ...Nge7 is also playable.  3...Nf6 4.Ngf3 Nc6 plans ...dxe4 and ...e5 to block in the Bg2, and 3...Nf6 4.Ngf3 b6 makes ...Ba6 possible if White's light-square bishop leaves the a6–f1 diagonal.  Black may defer ...d5, and play 2...c5 and 3...Nc6, developing the kingside by ...g6, ...Bg7, and ...Nge7, or less commonly, by ...Nf6, ...Be7, and (if White's knight goes to d2) ...d6.
@@ -176,17 +176,17 @@ After 1.e4 e6, the main variation continues 2.d4 d5, but White can try other ide
 2.e5 the Steinitz Attack, offers no advantage to White after 2...d6; alternatively 2...d5 3.d4 transposes into the Advance Variation.
 There are also a few rare continuations after 1.e4 e6 2.d4 d5, including 3.Bd3 (the Schlechter Variation), 3.Be3 (the Alapin Gambit), and 3.c4 (the Diemer–Duhm Gambit, which can also be reached via the Queen's Gambit Declined).
 
-Early deviations for Black[edit]
+[edit]
 Although 2...d5 is the most consistent move after 1.e4 e6 2.d4, Black occasionally plays other moves. Chief among them is 2...c5, the Franco-Benoni Defence, so-called because it features the ...c7–c5 push characteristic of the Benoni Defence. White may continue 3.d5, when play can transpose into the Benoni, though White has extra options since c2–c4 is not mandated. 3.Nf3, transposing into a normal Sicilian Defence, and 3.c3, transposing into a line of the Alapin Sicilian (usually arrived at after 1.e4 c5 2.c3 e6 3.d4) are also common. Play may also lead back to the French; for example, 1.e4 e6 2.d4 c5 3.c3 d5 4.e5 transposes into the Advance Variation. Another move is 2...b6, which transposes into Owen's Defence or the English Defence. Also possible is 2...f5, the Franco-Hiva Gambit, but this is regarded as dubious.[16]
 
-History[edit]
+[edit]
 The French Defence is named after a match played by correspondence between the cities of London and Paris in 1834[1] (although earlier examples of games with the opening do exist). It was Jacques Chamouillet, one of the players of the Paris team, who persuaded the others to adopt this defence.[17]
 As a reply to 1.e4, the French Defence received relatively little attention in the nineteenth century compared to 1...e5. The first world chess champion Wilhelm Steinitz said "I have never in my life played the French Defence, which is the dullest of all openings".[18]  In the early 20th century, Géza Maróczy was perhaps the first world-class player to make it his primary weapon against 1.e4. For a long time, it was the third most popular reply to 1.e4, behind only 1...c5 and 1...e5. However, according to the Mega Database 2007,[19] in 2006, 1...e6 was second only to the Sicilian in popularity.
 Historically important contributors to the theory of the defence include Mikhail Botvinnik, Viktor Korchnoi, Akiba Rubinstein, Aron Nimzowitsch, Tigran Petrosian, Lev Psakhis, Wolfgang Uhlmann and Rafael Vaganian. More recently, its leading practitioners include Evgeny Bareev, Alexey Dreev, Mikhail Gurevich, Alexander Khalifman, Smbat Lputian, Alexander Morozevich, Teimour Radjabov, Nigel Short, Gata Kamsky, and Yury Shulman.
 The Exchange Variation was recommended by Howard Staunton in the 19th century,[20] but has been in decline ever since. In the early 1990s, Garry Kasparov briefly experimented with it before switching to 3.Nc3. Black's game is made much easier as his queen's bishop has been liberated. It has the reputation of giving immediate equality to Black due to the symmetrical pawn structure.
 Like the Exchange, the Advance Variation was frequently played in the early days of the French Defence. Aron Nimzowitsch believed it to be White's best choice and enriched its theory with many ideas. The Advance declined in popularity, however, throughout most of the 20th century until it was revived in the 1980s by GM and prominent opening theoretician Evgeny Sveshnikov, who continued to be a leading expert in this line. In recent years, it has become nearly as popular as 3.Nd2; GM Alexander Grischuk has championed it successfully at the highest levels. It is also a popular choice at the club level due to the availability of a simple, straightforward plan involving attacking chances and extra space.
 
-ECO codes[edit]
+[edit]
 The Encyclopaedia of Chess Openings includes an alphanumeric classification system for openings that is widely used in chess literature. Codes C00 to C19 are the French Defence, broken up in the following way (all apart from C00 start with the moves 1.e4 e6 2.d4 d5):
 
 C00 – 1.e4 e6 without 2.d4, or 2.d4 without 2...d5 (early deviations)
@@ -209,14 +209,12 @@ C16 – 3.Nc3 Bb4 4.e5
 C17 – 3.Nc3 Bb4 4.e5 c5
 C18 – 3.Nc3 Bb4 4.e5 c5 5.a3 (includes the Armenian Variation, 5...Ba5)
 C19 – 3.Nc3 Bb4 4 e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 and 7.a4
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after places
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
 
@@ -227,12 +225,14 @@ Further reading[edit]
 
 
 
-External links[edit]
+
+
+[edit]
 
 The Anatomy of the French Advance
 “6 h4 in the French Defence” by Edward Winter
 
-Authority control databases International
+International
 FAST
 National
 Spain

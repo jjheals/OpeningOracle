@@ -134,7 +134,7 @@ class OpeningLDA:
     def __construct_topic_doc_matrix__(self) -> None: 
         
         # Define local variables for clarity
-        P:int = len(self.corpus)                    # P := number of documents (same as len(self.texts))
+        P:int = len(self.texts)                    # P := number of documents (same as len(self.texts))
         N:int = self.num_topics                     # N := number of topics
         self.topic_doc_matrix:np.matrix = np.zeros((P,N))    # Create initial empty matrix (PxN)
         

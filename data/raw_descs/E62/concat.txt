@@ -1,17 +1,3 @@
-
-The Fianchetto Variation against the King's Indian combines the fianchetto of the white king's-bishop with the moves c4 and d4. White usually holds back on the move e2-e4, and the bishop on g2 helps to keep the king safe.
-Pros:
-
-More long-term pressure
-Solid
-Less direct attacking chances for Black
-
-Cons:
-
-The c4-pawn is not supported
-White's center is not so threatening
-Black may gain strong counterplay on the long-diagonal
-
 Chess opening
 This article is about the opening defined primarily by the placement of the Black pieces. For the opening system that creates a similar arrangement of the White pieces, see King's Indian Attack.
 Chess openingKing's Indian Defence
@@ -25,15 +11,15 @@ Black intends to follow up with 3...Bg7 and 4...d6 (the Grünfeld Defence arises
 The King's Indian is a hypermodern opening, where Black deliberately allows White control of the centre with pawns, with the view to subsequently challenge it. In the most critical lines of the King's Indian, White erects an imposing pawn centre with Nc3 followed by e4. Black stakes out their own claim to the centre with the Benoni-style ...c5, or ...e5. If White resolves the central pawn tension with d5, then Black follows with either ...b5 and queenside play, or ...f5 and an eventual kingside attack. Meanwhile, White attempts to expand on the opposite wing. The resulting unbalanced positions offer scope for both sides to play for a win.
 
 
-History[edit]
+[edit]
 The earliest known use of the term "Indian Defence" was in 1884. The modern names "King's Indian Defence", "King's Indian Attack", etc. arose in the mid-twentieth century and are attributed to Hans Kmoch. Until the mid-1930s, the King's Indian Defence was generally regarded as highly suspect, but the analysis and play of three strong Soviet players in particular—Alexander Konstantinopolsky, Isaac Boleslavsky, and David Bronstein—helped to make the defence much more respected and popular. It is a dynamic opening, exceptionally complex, and a favourite of former world champions Garry Kasparov, Bobby Fischer, and Mikhail Tal, with prominent grandmasters Viktor Korchnoi, Miguel Najdorf, Efim Geller, John Nunn, Svetozar Gligorić, Wolfgang Uhlmann, and Ilya Smirin having also contributed much to the theory and practice of this opening. 
 In the early 2000s the opening's popularity suffered after Vladimir Kramnik began scoring excellently against it, so much so that Kasparov gave up the opening after several critical losses to Kramnik. However, Kramnik himself won a game on the black side of the KID in 2012,[1]  and current top players including Hikaru Nakamura, Teimour Radjabov, and Ding Liren play the opening.
 
-Variations[edit]
+[edit]
 The main variations of the King's Indian are:
 
-3.Nc3 Bg7 4.e4 d6[edit]
-Classical Variation: 5.Nf3 0-0 6.Be2 e5 [edit]
+[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghClassical Variation after 6...e5
 
@@ -52,12 +38,12 @@ The Main Line or Mar del Plata Variation continues 7.0-0 Nc6 8.d5 Ne7. Now White
 7...h6!? is a favourite of John Nunn. The main line runs 8.0-0 Ng4 9.Bc1 Nc6 10.d5 Ne7 11.Ne1 f5 12.Bxg4 fxg4. In this subvariation, Black's kingside play is of a different type than normal KID lines, as it lacks the standard pawn breaks, so they will now play g6–g5 and Ng6–f4, often investing material in a piece attack in the f-file against the white king, while White plays for the usual queenside breakthrough with c4–c5.
 7...exd4 immediately surrenders the centre, with a view to playing a quick c7–c6 and d6–d5. For example, 8.Nxd4 Re8 9.f3 c6 10.Qd2 (10.Bf2!?) 10...d5 11.exd5 cxd5 12.0-0 Nc6 13.c5 and 13...Rxe3!? (which was first seen in game 11 of the 1990 World Chess Championship between Kasparov and Karpov).
 In the Exchange Variation (7.dxe5 dxe5 8.Qxd8 Rxd8), White exchanges queens and is content to play for a small, safe advantage in the relatively quiet positions which will ensue in this queenless middlegame. The line is often played by White players hoping for an early draw, but there is still a lot of play left in the position. White tries to exploit d6 with moves such as b4, c5, Nf3–d2–c4–d6, etc., while Black will play to control the hole on d4. In practice, it is easier to exploit d4, and chances are balanced. If Black is able to play ...Nd4, they will often have at least an equal position, even when this involves the sacrifice of a pawn to eliminate White's dark-squared bishop.
-Sidelines[edit]
+[edit]
 A minor but still significant sideline occurs for White on move 6, with 6.Bg5, the Zinnowitz Variation, instead of 6.Be2 e5. The line was played several times by German Grandmaster Burkhard Malich in the 1960s and 1970s.[3] It is currently unfashionable at master level; Black gets a good game with either 6...h6 or 6...Nbd7. This line is distinct from the much more popular Averbakh Variation, described below, since in the Zinnowitz, White has played 5.Nf3 instead of 5.Be2, as in the Averbakh, and then follows with 6.Bg5.
 Another, more significant and quite popular sideline occurs for Black on move 6, with 6...Bg4, in place of the mainline 6...e5. One idea for Black here is to relieve their somewhat cramped position by exchanging their light-squared bishop, which is often relegated to a passive role in the King's Indian. White's most popular response is 7.Be3, similar to the Gligoric System (see above); White seems to retain a small edge in every variation. Top players who have used this line for Black include two former World Champions: GMs Mikhail Tal and Boris Spassky.[4]
 After 6...c5 7.O-O cxd4 8.Nxd4 Nc6, the game transposes into the Accelerated Dragon variation of the Sicilian Defence.
 
-Sämisch Variation: 5.f3 [edit]
+[edit]
 Main article: King's Indian Defence, Sämisch Variation
 The Sämisch Variation is 3.Nc3 Bg7 4.e4 d6 5.f3. It is named after Friedrich Sämisch, who developed the system in the 1920s. This often leads to very sharp play with the players castling on opposite wings and attacking each other's kings, as in the Bagirov–Gufeld game given below, though it may also give rise to heavyweight positional struggles. Black has a variety of pawn breaks, such as ...e5, ...c5 and ...b5 (prepared by ...c6 and/or ...a6). This can transpose to the Modern Benoni after 5...0-0 6.Bg5 c5 7.d5 e6. World champions Mikhail Botvinnik, Mikhail Tal, Tigran Petrosian, Boris Spassky, Anatoly Karpov and Garry Kasparov have all played this variation. This line defends the e4-pawn to create a secure centre and enables White to begin an attack kingside with Be3, Qd2, Bh6, g2–g4 and h2–h4. It allows placement of a bishop on e3 without allowing ...Ng4; however, its drawback is that it deprives the knight on g1 of its most natural square, thus impeding development of the kingside. Black can strike for the centre as previously mentioned or delay with 6...Nc6, 7...a6 and 8...Rb8 so that Black can play ...b7–b5 to open lines on the queenside.
 
@@ -69,7 +55,7 @@ The Sämisch Gambit arises after 5...0-0 6.Be3 c5. This is a pawn sacrifice, and
 5...0-0 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8 leads to the Panno Variation of the Sämisch. Black prepares to respond appropriately depending on White's choice of plan. If White plays 0-0-0 and goes for a kingside attack, then 7...a6 prepares ...b7–b5 with a counterattack against White's castled position. If instead White plays more cautiously, then Black challenges White's centre with ...e5.
 
 
-Averbakh Variation: 5.Be2 0-0 6.Bg5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghAverbakh Variation
 
@@ -80,7 +66,7 @@ However, 6...Nbd7 and 6...Na6 (Judit Polgár's move) are also seen.
 It is possible that the Averbakh System (of the Modern Defense) can transition to the Averbakh Variation of the King's Indian Defence.
 
 
-Four Pawns Attack: 5.f4 [edit]
+[edit]
 Main article: King's Indian Defence, Four Pawns Attack
 
 abcdefgh8877665544332211abcdefghFour Pawns Attack
@@ -93,7 +79,7 @@ The Four Pawns Attack continues with 3.Nc3 Bg7 4.e4 d6 5.f4 0-0 6.Nf3. This is t
 9...b5 is known to lead to sharp, dangerous play.
 6...Na6 is known as the Modern Variation. This is a move anticipating playing ...Nc5 with counterplay. If white makes neutral moves such as 7.Bd3, this has had success. On the other hand, 7.e5 is the most aggressive plan.
 
-Fianchetto Variation: 3.Nf3 Bg7 4.g3 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghFianchetto Variation
 
@@ -103,17 +89,17 @@ The Fianchetto Variation 1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 0-0 5.Bg2 d6 6.0-0, is 
 8...c6 and 8...a6 are alternatives.
 6...Nc6 7.Nc3 a6 8.d5 Na5. This variation goes against ancient dogma which states that knights are not well placed on the rim; however, extra pressure is brought to bear against the Achilles Heel of the fianchetto lines—the weakness at c4. Hundreds of master games have continued with 9.Nd2 c5 10.Qc2 Rb8 11.b3 b5 12.Bb2 bxc4 13.bxc4 Bh6 14.f4 (14.e3 Bf5 is a trap that numbers Mark Taimanov among its victims;[6] White must now lose material, as he has no good interposition) 14...e5!
 
-Sidelines[edit]
+[edit]
 Finally, White has other setups, such as Nf3 and h3 and Nge2 (with or without Bd3), but these are currently not as popular at the grandmaster level. 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 followed by 6.Ng3 is called the Hungarian Attack.
 
-Famous games[edit]
+[edit]
 One of the earliest examples: 
 
 John Cochrane vs. Bonnerjee Mohishunder, Calcutta, India, 1851 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 0-0 6.Nf3 e5 7.fxe5 dxe5 8.Nxe5 c5 9.d5 Nxe4 10.Nxe4 Qh4+ 11.Nf2 Bxe5 12.g3 Qf6 13.Qe2 Bc3+ 14.Kd1 Bd4 15.Ne4 Qa6 16.Bh6 Rd8 17.Bg2 Nd7 18.Rf1 f5 19.Ng5 Ne5 20.Nf3 Nxf3 21.Bxf3 Bd7 22.Kc2 Re8 23.Qd3 f4 24.Rae1 Bf5 25.Be4 Rxe4 26.Rxe4 Bxe4 0–1[7]
 One of the most famous King's Indian games was a brilliancy by the late Ukrainian-American grandmaster Eduard Gufeld, who called it his "Mona Lisa":[8]
 
 Vladimir Bagirov vs. Eduard Gufeld, USSR championship 1973 1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nf6 5.f3 0-0 6.Be3 Nc6 7.Nge2 Rb8 8.Qd2 a6 9.Bh6 b5 10.h4 e5 11.Bxg7 Kxg7 12.h5 Kh8 13.Nd5 bxc4 14.hxg6 fxg6 15.Qh6 Nh5 16.g4 Rxb2 17.gxh5 g5 18.Rg1 g4 19.0-0-0 Rxa2 20.Nef4 exf4 21.Nxf4 Rxf4 22.Qxf4 c3 23.Bc4 Ra3 24.fxg4 Nb4 25.Kb1 Be6 26.Bxe6 Nd3 27.Qf7 Qb8+ 28.Bb3 Rxb3+ 29.Kc2 Nb4+ 30.Kxb3 Nd5+ 31.Kc2 Qb2+ 32.Kd3 Qb5+ 0–1
-ECO codes[edit]
+[edit]
 The Encyclopaedia of Chess Openings (ECO) classification of variations of the King's Indian are:
 
 E60 King's Indian Defence
@@ -156,11 +142,9 @@ E96 King's Indian, Orthodox, 7...Nbd7, Main line
 E97 King's Indian, Orthodox, Aronin–Taimanov Variation (Yugoslav Attack / Mar del Plata Variation)
 E98 King's Indian, Orthodox, Aronin–Taimanov, 9.Ne1
 E99 King's Indian, Orthodox, Aronin–Taimanov, Main
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
 
@@ -172,7 +156,9 @@ Further reading[edit]
 
 
 
-External links[edit]
+
+
+[edit]
 
 Chess Siberia: King's Indian Defence. Saemisch System
 Vladimir Bagirov–Eduard Gufeld, USSR championship 1973 "The Mona Lisa" at chessgames.com

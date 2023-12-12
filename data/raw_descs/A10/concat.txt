@@ -1,88 +1,4 @@
 
-The English Opening is a flank opening where White advances their c-pawn two squares instead of the d- or e-pawns. The English is a highly transpositional opening, meaning that in many cases the game will reach the same position that arises from other openings and through different move orders. The English Opening is most suitable for intermediate and advanced players and demands more understanding of positional concepts.
-A respectable opening, the English has been adopted by several elite players. Among them are former world champions GMs Mikhail Botvinnik, Garry Kasparov, and even the 1.e4-devotee Bobby Fischer.
-
-Starting Position
-
-Pros
-Cons
-
-
-Main Variations Of The English Opening
-
-Reversed Sicilian
-Four Knights' Variation
-Bremen System
-Botvinnik System
-Closed Variation
-Symmetrical English
-Symmetrical Four Knights'
-Ultra-Symmetrical Line
-Hedgehog Defense
-
-
-History Of The English Opening
-
-
-Starting Position
-The English Opening happens when White starts the game with the move 1.c4. White refrains from moving their d and e-pawns and instead uses a flank pawn to control the center.
-
-The starting position of the English Opening.
-
-White's first move allows for more versatile play with the center pawns by both sides. The game mainly revolves around who will get to solidify their grip over the center of the board.
-Usually, White will play with a Sicilian-like setup with colors reversed or the game will transpose into a queen's-pawn opening. The latter is another reason behind White's move: it avoids or limits Black's responses to some defenses against 1.d4 openings.
-Pros
-
-Fights for the center with a wing pawn
-Can lead to queenside pressure
-Takes many Black players out of their comfort zone
-
-Cons
-
-Slower development
-Less direct attacking chances
-Allows Black to put a strong pawn on e5
-
-Main Variations Of The English Opening
-As mentioned, the English is a highly transpositional opening. For this reason, it has few independent variations. However, that doesn't mean that it is light in theory. Due to its positional nature and the many transpositions that can occur, White must know what they're doing to employ this opening successfully. Below you can see the main variations in the English Opening.
-Reversed Sicilian
-Reversed Sicilian games start after Black plays the move ...e5, either after 1.c4 e5 or after delaying the e-pawn thrust for a few moves. As the name suggests, White will play a Sicilian-like setup with an extra tempo.
-
-
-Four Knights' Variation
-The Four Knights Variation happens after the moves 1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6. Black's setup is flexible and allows for counterattacks. They will usually exchange their dark-squared bishop for White's c3-knight or play against White's Sicilian Dragon setup down a tempo.
-
-Bremen System
-The Bremen System occurs after 1.c4 e5 2.Nc3 Nf6 3.g3. White accelerates the development of their light-squared bishop, trying to increase their control over the central light-squares. They can also use this variation to limit Black's options and later transpose to other lines of the Four Knights'.
-
-Botvinnik System
-The Botvinnik System is a development setup that White can adopt when playing the English. As a system, this development scheme works against many different moves Black chooses to play in the opening.
-Its basic setup involves building a pawn triangle on the c4, d3, and e4-squares, controlling the d5 square, and tying up Black's pieces. White also places a knight on c3, fianchettoes a bishop on g2, and castles kingside. Move order is not as important in this system as long as White reaches the final setup.
-
-The Botvinnik System is easy to learn but still has some sting. White can go for a kingside mating attack, playing in the center with a powerful knight on d5, or even play on the queenside. On the other hand, Black can get a good game if they can exploit the holes left by White's pawn play, especially in the d4-square.
-Closed Variation
-The Closed Variation starts with the moves 1.c4 e5 2.Nc3 Nc6 when Black plays as White would play a Closed Sicilian. White usually dominates the queenside while Black gets counterplay on the kingside. The way players develop their kingside knight impacts the rest of the game significantly.
-
-Symmetrical English
-The Symmetrical English is the umbrella of openings that arise after 1.c4 c5. From there, the game can transpose into numerous variations of the Sicilian Defense or other openings.
-
-Symmetrical Four Knights'
-The Symmetrical, Four Knights' Variation starts after 1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6. In this variation, one of the players will usually push their d-pawn forward two squares, and players will battle for the control of the central squares.
-
-Ultra-Symmetrical Line
-The Ultra-Symmetrical line starts with the moves 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7. Both players fianchetto their kingside bishop to discourage their opponents from pushing the d-pawn. This variation usually leads to slow, maneuvering games.
-
-Hedgehog Defense
-The Hedgehog Defense is a solid way for Black to deal with the English. It starts after the moves 1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7, when Black accepts a cramped position to later counterattack at the right moment. Black usually exchanges their c-pawn for White's d-pawn, lines up a queen and rook on the semi-open c-file, and develops their pieces behind their pawns. Black's play revolves around making use of their pieces' dynamic potential.
-
-History Of The English Opening
-The English Opening receives its name from Howard Staunton, the famous English master. Staunton played 1.c4 six times against Pierre de Saint Amant in their unofficial world championship match. However, the opening didn't become popular until Botvinnik started using it in the 1930s.
-
-Botvinnik in 1933. Photo: Wikimedia Commons, CC.
-
-The English hit its peak during the 1960s through the 1980s after elite players started using it regularly. Some of its adopters were GMs Tigran Petrosian, Jan Timman, and Kasparov. Even Fischer, who almost always preferred 1.e4 openings, employed the English to win a game against GM Boris Spassky during their world championship match.
-From the 1990s onward, the popularity of the English has slightly declined. However, the opening is still played frequently and is part of many world-class players' opening repertoire.
-
 
 Chess openingEnglish Opening
 abcdefgh8877665544332211abcdefghMoves1.c4ECOA10–A39OriginStaunton vs. Saint-Amant, 1843Named afterHoward Staunton, English player and World Champion (unofficial)
@@ -91,14 +7,14 @@ The English Opening is a chess opening that begins with the move:
 1. c4
 A flank opening, it is the fourth most popular[1][2] and, according to various databases, one of the four most successful of White's twenty possible first moves.[1][3] White begins the fight for the centre by staking a claim to the d5-square from the wing, in hypermodern style. Although many lines of the English have a distinct character, the opening is often used as a transpositional device in much the same way as 1.Nf3 – to avoid such highly regarded responses to 1.d4 as the Nimzo-Indian and Grünfeld Defences – and is considered reliable and flexible.[4]
 
-History of the opening[edit]
+[edit]
 The English derives its name from the leading 19th century English master Howard Staunton, who played it during his 1843 match with Saint-Amant and at London 1851, the first international tournament.[5] It did not inspire Staunton's contemporaries and caught on only in the twentieth century.[5] It is now recognised as a solid opening that may be used to reach both classical and hypermodern chess positions. Mikhail Botvinnik, Tigran Petrosian, Anatoly Karpov, Garry Kasparov, Magnus Carlsen, and Ding Liren have employed it during their world championship matches. Bobby Fischer created a stir when he switched to it from his customary 1.e4 late in his career, employing it against Lev Polugaevsky and Oscar Panno at the Palma de Mallorca Interzonal in 1970, and in his world championship match against Boris Spassky.
 
 
-Taxonomy[edit]
+[edit]
 Opening theoreticians who write on the English Opening divide it into three broad categories, generally determined by Black's choice of defensive setup.
 
-Symmetrical Defence: 1...c5 [edit]
+[edit]
 The Symmetrical Defence[6] (classified A30–39 in ECO) is 1...c5, and is so named because both of the c-pawns are advanced two squares, maintaining symmetry. Note that Black can reach the Symmetrical Defence through many move orders by deferring ...c5, and often does. For example, 1.c4 Nf6 2.Nc3 (or 2.Nf3) c5.
 
 
@@ -118,7 +34,7 @@ There are several types of positions that can arise from the Symmetrical Defence
 
 The Hedgehog system[8] involves a solid but flexible defence in which Black develops by b6, e6, Bb7, and Be7, before controlling the fifth rank with moves such as a6 and d6. The game typically involves extended maneuvering, but both players need to be on the lookout for favourable pawn advances and pawn breaks.
 The double fianchetto defence involves Black developing both bishops by fianchetto to g7 and b7. The line is fairly solid and difficult to defeat at the grandmaster level. Some lines are considered highly drawish, for instance if White's bishops are also fianchettoed to g2 and b2 there may be many piece exchanges leading to a simplified and equal position.
-Reversed Sicilian: 1...e5 [edit]
+[edit]
 The Reversed Sicilian (classified A20–29 in ECO) is another broad category of defence, introduced by the response 1...e5. Note again, that Black can delay playing ...e5, for example 1.c4 Nf6 2.Nc3 Nc6 3.Nf3 e5 whereupon even though ...e5 has been delayed, once it is played the defence is classified as a Reversed Sicilian.
 
 
@@ -127,7 +43,7 @@ abcdefgh8877665544332211abcdefghReversed Sicilian: 1...e5
 
 After 1...e5, White has Black's position in the Sicilian but with an extra tempo. This is often called the Reversed Sicilian,[9] though others call it the King's English.[10] Bruce Leverett, writing the English chapter in MCO-14, stated, "It is natural to treat the English as a Sicilian reversed, but the results are often surprising—main lines in the Sicilian Defence correspond to obscure side variations in the English, and vice versa."
 
-Other lines[edit]
+[edit]
 The third broad category consists of the non-...e5 and non-...c5 responses, classified A10–19 in ECO. Most often these defences consist of Nf6, e6, and d5 or Bb4 systemic responses by Black, or a Slav-like system consisting of c6 and d5, a direct King's Indian Defence setup with Nf6, g6, Bg7, 0-0, after which c5 and e5 are eschewed, or 1...f5, which usually transposes to a Dutch Defence once White plays d4. All irregular responses such as 1...b6 and 1...g5 are also lumped into this third broad category.
 
 1...Nf6 is the most common response to 1.c4, often played to arrive at an Indian Defence. More than half the time, however, Black subsequently elects to transpose into either a Symmetrical Defence with ...c5, or a Reversed Sicilian with ...e5.
@@ -139,7 +55,7 @@ The third broad category consists of the non-...e5 and non-...c5 responses, clas
 1...d5 is the Anglo-Scandinavian Defense.[11] Thought of as inferior to the Scandinavian Defense due to exchanging the c-pawn for a center pawn, in addition to the Scandinavian already having a somewhat suspect reputation.
 1...g5 is an eccentric response known as Myers' Defense after Hugh Myers's advocacy of it in print and actual play.[12][13][14] It is intended as an improved Grob's Attack; after 2.d4, Black will put pressure on the d4-square with moves such as ...Bg7, ...c5, and ...Qb6.[13][15] According to Nunn's Chess Openings, White obtains a small advantage after 2.d4 Bg7 (offering a Grob-like gambit: 3.Bxg5 c5) 3.Nc3 h6 4.e4.[16] Myers recommended 3...c5 (instead of 3...h6); in response, Joel Benjamin advocates 4.dxc5![13]
 1...b5 is called the Jaenisch Gambit after Carl Jaenisch.[17] Black obtains no immediate compensation for the sacrificed pawn.[18]
-Transposition potential[edit]
+[edit]
 If White plays an early d4, the game will usually transpose into either the Queen's Gambit or an Indian Defence.
 For example, after 1.c4 Nf6 2.Nc3 g6 3.d4 d5 the game has transposed into the Grünfeld Defence, usually reached by the move order 1.d4 Nf6 2.c4 g6 3.Nc3 d5.
 White can, however, also play 1.c4 Nf6 2.Nc3 g6 3.e4, making it impossible for Black to reach a Grünfeld, instead more or less forcing them into lines of the King's Indian Defence with 3...d6. Black also cannot force a Grünfeld with 1.c4 Nf6 2.Nc3 d5, since White can deviate with 3.cxd5 Nxd5 4.g3, a line played several times by Mikhail Botvinnik in 1958, in his final match for the world championship with Vasily Smyslov.
@@ -147,7 +63,7 @@ Instead of playing an early d4, White can also play Nf3 and fianchetto the king'
 Also, after 1.c4 c6, White can transpose into the Polish Opening, Outflank Variation, by playing 2.b4!?, which can be used as a surprise weapon if Black does not know very much about the Polish Opening.[19]
 The many different transpositional possibilities available to White make the English a slippery opening for Black to defend against, and make it necessary for them to consider carefully what move order to employ. For instance, if Black would like to play a Queen's Gambit Declined (QGD), the most accurate move order to do so is 1...e6 2.d4 d5. (Of course, White can again play the Réti instead with 2.Nf3 d5 3.b3.) If Black plays instead 1...Nf6 2.Nc3 e6, White can avoid the QGD by playing 3.e4, the Flohr–Mikenas Attack.
 
-ECO[edit]
+[edit]
 The Encyclopaedia of Chess Openings has classified the English Opening under the codes A10 through A39:
 
 A10 1.c4
@@ -180,26 +96,26 @@ A36 1.c4 c5 2.Nc3 Nc6 3.g3 (Fianchetto Variation of the Symmetrical)
 A37 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 (Two Knights Line)
 A38 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 (Full Symmetry Line)
 A39 1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.0-0 0-0 7.d4 (Mecking Variation)
-Depiction in cinema[edit]
+[edit]
 The English Opening is used by Professor Moriarty in the film Sherlock Holmes: A Game of Shadows as he and Holmes discuss their competing plans over a game of chess.  Both Holmes and Moriarty eventually play the final moves blindfolded by citing out the last moves in descriptive notation (rather than algebraic, as the former was contemporary in the late 19th century), ending in Holmes checkmating Moriarty, just as Watson foils Moriarty's plans.
 1.c4 is also used in Pawn Sacrifice by Bobby Fischer in the climactic game six of the 1972 World Chess Championship versus Boris Spassky.
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after places
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
-External links[edit]
+
+
+[edit]
 
 Database Of English Opening Variations
 "The English Opening" by Edward Winter
 
-vteChessOutline
+Outline
 Chess theory
 Chess titles
 Grandmaster
@@ -503,7 +419,7 @@ Solving chess
  Chess portal
 Category
 
-Authority control databases International
+International
 FAST
 National
 Spain

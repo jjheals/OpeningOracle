@@ -6,6 +6,7 @@ import threading as th
 import numpy as np 
 from sklearn.metrics.pairwise import cosine_similarity
 import json 
+from data_analysis.OpeningGPT import OpeningGPT
 
 class QueryHandler: 
     
@@ -16,6 +17,7 @@ class QueryHandler:
     opening_lda:OpeningLDA
     hyperparams:dict = json.load(open(Paths.HYPERPARAMS_JSON, 'r'))
     all_ecos:list[str] 
+    opening_gpt:OpeningGPT
     
     ''' __init__(load_from_file) - constructor
 
@@ -24,10 +26,15 @@ class QueryHandler:
                                    then this attribute must be explicitly set after initialization.
     '''
     def __init__(self, load_from_file:str=""):
-         if load_from_file: 
-             self.opening_lda = OpeningLDA.load(load_from_file)
-             all_ecos = list(self.opening_lda.texts.keys())
-         else: self.opening_lda = None
+        if load_from_file: 
+            self.opening_lda = OpeningLDA.load(load_from_file)
+            self.opening_lda.__construct_topic_doc_matrix__()
+            self.all_ecos = list(self.opening_lda.texts.keys())
+        else: self.opening_lda = None
+        
+        self.opening_gpt = OpeningGPT()
+        
+        print("QueryHandler init DONE.")
         
     ''' handle_user_query(query) - handles a query by a user 
 
@@ -70,7 +77,13 @@ class QueryHandler:
     '''
     def handle_user_query(self, query:dict[str,str], debug=False) -> dict[str,list[str]]: 
         
+        print("Handling user query...")
+        
         # NOTE: Maybe use threading to improve the runtime ??? !!! 
+        
+        # Get the parts of the user's query
+        query_text:str = query['message']   # User's given description of their playstyle
+        query_color:str = query['color']    # Color indicated by user 
         
         # Check and make sure self.opening_lda has been loaded or set 
         if self.opening_lda == None: raise AttributeError("Error in QueryHandler.handle_user_query(): OpeningLDA attribute has not been set.")
@@ -82,10 +95,6 @@ class QueryHandler:
         
         # Create a dictionary for the success rates of each opening for the query_color for quicker lookups
         success_rates:dict[str,float] = {eco:d['success-rate'][query_color] for eco,d in self.opening_lda.openings.items() if d['success-rate']}
-        
-        # Get the parts of the user's query
-        query_text:str = query['message']   # User's given description of their playstyle
-        query_color:str = query['color']    # Color indicated by user 
         
         # Tokenize the query 
         query_tokens:list[str] = Scraper.tokenize(query_text)
@@ -111,7 +120,18 @@ class QueryHandler:
         # i.e. get the top NUM_RETURN eco codes
         top_matches:list[str] = list(sorted_final_rankings.keys())[:QueryHandler.NUM_RETURN]
             
-        # Run these top matches through the GPT model and generate responses for each
+        # Get the precomputed summaries from the stored data
+        all_summaries:dict[str,str] = json.load(open(Paths.SUMMARIES_JSON))
+        these_summaries:dict[str,str] = {eco:all_summaries[eco] for eco in top_matches}
+        
+        # Run the summaries through the model to generate the final summary for each 
+        for e,s in these_summaries.items():
+            if debug: print(f"Summarizing eco: {e}")
+            these_summaries[e] = f"{self.opening_lda.openings[e]['opening-name']} ({e}): {self.opening_gpt.generate_summary(s)}"
+            
+        return {"messages": list(these_summaries.values())}
+        
+        
         
         
         
@@ -141,7 +161,7 @@ class QueryHandler:
                     ... 
                 }
     '''
-    def __find_index_matches__(self, tokens:list[str], debug:bool=False) -> dict[str,float]:
+    def __find_index_matches__(self, query_tokens:list[str], debug:bool=False) -> dict[str,float]:
         
         index_matches:list[dict[str,int]] = [self.opening_lda.index[tok] for tok in query_tokens if tok in self.opening_lda.index]
         
@@ -199,7 +219,7 @@ class QueryHandler:
                     ... 
                 }
     '''
-    def __lda_cosine_sims__(self, tokens:list[str], debug:bool=False) -> dict[str,float]: 
+    def __lda_cosine_sims__(self, query_tokens:list[str], debug:bool=False) -> dict[str,float]: 
         lda_matched_topics = self.opening_lda.process_new_text(query_tokens)
 
         # Perform cosine similarity on the resulting vector (lda_matched_topics) and save in a dictionary 

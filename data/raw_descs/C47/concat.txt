@@ -1,16 +1,3 @@
-
-The Scotch variation of the Four Knights involves the move 4.d4 after the development of the knights. This line is generally considered a bit of a drawing weapon today.
-Pros:
-
-Safe
-Sound
-
-Cons:
-
-Drawish
-Easy for Black to play
-
-Famous Practitioners: Rudolf Spielmann
 Chess openingFour Knights Game
 abcdefgh8877665544332211abcdefgh
 Moves1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6ECOC47–C49Named afterKnights on c3, c6, f3, f6ParentThree Knights Game
@@ -27,8 +14,8 @@ C49: 4.Bb5 Bb4 (Symmetrical Variation)
 C48: 4.Bb5 without 4...Bb4
 C47: 4.d4 and others
 
-Variations[edit]
-4.Bb5[edit]
+[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghSpanish Variation: 4.Bb5
 
@@ -38,14 +25,14 @@ The first of these is 4...Bb4, the Symmetrical Variation known as the Double Spa
 Black can play more aggressively by 4...Nd4, the Rubinstein Variation. White cannot win a pawn with 5.Nxe5, since Black regains the pawn with the advantage of the bishop pair after 5...Qe7 6.Nf3 (6.f4 Nxb5 7.Nxb5 d6) Nxb5 7.Nxb5 Qxe4+ 8.Qe2 Qxe2+ 9.Kxe2 Nd5 10.c4 a6! White most often plays 5.Ba4, when Black usually continues in gambit fashion with 5...Bc5!? 6.Nxe5 0-0 7.Nd3 Bb6 8.e5 Ne8 followed by ...d6. Another line, which discourages many ambitious Black players from playing the Rubinstein, is 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 (7...cxd2+? 8.Bxd2 Qxf6 9.0-0 is dangerous for Black) 8.dxc3 Qe5+. This often leads to a quick draw after 9.Qe2 Qxe2+.
 The classical move 4...Bc5 is perfectly playable, see the famous game Louis Paulsen–Paul Morphy from the First American Chess Congress (1857).[1]
 In recent years, Black has tried 4...Bd6!? with varying results.[2] That move takes the sting out of 5.Bxc6, which is met with 5...dxc6 with a good game. If White plays quietly, Black will regroup with ...0-0, ...Re8, ...Bf8, and ...d6.
-4.d4[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghScotch Four Knights Game: 4.d4
 
 If White plays 4.d4, the Scotch Four Knights Game arises. This leads to a more open position, which can also be reached from the Scotch Game, e.g. 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3. This variation was played in the fifth game of the 1996 Deep Blue versus Garry Kasparov match.
 One reason White may choose the Four Knights (3.Nc3) move order over the Scotch (3.d4), besides fearing that after 3.d4 exd4 4.Nxd4 Black may choose 4...Bc5 or 4...Qh4, is that White may want to play the Belgrade Gambit (1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?). It is not possible to reach the Belgrade from the Scotch; however, the Belgrade is a distant second in popularity to 5.Nxd4.
 
-4.Bc4[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Italian Four Knights Game/Prussian Four Knights Game: 4.Bc4
 
@@ -54,34 +41,34 @@ The problem with playing for this position via the Four Knights Game is that aft
 Rather than 5.Bxf7+?, a better chance for White to play for equality is 5.Nxe4, even though 5...d5 regains the piece with a good game, e.g., 6.Bd3 (6.Bxd5? Qxd5 7.Nc3 Qd8 Estrin; 6.Bb5?! dxe4 7.Nxe5 Qg5! Collijn's Lärobok; 6.d4 dxc4 7.d5 Ne7 8.Nc3 c6 Cordel–Schupli, 1905) 6...dxe4 (the recently discovered 6...Nb4 is also playable) 7.Bxe4 Bd6 8.d4 Nxd4 9.Nxd4 exd4 10.Qxd4 0-0 11.Be3 (11.0-0?? Bxh2+ wins) Qe7 (Tartakower–Atkins, London 1922[5]) and now the natural 12.0-0 Be5 would be awkward for White.[6] In the above line, more ambitious is 8...exd4 9.Nxd4 0-0!?, as in a match game between Siegbert Tarrasch and Emanuel Lasker in 1916, which led to a Black win in 23 moves.[7]
 Another try is 5.0-0!? transposing to a variation of the Boden–Kieseritzky Gambit.
 
-4.g3[edit]
+[edit]
 Igor Glek has favoured 4.g3, preparing development of the bishop to g2. According to Pinski, Black's main responses are 4...Bc5 and 4...d5, both of which are reckoned to equalize for Black. A Halloween Gambit style 4...Nxe4 has also been tried at the grandmaster level as in two games between Ilya Smirin and Bartłomiej Macieja.[8]
 
-4.Be2[edit]
+[edit]
 Though rarely seen, this move is playable. For example, if Black plays 4...Bb4, White has the responses 5.Nd5, 5.0-0, and 5.d3, which retain equality with accurate play.
 
-4.a3[edit]
+[edit]
 The quiet waiting move 4.a3, the Gunsberg Variation, is a specialty of Polish grandmaster Paweł Blehm.
 
-4.Nxe5[edit]
+[edit]
 A dubious gambit is 4.Nxe5?!, the so-called Halloween Gambit. After 4...Nxe5 5.d4, White tries to seize the centre with his pawns and drive the black knights back to their home squares. Grandmaster Larry Kaufman says that this line is refuted by 5...Nc6 6.d5 Bb4! 7.dxc6 Nxe4 8.Qd4 Qe7, which he attributes to Jan Pinski.[9]  According to Max Euwe's opening series volume 11, Black has a decisive advantage after 5...Ng6 6.e5 Ng8 7.Bc4 d5 8.Bxd5 c6.[10]
 
-See also[edit]
+[edit]
 Italian Game
 Ruy Lopez
 Scotch game
 Three Knights Game
 Two Knights Defense
-References[edit]
+[edit]
 
 Bibliography
 
 
 
 
-Further reading[edit]
+[edit]
 
-External links[edit]
+[edit]
 
 Tim Krabbé's article on the Halloween Gambit
 Unorthodox Openings Newsletter #13, Critical Lines in the Halloween Gambit by Paul Keiser

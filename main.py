@@ -1,15 +1,19 @@
 
-from flask import Flask, abort, request     # Flask imports 
+from flask import Flask, abort, request, jsonify     # Flask imports 
 from gevent.pywsgi import WSGIServer        # To run local server
 from flask_compress import Compress         # Flask compress for initialization
 
-from classes.QueryHandler import handle_user_query  # Custom import for function to handle the user's query
+from classes.QueryHandler import QueryHandler  # Custom import for function to handle the user's query
+from data_analysis.OpeningLDA import OpeningLDA
+from data_analysis.OpeningGPT import OpeningGPT
+
 
 # --- Flask initialization --- #
 app = Flask(__name__)
 compress = Compress()
 compress.init_app(app)
 
+query_handler = QueryHandler(load_from_file="lda")
 
 # --- Endpoints --- #
  
@@ -44,14 +48,23 @@ compress.init_app(app)
 '''
 @app.route('/postRequestOpening', methods=['POST'])
 def lookup():
+    
+    data:dict[str,str] = request.get_json()
+    print(data)
+    response = jsonify(query_handler.handle_user_query(data, debug=True))
+    response.status = 200
+    return response
+    
+    '''
     try: 
-        data:dict[str,str] = request.get_json()
-        return handle_user_query(data)
-    except: 
+        
+    except Exception as e: 
+        print(e)
         abort(400, description="Bad request.")
-
+    '''
 
 # --- RUN FOREVER --- # 
 if __name__ == '__main__':
-    http_server = WSGIServer(('0.0.0.0', 5000), app)
+    http_server = WSGIServer(('127.0.0.1', 8080), app)
     http_server.serve_forever()
+

@@ -12,35 +12,33 @@ A57 3...b5
 A58 3...b5 4.cxb5 a6 5.bxa6
 A59 3...b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4
 
-Origin and predecessors[edit]
+[edit]
 The idea of sacrificing a pawn with ...b5 and ...a6 is quite old. Karel Opočenský applied the idea against, among others, Gideon Ståhlberg at Poděbrady 1936,[2] Paul Keres at Pärnu 1937,[3] Erich Eliskases at Prague 1937, and Theo van Scheltinga at the Buenos Aires Chess Olympiad 1939.[4] Later, the game Mark Taimanov–David Bronstein at the Candidates Tournament, Zürich 1953, drew attention.[5] Most of these games began as a King's Indian, with Black only later playing ...c5 and ...b5. Possibly the first game using the now-standard move order 1.d4 Nf6 2.c4 c5 3.d5 b5 was Thorvaldsson–Vaitonis, Munich Olympiad 1936.[6]
 In many countries, particularly in Eastern Europe, the opening is known as the Volga Gambit (Russian: Волжский гамбит). This name is derived from the Volga River after an article about 3...b5!? by B. Argunow written in Kuibyshev (Samara since 1991), Russia, that was published in the second 1946 issue of the magazine Shakhmaty v SSSR.
 Beginning in the late 1960s, this opening idea was also promoted by Hungarian-American grandmaster Pal Benko, who provided many new suggestions and published his book The Benko Gambit in 1974. The name Benko Gambit stuck and is particularly used in English-speaking countries.
 In his 1974 book, Benko drew a distinction between the Benko Gambit and the Volga Gambit: "Volga Gambit" referred to the move 3...b5 (sometimes followed by an early ...e6), while the "Benko Gambit" consisted of the moves 3...b5 4.cxb5 a6, now considered the main line.[7]  Today the names are synonymous and are used interchangeably or combined as "Volga-Benko Gambit".[8]
 
-Benko Gambit Accepted[edit]
+[edit]
 The main line continues 4.cxb5 a6 5.bxa6 Bxa6 followed by Black fianchettoing the f8-bishop. (Black players leery of the double-fianchetto system, where White plays g3 and b3 and fianchettos both bishops, have preferred 5...g6 intending 6.b3 Bg7 7.Bb2 Nxa6! The point is that it is awkward for White to meet the threat of ...Nb4, hitting d5 and a2, when Nc3 may often be met by ...Nfxd5 because of the latent pin down the long diagonal. Another idea is 5...e6!?; after 6.Nc3 exd5 7.Nxd5 Be7 8.Nxe7 Qxe7 9.e3 0-0 10.Nf3 the move 10...Rxa6 is a strong exchange sacrifice giving Black enough compensation.) Black's compensation for the pawn takes several forms. First, White, who is already behind in development, must solve the problem of developing the f1-bishop. After 6.Nc3 d6, if White plays 7.e4, then Black will respond 7...Bxf1, and after recapturing with the king, White must spend time castling artificially with g3 and Kg2, as in the line 7...Bxf1 8.Kxf1 g6 9.g3 Bg7 10.Kg2. If White avoids this by fianchettoing the bishop, it will be in a rather passive position, being blocked by White's own pawn on d5.
 Apart from this, Black also obtains fast development, good control of the a1–h8 diagonal, and can exert pressure down the half-open a- and b-files whereby White's a- and b-pawns can become vulnerable. These benefits can last well into the endgame and so, unusually for a gambit, Black does not generally mind if queens are exchanged; indeed, exchanging queens can often remove the sting from a kingside attack by White. Also in the endgame, the black king can become active and reach the centre via the h8–a1 diagonal.
 
-Benko Gambit Declined[edit]
+[edit]
 There are various alternatives that avoid some of the problems entailed in the main line. The simplest is to just decline the gambit with 4.Nf3. Other possible moves are 4.Nd2, 4.a4, 4.e3, and 4.Qc2. Another option, popular at the grandmaster level as of 2004 and considered safer for Black, is to accept the pawn with 4.cxb5 but then immediately return it with 4...a6 5.b6.
 
-Sosonko Variation[edit]
+[edit]
 After 4.a4, the Sosonko Variation, Black has three sound replies. The most popular line is 4...bxc4, the Sosonko Accepted, which often leads to sharp and sacrificial lines for both sides. Such lines include the Poisoned Knight Variation where after 5.Nc3 e6 6.e4 exd5 and 7.e5, Black sacrifices a knight for a large central pawn majority and excellent spatial advantage with good attacking chances; and the River Styx Attack, which continues 5.Nc3 Ba6 6.e4 d6 7.f4 g6 8.e5. This leads to a sharp and complicated pawn sacrifice by White, where White often delays or even prevents Black from castling, and has a solid grip over the kingside with the e6-pawn and Nf7 outpost combination. This line is named after the Greek mythological river that interconnects the Earth and the Underworld. These lines are diverse and complicated and are not well explored.
 Other less common lines include 4...b4, the Advance Variation, leading to positional games with pseudo-Benoni structures; and the rare 4...Qa5+ which often transposes into an altered Advance Variation with White playing 5.Bd2 and Black responding 5...b4.
 
-Use[edit]
+[edit]
 The gambit's most notable practitioner was its eponym, Pal Benko. Many of the world's strongest players have used it at one time or another, including former world champions Viswanathan Anand, Garry Kasparov, Veselin Topalov, and Mikhail Tal; and grandmasters Vassily Ivanchuk, Michael Adams, Alexei Shirov, Boris Gelfand, and Evgeny Bareev. It is a popular opening at amateur level, where it is considered to offer Black good practical chances of playing for a win.
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
 List of chess openings named after places
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
 
@@ -50,7 +48,9 @@ Further reading[edit]
 
 
 
-Authority control databases International
+
+
+International
 FAST
 National
 Spain

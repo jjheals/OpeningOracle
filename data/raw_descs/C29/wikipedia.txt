@@ -12,10 +12,10 @@ The original idea behind the Vienna Game was to play a delayed King's Gambit wit
 Weaver W. Adams famously claimed that the Vienna Game led to a forced win for White.[1] Nick de Firmian concludes in the 15th edition of Modern Chess Openings, however, that the opening leads to equality with best play by both sides.[2]
 
 
-Falkbeer Variation: 2...Nf6 [edit]
+[edit]
 White has three main options: 3.f4, 3.Bc4, and 3.g3. Note that 3.Nf3 transposes to the Petrov's Three Knights Game, which after 3...Nc6 leads to the Four Knights Game.
 
-3.f4[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh3.f4
 
@@ -24,7 +24,7 @@ Lines other than 3...d5 give White at least an edge, however, making this a good
 The gambit should not be accepted, since 3...exf4 4.e5 Qe7 5.Qe2 forces Black's knight to retreat with 5...Ng8, and after 6.Nf3, Black must be careful not to lose on the spot, for example after 6...d6? 7.Nd5!, when the dual ideas of Nxc7 and exd6 will win the game quickly. Retreating immediately with 4...Ng8 is better, but after 5.Nf3 with the idea of d4 followed by Bxf4, White has a nice game.
 Other lines for Black include 3...d6 4.Nf3 Nc6 5.Bb5 Bd7 6.d3, when the threat of Bxc6 followed by taking on e5 induces 6...exf4 7.Bxf4, leaving White with a pleasant position; and also 3...Nc6? 4.fxe5! Nxe5 5.d4, when both 5...Nc6 and 5...Ng6 are met by 6.e5 with a winning advantage to White. Material is not as important as the attack in this position, so White should not be afraid to sacrifice.
 
-3.Bc4[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh3.Bc4
 
@@ -32,22 +32,22 @@ The move 3.Bc4 leads to a position which can also be reached from the Bishop's O
 3...Nxe4, 4.Qh5 (threatening Qxf7#) 4...Nd6 5.Bb3 when Black can either go for the relatively quiet waters of 5...Be7 6.Nf3 Nc6 7.Nxe5 g6 8.Qe2 (or 8.Nxc6 dxc6 9.Qe5 0-0) Nd4 9.Qd3 Nxb3 10.axb3 Nf5 11.0-0 d6, which led to equality in Anand–Ivanchuk, Roquebrune 1992.[5] Or the complexities of 5...Nc6 6.Nb5 g6 7.Qf3 f5 8.Qd5 Qe7 9.Nxc7+ Kd8 10.Nxa8 b6, which the Irish correspondence chess player and theorist Tim Harding extravagantly dubbed "the Frankenstein–Dracula Variation".[6]
 4.Nxe4 d5 forks bishop and knight is fine for Black.[5] 4.Bxf7+ is weak; after 4...Kxf7 5.Nxe4 d5! (inferior is 5...Nc6 6.Qf3+, when Black cannot play 6...Kg8?? because of 7.Ng5! 1–0 Davids–Diggle, London Banks League 1949, while 6...Ke8 leaves the king awkwardly placed in the center)[7][8] 6.Qf3+ (6.Qh5+ g6 7.Qxe5? Bh6! wins for Black)[9] Kg8 7.Ng5!? (hoping for 7...Qxg5?? 8.Qxd5+ and mate next move, Schottlaender–Ed. Lasker, simultaneous exhibition, Breslau c. 1902) Qd7!, with a large advantage for Black in view of his bishop pair and pawn center.[10][11]
 
-Mieses Variation: 3.g3 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghMieses Variation: 3.g3
 
 The move 3.g3, the Mieses Variation, is a quiet continuation in which White fianchettoes his king's bishop, a line played by Vasily Smyslov on a few occasions, most notably in a win over Lev Polugaevsky in the 1961 USSR Championship. That game continued 3...d5 4.exd5 Nxd5 5.Bg2 Be6 6.Nf3 Nc6 7.0-0 Be7 8.Re1 Bf6 9.Ne4 0-0 10.d3 Be7 11.a3 Nb6 12.b4, resulting in a position which the Encyclopaedia of Chess Openings assesses as slightly better for White. The main line today, however, is considered to be 5...Nxc3 6.bxc3 Bd6 7.Nf3 0-0 8.0-0. A major alternative for Black is 3...Bc5 (3...Nc6 normally transposes into one of the other lines).
 
-3.a3[edit]
+[edit]
 In addition to these lines, the late American master Ariel Mengarini advocated the whimsical 3.a3, sometimes called Mengarini's Opening. It is not a serious try for advantage, but is essentially a useful waiting move that gives White an improved version of Black's position after 1.e4 e5 2.Nf3 Nc6. First, the "Reversed Ruy Lopez" with 3...Bb4 is ruled out. Second, after 3...d5, 4.exd5 Nxd5 5.Qh5!? gives White an improved version of the Steinitz Variation of the Scotch Game, since Black can never play ...Nb4, an important idea for White in the mirror-image position. Third, after 3...Bc5, 4.Nf3 gives a reversed Two Knights Defense. Then the typical 4...Ng4 may be met by 5.d4 exd4 6.Na4, when 6...Bb4+, White's usual move in the mirror-image position, is impossible. After 4...Ng4, White may also play improved versions of the Ulvestad Variation (6.b4 in the above line) and Fritz Variation (6.Nd5 c6 7.b4), since when White plays b4 his pawn is protected, unlike in the mirror-image position. If Black plays more quietly with 3...Bc5 4.Nf3 Nc6, then 5.Nxe5! Nxe5 6.d4 gives White some advantage. The best line for Black may be 3...Bc5 4.Nf3 d5 5.exd5 0-0 (better than 5...e4 6.d4, when the normal 6...Bb4 is impossible), and if 6.Nxe5, 6...Re8 7.d4 Bxd4! 8.Qxd4 Nc6, as in the mirror-image line. Also possible is 3...Bc5 4.Nf3 d6, when Black stands well after 5.Bc4 Be6, while 5.d4 cxd4 6.Nxd4 gives White little or no advantage.
 
-Max Lange Defence: 2...Nc6 [edit]
+[edit]
 White again has three main options, 3.Bc4, 3.f4, and 3.g3. Note that 3.Nf3 transposes to the Three Knights Game, which after 3...Nf6 leads to the Four Knights Game.
 
-Vienna Gambit: 3.f4 [edit]
+[edit]
 In the Vienna Gambit, defined by the moves 1.e4 e5 2.Nc3 Nc6 3.f4, White sacrifices a pawn to gain control of the center. 
 
-Hamppe–Muzio Gambit [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghHamppe–Muzio Gambit after 6.0-0 gxf3 7.Qxf3
 
@@ -55,21 +55,21 @@ The Hamppe–Muzio Gambit (or Vienna Hamppe–Muzio Gambit) is characterised by 
 As with its close relative, the sharp Muzio Gambit, White sacrifices the knight on f3 in return for a powerful attack against the black king. It is named after Austrian theoretician Carl Hamppe and classified under ECO code C25. The Dubois Variation continues 7...Ne5 8.Qxf4 Qf6.
 6.d4 is the Pierce Gambit.
 
-Steinitz Gambit[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghSteinitz Gambit after 4.d4 Qh4+ 5.Ke2
 
 The Steinitz Gambit, 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4, was a favorite of Wilhelm Steinitz, the first World Champion. White allows Black to misplace White's king with 4...Qh4+ 5.Ke2 (see diagram), hoping to prove that White's pawn center and the exposed position of Black's queen are more significant factors. Unlike Steinitz, who famously opined that, "The King is a fighting piece!", few modern players are willing to expose their king this way. The Steinitz Gambit is thus rarely seen today.
 
 
-Paulsen Variation: 3.g3 [edit]
+[edit]
 Louis Paulsen played 1.e4 e5 2.Nc3 four times with the white pieces – games against Meitner, Rosenthal, Gelbfuhs, and Bird in the Vienna 1873 chess tournament. Three wins with the variation 1.e4 e5 2.Nc3 Nc6 3.g3 named the "Paulsen Variation" of the Vienna Game, and the fourth win after 1.e4 e5 2.Nc3 Bc5 3.Nf3 vs. Henry Bird.[12]
 
-3.Bc4[edit]
+[edit]
 Most often, White plays 3.Bc4, when the solid 3...Nf6 transposes to the 2...Nf6 3.Bc4 Nc6 line. Weaker is 3.Bc4 Bc5, when 4.Qg4! is awkward to meet. 4...Kf8 and 4...g6 are thought the best moves, but neither is too appealing for Black. The natural 4...Qf6?? loses to 5.Nd5! Qxf2+ 6.Kd1, when White's king is in no real danger, and White has multiple threats:  7.Qxg7; 7.Nxc7+; and 7.Nh3 Qd4 8.d3 threatening to trap Black's queen with 9.c3.[13]
 
 
-2...Bc5[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh2...Bc5
 
@@ -77,19 +77,19 @@ This is an offbeat but playable alternative, as played (for example) by former w
 White can continue with 3.Nf3, and if the move 3...Nc6?! (transposing to the Three Knights Game) 4.Nxe5! Nxe5 5.d4 Bd6 6.dxe5 Bxe5 7.Bd3 leads to a large advantage for White.[15] Stronger is 3...d6! Then 4.Na4 Nd7 5.d3 Ngf6 6.Be2 0-0 7.0-0 c6 8.Nxc5 Nxc5 9.Ne1 Ne6 10.c3 d5 is about even.[16] The main line runs 4.d4 exd4 5.Nxd4 Nf6 6.Bg5 (6.Be2 d5 7.e5 Ne4 8.0-0 Nxc3 leads to equality[16]) h6 7.Bh4 0-0 8.Nb3 and now de Firmian in MCO-15 gives 8...Bb4 9.Bd3 Re8 10.0-0 Bxc3 11.bxc3 g5! 12.Bg3 Nxe4, when Black's "chances are at least equal".[16]
 After 3.f4, ...d6 leads to the King's Gambit Declined.[16] Weak is 3.Qg4 Nf6! 4.Qxg7 Rg8 5.Qh6 Bxf2+ when Black had a large advantage in Tsikhelashvili–Karpov, USSR 1968, since 6.Kxf2?? Ng4+ would win White's queen.[16] Another offbeat possibility is 3.Na4, the Hamppe Variation,[17] when 3...Bxf2+! 4.Kxf2 Qh4+ 5.Ke3 Qf4+ 6.Kd3 d5 leads to wild complications favoring Black, as in the famous Immortal Draw game Hamppe–Meitner, Vienna 1872. The quiet 3...Be7, however, leaves Black with a good game.[18]
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after places
 Vienna Game, Würzburger Trap
-References[edit]
+[edit]
 
 
-Further reading[edit]
+[edit]
 
 Vienna Game Chess.com Openings page
 László Jakobetz, László Somlai: Die Wiener Partie. Dreier, 1994, ISBN 3-929376-12-1
 
-Authority control databases International
+International
 FAST
 National
 Germany

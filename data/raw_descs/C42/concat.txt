@@ -1,14 +1,3 @@
-
-The classical way of meeting Petrov's Defense is to trade the e-pawns and then push past with 5.d4. After 5...d5 a symmetrical position is created, except that the black knight is on e4 instead of f6. White hopes to take advantage of the knight's position by undermining it and trading it off.
-Pros:
-
-Natural, strong buildup in the center
-Quick development
-
-Cons:
-
-Enormous amounts of theory
-
 Chess opening
 "Russian Game" redirects here. For the film, see The Russian Game.
 Chess openingPetrov's Defence
@@ -23,11 +12,11 @@ The Petrov has a drawish reputation; however, it offers attacking opportunities 
 The Encyclopaedia of Chess Openings codes for Petrov's Defence are C43 (for 3.d4) and C42 (for all other lines).[2]
 
 
-White's third move[edit]
+[edit]
 White's two main choices for move three are 3.Nxe5, the Classical Variation and 3.d4, the Steinitz Variation. 3.Nxe5 is more popular but they often lead to similar positions and "there is no clear reason to prefer one move over the other".[3]
 3.Nc3 may transpose to the Four Knights Game or the Three Knights Game. 3.Bc4 may lead to the Boden–Kieseritzky Gambit or transpose to the Two Knights Defence. Occasionally seen is the quiet 3.d3.
 
-Classical Variation: 3.Nxe5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Position after 3.Nxe5 d6
 
@@ -39,7 +28,7 @@ The Paulsen Variation, 4.Nc4, is labelled "ineffective" by de Firmian in MCO, bu
 
 1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6?!, recently dubbed the Stafford Gambit, is considered dubious, but it sets a number of traps, and in the early 2020s it became popular in online blitz and bullet games. After 4.Nxc6 dxc6, White wins a pawn but must play carefully. After 5.e5 (5.d3 is better) Ne4 6.d3?? (White should play 6.Nc3, 6.d4, or 6.Qe2) 6...Bc5! and White resigned in Lowens–Stafford, US correspondence game 1950.[10][11] After 1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6 4.Nxc6 dxc6 5.d3 Bc5, White must avoid the Légal Trap 6.Bg5?? Nxe4!, and if 7.Bxd8 (relatively best but still losing is 7.Be3) 7...Bxf2+ 8. Ke2 Bg4#. Instead White should play 6.Be2 Bc5 7.c3! with d3-d4 to follow, and Black has insufficient compensation for the pawn, though White must still play carefully.[12]
 
-Steinitz Variation: 3.d4 [edit]
+[edit]
 
 
 
@@ -60,32 +49,32 @@ After 3...exd4 4.e5 (4.Bc4 transposes into the Urusov Gambit) 4...Ne4 (4...Qe7?!
 A long and complicated tactical sequence which has frequently been seen in master games is 3...Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.0-0 0-0 7.c4 Bxe5 8.dxe5 Nc6 9.cxd5 Qxd5 10.Qc2 Nb4 11.Bxe4 Nxc2 12.Bxd5 Bf5 13.g4 Bxg4 14.Be4 Nxa1 15.Bf4 f5 16.Bd5+ Kh8 17.Rc1 c6 18.Bg2 Rfd8 19.Nd2 (diagram) and White has the slightly better endgame after either 19...Rxd2 20.Bxd2 Rd8 21.Bc3 Rd1+ 22.Rxd1 Bxd1 or 19...h6 20.h4.[13][14]
 
 
-Three Knights Game: 3.Nc3 [edit]
+[edit]
 3.Nc3 is the Three Knights Game of Petrov's Defence. It can also be reached via 2.Nc3 Nf6 3.Nf3 (the Vienna Game). Commonly, after 3...Nc6, the opening transposes to the Four Knights Game. With the reply 3...Bb4 (or some others), it remains the Three Knights Game proper.
 
-Italian Variation: 3.Bc4 [edit]
+[edit]
 3.Bc4 is the Italian Variation of Petrov's Defence. With 3...Nc6, it transposes to the Two Knights Defence.
 
-Boden–Kieseritzky Gambit[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Position after 3.Bc4 Nxe4 4.Nc3   
 
 Another possibility is 3.Bc4 Nxe4 4.Nc3, the Boden–Kieseritzky Gambit. It is not considered wholly sound, since Black has several viable options. Black can accept the gambit with 4...Nxc3 5.dxc3 f6, but must play carefully after 6.0-0 (for example 6...Bc5?? 7.Nxe5! is disastrous; 6...d6 and 6...Nc6 are good). Another more aggressive try is 6.Nh4, where White goes for a quick assault on Black's king, but Black can maintain a small advantage if he plays cautiously via 6...g6 7.f4 Qe7 8.f5 Qg7 9.Qg4 Kd8.  Another possibility is returning the gambit pawn with 4...Nxc3 5.dxc3 c6 6.Nxe5 d5, which equalises. A third possibility is transposing to the Italian Four Knights Game with 4...Nc6, and if 5.Nxe4, 5...d5. If 5.Bxf7+?, then 5...Kxf7 6.Nxe4 d5 gives Black the bishop pair and control of the centre. If 5.0-0, Black plays 5...Nxc3 6.dxc3 and now Black can play 6...Qe7!, after which Bobby Fischer wrote that "White has no compensation for the Pawn",[15] or 6...f6 transposing to the main line of the Boden–Kieseritzky. Black also has lines beginning 6...Be7 and 6...h6.
 
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
 
 
-External links[edit]
+
+
+[edit]
 
 
 Petrov's Defence Video and explanation
@@ -93,7 +82,7 @@ Petrov's defence (C42) – 365Chess.com ECO Games
 Gary Lane on the Cochrane Gambit
 Cochrane Gambit theory
 
-Authority control databases International
+International
 FAST
 National
 Germany

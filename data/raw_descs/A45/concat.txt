@@ -1,77 +1,3 @@
-
-The Trompowsky Attack is an offbeat 1.d4 opening for White as a response to Black's 1...Nf6. A newer opening, the Trompowsky is light on theory but still offers White good attacking chances. It also avoids some of the heavily theoretical lines of other openings. As such, it is a good opening for players of every level.
-
-Starting Position
-
-Pros
-Cons
-
-
-Main Variations Of The Trompowsky Attack
-
-2...Ne4
-2...e6
-2...d5
-2...c5
-2...g6
-
-
-History Of The Trompowsky Attack
-
-
-Starting Position
-The Trompowsky Attack starts after the moves 1.d4 Nf6 2.Bg5. White develops their dark-squared bishop on the second move and attacks Black's knight. White immediately threatens to take the knight to damage Black's pawn structure. Black can either let White double their pawns or avoid it, as both lines are perfectly playable.
-
-The starting position of the Trompowsky Attack.
-
-The Trompwoski is a good way for White to avoid a few lines against 1.d4 that are dense in theory. It's also a way for White to catch some Black players off guard. Although there are aggressive lines for White, there are also some very positional lines where White simply exchanges their dark-squared bishop and places their central pawns on dark squares with an extremely solid position. This approach is similar to some Torre Attack and London System setups. These options for White make it an attractive choice for players of all playing styles.
-Pros
-
-Not every Black player will be ready to face the Trompowsky
-There is not a lot of theory to learn
-White can play aggressively or positionally
-
-Cons
-
-It is not hard for Black to equalize if they know theory
-Black has a variety of setups to face the Trompowsky
-White's threat of doubling Black's pawn is not that dangerous
-
-Main Variations Of The Trompowsky Attack
-The Trompowsky Attack's theory is not nearly as large as 1.d4 openings such as the Queen's Gambit, King's Indian Defense, and others. Black's second move dictates much of the theory, as Black can either ignore White's threat or respond to it in various ways. Below you can see the main variations of the Trompowsky.
-2...Ne4
-The most popular variation of the Trompowsky happens with the moves 1.d4 Nf6 2.Bg5 Ne4. Black "violates" an opening principle by moving the knight twice, knowing that White will have to waste a tempo of their own not to lose their bishop.
-
-
-
-
-2...e6
-The second-most popular variation of the Tromposky occurs with the moves 1.d4 Nf6 2.Bg5 e6. Black's second move facilitates the development of their dark-squared bishop. It also avoids the doubling of the pawns on the f-file since the black queen defends the f6-knight.
-
-
-
-The downside to Black's move is that White can immediately take more of the center with e2-e4.
-2...d5
-After 1.d4 Nf6 2.Bg5 d5, Black ignores White's threat and expands in the center. White can transpose into the Veresov Attack (3.Nc3), the Torre Attack (3.Nf3), or stay in the Tromposky with 3.Bxf6. Black's will usually recapture with 3...exf6, when their doubled f-pawns make the kingside less flexible but also give Black more central space for their pieces.
-
-
-
-White will usually develop their light-squared bishop with a fianchetto on g2 and attack the queenside or fight for the center immediately with c2-c4.
-2...c5
-Another variation of the Tromposky begins after the moves 1.d4 Nf6 2.Bg5 c5. Black once again invites White to take their knight to double their pawns. White will usually take the knight, and Black will recapture with 3...gxf6, preparing to build a strong center. White can also ignore Black's tease and advance their d-pawn to try to cramp Black's position. These are some of the sharpest lines in this opening.
-
-
-
-2...g6
-Black can also opt for the variation that starts after 1.d4 Nf6 2.Bg5 g6. Black again ignores White's attack on their knight and prepares to fianchetto their dark-squared bishop on g7. If White wants to stay in the Trompowsky, they'll usually take the knight and force Black to double their pawns.
-
-
-
-Once more, White's plans will either revolve around developing their light-squared bishop on g2 and attacking the queenside or playing the c2-c4 push immediately.
-History Of The Trompowsky Attack
-The Trompowsky Attack is a relatively new opening and received its name after the 1939 Brazilian champion Octavio Trompowsky. He helped popularize this opening from the 1920s through the 1940s when he played it in numerous tournaments against strong grandmasters.
-The opening gained traction during that period since the move 2.Bg5 caught many masters by surprise. In 1941, Trompowsky wrote that White's second move allowed him to "escape from the books and face masters more or less with equal weapons."
-After the 1940s, masters have used the opening only sporadically. Curiously, from 1990 onward, the Tromposky had a resurgence in popularity. Notable players like GM Antoaneta Stefanova often play the opening, and even GM Magnus Carlsen used it against GM Sergey Karjakin during their 2016 world championship match.
 British breed of chicken
 
 
@@ -81,19 +7,19 @@ The Indian Game is a British breed of game chicken, now reared either for meat o
 In the United States the name was changed in the early twentieth century to Cornish. A white variant, the White Cornish, was developed there at about the same time, and is much used in modern industrial chicken meat production in many parts of the world, either for cross-breeding to produce  hybrid broilers, or to produce fast-growing "game hens".[10]
 
 
-History[edit]
+[edit]
 The breed was developed by Sir Walter Gilbert, of Bodmin in Cornwall, in about 1820. It was intended to be a gamecock, but had no aptitude for cockfighting.[10]
 It is recognised as "Indian Game" in Australia,[11]: 196  by the Poultry Club of Great Britain in the United Kingdom,[12] and by the Entente Européenne in Europe.[5] In the United States the name was changed in 1905 to "Cornish Indian Game", and then in 1910 to "Cornish".[10] It was accepted by the American Poultry Association in 1893.[10]
 
-Characteristics[edit]
+[edit]
 The Indian Game is a large and stocky bird, short in the legs and unusually broad and deep in the breast. Some cock birds may be so short-legged and broad-breasted that they are incapable of reproducing.[3]: 80 [7]
 Three colour variants are recognised in the United Kingdom: the dark, the original colour; the Jubilee; and the double-laced blue, which is rare.[7] The Entente Européenne d'Aviculture et de Cuniculture and some European countries recognise the white variant in addition to these three.[5] In the United States, the Cornish is recognised in four colours: the original dark, added to the Standard of Perfection in 1893; the white, added in 1898; the white-laced red, added in 1909; and the buff, added in 1938.[4][10][13]: 100 
 It is resistant to most common diseases of poultry, but vulnerable to parasites.[7] The feathers are thin and hard, without down; this may render the birds susceptible to cold, which may delay breeding in early Spring.[7]
 
-Use[edit]
+[edit]
 The Indian Game was bred as a gamecock, but was not successful as a fighting bird.[10] It was found to be a good meat breed, and was much used for cross-breeding with established meat breeds such as the Dorking, Orpington and Sussex.[9]: 158 [3]: 80  It is a poor layer: the eggs are small and light brown; hens may lay about 80 per year.[3]: 80 
 
-References[edit]
+[edit]
 
 
 

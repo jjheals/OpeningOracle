@@ -1,76 +1,3 @@
-
-1.Nf3 develops a piece instead of moving a pawn to begin the game. The knight develops to a good square that controls the center while keeping flexible options with the central pawns. A later d2-d4 move may transpose to a 1.d4 opening (while avoiding certain lines), while a later c2-c4 move might transpose to the English Opening.
-
-Starting Position
-
-Pros
-Cons
-
-
- Variations
-
-King's Indian Attack
-Reti Gambit
-Transpositions
-
-
-History
-
-Starting Position
-The Reti Opening can be used to refer to two different starting positions:
-
-1.Nf3, sometimes known as the Zukertort Opening
-1.Nf3 d5 2.c4, sometimes known as the Reti Gambit.
-
-On Chess.com, 1.Nf3 is considered the Reti and 1.Nf3 d5 2.c4 is considered the Reti Gambit.
-Pros
-
-Flexible
-Develops a piece and controls e5
-Prepares to castle
-
-Cons
-
-Blocks the f-pawn
-Allows 1...c5, controlling the d4 square from the side
-Allows Black many options
-
-Variations
-Because of its flexibility, the Reti Opening often transposes into something else, but there are some independent lines.
-Reti Gambit
-The Reti Gambit begins 1.Nf3 d5 2.c4. Taking with 2...dxc4 is generally not recommended for Black, as it weakens Black's central control and (despite the variation's name as a "gambit") White can easily regain the pawn anyway, for example with 3.Na3 and 4.Nxc4. Instead, Black usually reinforces the central pawn with either 2...c6 or 2...e6, both of which are sometimes considered transpositions into the English Opening.
-
-Black's main responses to the Reti Gambit.
-
-2...d4 is also popular, gaining space but opening up the h1-a8 diagonal for White's kingside fianchetto; overall it is Black's most successful reply. After 3.g3, Black can either reinforce the pawn with 3...c5 or play 3...Nc6 with the idea of 4.Bg2 e5.
-
-
-
-King's Indian Attack
-The other independently important variation after 1.Nf3 is the King's Indian Attack (KIA). White quickly develops the kingside with g3, Bg2, and castles. Meanwhile Black's most common approach is to try to blunt the fianchettoed bishop's diagonal with ...d5 and ...c6.
-
-
-
-
-Transpositions
-1.Nf3 is often simply used, however, as a flexible first move that can turn into any number of other openings. Examples of how easily the Reti can transpose include:
-
-1...Nf6 2.c4 and the position is already considered to be an English Opening instead (which itself might transpose into a queen's pawn opening or an Indian defense).
-1...Nf6 2.d4 usually moves the game into a Queen's Gambit after 2...d5 3.c4, but can also reach several other queen's pawn openings (such as the Queen's Indian or King's Indian).
-After 1...c5, White can play 2.e4 and immediately reach a Sicilian Defense, or 2.c4 to enter a Symmetrical English.
-
-History
-The Reti Opening, named for Richard Reti, is a product of the hypermodern school that became popular in the 20th century. That is suggested in its name, as Reti was one of the leading proponents of hypermodernism.
-
-Reti
-
-For most of chess history, 1.e4 was by far the most popular opening move. Late in the 19th century, 1.d4 became very popular as well.
-The hypermodernists, however, preferred to control the center indirectly instead of occupying it with a pawn on move one. By starting the game with 1.Nf3, White develops a piece but remains flexible in how to approach the game overall.
-In 1924, Reti used 1.Nf3 to win a game against Jose Raul Capablanca, ending the classical-style superstar's eight-year, 63-game winning streak. That game, more than any other, helped the hypermodern school and the move 1.Nf3 to become widely accepted.
-
-In the same tournament Reti also won a famous brilliancy against Efim Bogoljubov with 1.Nf3 d5 2.c4.
-
-
 Chess opening
 Chess openingSokolsky Opening
 abcdefgh8877665544332211abcdefghMoves1. b4ECOA00Named afterAlexei Pavlovich SokolskySynonym(s)Polish OpeningOrangutan
@@ -80,22 +7,22 @@ The Sokolsky Opening, also known as the Orangutan and the  Polish Opening, is an
 According to various databases, out of the twenty possible first moves from White, the move 1.b4 ranks ninth in popularity.[1] It is considered an irregular opening, so it is classified under the A00 code in the Encyclopaedia of Chess Openings.
 
 
-Origins[edit]
+[edit]
 One of the earliest opening plays of b4 was by Bernhard Fleissig playing against Carl Schlechter in 1893, although Fleissig was handily defeated in just 18 moves.[2][3] Nikolai Bugaev defeated former world champion Wilhelm Steinitz with it in a simul exhibition game, and later published an analysis of the opening in 1903 in a Russian magazine article.  Savielly Tartakower defeated Richard Réti using b4 in a match in 1919 when both were top-level players,[4] and Reti himself defeated Abraham Speijer in Scheveningen 1923 using the opening.[5][6]
 The most famous use came in a game between Tartakower and Géza Maróczy at the New York 1924 chess tournament on March 21, 1924.[7]  The name "The Orangutan" originates from that game: the players visited the Bronx Zoo the previous day,[8] where Tartakower consulted an orangutan named Susan.  She somehow indicated, Tartakower insisted, that he should open with b4.  Also, Tartakower was impressed with the climbing skills of the orangutan, and thought that the "climb" of the b-pawn was similar.  In that particular game, Tartakower came out of the opening with a decent position, but the game was ultimately drawn.[9][6]
 The opening received sporadic play in the decades that followed.  Tartakower had more success in 1926 when he used it against Edgard Colle for a victory.[10] One of the largest proponents was the Soviet player Alexei Pavlovich Sokolsky (1908–1969), who often used it in high-level play.  Sokolsky wrote a monograph on the opening in 1963, Debyut 1 b2–b4, which would lead to the opening being called the "Sokolsky Opening".  Sokolsky's work defended the viability of the opening even at the highest levels of professional play.[10]
 The final term, and the one used in contemporary books and chess websites such as Chess.com and Lichess, is the Polish Opening.  This is by analogy to the Polish Defense (1. d4 b5), where Black is who advances their Queen's Knight pawn two spaces.[6]
 
-Notable later usage[edit]
+[edit]
 In general, the opening is not popular at the top level.  Alexander Alekhine, who played in the same 1924 New York tournament as Tartakower and the Orangutan game, wrote that the problem is that it reveals White's intentions before White knows what Black's intentions are.[11]  That said, it still sees sporadic use among top level grandmasters.  Boris Spassky used it against Vasily Smyslov in a 1960 match, albeit having to settle for a draw.[12]  In May 2021, world champion Magnus Carlsen essayed the opening against GMs Hikaru Nakamura and Wesley So in the online FTX Crypto Cup rapid tournament.[13]
 
-Details[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghCommon response after 1...e5
 
 The opening is largely based upon tactics on the queenside or the f6- and g7-squares. Black can respond in a variety of ways: For example, a common response is for Black to make a claim on the centre, which White's first move ignores, with 1...e5 (it is normal for White to ignore the attack on the b-pawn and play 2.Bb2, where 2...d6, 2...f6, and 2...Bxb4 are all playable), 1...d5 (possibly followed by 2.Bb2 Qd6, attacking b4 and supporting ...e7–e5),[14] or 1...f5. Less ambitious moves like 1...Nf6, 1...c6 (called the Outflank Variation, preparing ...Qb6 or ...a5), and 1...e6 are also reasonable. Rarer attempts have been made with 1...a5 or 1...c5. Black's reply 1...e6 is usually followed by ...d5, ...Nf6 and an eventual ...c5. After 1...a5 White will most likely play 2.b5 and take advantage of Black's queenside weakness. Black's 1...c5 is much sharper and more aggressive and is normally used to avoid theory. After the capture Black will generally place pressure on the c5-square and will develop an attack against White's weak queenside structure at the cost of an inferior central position.
 
-Named variations[edit]
+[edit]
 1…b5 (Symmetrical Variation)
 2.a4 (Queen's Knight's Gambit)
 1...c5 (Birmingham Gambit)
@@ -111,18 +38,18 @@ Named variations[edit]
 1...Nc6 (Grigorian Variation)
 1...Nf6 2.Bb2 g6 3.g4 (Polish Spike)
 1...Nh6 (Karniewski Variation)
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
-References[edit]
+[edit]
 
-Bibliography[edit]
+[edit]
 
 
 Konikowski, Jerzy; Soszynski, Marek: The Sokolsky Opening 1.b4 in Theory & Practice. Russell Enterprises, Milford USA 2009, ISBN 978-1-888690-65-1
 
 
-External links[edit]
+[edit]
 
 1. b4 variations and games by Marek Trokenheim (Marek's 1.b4 Encyclopaedia)
 "The Chess Moves 1 b4 and 1...b5" by Edward Winter

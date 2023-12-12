@@ -11,19 +11,19 @@ B03: 1.e4 Nf6 2.e5 Nd5 3.d4 (including the Exchange Variation and Four Pawns Att
 B04: 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 (Modern Variation without 4...Bg4)
 B05: 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 (Modern Variation with 4...Bg4)
 
-History[edit]
+[edit]
 The opening is named after Alexander Alekhine, who introduced it in the 1921 Budapest tournament in games against Endre Steiner[2] and Fritz Sämisch.[3][4] Four years later, the editors of the Fourth Edition of Modern Chess Openings (MCO-4) wrote: Nothing is more indicative of the iconoclastic conceptions of the 'hypermodern school' than the bizarre defence introduced by Alekhine ... . Although opposing to all tenets of the classical school, Black allows his King's Knight to be driven about the board in the early stages of the game, in the expectation of provoking a weakness in White's centre pawns.[5]
 In addition to Alekhine, another early exponent of the defence was Ernst Grünfeld.
 
-Use[edit]
+[edit]
 Alekhine's Defence was more popular in the past. For instance, Bobby Fischer used it in two games against Boris Spassky in the World Chess Championship 1972, and Viktor Korchnoi also included the defence in his repertoire, leading to its respectable reputation.[1]  Nowadays, Alekhine's Defence is not so common at the top level. De Firmian observes, "The fashion could quickly change if some champion of the opening takes up the cause, as the results Black has obtained in practice are good."[1] The opening's current highest-rated proponent is GM Vassily Ivanchuk, although Lev Alburt played it at grandmaster-level almost exclusively during his career and was responsible for many contributions in both theory and practice. Currently, grandmasters Alexander Shabalov and Artashes Minasian use the opening with regularity, while Levon Aronian, Michael Adams, and Hikaru Nakamura will use it on occasion. Magnus Carlsen does not employ the opening frequently but he has used it occasionally in competitive games, most notably to defeat the former World Chess Champion Veselin Topalov at Linares 2008.
 A game by Napoléon Bonaparte from the 19th century shows one of the oldest known examples of Alekhine's Defence being employed in a game.[6] Napoléon won the game.[6]
 
-Main line: 2.e5 Nd5 [edit]
+[edit]
 After the usual 2.e5 Nd5, three main variations of Alekhine's Defence use 3.d4, but there are other options for White at this point. Two of the main lines are the Exchange Variation and the Four Pawns Attack. The Exchange Variation continues 3.d4 d6 4.c4 Nb6 5.exd6.  White has some space advantage.  Black can capitalise on the half-open centre with ...g6, ...Bg7 with ...Bg4 eventually being played.  The Four Pawns Attack continues 3.d4 d6 4.c4 Nb6 5.f4.  White has a somewhat larger space advantage though the centre is not fixed.  Black has a number of options.  Black can play ...Qd7 with ...0-0-0 and ...f6 putting pressure on White's d-pawn.  Black can play ...Nb4 with ...c5 hoping to exchange the d-pawn.  Finally, Black can play ...Be7 with ...0-0 and ...f6 attacking the centre.  Minor variations include O'Sullivan's Gambit, 3.d4 b5 (intending 4.Bxb5 c5 5.dxc5?? Qa5+), and 3.d4 d6 4.Bc4, the Balogh Variation.
 
-Four Pawns Attack: 3.d4 d6 4.c4 Nb6 5.f4 [edit]
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2012) (Learn how and when to remove this template message)
+[edit]
+
 
 abcdefgh8877665544332211abcdefghFour Pawns Attack: 3.d4 d6 4.c4 Nb6 5.f4
 
@@ -31,7 +31,7 @@ The Four Pawns Attack is White's most ambitious line against the Alekhine's, and
 An alternative is the sharp Planinc Variation (also known as the Cambridge Gambit), 5...g5!?. Black hopes for 6.fxg5? dxe5, wrecking White's centre and pawn structure. The line is named after GM Albin Planinc, who championed it in the 1970s.[citation needed] It was then taken up in the 1990s by correspondence player Michael Schirmer, whose games were noted in a recent book on Alekhine's Defence by British GM and Alekhine exponent Nigel Davies.
 Alternate moves for Black other than 5...dxe5, are 5...g6 - the Fianchetto Variation, and 5... Bf5 - the Trifunovic Variation.
 
-Exchange Variation: 3.d4 d6 4.c4 Nb6 5.exd6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghExchange Variation: 3.d4 d6 4.c4 Nb6 5.exd6
 
@@ -41,7 +41,7 @@ A popular setup from White to prevent Black's plan is the Voronezh Variation (na
 The Voronezh was recommended by John Emms and noted as a big problem by Nigel Davies,[11] leading many players to opt for the more solid 5...exd6 line. However, the line offers Black less opportunity for counterplay. In this line Black usually develops the king bishop via ...Be7 and ...Bf6, because Bg5 can be bothersome against a fianchetto setup with ...g6 and ...Bg7, e.g. 6.Nc3 g6 7.Nf3 Bg7 8.Bg5.[9]
 Although the 5...exd6 structure resembles the drawish Exchange French, Black can make several attempts to imbalance the position. First, Black should play 6...Nc6 against almost any White move to prevent White from establishing an ideal Nc3, Bd3, Nge2 setup. If White attempts this, Black can strike the d3-bishop with ...Nb4. Second, Black should castle and maneuver ...Be7–f6. After sufficient preparation, a common Black plan is to push ...d5. If White replies with c5, Black can respond with the unusual-looking ...Nc8 with the idea to maneuver the knight ...Nc8–e7–f5 to strike at the weak d4-pawn.
 
-Modern Variation: 3.d4 d6 4.Nf3 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghModern Variation: 3.d4 d6 4.Nf3
 
@@ -54,14 +54,14 @@ The Modern Variation is the most common variation of the Alekhine Defence. As in
 In most variations, Black can play ...Bg4 to transpose into the 4...Bg4 line.
 
 
-Balogh Variation: 3.d4 d6 4.Bc4 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghBalogh Variation: 3.d4 d6 4.Bc4
 
 The first recorded use of this variation was Canal–Colle, Karlovy Vary 1929. White resigned after Black's 40th move.[15]
 Unlike several other sidelines, 4.Bc4 is fairly popular. The line contains some traps that can snare the unwary. For example, 4...dxe5 5.dxe5 Nb6?? loses the queen to 6.Bxf7+! Instead, the main line is 4...Nb6 5.Bb3, when Black has usually played 5...dxe5 6.Qh5 e6 7.dxe5 (the "old main line" according to Cox) or 5...Bf5 when White can among other things try the obstructive pawn sacrifice 6.e6. In either case, White obtains attacking chances, and so Taylor recommends 5...d5 followed by 6...e6 to reach a position akin to the French Defence.[16]
 
-Two Pawns Attack: 3.c4 Nb6 4.c5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghTwo Pawns Attack: 3.c4 Nb6 4.c5
 
@@ -71,7 +71,7 @@ Black must play 4...Nd5, whereupon White will usually challenge the knight with 
 The statistics presented by Cox show this variation scoring poorly for White, with all of Black's main defences scoring at least 50%.[9]
 
 
-Two Knights Variation: 3.Nc3 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghTwo Knights Variation: 3.Nc3
 
@@ -79,7 +79,7 @@ In the Two Knights Variation, White immediately accepts doubled pawns after 3...
 If Black does not want to defend against White's attacking opportunities against 3...Nxc3 4.dxc3, then 3...e6 is a reasonable alternative that was Alekhine's choice when meeting the Two Knights, and this defence has been advocated by Taylor.[21] If White plays 4.d4, then 4...Nxc3 forces White into the bxc3 line reminiscent of the French. If 4.Nxd5 exd5, Black will quickly dissolve the doubled pawns with ...d6, and the resulting position will tend to be drawish.
 
 
-Minor sidelines after 2.e5 Nd5[edit]
+[edit]
 Steiner vs. Alekhine, 1921
 abcdefgh8877665544332211abcdefgh4.Bg5 
 
@@ -92,19 +92,19 @@ abcdefgh8877665544332211abcdefgh3.c4 Nb6 4.a4
 After 3.c4 Nb6 4.a4 (the Emory Tate line), White can aim at chasing the black knight away followed by a pawn sacrifice that impairs Black's development, for example by 4...d6 5.a5 N6d7 6.e6, but this leaves Black with a strong center and an almost-winning position, though the threat of a5 still looms. Black can prevent this with 4...a5. White's main continuation is to deploy the queen rook for duties on the kingside with 5.Ra3, followed by Rg3 at some point when the attack on g7 is supposed to tie Black down from developing the bishop to e7. However, after 5...d6 6.exd6 exd6 7.Rg3 Bf5, Black can carry through with 8...Be7 anyway, since after 9.Rxg7 the rook would be trapped and lost to 9...Bg6 and 10...Bf6.[9] The idea for this unusual early "rook lift" probably originated with the well-known American International Master Emory Tate.[22][23] Women's World Champion GM Mariya Muzychuk, World Junior Champion GM Lu Shanglei and GM Nazar Firman have experimented with this line and achieved some success with it.[24]
 
 
-Alternatives to 2...Nd5[edit]
+[edit]
 After 2.e5, 2...Nd5 is almost universally played. The two other knight moves that do not hang it to the queen on d1 are 2...Ng8 and 2...Ne4.
 
 2...Ng8, undeveloping the knight immediately, was named the "Brooklyn Defence" in honour of his hometown by GM Joel Benjamin, who calls this his "pet line".[25] Although Black might be said to be giving odds of three moves, White only has a small advantage  according to theory.[26] The first recorded use of the Brooklyn Variation was in 1905 in Vienna where Aron Nimzowitsch with white checkmated Adolf Albin on the 34th move.
 Very dubious is 2...Ne4?, which John L. Watson and Eric Schiller dub the "Mokele Mbembe". They analyse 3.d4 f6 4.Bd3 d5 5.f3 Ng5 6.Bxg5 fxg5 7.f4! g6! 8.Nf3! g4 (they also analyse 8...gxf4 9.Ng5! e6 10.Qg4! Qe7 11.0-0 and 8...Bg4 9.h3, both leading a large advantage for White) 9.Ng5 Bh6 10.Nxh7 Rxh7 11.Bxg6+ Rf7 12.Qd3 Bf8 13.f5 e6 14.f6 Qd7 15.h3! g3 16.Qxg3, with a winning advantage for White.[27] Nunn's Chess Openings concludes that White gets a large advantage with 3.d4 f6 (or 3...e6 4.Nh3 h6 5.Qg4 d5 6.f3 h5 7.Qf4 g5 8.Nxg5 Nxg5 9.Qxg5 Be7 10.Qg7) 4.Qh5+ g6 5.Qh4 d5 6.Bd3.[28]
-2.Nc3[edit]
+[edit]
 Instead of chasing Black's knight, White may defend the e4-pawn, either directly or through tactical means.
 2.Nc3 is by far White's most common alternative to 2.e5; in fact Cox noted that he saw this move in over half his games with the Alekhine. It is often played by amateurs and those wishing to avoid a theoretical battle on territory more familiar to their opponents. Cox, however, wrote that many White players are bluffing, and in fact know nothing about either the Vienna Game or the Four Knights Game, to which the game can easily transpose if Black plays 2...e5, citing one book which recommended 2.Nc3 while assuring readers that 2...e5 is uncommon.[9] Another transposition Black may enter is 2...d6, which usually leads to the Pirc Defence.
 The independent Alekhine line is 2...d5, known as the Scandinavian Variation. After 2...d5, 3.exd5 Nxd5 4.Bc4, 4...Nb6 or 4...Nxc3 is considered roughly equal, while 4...e6 is solid but blocks in the light-squared bishop. 4.g3 has been played by the Danish correspondence player Ove Ekebjaerg, when Harald Keilhack recommends 4...Nxc3 5.bxc3 Qd5! 6.Qf3! (6.Nf3 Qe4+ is awkward in light of 7.Be2 Bh3 or 7.Qe2 Qxc2) Qe6+! 7.Qe2 ("on 7.Be2 or 7.Ne2, 7...Bd7 is unpleasant") Qxe2+ 8.Nxe2 Bd7! 9.Bg2 Bc6 10.0-0 Bxg2 11.Kxg2 Nc6 12.d3 g6 13.Rb1 0-0-0 14.c4 Bg7, when "Black has a rather comfortable position", as in Ekebjaerg–Alcantara Soares, corr. 1989.[29]
 More combative after 2...d5 is 3.e5, when Black can choose among 3...d4, 3...Nfd7 (transposing to the Steinitz variation of the French Defence after 4.d4 e6, but 4.e6!? is a sharp alternative), 3...Ne4!?, and even 3...Ng8. After 3...d4 can follow 4.Nce2 Ng4, or 4.exf6 dxc3 5.fxg7 cxd2+ leading to quick castling for White.
 While most grandmasters play the mainline 2.e5, Jonny Hector regularly plays 2.Nc3 against the Alekhine, and has scored well against the 2...d5 variation. His ideas have left White with a theoretical edge. Textbook authors of the Alekhine Defence, including Davies, Cox, and Taylor, have therefore encouraged 2...e5 over 2...d5.
 
-Other 2nd moves for White[edit]
+[edit]
 2.d3, the Maroczy Variation, is less common. Although playable, 2.d3 blocks in White's light-squared bishop, so the variation is considered somewhat passive.  If White fianchettoes that bishop, transposition to a King's Indian Attack is likely. Lev Alburt and Eric Schiller call 2.d3 "insipid" and recommend 2...d5 (or 3.Nd2 e5 with a reversed Philidor's Defence) 3.e5 Nfd7 4.f4 (4.d4 c5 5.c3 Nc6 leaves Black a tempo up on the French Defence) c5 5.Nf3 e6 6.g3!? Nc6 7.Bg2 Be7 8.0-0 b5 with equality.[30]
 2.Qe2 e5 with an equal game.
 2.Bc4, the Krejczik Variation, is rarely seen, since it allows Black to gain the bishop pair and seize space in the centre. Alburt and Schiller write that after 2...Nxe4 3.Bxf7+ (the Krejcik Gambit) Kxf7 4.Qh5+ Kg8 or 4...g6 5.Qd5+ e6 6.Qxe4 Bg7 7.Qf4 Ke8! "Black has nothing to worry about."[31] Playable alternatives include 2...e5 (transposing to the Bishop's Opening), 2...d5 and 2...e6.
@@ -112,10 +112,10 @@ Other 2nd moves for White[edit]
 2.c4 gambits the e4-pawn in favour of superior development after 2...Nxe4 3.Nf3. While very rare, the line has been played a few times in grandmaster play, including a transposition to the King's Indian Defence after 2...g6 3.Nc3.
 2.f3 is also rare, but players who like to play the black side of the Latvian Gambit can in effect wind up playing it after 1.e4 Nf6 2.f3 e5 3.f4!?.[32]
 2.Nf3, the John Tracy Gambit, is a poor choice, leading to the loss of the king pawn for doubtful compensation.
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
-References[edit]
+[edit]
 
 Bibliography
 
@@ -124,7 +124,7 @@ Bibliography
 
 
 “Alekhine’s Defence” by Edward Winter
-Further reading[edit]
+[edit]
 
 
 

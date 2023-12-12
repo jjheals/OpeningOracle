@@ -1,17 +1,3 @@
-
-Black may answer the Queen's Gambit by accepting the 'gambit'. Although Black does not usually keep the extra pawn, the point is to create free piece play by clearing out the center.
-Pros:
-
-Leads to freedom for many of Black's pieces
-Opens the long diagonal
-Gives the possibility of a counter-attack on d4
-
-Cons:
-
-Gives White two center pawns to one
-Opens the c-file for White
-Allows the Bf1 to later capture on c4 in one move
-
 Chess opening
 Chess openingQueen's Gambit Accepted
 abcdefgh8877665544332211abcdefgh
@@ -26,14 +12,14 @@ As Black's 2...dxc4 surrenders the centre, White will try to seize space in the 
 The Encyclopaedia of Chess Openings (ECO) classifies the Queen's Gambit Accepted under codes D20 to D29.
 
 
-History[edit]
+[edit]
 While the Queen's Gambit Accepted was mentioned in literature as early as the 15th century, it was the World Chess Championship 1886 between Wilhelm Steinitz and Johannes Zukertort which introduced the first modern ideas in this opening. Black's play had, until then, centred on holding on to the c4-pawn. Steinitz's plan was to return the pawn, but inflict White with an isolated pawn on d4, then play to exploit the weakness.
 Even with the modern treatment, the opening suffered from a slightly dubious reputation in the early 20th century, even as Alexander Alekhine introduced further ideas for Black and it was played at the highest levels, beginning in the 1930s, though becoming less popular after World War II, as the Indian Defenses were heavily played. At the end of the 1990s, a number of players among the world elite included the Queen's Gambit Accepted in their repertoires, and the line is currently considered sound.[1]
 
-Main variations[edit]
+[edit]
 After 1.d4 d5 2.c4 dxc4, the most popular move is 3.Nf3, but there are other moves which have been played by strong grandmasters. The main variations below are in order of popularity.
 
-3.Nf3[edit]
+[edit]
 The main lines of the QGA begin with this move. White delays measures to regain the pawn for the moment and prevents Black from striking at the centre with ...e5. The recovery of the pawn will usually be done through 4.e3 and 5.Bxc4. Black's most common rejoinder is 3...Nf6, though the variation 3...a6 was introduced by Alexander Alekhine and bears his name.
 
 
@@ -41,7 +27,7 @@ abcdefgh8877665544332211abcdefghMain line after 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.0-
 
 The main line of the Queen's Gambit Accepted continues with:
 
-3...Nf6 4.e3[edit]
+[edit]
 4.Qa4+ leads to the Mannheim Variation, so named after its adoption in one of the cities where the World Chess Championship 1934 was played, even though the move was previously known. Black usually gains easy equality after 4...Nc6, so the line is fairly rare. Grandmasters Michał Krasenkow and Ulf Andersson have played the line several times.[2]
 4.Nc3 leads to the Two Knights Variation, which is a true gambit line since White can no longer expect to regain the c4-pawn after 4...a6 5.e4 b5. White's compensation in the form of a strong centre leads to immensely complicated play. Black does not need to enter this line, and 4...Nc6, 4...e6, and 4...c6 tend to transpose to the Chigorin Defense, QGD Vienna Variation, and Slav Defense respectively.[2]
 4...e6
@@ -54,34 +40,34 @@ A major alternative to castling is 6.Qe2, called the Furman Variation after Semi
 
 6...cxd4 brings about an isolated queen's pawn structure, and has been called the Steinitz Variation, after Wilhelm Steinitz. This line became well known after his match with Zukertort in 1886, but theory has generally held White's activity in high regard. The early clarification of the central tension gives White too free a hand and the line is rarely seen in modern practice.[1]
 Black has played to challenge the d4-pawn, and prepare ...b5 which wins time by harassing the bishop on c4. In the meantime, White has safeguarded his king and regained the pawn. At this point, there are several options available for White, who needs to consider whether or not to deal with the positional threat of ...b5. The old main line 7.Qe2 allows ...b5, and theory holds that Black can equalise against it. The main modern preference is the retreat 7.Bb3, so that 7...b5 can be met with 8.a4, while 7.a4, stopping ...b5 at the cost of weakening the b4-square, is also popular, and was played by Mikhail Botvinnik in his 1963 match with Tigran Petrosian.[1] 7.dxc5 leads to an early queen exchange, and often to an early draw. Rarer lines which have been played are 7.e4 (Geller), 7.Nc3, 7.Nbd2, 7.a3, 7.b3, and 7.Bd3.[2]
-3...a6[edit]
+[edit]
 This is the Alekhine Variation. White usually continues 4.e3. 4...Nf6 tends to return to the main line. This is an uncommon line that mainly focuses on rapid development of pieces along with domination of the centre. This variation was debuted by Alexander Alekhine against Efim Bogoljubov in 1929.
 
-3.e4[edit]
+[edit]
 White can try to establish a strong pawn centre with 3.e4, an old move that became popular again in the 1990s. Rizzitano calls it the Central Variation and notes its increase in popularity and strategic and tactical complexity.[2] Raetsky and Chetverik consider the line straightforward and critical, and remark that anyone playing the Queen's Gambit Accepted must be prepared to meet it.[1]
 Trying to protect the pawn with 3...b5 is fairly risky and rarely seen.[1] The main reply against the Central Variation is to oppose the pawn centre with 3...e5, which is a highly theoretical system. Other replies aimed at challenging the centre are 3...Nc6 with ideas akin to the Chigorin Defense, 3...Nf6, provoking 4.e5, and 3...c5 undermining the centre at d4.
 
-3.e3[edit]
+[edit]
 The apparently modest 3.e3 prepares immediate recovery of the pawn and has often been employed by strong players, including Anatoly Karpov. The line long had a harmless reputation due to the early discovery of 3...e5 which strikes back at the centre. A typical continuation is then 4.Bxc4 exd4 5.exd4, leading to an isolated queen's pawn position. However, the open positions which ensue have not proved easy for Black to handle in practice, and many players simply play 3...e6 to transpose back to the main lines.[1] Nonetheless, 3...e5 was Rizzitano's recommendation in his repertoire against 3.e3.[2]
 An opening trap where Black tries clinging onto the c4-pawn was pointed out by Alessandro Salvio in 1604. If Black defends the pawn with 3...b5? 4.a4 c6 5.axb5 cxb5??, the a8–h1 diagonal has been fatally weakened and 6.Qf3 wins a minor piece. Trying to defend the pawn by 3...Be6 may hold on to the pawn, but White has good compensation after 4.Ne2.[1]
 
-3.Nc3[edit]
+[edit]
 3.Nc3 was labelled "misguided" by Raetsky and Chetverik,[1] because the development does not control d4 and e5, and the knight is vulnerable to a b-pawn advance from Black. 3...e5, 3...Nf6, and 3...a6 are all reasonable replies, and 3...Nc6 leads to a standard line in the Chigorin Defense. 3. Nc3 was recommended by Keene and Jacobs in their opening repertoire for White.[4]
 
-3.Qa4+[edit]
+[edit]
 The queen check by 3.Qa4+ Nc6 4.Nf3 will quickly regain the pawn with Qxc4, but the early development of the queen allows Black to win time by harassing it, so this line is rarely played.[2]
 
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
 
 
 
-External links[edit]
+
+
+[edit]
 
 Annotated Chess - Queen's Gambit Accepted
 

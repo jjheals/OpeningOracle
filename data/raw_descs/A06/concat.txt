@@ -6,13 +6,13 @@ The Nimzowitsch-Larsen Attack (also known as the Nimzo-Larsen Attack, Larsen's O
 Lines are classified under codes A01–A06 in the Encyclopaedia of Chess Openings.
 
 
-History[edit]
+[edit]
 The earliest master-level exponent of the Nimzowitsch-Larsen Attack was the strong English amateur John Owen, who occasionally opened this way in the 1870s – essentially playing Owen's Defence, 1.e4 b6, with a move in hand. 
 In the 1920s and 30s, Aron Nimzowitsch experimented with 1.b3 but more commonly employed the move order 1.Nf3 d5 2.b3, usually reaching positions akin to a reversed Nimzo-Indian Defence (e.g. after 2...Nf6 3.Bb2 c5 4.e3 Nc6 5.Bb5).     
 Danish grandmaster (GM) Bent Larsen played 1.b3 frequently between 1968 and 1972, but the opening suffered a setback in the 1970 USSR vs. Rest of the World match in Belgrade, where Larsen played it against reigning world champion Boris Spassky and lost in 17 moves.[2]
 The Nimzowitsch-Larsen Attack received interest from Bobby Fischer, who employed 1.b3 on five occasions in 1970. A notable longer-term exponent of the opening, however, was Soviet GM Vladimir Bagirov who played 1.b3 on around 100 occasions between 1976 and 2000 with considerable success (scoring approximately 54% wins and 38% draws). Recent specialists in this opening have included Czech GM Pavel Blatny and Armenian GM Artashes Minasian. The Nimzowitsch-Larsen Attack is sometimes used as a surprise weapon in super-GM-level online blitz tournaments, including by Hikaru Nakamura, Magnus Carlsen, Richárd Rapport, Ian Nepomniachtchi, Vladislav Artemiev and Baadur Jobava.
 
-Variations[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh 1.b3 e5 2.Bb2 Nc6 3.e3 d5 4.Bb5 Bd6
 
@@ -38,16 +38,16 @@ abcdefgh8877665544332211abcdefgh Nimzowitsch-Larsen Attack vs. London System
 
 One independent option available to Black is to play a reversed kind of London System with d5, Bf5, Nf6, e6, c6, etc. In this case White may change tack and play a double fianchetto, forcing through e2–e4 (via d3, Nd2 and Bg2) and disrupting Black's solid development. For example, 1.b3 d5 2.Bb2 Bf5 3.d3 e6 4.Nd2 Nf6 5.g3 Be7 6.Bg2 h6 7.e4 Bh7 reaches a form of Hippopotamus structure.
 
-Move order issues: 1.b3 or 1.Nf3/2.b3[edit]
+[edit]
 The issue of whether to play the Nimzowitsch-Larsen Attack via a 1.b3 move order or a 1.Nf3/2.b3 move order is ultimately a matter of taste. The 1.Nf3 move order could be argued to limit the number of variations at Black's disposal and to channel the play towards those where White scores more highly. The 1.b3 move order, on the other hand, gives more variety and more scope for tricks and traps on the a1–h8 diagonal. It is also more likely to result in positions with which Black is unfamiliar. For example, after 1.Nf3 d5 2.b3, any Black players who open 1.d4 with White will be likely to have some awareness of the strategic considerations required to play a reversed Nimzo-Indian position. After 1.b3 e5 2.Bb2, however, Black is unlikely to have had much experience facing comparable positions as White in the rather rare Owen's Defence, and in this case has colours reversed and is a move down. While many of the 1.b3 lines are rated only equal by theory, the 1.b3 player will thus often enjoy an advantage in practical terms, especially at shorter time controls. 
 Jacobs & Tait[3] note that the 1.b3 move order has the added advantage that in most lines White has a greater range of options available because f4 is still playable. This is particularly relevant when compared to lines such as 1.Nf3 d6 2.b3 or 1.Nf3 Nc6 2.b3 where Black is able to play 2...e5, transposing to lines where White may have preferred to have had the option to attack e5 with both f4 and Nf3. Jacobs & Tait also note that a 1.Nf3 move order allows Black to play 1...g6, preventing White from following up with 2.b3.
 
-Example games[edit]
+[edit]
 Nimzowitsch vs. Spielmann, New York 1927 1.Nf3 d5 2.b3 c5 3.Bb2 Nc6 4.e3 Nf6 5.Bb5 Bd7 6.0-0 e6 7.d3 Be7 8.Nbd2 0-0 9.Bxc6 Bxc6 10.Ne5 Re8 11.f4 Nd7 12.Qg4 Nxe5 13.Bxe5 Bf6 14.Rf3 Bxe5 15.fxe5 Qc7 16.Qh5 h6 17.Raf1 g6 18.Qxh6 Qxe5 19.Rf6 Qh5 20.Qxh5 gxh5 21.Nf3 Rc7 22.Rh6 f6 23.Nh4 Be8 24.Rhxf6 Rxf6 25.Rxf6 Re7 26.Kf2 Kg7 27.Rf4 Bd7 28.Ke2 e5 29.Rf5 Re8 30.Rf2 e4 31.Rf4 Re5 32.Kd2 b5 33.g3 Bh3 34.d4 cxd4 35.exd4 Rg5 36.c3 a5 37.Rf2 a4 38.Ke3 a3 39.Rc2 Bf1 40.Rc1 Bd3 41.Ng2 Rf5 42.Nf4 Kf7 43.Rd1 Ke7 44.Nxd3 exd3 45.b4 Kd6 46.Kxd3 Rf2 47.Rd2 Rf3+ 48.Kc2 Ke6 49.Re2+ Kd6 50.Kb3 Rd3 51.Re5 h4 52.gxh4 Rh3 53.Rh5 Kc6 54.Rh6+ Kb7 55.h5 1–0[4]
 Larsen vs. Eley, Hastings 1972 1.b3 e5 2.Bb2 Nc6 3.e3 Nf6 4.Bb5 d6 5.Ne2 Bd7 6.0-0 Be7 7.f4 e4 8.Ng3 0-0 9.Bxc6 bxc6 10.c4 d5 11.Nc3 Re8 12.Rc1 Bg4 13.Nce2 Nd7 14.h3 Bxe2 15.Qxe2 Nc5 16.Qg4 g6 17.f5 Nd3 18.fxg6 hxg6 19.Rf7 Kf7 20.Rf1 Bf6 21.Bxf6 1–0[5]
 Keene vs. Kovacevic, Amsterdam 1973 1.Nf3 d5 2.b3 Bg4 3.Bb2 Nd7 4.g3 Bxf3 5.exf3 Ngf6 6.f4 e6 7.Bg2 Be7 8.0-0 0-0 9.d3 a5 10.a4 c6 11.Nd2 b5 12.Qe2 bxa4 13.Rxa4 Nb6 14.Ra2 a4 15.Rfa1 axb3 16.Rxa8 Nxa8 17.Nxb3 Nb6 18.f5 exf5 19.Nd4 Qd7 20.Bh3 g6 21.Bxf5 gxf5 22.Ra7 Qxa7 23.Nxc6 Qd7 24.Nxe7 Kg7 25.Qh5 1–0[6]
 Baadur Jobava vs. Yu Yangyi, Tata Steel Challengers 2014 1.b3 d5 2.Bb2 Bf5 3.e3 e6 4.h3 h6 5.Nc3 Bh7 6.d4 Nf6 7.Bd3 Bxd3 8.Qxd3 Nbd7 9.0-0-0 Bb4 10.Nge2 0-0 11.g4 c5 12.dxc5 Qe7 13.Rhg1 Nxc5 14 Qd4 Nce4 15.Nxe4 dxe4 16.g5 hxg5 17.Qe5 Rfd8 18.Rxd8+ Rxd8 19.Qxg5 Ne8 20.Qe5 f5 21.Nf4 Ba3 22.Rg6 Bxb2+ 23.Kxb2 Rd6 24.Rxe6 Rxe6 25.Qxe6+ Qf7 26.h4 Qxe6 27.Nxe6 Nf6 28.Kc3 Ng4 29.Nd8 b6 30.Nc6 Nxf2 31.Kd4 Kf7 32.Nxa7 Ke6 33.Nc8 Ng4 34.Nxb6 Ne5 35.h5 1–0[7]
-ECO codes and transpositions[edit]
+[edit]
 A01 – 1.b3
 A02 – 1.f4 Nf6 2.b3
 A03 – 1.f4 d5 2.Nf3 Nf6 3.e3 e6 4.b3
@@ -56,25 +56,25 @@ A04 – 1.Nf3 f5 2.b3
 A04 – 1.Nf3 c5 2.b3
 A05 – 1.Nf3 Nf6 2.b3
 A06 – 1.Nf3 d5 2.b3
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
-References[edit]
+[edit]
 
-Bibliography[edit]
-
-
+[edit]
 
 
 
 
 
 
-External links[edit]
+
+
+[edit]
 
 ECO A01: Nimzovich–Larsen Attack
 
-vteChessOutline
+Outline
 Chess theory
 Chess titles
 Grandmaster

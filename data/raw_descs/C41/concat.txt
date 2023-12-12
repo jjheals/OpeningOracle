@@ -1,77 +1,3 @@
-
-The Philidor Defense is a passive but playable opening for Black, usually reached by the move order 1.e4 e5 2.Nf3 d6. It is named after the 18th century French master Francois Philidor, who preferred 2...d6 to the more common alternative (then and now) of 2...Nc6. 
-
-Starting Position
-
-Pros
-Cons
-
-
-Variations
-
-Exchange Variation
-Nimzowitsch Variation
-Hanham Variation
-3.Bc4
-
-
-How To Play Against The Philidor
-History
-Famous Games
-Conclusion
-
-Starting Position
-The Philidor is defined by Black's second move, 2...d6. Although it is the third-most common move in the position, it is only played about 1/30th as often as 2...Nc6 and 1/3 as often as the Petroff Defense (2...Nf6). At the same time it is 10 times more popular than the #4 move, the Latvian Gambit (2...f5).
-
-If you watch GM Benjamin Finegold's Chess.com Lessons on the Philidor, he also teaches the alternative move order 1.e4 d6 2.d4 Nf6 3.Nc3 e5.
-Pros
-
-Black builds a solid base in the center
-Avoids the Ruy Lopez (2...Nc6 3.Bb5)
-Black leaves the c6 square free, so the c-pawn can later advance
-
-Cons
-
-Black's central presence is rather passive
-2...d6 blocks in the dark-squared bishop
-
-Variations
-White has two main responses to the Philidor, 3.d4 and 3.Bc4. Black generally responds to the first of those moves in one of three ways, not including Philidor's own move 3...f5, which is considered inferior today.
-
-White's two main responses to the Philidor. 3.d4 happens in about 80% of Philidor games.
-
-Exchange Variation (3.d4 exd4)
-More than half of Philidor Defense games end up in this position, given the popularity of both 3.d4 and 3...exd4. After the typical continuation 4.Nxd4 Nf6 5.Nc3 Be7, White has several responses.
-
-The most common position in the Exchange Variation, at which point White can and regularly has played several moves.
-
-Nimzowitsch Variation (3.d4 Nf6)
-Nf6 is a typical move in any Philidor variation but can be played as early as move three, and is in fact the second most common try. Black's has its best results of any Philidor line if White plays the typical reply 4.Nc3, but White does very well playing 4.dxe5 instead.
-
-
-
-Hanham Variation (3.d4 Nd7)
-3...Nd7 is the typical opening move of the Hanham Variation, which also includes the moves ...c6 and ...Be7. Black aims to develop naturally while controlling some central squares.
-3. Bc4
-White can play 3.Bc4 to develop naturally while avoiding Black's main lines. Black must be careful not to end up in a trap known as Legal's Mate.
-
-How to Play Against the Philidor Defense
-Against the Exchange Variation, 6.g3 and 6.Bf4 (win rate of 49% and 52%, respectively) score much better than 6.Be2 or 6.Bc4 (36% each). Against 3...Nf6 there is the 4.dxe5 line shown above for a 58% win rate for White. And the Hanham tends to do poorly against standard moves as below.
-
-Although it wins at a slightly lower percentage than 3.d4, 3.Bc4 is seen far less often and so can have surprise value.
-History
-The Philidor Defense predates its namesake, with one Ruy Lopez de Segura game on record as well as appearing four times in the writings of Gioachino Greco. Philidor analyzed and recommended it in his 1749 treatise L’Analyse du jeu des Echecs. There are only a handful of records of Philidor playing the opening, but most of his games were not written down and lost to time.
-
-Philidor in 1777.
-
-The Philidor has had very few regular practitioners over the years. No world champions except Alexander Alekhine have played it more than a handful of times, and sometimes seemingly by accident, such as when GM Garry Kasparov arrived in a Philidor position in 1979 by the move order 1.d4 Nf6 2.Bg5 d6 3.Nc3 Nbd7 4.e4 e5. GM Etienne Bacrot is probably the best player to have used it somewhat often, making it part of his opening repertoire from 2003-05.
-Famous Games
-By far the most famous game in the Philidor Defense was a crushing defeat for Black against the star American Paul Morphy in the famous Opera Game. However, Black's problems did not begin with the second move but rather the third, the weak 3...Bg4.
-
-A young Alekhine showed how to win with the Philidor against careless play by White.
-
-Conclusion
-Although generally not recommended for high level players, the Philidor Defense is good for those who want to avoid main lines of the extensive theory that exists in the Ruy Lopez or Petroff. Visit the Chess.com Explorer to play around with lines and move orders.
 Chess opening
 Chess openingPhilidor Defence
 abcdefgh8877665544332211abcdefgh
@@ -86,20 +12,20 @@ The Encyclopaedia of Chess Openings code for Philidor Defence is C41.
 
 
 
-History[edit]
+[edit]
 In his 1561 book, Ruy Lopez, seeking to debunk Pedro Damiano, advocated 2...d6 as superior to 2...Nc6, on the grounds that 2...Nc6 allows the strong move 3.Bb5, now known as the Ruy Lopez or Spanish Opening. Philidor evidently concurred with this assessment, though he also considered 2.Nf3 inferior to 2.Bc4. Philidor advocated the risky continuation 3.d4 f5!? The Philidor Defence subsequently became a popular opening, though 2...Nc6 remained the most common reply.
 The Philidor occurred in one of the most famous games ever played, "The Opera Game" played in 1858 between the American chess master Paul Morphy and two strong amateurs, the German noble Duke Karl of Brunswick and the French aristocrat Count Isouard. The game continued 3.d4 Bg4, a deviation from modern standard lines. The Philidor Defence declined in popularity as positional play became more developed, and it had almost completely vanished from top-tier chess by World War I.
 As of 2017[update], there are no top players who employ the Philidor with regularity, although Étienne Bacrot and Liviu-Dieter Nisipeanu have occasionally experimented with it in classical play. Its popularity in master play has increased slightly, however, over the last 20 years. It has also become fairly popular in rapid, blitz, and bullet chess.[1]
 
-Main line: 3.d4 [edit]
+[edit]
 With 3.d4, White immediately challenges Black in the centre. Black has several options.
 
-3...exd4[edit]
+[edit]
 The most common Black response is 3...exd4 which relieves the central tension, although it gives up the centre. After 4.Nxd4 Nf6 (4...d5 5.exd5, the Paulsen Attack,[2] continues 5...Qxd5 6.Qe2+ Be7 7.Nb5 Na6 8.N1c3+/= Paulsen[3]) 5.Nc3, Black normally continues ...Be7 and ...0-0 (the Antoshin Variation) and achieves a strong defensive position. A sample line is: 5...Be7 6.Bc4 0-0 7.0-0 c5, and the position is equal. 
 In this line Black can also fianchetto his bishop to g7, although this is uncommon. Bent Larsen tried this in a few games, including a draw against Mikhail Tal in 1969.[4]
 Instead of 4.Nxd4, White can play 4.Qxd4, as Paul Morphy favoured, intending 4...Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 followed by 0-0-0. This line was played in many 19th-century games.
 
-Hanham Variation[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghPosition after 7...c6. Black's aim in the Hanham is a strongpoint defence of e5.
 
@@ -107,15 +33,15 @@ The other main option for Black is to maintain the central tension and adopt a s
 Grandmaster (GM) Larry Kaufman notes that the Hanham Variation aims to maintain Black's pawn on e5, analogously to closed lines of the Ruy Lopez, and opines that "it would be quite popular and on a par with the major defences to 1.e4, except for the annoying detail that Black can't actually reach the Hanham position by force."[5]
 As an alternative to 4.Nc3 in response to Black's 3...Nf6, according to both Kaufman and GM Christian Bauer, White retains some advantage with: 4.dxe5! Nxe4 5.Qd5! (the Rellstab Variation;[6] 5.Nbd2 is the Sokolsky Variation[7]) 5...Nc5 6.Bg5 Be7 7.exd6 Qxd6 8.Nc3.[8][9]
 
-Alternative move order[edit]
+[edit]
 Black sometimes tries 3...Nd7 intending 4.Nc3 Ngf6, reaching the Hanham Variation. But then 4.Bc4! is awkward for Black to meet, since 4...Ngf6 loses to 5.dxe5 Nxe5 (5...dxe5?? 6.Ng5! wins) 6.Nxe5 dxe5 7.Bxf7+ Kxf7 8.Qxd8 Bb4+ 9.Qd2 Bxd2+ 10.Nxd2 winning a pawn, and 4...Be7 loses a pawn to 5.dxe5 Nxe5 (5...dxe5?? 6.Qd5! wins) 6.Nxe5 dxe5 7.Qh5![8][10] So 4...c6 is best for Black, but leaves White with the advantage of the bishop pair after 5.0-0 Be7 6.dxe5 dxe5 (6...Nxe5 loses a pawn to 7.Nxe5 dxe5 8.Qh5) 7.Ng5! Bxg5 8.Qh5! Qe7 and now 9.Bxg5 or 9.Qxg5.[11]
 
-Black experiments to reach the Hanham Variation[edit]
+[edit]
 In recent years, Black has experimented with other move orders in an attempt to reach the Hanham Variation while avoiding 3...Nf6 4.dxe5! and 3...Nd7 4.Bc4! 
 
 One such line is 1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7 intending 4.Nf3 e5. White can deviate, however, with 4.f4!?[12][13] or even 4.g4!?[14]
 Another try is 1.e4 d6 2.d4 Nf6 3.Nc3 e5 which transposes to the Hanham after 4.Nf3 Nbd7, but White can instead try to gain a small advantage with 4.dxe5 (Kaufman opines that 4.Nge2 is "also promising") 4...dxe5 5.Qxd8+ Kxd8 6.Bc4.[13] After 4.dxe5, Bauer concludes that "White stands a trifle better", but that "provided he plays accurately, Black doesn't have much to fear following 6.Bc4, by choosing any of the three valid replies, 6...Ke8, 6...Bb4, or 6...Be6. Then 7.Bxe6 fxe6 his position remains a hard nut to crack."[15]
-Philidor Countergambit: 3...f5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Philidor Countergambit: 3...f5!?
 
@@ -134,10 +60,10 @@ After 3...f5 White has several ways to proceed:
 After 6.e6 (the del Rio Attack[28]), White obtains the upper hand after 6...Bc5 7.Nc3 (the Berger Variation[29]), or 6...Nh6 7.Nc3! (Berger);[30] however, Black can maintain lack of clarity with 6...Nf6!? 7.Nf7 Qe7 8.Nxh8 Bxe6, or 6...Bb4+ 7.c3 Bc5 8.Nf7 Qf6 9.Be3 Bxe6 10.Nxh8 Bxe3 11.fxe3 Qh4+ 12.g3 Qh6 13.Qd2 Nd7 14.c4 Ne5 15.Be2 dxc4 16.Nc3 Nd3+ 17.Bxd3 exd3 (Makarov).[30][31]
 White also has 6.Nc3!? (Steinitz) and 6.c4.[32]
 4.exf5 e4 5.Ng5 Bxf5 6.Nc3 and White has a slight plus after 6...Nf6 7.f3 (Sozin),[33] or 6...d5 7.f3.[23]
-3...Bg4?![edit]
+[edit]
 Inferior is 3...Bg4?!, in light of 4.dxe5 Bxf3 (Black cannot recapture since 4...dxe5? 5.Qxd8+ Kxd8 6.Nxe5 wins a clean pawn; or, Black can gambit a pawn with 4...Nd7, the Albin Variation[34]) 5.Qxf3 (or White can obtain an endgame advantage with 5.gxf3 dxe5 6.Qxd8+ Kxd8 7.f4+/− Maróczy[35]) 5...dxe5 6.Bc4 giving White the advantage of the bishop pair in an open position as well as a large development advantage. Black cannot block the attack on the f7-pawn with the "natural" 6...Nf6? because White wins a pawn with 7.Qb3 (played in the famous "Opera Game", where Morphy as White refrained from taking the b7-pawn and retained a strong initiative after 7...Qe7 8.Nc3). Black does better with 6...Qf6 7.Qb3 Bc5 8.0-0 Bb6 9.a4 a5 10.Nc3 Ne7 11.Be3 Nd7 12.Rad1+/−, or 6...Qd7!? (Maróczy).[35]
 
-Other 3rd moves for White[edit]
+[edit]
 An alternative approach for White is 3.Bc4, delaying d2–d4, or forgoing it entirely, playing d2–d3 instead. The move 3.Bc4 is also White's route to a possible Légal Trap. Some continuations: 
 
 3...Nc6 transposes to the Semi-Italian Opening.[36]
@@ -147,10 +73,10 @@ Or unique positions can be obtained such as 4.d3 c6, possibly followed by ...f5�
 Or Black can try 3...Be7!?[38] e.g. 4.0-0 (4.c3 is the Steinitz Variation[40]) Nf6 5.Re1 0-0 6.d4 exd4 7.Nxd4 a6.[41]
 Against the alternative 3.c3, Black can try 3...f5 (3...Nc6 4.d4 Nf6 transposes to the Ponziani Opening) 4.exf5 Bxf5 5.Qb3 Nf6 6.Ng5 d5 7.Qxb7 Nbd7 8.Qc6 Bd6 with compensation and initiative.[38]
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
-References[edit]
+[edit]
 
 Bibliography
 
@@ -161,14 +87,14 @@ Bibliography
 
 
 
-Further reading[edit]
+[edit]
 
-External links[edit]
+[edit]
 
 Opening overview
 
 
-vteChessOutline
+Outline
 Chess theory
 Chess titles
 Grandmaster

@@ -1,14 +1,3 @@
-
-In the Tarrasch Defense, Black loses no time in breaking his central bonds. The ...c5 move will knock out White's space advantage, but usually results in an isolated pawn for Black.
-Pros:
-
-Active play
-Black does not lack space
-
-Cons:
-
-Isolated Queen's pawn
-
 Chess opening
 Chess openingQueen's Gambit Declined
 abcdefgh8877665544332211abcdefghMoves1.d4 d5 2.c4 e6ECOD30–D69ParentQueen's Gambit
@@ -20,11 +9,11 @@ This is known as the Orthodox Line of the Queen's Gambit Declined.[1] When the "
 The Orthodox Line can be reached by a number of different move orders, such as 1.d4 Nf6 2.c4 e6 3.Nf3 d5; 1.d4 e6 2.c4 d5; 1.c4 e6 2.Nc3 d5 3.d4; 1.Nf3 d5 2.c4 e6 3.d4; and so on.
 
 
-General concepts[edit]
+[edit]
 Playing 2...e6 releases Black's dark-squared bishop, while obstructing Black's light-squared bishop. By declining White's temporary pawn sacrifice, Black erects a solid position; the pawns on d5 and e6 give Black a foothold in the centre. The Queen's Gambit Declined has the reputation of being one of Black's most reliable defenses to 1.d4. In this situation, White will try to exploit the passivity of Black's light-squared bishop, and Black will try to release it, trade it, or prove that, while passive, the bishop has a useful defensive role.
 An eventual ...dxc4 by Black will surrender the centre to White, and Black will usually not do this unless he can extract a concession, usually in the form of gaining a tempo, by capturing on c4 only after White has played Bd3 first. In the Orthodox Line, the fight for the tempo revolves around White's efforts to play all other useful developing moves prior to playing Bd3. Black will often aim for the pawn break ...c5 in this opening, which often leads to one or the other side accepting isolated or hanging pawns in exchange for dynamic compensation.[2]
 
-Other lines[edit]
+[edit]
 In its broadest sense, the Queen's Gambit Declined is any variation of the Queen's Gambit in which Black does not play ...dxc4. Variations other than the Orthodox Line have their own names and are usually treated separately.[3]
 
 1.d4 d5 2.c4 e6 and eventual ...c6 – Semi-Slav Defense
@@ -36,7 +25,7 @@ In its broadest sense, the Queen's Gambit Declined is any variation of the Queen
 1.d4 d5 2.c4 Nf6 – Marshall Defense
 Of the 34 games played in the 1927 World Championship between Alexander Alekhine and José Raúl Capablanca, all except the first and third began with the Queen's Gambit Declined.[4]
 
-Black avoids 3...Nf6[edit]
+[edit]
 After 1.d4 d5 2.c4 e6 3.Nc3 (3.Nf3 is a main alternative), Black's main move is 3...Nf6. Other options are:
 
 3...c5 (the Tarrasch Defense), if Black is willing to accept an isolated d-pawn.
@@ -44,10 +33,10 @@ After 1.d4 d5 2.c4 e6 3.Nc3 (3.Nf3 is a main alternative), Black's main move is 
 3...c6, usually signalling Black's intention to enter the Noteboom Variation after 4.Nf3 dxc4, or the Semi-Slav after 4...Nf6. White has alternatives to 4.Nf3 such as the Marshall Gambit 4.e4; or 4.e3 which may lead to the Stonewall Dutch after ...f5 or transpose to the Semi-Slav.
 3...Bb4 (the Accelerated Ragozin[6]) intends to transpose to the Ragozin Variation, although White has various options to avoid this transposition. For instance, one drawback with this move is that after the moves 4.a3 Bxc3+ 5.bxc3 Nf6 6.e3 it allows White to achieve the pawn structure seen in the game Botvinnik-Capablanca, AVRO 1938, which is often considered somewhat advantageous for white.
 3...a6 (the Janowski Variation), which gained some interest in 2021 after being adopted by World Champion Magnus Carlsen. The move threatens ...dxc4 followed by ...b5, attempting to hold on to the pawn. For this reason, White usually plays cxd5 first.[7]
-Black plays 3...Nf6[edit]
+[edit]
 Lines beginning with the moves 1.d4 d5 2.c4 e6 3.Nc3 Nf6 are covered by ECO codes D35–D69. These are old lines that can transpose into many other queen pawn openings. White has several ways of dealing with Black's setup:
 
-QGD Main Variations: 4.Bg5 Be7 5.Nf3 [edit]
+[edit]
  QGD Main Line 
 abcdefgh8877665544332211abcdefgh 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3
 
@@ -55,51 +44,51 @@ Tartakower Variation[8] or Tartakower–Makogonov–Bondarevsky System (TMB syst
 Anti-Tartakower–Makogonov–Bondarevsky (Anti-TMB): 5...h6 6.Bxf6 Bxf6 this line was extensively tested in the Kasparov–Karpov matches in 1980s. To this day Black has no problems in this line despite being tested at the highest levels. More recently, Boris Gelfand defended the Black side of this variation in the 2011 candidates matches which eventually he went on to win. For example, in the third round of the final candidate match, he forced White to accept a draw in 14 moves with a very strong novelty.[9]
 Lasker Variation: 5...0-0 6.e3 h6 (Neo-orthodox Variation[10]) 7.Bh4 Ne4 (Lasker Variation[11]) 8.Bxe7 Qxe7, is also a solid line, often leading to the exchange of two sets of minor pieces. It was this line that Viswanathan Anand chose in the final game of the World Chess Championship 2010 in order to defeat Veselin Topalov and retain the world championship.
 Classical Variation:[12] 5...0-0 6.e3 Nbd7 7.Rc1 c6 and now White has two main moves: 8.Bd3 and 8.Qc2. After 8.Bd3 dxc4 9.Bxc4 Black has surrendered the centre and stands somewhat cramped, but has succeeded in making White lose a tempo by playing Bd3 before Bxc4. White will try to use his advantage in space to attack, whereas Black will try to keep White at bay while striking back at the centre. Capablanca's main idea here was the freeing maneuver 9...Nd5 10.Bxe7 Qxe7 11.0-0 Nxc3 12.Rxc3 e5 13.dxe5 Nxe5 14.Nxe5 Qxe5 15.f4 Qe7, which has led to a number of exchanges in the centre, though Black must exercise care even in the wake of this simplification. This line was once so frequently played that it has a separate code (D69) in ECO, though the lack of active counter play for Black has made the main line of the Orthodox a backwater in modern practice.[13]
-Cambridge Springs Defense: 4.Bg5 Nbd7 [edit]
+[edit]
 Main article: Cambridge Springs Defense
 The Cambridge Springs Defense was introduced more than a century ago, and is still played. (1.d4 d5 2.c4 e6 3.Nc3 Nf6) 4.Bg5 Nbd7 (setting up the Elephant Trap) 5.e3 c6 6.Nf3 Qa5, now Black intends ...Bb4 and possibly ...Ne4, with pressure along the a5–e1 diagonal. This Black defense is popular among amateurs because there are several traps White can fall into, for example 7.Nd2 (one of the main lines, countering Black's pressure along the diagonal) 7...Bb4 8.Qc2 0-0 and here 9.Bd3?? loses since 9...dxc4! (threatening ...Qxg5) 10.Bxf6 cxd3! (a zwischenzug) 11.Qxd3 Nxf6 wins a piece for Black.
 
-Exchange Variation: 4.cxd5 exd5 [edit]
+[edit]
 After 4.cxd5 exd5 5.Bg5 c6 6.Qc2 White has a pawn majority in the centre, Black has a pawn majority on the queenside. This pawn structure gives White the opportunity to either advance his pawns in the centre by means of Nge2, f2–f3, followed by e2–e4, or play for a minority attack by means of the plan Rb1, followed by b2–b4–b5, then bxc6 in order to create a weak pawn at c6. While Black can play ...cxb5, or recapture on c6 with a piece, each of these possibilities is even less desirable than the backward pawn in the open file. For Black, exchanging at d5 has released his light-squared bishop and opened the e-file, giving him the use of e4 as a springboard for central and kingside play. While chances are balanced, Black is usually more or less forced to use his superior activity to launch a piece attack on White's king, as the long-term chances in the QGD Exchange structure favour White. The following games are model games for White:
 
 Central pawn advance: Carlsen vs. Jakovenko, Nanjing 2009[14]
 Minority attack: Evans vs. Opsahl, Dubrovnik 1950[15]
-Three Knights Variation: 4.Nf3 [edit]
+[edit]
  Three Knights Variation 
 abcdefgh8877665544332211abcdefgh 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3
 
 The Three Knights Variation of the Queen's Gambit Declined is usually reached from the move order 1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3, played to avoid the Nimzo-Indian Defense (from the white point of view) and the Exchange Variation of the Queen's Gambit Declined (from the black point of view). Black has a few options in response to the Three Knights Variation.
 
-Vienna Variation: 4...dxc4 [edit]
+[edit]
 The Vienna Variation occurs after Black plays 4...dxc4 in the Three Knights Variation. The main line of the Vienna continues as 5.e4 Bb4 6.Bg5. White's pawns or pieces occupy the central squares in exchange for long-term pawn structure weaknesses. An instance of Vienna Variation played at the highest level was Fine–Euwe, AVRO 1938.[16] The Quiet Variation of the Vienna Variation occurs after 5.e3.
 
-Semi-Tarrasch Variation: 4...c5 [edit]
+[edit]
 The Semi-Tarrasch Variation occurs after black plays 4...c5 in the Three Knights Variation. An important line in this variation is the Endgame Line where the game continues: 5.cxd5 cxd4 6.Qxd4 exd5 7.e4 dxe4 8.Qxd8+ Kxd8 where the queens get traded off in a similar fashion to the Endgame in the Berlin Defense, resulting in a drawish position.[17] This line has been played by top grandmasters such as Wesley So, Anish Giri, and Magnus Carlsen aiming for a draw. There is also the Exchange Variation where the game continues 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4, which has been used by played by the likes of Ding Liren, Anish Giri, Vladimir Kramnik, and Magnus Carlsen.
 
-Ragozin Variation: 4...Bb4 [edit]
+[edit]
 The Ragozin Variation (ECO code D37–D39) occurs after black plays 4...Bb4 in the Three Knights Variation. The Alekhine Variation of the Ragozin Variation occurs with 5.Qa4 Nc6 6.e3 0-0 7.Qc2. A transposition into the Vienna Variation of the Queen's Gambit Declined occurs with 5.Bg5 dxc4 6.e4. An alternate line commonly played is 5.cxd5 exd5 6.Bg5 h6 7.Bh4 to avoid transposing into the Vienna.
 
-Semi-Slav Defense: 4...c6[edit]
+[edit]
 Main article: Semi-Slav Defense
 The Semi-Slav Defense occurs after black plays 4...c6 in the Three Knights Variation.
 
-Transposition into Main Variations: 4...Be7 5.Bg5[edit]
+[edit]
 Main article: Queen's Gambit Declined § QGD Main Variations
 A transposition into the Main Variations of the Queen's Gambit Declined occurs after black plays 4...Be7 5.Bg5 in the Three Knights Variation.
 
-Harrwitz Attack 4...Be7 5.Bf4[edit]
+[edit]
 This variation is also a popular line. Placing the bishop on Bg5 allows Black to exchange more freely with moves like Nf6-e4, as seen in the Lasker Defence. The move Bf4 is designed to restrict Black's opportunities in this way, as well as reducing opportunities to gain the bishop pair.[18] Play usually continues with 5...0-0 6.e3 c5 7.dxc5 Bxc5.[19] Peter Leko, usually an e4 player, used this variation as White to beat Vladimir Kramnik in their 2004 World Championship Match.
 
-See also[edit]
+[edit]
 Queen's Gambit
 Queen's Gambit Accepted
-References[edit]
+[edit]
 
 Bibliography
 
 
 
-Further reading[edit]
+[edit]
 
 
 

@@ -1,16 +1,3 @@
-
-In the Reti - named for Richard Reti, one of the founders of Hypermodernism - White combines the move Nf3 and the fianchetto of the king's-bishop with the flank blow c2-c4. Thus he is trying to attack the black center from the side.
-Pros:
-
-Positionally subtle
-Long-term pressure
-
-Cons:
-
-Lack of immediate pressure on Black
-Less chances of a direct attack
-Black can gain space by ...d4
-
 Chess opening
 This article is about the system of moves commonly beginning with 1.Nf3.  For the initial move 1.Nf3 itself, see Zukertort Opening.
 Chess openingRéti Opening
@@ -25,12 +12,12 @@ The opening is named after Czechoslovakian chess player Richard Réti (1889–19
 In the Encyclopaedia of Chess Openings, Réti Opening is classified as codes A04–A09, where it is closely associated with the King's Indian Attack.[2]
 
 
-History[edit]
+[edit]
 Scoresheet of Réti–Capablanca, New York 1924
 According to Réti, the opening was introduced into master play in the early part of 1923.[3] Réti used the opening most famously to defeat José Raúl Capablanca, the reigning World Chess Champion, in a game at the 1924 New York tournament.[4] Alexander Alekhine played the Réti in the 1920s, but at that time almost any game that began with Nf3 and c4 by White was considered to be the Réti. Réti popularized these moves against all defenses in the spirit of hypermodernism, and as the opening developed it gained structure and a clearer distinction between it and other openings.
 Hans Kmoch called the system of attack employed by Réti in the game Réti–Rubinstein, Carlsbad 1923,[5] "the Réti Opening" or "the Réti System". Savielly Tartakower called the opening the "Réti–Zukertort Opening", and said of 1.Nf3: "An opening of the past, which became, towards 1923, the opening of the future."[6]
 
-Classic method: 2.c4 [edit]
+[edit]
 In modern times the Réti refers only to the configuration Nf3 and c4 by White with ...d5 by Black, where White fianchettos at least one bishop and does not play an early d4.[7]
 After 2.c4 (ECO code A09), Black's choices are:
 
@@ -39,7 +26,7 @@ After 2.c4 (ECO code A09), Black's choices are:
 2...d4 (pushing the pawn)
 If Black takes the pawn, then in the same manner as the QGA, 3.e3 or 3.e4 regains the pawn with a slight advantage to White, as Black is left somewhat undeveloped. 3.Na3 and 3.Qa4+ are also good, and commonly played. This variety of White options limits the popularity of 2...dxc4. Trying to protect the pawn with 3...b5?! allows 4.a4! leaving White with a superior position. The alternatives 2...d4, 2...c6, and 2...e6 are more common, with the latter two generally leading to a Queen's Gambit type of position, and 2...d4 typically being answered with 3.e3 or the interesting 3.b4!?
 
-Transpositions[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Position after 1.Nf3 d5 2.c4 e6
 
@@ -55,23 +42,23 @@ After 2.c4 c6:
 After 3.e3 Nf6:
 4.d4 transposes to the Slow Slav.
 After 4.Nc3 e6, 5.d4 transposes to the Semi-Slav. A separate option for White is 5.b3.
-See also[edit]
+[edit]
 Flank opening
 King's Indian Attack
 List of chess openings
 List of chess openings named after people
 Tennison Gambit, 1.Nf3 d5 2.e4
 Zukertort Opening
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
 
 
-Authority control databases International
+
+
+International
 FAST
 National
 Germany

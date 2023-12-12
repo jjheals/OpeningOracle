@@ -1,50 +1,3 @@
-
-In the Bogo-Indian Defense, named for GM Efim Bogoljubow, Black develops the kingside quickly. As with most hypermodern openings, the "Bogo" (as it is known informally) seeks to fight for central squares with pieces before occupying them with pawns.
-Starting Position
-The Bogo-Indian begins 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+. Variations branch out depending on how White blocks the check. 
-
-Pros
-
-Fairly simple to play
-Strategic and sound
-Not very theoretical
-
-Cons
-
-White can sometimes get the two bishops
-White often maintains a space advantage
-Not very sharp
-
-Variations
-4.Qd2?? is an embarrassing mouseslip, while 4.Nfd2?! moves an already-developed piece. That leaves three serious moves, one of which, 4.Nc3, transposes into a variation of the Nimzo-Indian Defense.
-There are a few variations based on the remaining two theoretically-independent moves, 4.Bd2 and 4.Nbd2.
-4.Bd2
-White's most popular move offers a trade of dark-squared bishops. Black has several responses to this move. In order of popularity:
-
-4...Qe7, the Nimzowitsch Variation. White usually fianchettoes and gets castled kingside, as is common in most lines of the Bogo.
-4...a5, the Wade-Smyslov Variation. White does not want to capture on b4 and open the a-file for Black's rook.
-4...c5, the Vitolins Variation. This time White generally does capture on b4, since Black captures away from the center, even though black pawn on b4 takes c3 away from White's knight.
-4...Bxd2+, the Exchange Variation. This move used to be more popular and was used by GM Ulf Andersson.
-4...Be7, the Retreat Variation. This and the exchange variation are rather rare because they move the bishop a second time, although they are fine given d2 isn't a great square for White's bishop.
-
-
-Many fine moves.
-
-4.Nbd2 (aka Grunfeld Variation)
-If White does not want to enter the Nimzo-Indian or to develop the bishop to d2, 4.Nbd2 is played. White usually follows up with 5.a3 to try and pick up the two bishops, where Black can either acquiesce or retreat.
-Black has three main responses to 4.Nbd2.
-
-4...b6. The fianchetto of the light-squared bishop puts pressure on the e4-square.
-4...O-O. Black simply completes kingside development.
-4...d5. With the white knight on d2 this is sort of a better version of the Queen's Gambit Declined for Black. After 5.Qa4+ Nc6, Black keeps the bishop.
-
-
-White gives Black fewer legitimate options but hasn't forced Black to deal with an attack on the b4-bishop.
-
-History
-The Bogo-Indian has always been somewhat of a sideline, with the Queen's Indian Defense (3...b6) being more popular as well as transposing into the Queen's Gambit Declined (3...d5). Although it has been played a few times in Candidates tournaments, it has never been seen in a world championship match.
-Bogoljubow himself played it six times with Black, scoring only +1 -3 =2.
-
 Chess openingBogo-Indian Defence
 abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.c4 e6 3. Nf3 Bb4+ECOE11Named afterEfim BogoljubowParentIndian Defence
 The Bogo-Indian Defence is a chess opening characterised by the moves:
@@ -57,13 +10,13 @@ The Bogo-Indian Defence can also arise via the move order 1.d4 e6 2.c4 Bb4+, the
 The Bogo-Indian is classified as E11 by the Encyclopaedia of Chess Openings (ECO).
 
 
-History[edit]
+[edit]
 The Bogo-Indian Defence is named after the Russian-born German master Efim Bogoljubow who is believed to have originated the opening and played it regularly in the 1920s. Subsequent prominent players to have adopted the Bogo-Indian include Aron Nimzowitsch, Paul Keres, Tigran Petrosian, Bent Larsen, Vasily Smyslov, Viktor Korchnoi, Ulf Andersson, Michael Adams and Nikita Vitiugov. 
 
-Variations[edit]
+[edit]
 White has three viable moves to meet the check. 4.Nc3 is a transposition to the Kasparov Variation of the Nimzo-Indian, therefore the main independent variations are 4.Bd2 and 4.Nbd2.
 
-4.Bd2[edit]
+[edit]
 4.Bd2 is the most common line; the bishop on b4 is now threatened and Black must decide how to meet this threat.
 
 
@@ -74,22 +27,22 @@ David Bronstein tried the sharper alternative 4...a5, grabbing space on the quee
 The simplest is to trade off the bishop by means of 4...Bxd2+; this line is not particularly popular, but has been played frequently by the Swedish grandmaster Ulf Andersson, often as a drawing line.[1]
 A more modern line is 4...c5, after 5.Bxb4 cxb4, Black's pawns are doubled, and a pawn has been pulled away from the centre, but the b4 pawn can also be annoying for White since it takes the c3-square away from the knight. In fact, one of White's major alternatives is 6.a3, trading off this pawn at once.
 Simply retreating the bishop by means of 4...Be7 is also possible; Black benefits from losing a tempo since White's dark-square bishop is misplaced at d2. The line is somewhat passive, but solid.
-4.Nbd2[edit]
+[edit]
 4.Nbd2 is an alternative aiming to acquire the bishop for the knight or forcing Black's bishop to retreat. The downside is that the knight is developed to a square where it blocks the bishop, and d2 is a less active square than c3. The line is described in the Gambit Guide as "ambitious". Black's most common replies are 4...b6, 4...0-0, and 4...d5.
 
-Monticelli Trap[edit]
+[edit]
 This opening can sometimes give rise to the Monticelli Trap.
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
-Notes[edit]
+[edit]
 
-References[edit]
+[edit]
 Dejan Antić & Branimir Maksimovic (2014), The Modern Bogo, New in Chess, ISBN 978-90-5691-495-0
 Irina Bulmaga (2021), The Active Bogo-Indian Defense, Chessable.com.
 
-Further reading[edit]
+[edit]
 
 
 

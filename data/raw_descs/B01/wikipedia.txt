@@ -10,47 +10,47 @@ The Scandinavian Defense (or Center Counter Defense, or Center Counter Game) is 
 This opening is classified under code B01 in the Encyclopaedia of Chess Openings. The Scandinavian Defense, described in the poem Scachs d'amor, is the oldest opening by Black recorded in modern chess.[1] The general goal of the defense is to prevent White from controlling the center of the board with pawns, effectively forcing an open game, while allowing Black to build a strong pawn structure.
 
 
-History[edit]
-Origin[edit]
+[edit]
+[edit]
 The Scandinavian Defense is one of the oldest recorded openings, first recorded as a fictional game between Francesc de Castellví and Narcís Vinyoles in Valencia around 1475 in what may be the first recorded game of modern chess.[2] It was also listed in the 1497 Lucena's book "Repetition of Love and the Art of Playing Chess with 150 Games".[3][4]
 
-19th and early 20th centuries[edit]
+[edit]
 Analysis by Scandinavian masters in the late 19th century showed it is playable for Black; Ludvig Collijn played the opening with success. Although the Scandinavian Defense has never enjoyed widespread popularity among top-flight players, Joseph Henry Blackburne and Jacques Mieses often played it, and greatly developed its theory in the late 19th and early 20th centuries. It was an occasional choice in this era for top players including Siegbert Tarrasch, Rudolph Spielmann, and Savielly Tartakower.[5] Alexander Alekhine used it to draw against World Champion Emanuel Lasker at St. Petersburg 1914, and future World Champion José Raúl Capablanca won twice with it at New York 1915.[6][7]
 
-Modern era[edit]
+[edit]
 A regular user from the 1950s onwards was Yugoslav International Master (IM) Nikola Karaklajic, but a lengthy period of non-support by top players ended by the 1960s, when former world championship finalist David Bronstein and women's world champion Nona Gaprindashvili played it occasionally. Danish grandmaster (GM) Bent Larsen, a four-time world championship candidate, played it occasionally from the 1960s onwards; he defeated World Champion Anatoly Karpov with it at Montreal 1979, spurring a rise in popularity. The popular name also began to switch from "Center Counter Defense" to "Scandinavian Defense" around this time. Danish GM Curt Hansen is also considered an expert in the opening.[8] Australian GM Ian Rogers has adopted it frequently starting in the 1980s. In 1995, the Scandinavian Defense made its first appearance in a world chess championship match, in the 14th game of the PCA final at New York City. Viswanathan Anand as Black obtained an excellent position using the opening against Garry Kasparov, although Kasparov won the game.[9]
 During the sixth round of the 2014 Chess Olympiad at Tromsø, Magnus Carlsen chose the Scandinavian against Fabiano Caruana, and won; Carlsen used the opening again to draw with Caruana at the 2016 Chess Olympiad at Baku.[10] Carlsen used the opening as Black in a blitz game to defeat Viswanathan Anand at the 2019 Grand Chess Tour stop in Kolkata.[11]
 
-Main line: 2.exd5 [edit]
+[edit]
 White normally continues 2.exd5 where Black has two major continuations: 2...Qxd5 and 2...Nf6 (the Modern Scandinavian). The rare gambit 2...c6 (the Blackburne-Kloosterboer Gambit) was played successfully by Joseph Blackburne on at least one occasion, but after 3.dxc6 is thought to be unsound and is almost never seen in master-level play.[12]
 
-2...Qxd5 (Mieses-Kotrč Variation)[edit]
-3.Nc3[edit]
+[edit]
+[edit]
 After 2...Qxd5, the most commonly played move is 3.Nc3 because it attacks the queen with gain of tempo. After 3.Nc3, Black has three main choices: 3...Qa5, 3...Qd8, and 3...Qd6.
 
-3...Qa5 (Main Line)[edit]
+[edit]
 This is considered the "classical" line, and is currently the most popular option. White can choose from multiple setups. A common line is 4.d4 c6 (or 4...e5) 5.Nf3 Nf6 6.Bc4 Bf5 (6...Bg4 is a different option. Even though Black has shown that ...Bf5 can be an excellent move, trading the bishop for the knight after 6...Bg4 7.h3 Bxf3 removes the knight, which if not removed, will find its way to e5 with excellent prospects.) 7.Bd2 e6. White has a few options, such as the aggressive 8.Qe2, or the quiet 8.0-0. Black's pawn structure (pawns on e6 and c6) resemble a Caro–Kann Defence structure, therefore many Caro–Kann players wishing to expand their repertoire have adopted this form of the Scandinavian.
 Another setup after 3...Qa5 is to target the b7-pawn by fianchettoing the bishop on the h1–a8 diagonal, instead of placing it on the a2–g8 diagonal, by 4.g3 Nf6 5.Bg2 c6 6.Nf3 followed by 0-0, Rb1, and then exploiting the b7-pawn by b4–b5. The line with 4.g3 has been tried by Anand,[13] Baadur Jobava,[14] Gyula Sax,[15] and Francisco Vallejo Pons[16] among others.
 A more speculative approach against 3...Qa5 is 4.b4?!, described by Nigel Davies as an "ancient gambit line".[17] Grandmasters who have ventured this line as White include Lasker,[18][19] Capablanca,[20] and Paul Keres.[21] If Black plays correctly, White should not have sufficient compensation for the sacrificed pawn, but it can be difficult to prove this over the board. Davies suggests delaying the gambit with 4.Nf3 Nf6 5.b4 Qxb4 6.a4!?, with the idea of Bc1–a3, as a possible way to rehabilitate this line.[22]
 
-3...Qd8 (Valencian Variation)[edit]
+[edit]
 The retreat with 3...Qd8 was depicted in Castellvi–Vinyoles, the Valencian Variation,[23] may be the oldest of all Scandinavian lines. Prior to the 20th century, it was often considered the main line, and was characterized as "best" by Howard Staunton in his Chess-Player's Handbook,[24] but was gradually superseded by 3...Qa5. In the 1960s, 3...Qd8 experienced something of a revival after the move was played in a game by Bronstein against GM Andrija Fuderer in 1959, although Bronstein ultimately lost the game.[25] Bronstein's game featured the older line 4.d4 Nf6, while other grandmasters, including Karl Robatsch, explored fianchetto systems with 4.d4 g6 and a later ...Ng8–h6.
 The line's reputation suffered after a string of defeats, however, including two well-known miniatures won by Bobby Fischer against Robatsch in the 1962 Chess Olympiad (later published in My 60 Memorable Games) and William Addison in 1970. The variation with 4...g6 "has been under a cloud ever since [Fischer's] crushing win",[26] but the 3...Qd8 variation as a whole remains playable, although it is now considered somewhat passive. It is played particularly by IMs John Bartholomew and Daniel Lowinger, and by the GMs David Garcia Ilundain and Nikola Djukic.
 
-3...Qd6 (Gubinsky-Melts Defense)[edit]
+[edit]
 This move, called the Gubinsky-Melts Defense, offers another way to play against 3.Nc3, and it has been growing in popularity in recent years. At first sight the move may look dubious, exposing the queen to a later Nb5 or Bf4, and for many years it was poorly regarded for this reason. Numerous grandmaster games have since shown 3...Qd6 to be quite playable, however, and it has been played many times in high-level chess since the mid-1990s. White players against this line have found an effective setup with d4, Nf3, g3, Bg2, 0-0, and a future Ne5 with a strong, active position. The variation was covered thoroughly in a 2002 book by Michael Melts.
 
-Other third moves for Black[edit]
+[edit]
 3...Qe5+?!, the Patzer Variation, is regarded as bad for Black; for example after 4.Be2 c6 5.Nf3 Qc7 6.d4 White has a handy lead in development.
 Likewise the rare 3...Qe6+?! is regarded as inferior. One idea is that after the natural interposition 4.Be2, Black plays 4...Qg6 attacking the g2-pawn. White will usually sacrifice this pawn, however, by 5.Nf3 Qxg2 6.Rg1 Qh3 7.d4 with a massive lead in development. David Letterman played this line as Black in a televised game against Garry Kasparov,[27] and was checkmated in 23 moves.
 
-3.d4[edit]
+[edit]
 Alternatives to 3.Nc3 include 3.d4, which can transpose into a variation of the Nimzowitsch Defense after 3...Nc6 (1.e4 Nc6 2.d4 d5 3.exd5 Qxd5), or Black can play 3...e5, as well. After 3...Nc6 4.Nf3 Bg4 5.Be2 0-0-0 Black has better development to compensate for White's center after a future c4. Black may also respond to 3.d4 with 3...e5. After the usual 4.dxe5, Black most often plays the pawn sacrifice 4...Qxd1+ 5.Kxd1 Nc6. After White defends the pawn, Black follows up with ...Bg4+ and ...0-0-0, e.g. 6.Bb5 Bg4+ 7.f3 0-0-0+ and Black has enough compensation for the pawn, because he is better developed and White's king is stuck in the center. Less popular is 4...Qxe5, since the queen has moved twice in the opening and is in the center of the board, where White can attack it with gain of time (Nf3). Grandmasters such as Tiviakov have shown, however, that it is not so easy to exploit the centralized queen.
 
-3.Nf3[edit]
+[edit]
 Another common response after 2...Qxd5 is the noncommittal 3.Nf3. After 3...Bg4 4.Be2 Nc6, White can transpose to main lines with 5.d4, but has other options, such as 5.0-0.
 
-2...Nf6 (Modern Variation)[edit]
+[edit]
 The other main branch of the Scandinavian Defense is 2...Nf6. The idea is to delay capturing the d5-pawn for another move, avoiding the loss of time that Black suffers in the ...Qxd5 lines after 3.Nc3. Now White has several possibilities:
 The Modern Variation is 3.d4. GM John Emms calls this the main line of the 2...Nf6 variations, saying that "3.d4 is the common choice for White...and it is easy to see why it is so popular."[28] The idea behind the Modern Variation is to give back the pawn in order to achieve quick development. 3...Nxd5 is the most obvious reply, although 3...Qxd5 is sometimes seen. Black wins back the pawn, but White can gain some time by attacking the knight. White usually responds 4.c4, when the knight must move. 
 The most common responses are: 
@@ -67,21 +67,19 @@ A third major alternative is 3.Bb5+. The most popular reply is 3...Bd7, though t
 White's 3.Nf3 is a flexible move that, depending on Black's reply, can transpose into lines with ...Nxd5 or ...Qxd5.
 White's 3.Nc3 transposes into a line of Alekhine's Defence, normally seen after 1.e4 Nf6 2.Nc3 d5 3.exd5, and generally thought to be equal.[41] After 3...Nxd5 4.Bc4, the most common reply is 4...Nb6, although 4...Nxc3, 4...c6, and 4...e6 are also viable continuations.
 
-Alternatives to 2.exd5[edit]
+[edit]
 There are several ways for White to avoid the main lines of the Scandinavian Defense.  One option is to defer or avoid the exchange of e-pawn for d-pawn. This is most often done by 2.Nc3, which transposes into the Dunst Opening after 2...d4 or 2...dxe4.
 If instead 2.e5?! is played, Black can play 2...c5, develop the queen's bishop, and play ...e7–e6, reaching a favorable French Defense setup, since here unlike in the standard French Black's light-squared bishop is not shut in on c8. This line can also be compared to the Caro–Kann variation 1.e4 c6 2.d4 d5 3.e5 c5!?; since in this Scandinavian line Black has played ...c5 in one rather than two moves, he has a comfortable position.[42] This line often leads away from open positions, however, towards blocked center positions, likely not Black's original intent.
 White can also gambit the e-pawn, most frequently by 2.d4, transposing into the Blackmar–Diemer Gambit. Other gambits such as 2.Nf3?! (the Tennison Gambit) are seldom seen.
 In general, none of these sidelines are believed to offer White more than equality, and the overwhelming majority of masters opt for 2.exd5 when facing the Scandinavian.[42][43]
 The Scandinavian is thus arguably Black's most "forcing" defense to 1.e4, restricting White to a relatively small number of options. This has helped to make the Scandinavian Defense fairly popular among club-level players, although it remains relatively rare at the grandmaster level.
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after places
-References[edit]
+[edit]
 
-Further reading[edit]
-
-
+[edit]
 
 
 
@@ -99,7 +97,9 @@ Further reading[edit]
 
 
 
-External links[edit]
+
+
+[edit]
 
 Overview of the opening
 

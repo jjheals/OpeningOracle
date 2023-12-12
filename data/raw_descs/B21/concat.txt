@@ -1,65 +1,3 @@
-
-The Smith-Morra Gambit (also known as the Morra Gambit) is one of the ways for White to respond to the Sicilian Defense. This gambit line can lead to open, sharp games that are very dangerous for the unprepared player. Although the Smith-Morra is less common among grandmasters, it can still be an effective weapon for club-level players. 
-
-Starting Position
-
-Pros
-Cons
-
-
-Main Variations Of The Smith-Morra Gambit
-
-Smith-Morra Gambit Accepted, Scheveningen Formation
-Smith-Morra Accepted, Paulsen Formation
-Smith-Morra Gambit Declined, Push Variation
-Smith-Morra Gambit Declined With The Alapin Sicilian
-
-
-History Of The Smith-Morra Gambit
-
-
-Starting Position
-The Smith-Morra Gambit is one of White's responses to the Sicilian Defense. It starts after the moves 1.e4 c5 2.d4 cxd4 3.c3. 
-
-The starting position of the Smith-Morra Gambit.
-
-White attacks Black's d4-pawn, offering a gambit. If Black accepts the sacrifice, White's position opens up, making it easier for them to develop their pieces to active squares, from where they'll attack mainly the weak f7-square and the center. Accepting the gambit also gives White an extra tempo (after they recapture with 4.Nxc3) and better control of the center, thanks to the d4-pawn. Finally, the pawn sacrifice allows White to quickly gain control of the open c-file, which is usually one of the sources of counterplay for Black in the Sicilian Defense. 
-Pros
-
-It's a good fit for tactical players who like sharp positions.
-It sidesteps a lot of the Sicilian Defense theory.
-It can catch your opponent off guard.
-
-Cons
-
-Black can gain a slight advantage if they know theory.
-Black can force a transposition to quieter lines.
-It's not a good fit for positional players.
-
-Main Variations Of The Smith-Morra Gambit
-When entering the Smith-Morra Gambit, Black can accept or decline the pawn sacrifice. Below you can learn more about the main variations Black can use to face this opening.
-Smith-Morra Gambit Accepted, Scheveningen Formation
-Accepting the gambit is Black's most critical way of playing, and among masters, it usually yields better results for the prepared Black player. The main line when accepting the gambit is the Scheveningen Formation, which occurs after the moves 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6.
-
-
-
-Black is a pawn up, but White has a clear development lead, with three developed pieces against Black's lonely knight. Black maintains a compact and flexible pawn structure in the center and will usually try to castle as fast as possible. White will try to bring their pieces to active squares, delay Black's castling, and use their piece activity to start a devastating attack. 
-Smith-Morra Accepted, Paulsen Formation
-Another popular way of accepting the gambit is with the Paulsen Formation, which happens with the moves 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4 a6. 
-
-Black plays 6...a6 to prevent White from playing the annoying 7.Nb5, when White would be better. From there, Black usually either expands on the queenside with a quick 7...b5 or develops the kingside knight with 7...Nge7. In many cases, Black delays castling or maintains their king in the center for the rest of the game.
-Smith-Morra Gambit Declined, Push Variation
-If Black wants to avoid a tactical game, they can decline the gambit with the Push Variation, which starts with 1. e4 c5 2. d4 cxd4 3. c3 d3. 
-
-The idea behind pushing the d-pawn is to avoid taking on c3 (allowing White to gain a tempo by recapturing with the knight). This move also prevents White from playing 4.cxd4, which would give them a strong center. White can either capture Black's d3-pawn with the bishop or push their pawn to c4, going for a Maroczy Bind pawn structure.
-Smith-Morra Gambit Declined With The Alapin Sicilian
-Another way for Black to decline the gambit is to transpose into the Alapin Sicilian. The first way to achieve this is by transposing into the main line with 1.e4 c5 2.d4 cxd4 3.c3 Nf6.
-
-Black's other option is to go for a line resembling the Barmen Defense of the Alapin Sicilian, where Black develops their dark-squared bishop with a fianchetto. This line starts with the moves 1.e4 c5 2.d4 cxd4 3.c3 g6.
-
-History Of The Smith-Morra Gambit
-The Smith-Morra Gambit is named after Pierre Morra and Ken Smith, who helped popularize the opening. Morra was the first to publish a booklet and a few articles analyzing the opening around 1950. Smith later published, over 30 years, nine books and 49 articles on the gambit. 
-Nowadays, one of the opening's biggest proponents is IM Marc Esserman. He wrote a book on the subject called Mayhem In The Morra and won a famous game using the opening against the super GM Loek van Wely. 
 Chess opening
 For The Alan Parsons Project album, see The Sicilian Defence (album).
 Chess openingSicilian Defence
@@ -76,11 +14,11 @@ To my mind there is quite a straightforward explanation. To profit from the init
 The earliest recorded notes on the Sicilian Defence date back to the late 16th century by the Italian chess players Giulio Polerio and Gioachino Greco.[5][6]
 
 
-General concepts[edit]
+[edit]
 By advancing the c-pawn two squares, Black asserts control over the d4-square and begins the fight for the centre of the board. The move resembles 1…e5, the next most common response to 1.e4, in that respect. Unlike 1...e5, however, 1...c5 breaks the symmetry of the position, which strongly influences both players' future actions. White, having pushed a kingside pawn, tends to hold the initiative on that side of the board. However, 1...c5 does little for Black's development, unlike moves such as 1...e5, 1...g6, or 1...Nc6, which either develop a minor piece or prepare to do so. In many variations of the Sicilian, Black makes a number of further pawn moves in the opening (for example, ...d6, ...e6, ...a6, and ...b5). Consequently, White often obtains a substantial lead in development and dangerous attacking chances.
 Meanwhile, advancing a queenside pawn has given Black a spatial advantage there and provides a basis for future operations on that flank. Often, Black's c5-pawn is traded for White's d4-pawn in the early stages of the game, granting Black a central pawn majority. The pawn trade also opens the c-file for Black, who can place a rook or queen on that file to support the queenside counterplay. In many variations, White castles queenside to exploit attacking chances on the kingside at the cost of moving his king to the flank where Black has a spatial advantage.[citation needed]
 
-History[edit]
+[edit]
 The Sicilian Defence was analysed by Giulio Polerio in his 1594 manuscript on chess,[7] though he did not use the term 'Sicilian Defence'.[8] It was later the subject of analyses by leading players of the day Alessandro Salvio (1604), Don Pietro Carrera (c. 1617), and Gioachino Greco (1623), and later Conte Carlo Francesco Cozio (c. 1740). The great French player and theoretician André Danican Philidor opined of the Sicilian in 1777, "This way of opening the game ... is absolutely defensive, and very far from being the best ... but it is a very good one to try the strength of an adversary with whose skill you are unacquainted."[9]
 In 1813, the English master Jacob Henry Sarratt effectively standardised his English translation of the name of this opening as 'the Sicilian Defence', referring to an old Italian manuscript that used the phrase il gioco siciliano ('the Sicilian game').[10] The Sicilian was fairly popular for much of the nineteenth century; Louis-Charles Mahé de La Bourdonnais, Adolf Anderssen, Howard Staunton, Louis Paulsen, and Carl Jaenisch all played it with some consistency. In the ninth edition of Modern Chess Openings, Walter Korn noted that the Sicilian "received three of its earliest practical tests, and a big boost in popularity, in the 1834 La Bourdonnais – McDonnell chess matches, 1843 Staunton–St. Amant match, and the London 1851 chess tournament."[11] Staunton wrote of the Sicilian, "In the opinion of Jaenisch and the German Handbuch, with which I coincide, this is the best possible reply to 1.P-K4, [1.e4 in algebraic notation] 'as it renders the formation of a centre impracticable for White and prevents every attack'."[12]
 The opening fell out of favour in the later part of the nineteenth century, when some of the world's leading players rejected it.[A] Paul Morphy, the world's best player in the late 1850s, decried "that pernicious fondness for the Sicilian Defense ... extending from about 1843 to some time after 1851".[13] Wilhelm Steinitz, the first World Champion, also disliked the Sicilian and rejected it in favour of 1...e5.[B][14] The death of the opening's two greatest proponents, Staunton and Anderssen, in 1874 and 1879 respectively, also contributed to its decline. It has been said that "these losses almost dealt a knockout blow to the Sicilian because it took a long time to find such important figures to carry the Sicilian's standard."[15] George H. D. Gossip, in The Chess Player's Manual, first published in 1874, wrote, "Of late years ... discoveries have been made which have the effect of considerably strengthening White's attack, and the 'Sicilian' is now considered by most modern authorities to be a comparatively weak mode of play."[16] Freeborough and Ranken, in their treatise Chess Openings: Ancient and Modern (1889, 1896), wrote that the Sicilian "had at one time the reputation of being the best reply to 1.P-K4 [1. e4], but this has not been confirmed by popular practice. Several eminent players have, however, held to the opinion that it is quite trustworthy."[17][18]
@@ -89,7 +27,7 @@ Nonetheless, some leading players, such as Emanuel Lasker (World Champion from 1
 The fortunes of the Sicilian were further revived in the 1940s and 1950s by players such as Isaac Boleslavsky, Alexander Kotov, and Miguel Najdorf. Reuben Fine, one of the world's leading players during this time period, wrote of the Sicilian in 1948, "Black gives up control of the centre, neglects his development, and often submits to horribly cramped positions. How can it be good? Yet, the brilliant wins by White are matched by equally brilliant wins by Black; time and again the Black structure has been able to take everything and come back for more."[D]
 Later, Bent Larsen, Ljubomir Ljubojević, Lev Polugaevsky, Leonid Stein, Mark Taimanov, and Mikhail Tal all made extensive contributions to the theory and practice of the defence. Through the efforts of world champions Bobby Fischer and Garry Kasparov, the Sicilian Defence became recognised as the defence that offered Black the most winning chances against 1.e4. Both players favoured sharp, aggressive play and employed the Sicilian almost exclusively throughout their careers, burnishing the defence's present reputation. Today, most leading grandmasters include the Sicilian in their opening repertoire. In 1990, the authors of Modern Chess Openings (13th edition) noted that "in the twentieth century the Sicilian has become the most played and most analysed opening at both the club and master levels."[29] In 1965, in the tenth edition of that book, grandmaster Larry Evans observed that "The Sicilian is Black's most dynamic, asymmetrical reply to 1.P-K4. It produces the psychological and tension factors which denote the best in modern play and gives notice of a fierce fight on the very first move."[30]
 
-Open Sicilian: 2.Nf3 and 3.d4 [edit]
+[edit]
 About 80% of Master-level games beginning 1.e4 c5 continue with 2.Nf3, after which there are three main options for Black: 2...d6, 2...Nc6, and 2...e6. Lines where White then plays 3.d4 are collectively known as the Open Sicilian, and result in open, extremely complex positions. White has a lead in development and extra kingside space, which White can use to begin a kingside attack. This is counterbalanced by Black's central pawn majority, created by the trade of White's d-pawn for Black's c-pawn, and the open c-file, which Black uses to generate queenside counterplay and even a queenside attack if White decides to castle there.
 
 
@@ -113,14 +51,14 @@ abcdefgh8877665544332211abcdefgh 2.Nf3 e6
 
 
 
-2...d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghPosition after 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3
 
 Black's most common move after 2.Nf3 is 2...d6 which prepares ...Nf6 to attack the e-pawn without letting White push it to e5. The game usually continues 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3. Black can then choose between four major variations: the Najdorf (5...a6), Dragon (5...g6), Classical (5...Nc6), and Scheveningen (5...e6). The rare Kupreichik Variation (5...Bd7) may transpose to one of the more common variations such as the Classical or Dragon, but it may also lead to a number of independent lines.
 There are a few ways for either side to deviate from the sequence in the heading. After 3...cxd4, White occasionally plays 4.Qxd4, the Chekhover Variation, intending to meet 4...Nc6 with 5.Bb5 Bd7 6.Bxc6, when White hopes that the lead in development compensates for Black's bishop pair. Another unusual sideline is 3...cxd4 4.Nxd4 Nf6 5.f3!?, the Prins Variation, which by delaying Nc3 maintains the option of setting up a Maróczy Bind formation with a later c2-c4. Black can avoid the Prins Variation by playing 3...Nf6, when 4.Nc3 cxd4 5.Nxd4 transposes to main lines. However, 3...Nf6 gives White an extra option in 4.dxc5!?, when Black can play either 4...Nxe4 or 4...Qa5+. White could also protect the pawn on e4 with 5.Bd3 which also allows the option of setting up a Maróczy Bind formation with a later c2-c4, or interpose a check with 5.Bb5+ Nbd7 6.Bd3 or 5.Bb5+ Bd7 6.Bxd7+ Nbxd7.
 
-Najdorf Variation: 5...a6 [edit]
+[edit]
 Main article: Sicilian Defence, Najdorf Variation
 
 abcdefgh8877665544332211abcdefghNajdorf Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6
@@ -134,7 +72,7 @@ b) 7.Nf3 is less common as it delays the possibility of a kingside pawn storm, v
 Formerly, 6.Bg5 e6 7.f4 was the main line of the Najdorf, when White threatens to attack the pinned knight with 8.e5. Black can simply break the pin with 7...Be7, when White usually plays 8.Qf3 and 9.0-0-0. Some of Black's alternatives are 7...Qb6, the Poisoned Pawn Variation popularized by Fischer, Gelfand's 7...Nbd7, and 7...b5, the Polugaevsky Variation, which has the tactical point 8.e5 dxe5 9.fxe5 Qc7! 10.exf6 Qe5+ winning the bishop in return for the knight. A modern alternative to 6...e6 is 6...Nbd7.
 White has other choices on the sixth move. 6.Be2 prepares to castle kingside and is a quieter alternative compared to 6.Be3 and 6.Bg5. Efim Geller was an early proponent of this move, after which Black can stay in "pure" Najdorf territory with 6...e5 or transpose to the Scheveningen with 6...e6. Other possibilities for White include 6.Bc4 (the Fischer–Sozin Attack), 6.f4, 6.f3, 6.g3, and 6.h3 (the Adams Attack, named after Weaver Adams), which was used several times by Bobby Fischer.
 
-Dragon Variation: 5...g6 [edit]
+[edit]
 Main article: Sicilian Defence, Dragon Variation
 
 abcdefgh8877665544332211abcdefghDragon Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6
@@ -142,7 +80,7 @@ abcdefgh8877665544332211abcdefghDragon Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.N
 In the Dragon Variation, Black fianchettoes a bishop on the h8–a1 diagonal. It was named by Fyodor Dus-Chotimirsky in 1901, who noticed a resemblance between Black's kingside pawn structure (pawns on d6, e7, f7, g6 and h7) and the stars of the Draco constellation.[31] White's most dangerous try against the Dragon is the Yugoslav Attack, characterised by 6.Be3 Bg7 7.f3 0-0 8.Qd2 Nc6, when 9.0-0-0, 9.Bc4 and 9.g4 are White's most common moves. This variation leads to extremely sharp play and is ferociously complicated, since the players castle on opposite wings and the game becomes a race between White's kingside attack and Black's queenside counterattack. White's most important alternative to the Yugoslav Attack is 6.Be2, the Classical Variation of the Dragon which leads to a less ferocious game.
 
 
-Classical Variation: 5...Nc6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghClassical Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6
 
@@ -151,7 +89,7 @@ White's most common reply is 6.Bg5, the Richter–Rauzer Attack (ECO codes B60�
 Another variation is 6.Bc4, the Sozin Variation (ECO code B57). It brings the bishop to an aggressive square. Black usually plays 6...e6 (ECO B88 transposed) to limit the range of White's bishop, but White can eventually put pressure on the e6-pawn by pushing the f-pawn to f5 (pawn-based attack beginning with f4). White can either castle kingside with 7.Bb3 a6 8.0-0 (the Fischer–Sozin Attack, named after Bobby Fischer and Russian master Veniamin Sozin, who originated it in the 1930s), or queenside with 7.Be3 Be7 (or 7...a6) 8.Qe2 and 9.0-0-0 (the Velimirović Attack). Instead of 6...e6, Black can also try Benko's move 6...Qb6, which forces White to make a decision over the d4-knight. This typically leads into more positional lines than the razor-sharp, highly theoretical Sozin and Velimirović variations.
 White's third most common move is 6.Be2, (ECO codes B58–B59), after which Black can remain in independent variations with the Boleslavsky Variation 6...e5, named after Isaac Boleslavsky. The old main line 7.Nb3 is now less popular than the modern 7.Nf3, after which the game usually continues 7...h6 8.0-0 Be7 9.Re1 0-0 10.h3. Black can also transpose to the Scheveningen Variation with 6...e6; or to the Classical Variation of the Dragon with 6...g6. Other responses by White to the Classical include 6.Be3, 6.f3, and 6.g3.
 
-Scheveningen Variation: 5...e6 [edit]
+[edit]
 Main article: Sicilian Defence, Scheveningen Variation
 
 abcdefgh8877665544332211abcdefghScheveningen Variation: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6
@@ -160,14 +98,14 @@ In the Scheveningen Variation, Black is content to place the e-pawn on e6, where
 While theory indicates that Black can hold the balance in the Keres Attack, players today often prefer to avoid it by playing 5...a6 first, an idea popularized by Kasparov. However, if determined to play the g4 thrust, White can prepare it by responding to 5...a6 with 6.h3 or 6.Rg1.
 
 
-2...Nc6 3.d4 cxd4 4.Nxd4[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghPosition after 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4
 
 2...Nc6 is a natural developing move and also prepares ...Nf6 (like 2...d6, Black stops White from replying e5). After 3.d4 cxd4 4.Nxd4, Black's most common move is 4...Nf6. Other important moves are 4...e6 (transposing to the Taimanov Variation), 4...g6 (the Accelerated Dragon) and 4...e5 (the Kalashnikov Variation). Less common choices include 4...Qc7, which may later transpose to the Taimanov Variation, 4...Qb6, the Grivas Variation, and 4...d6.
 After 4...Nf6, White usually replies 5.Nc3. Black can play 5...d6, transposing to the Classical Variation; 5...e5, the Sveshnikov Variation; or 5...e6, transposing to the Four Knights Variation.
 
-Sveshnikov Variation: 4...Nf6 5.Nc3 e5 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghSveshnikov Variation: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5
 
@@ -198,7 +136,7 @@ The Sveshnikov Variation has become very popular in master level chess. Black's 
 In the diagrammed position after 8...b5, White usually parries the threat of ...b4 by playing 9.Bxf6 or 9.Nd5. After 9.Bxf6, 9...Qxf6?! 10.Nd5 Qd8 fails to 11.c4 b4 (11...bxc4 12.Nxc4 is good for White, who threatens 13.Qa4) 12.Qa4 Bd7 13.Nb5! axb5 14.Qxa8 Qxa8 15.Nc7+ Kd8 16.Nxa8 and the knight escapes via b6. Thus 9...gxf6 is forced, and White continues 10.Nd5. White's powerful knight on d5 and Black's shattered kingside pawn structure are compensated by Black's bishop pair and White's offside knight on a3. Also, Black has the plan of playing 10...f5, followed by ...fxe4 and ...f5 with the second f-pawn, which would give them good control of the centre. An alternative plan is to play 10...Bg7 followed by ...Ne7 to immediately trade off White's powerful knight; this line is known as the Novosibirsk Variation.
 Instead of 9.Bxf6, White can also play 9.Nd5, which usually leads to quieter play. White decides not to double Black's f-pawns and the game often continues 9...Be7 10.Bxf6 Bxf6 11.c3. This allows White to maintain the knight on d5 by trading off Black's knight on f6, and prepares to bring the knight on a3 back into play with the manoeuvre Na3–c2–e3. Another line is 10.Nxe7 Nxe7! (fighting for control of d5 and not fearing the doubled pawns) 11.Bxf6 gxf6. However, a recent development in the Sveshnikov has been 11.c4 (instead of c3), which often leads to positions where White is pressing for the win at no risk. A quick draw is possible after 9.Nd5 Qa5+!? 10.Bd2 (in order to prevent 10...Nxe4) 10...Qd8 11.Bg5 Qa5+ etc. In order to avoid this, White can play 11.Nxf6+ or 11.c4.
 
-Accelerated Dragon: 4...g6 [edit]
+[edit]
 Main article: Sicilian Defence, Accelerated Dragon
 
 abcdefgh8877665544332211abcdefghAccelerated Dragon: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6
@@ -207,17 +145,17 @@ Like the standard Dragon Variation, Black develops the bishop to g7 in the Accel
 The critical test of Black's move order is 5.c4, the Maróczy Bind. White hopes to cramp Black's position by impeding the ...d7–d5 and ...b7–b5 pawn thrusts. Generally, this line is less tactical than many of the other Sicilian variations, and play involves much strategic maneuvering on both sides. After 5.c4, the main line runs 5...Bg7 6.Be3 Nf6 7.Nc3 and now 7...0-0 or 7...Ng4 is most frequently played.
 
 
-Kalashnikov Variation: 4...e5 5.Nb5 d6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghKalashnikov Variation: 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6
 
 The Kalashnikov Variation (ECO code B32)[37] is a close relative of the Sveshnikov Variation, and is sometimes known as the Neo-Sveshnikov. The move 4...e5 has had a long history; Louis-Charles Mahé de La Bourdonnais used it in his matches against Alexander McDonnell in 1834, and it was also popular for a short time in the 1940s. These earlier games focused on the Löwenthal Variation (similar to the Kalashnikov but the reply to 5.Nb5 is 5...a6) with 4...e5 5.Nb5 a6 6.Nd6+ Bxd6 7.Qxd6 Qf6, where Black gives up the two bishops to achieve a lead in development. The move fell out of use, however, once it was determined that White kept the advantage in these lines. Another fifth move alternative for Black is 5...Nf6, which can transpose into the Sveshnikov Variation after 6.N1c3 or 6.Bg5 d6 7.N1c3.
 Only in the late 1980s did Black players revive 4...e5 with the intention of meeting 5.Nb5 with 5...d6: this is the Kalashnikov Variation. The ideas in this line are similar to those in the Sveshnikov – Black accepts a backward pawn on d6 and weakens the d5-square but gains time by chasing the knight. The difference between the two variations is that Black has not developed the knight to f6 and White has not brought the knight to c3, so both players have extra options. Black may forego ...Nf6 in favour of ...Ne7, e.g. after 6.N1c3 a6 7.Na3 b5 8.Nd5 Nge7, which avoids White's plan of Bg5 and Bxf6 to inflict doubled f-pawns on Black. Or, Black can delay bringing out the knight in favour of playing ...Be7–g5 or a quick ...f5. On the other hand, White has the option of 6.c4—the Maróczy Bind—which solidifies control of d5 and clamps down on ...b5, but leaves the d4-square slightly weak.
 
-2...e6 3.d4 cxd4 4.Nxd4[edit]
+[edit]
 Black's move 2...e6 gives priority to developing the dark-squared bishop. After 3.d4 cxd4 4.Nxd4, Black has three main moves: 4...Nc6 (the Taimanov Variation), 4...a6 (the Kan Variation) and 4...Nf6. After 4...Nf6 5.Nc3 (not 5.e5? Qa5+), Black can transpose to the Scheveningen Variation with 5...d6, play 5...Nc6, the Four Knights Variation or 5...Bb4, the Pin Variation.
 
-Taimanov Variation: 4...Nc6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghTaimanov Variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6
 
@@ -226,7 +164,7 @@ The Kasparov Gambit 8...d5 was played twice in the World Chess Championship 1985
 5.Nc3 is more common nowadays than 5.Nb5, when 5...d6 normally transposes to the Scheveningen Variation and 5...Nf6 is the Four Knights Variation (see below). Independent moves for Black are 5...Qc7 and 5...a6, with the former being the more usual move order seen in recent years, as after 5...a6, the continuation 6.Nxc6 bxc6 7.Bd3, despite its apparent simplicity, has given Black difficulties in reaching equality. Taimanov's idea was to play 5...a6 (preventing Nb5) followed by ...Nge7 and ...Nxd4; however, the modern treatment of the line is to play ...Nf6, for example 5.Nc3 Qc7 6.Be2 a6 7.Be3 Nf6.
 
 
-Kan (Paulsen) Variation: 4...a6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghKan Variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6
 
@@ -235,7 +173,7 @@ The most popular fifth move for White is 5.Bd3, when after 5...Bc5 6.Nb3 Black c
 White's second most popular reply is 5.Nc3, when Black's development of the kingside knight often takes focus, since playing ...Nf6 can be met with e5 which both creates a Black weakness on the d6-square and causes the Black knight a disadvantageous move. So Black normally plays a move to control the e5-square and prevent the pawn from advancing. The main Kan move is 5...Qc7, although 5...Nc6 transposing into a Taimanov or 5...d6 transposing into a Scheveningen can occur. An alternative idea is the immediate 5...b5 to create pressure from the queenside with the idea of playing ...b4 attacking the c3-knight, or ...Bb7 to build pressure along the long white-squared diagonal. White generally answers with 6.Bd3, supporting the e4-pawn.
 
 
-Four Knights Variation: 4...Nf6 5.Nc3 Nc6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghFour Knights Variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6
 
@@ -243,7 +181,7 @@ The Four Knights Variation is mainly used as a way of getting into the main line
 If Black is not aiming for the Sveshnikov, the main alternative is to play 6...Bb4 in reply to 6.Ndb5. Then 7.a3 Bxc3+ 8.Nxc3 d5 9.exd5 exd5 leads to a position where Black has given up the two bishops but has active pieces and the possibility of playing ...d5–d4.
 
 
-Pin Variation: 4...Nf6 5.Nc3 Bb4 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghPin Variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4
 
@@ -254,63 +192,63 @@ The Pin Variation (also called the Sicilian Counter-Attack) is considered theore
 Also intriguing is 6. Nb5!, with 6...Nxe4?! met with 7. Qg4, with strong compensation for the pawn.
 
 
-2.Nf3 without 3.d4: White's third move alternatives[edit]
+[edit]
 White can play 2.Nf3 without intending to follow up with 3.d4. The systems given below are usually classified along with White's second move alternatives as Anti-Sicilians.
 
-2...d6 without 3.d4[edit]
-Moscow Variation: 3.Bb5+ [edit]
+[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghMoscow Variation: 1.e4 c5 2.Nf3 d6 3.Bb5+
 
 After 1.e4 c5 2.Nf3 d6, White's most important alternative to 3.d4 is 3.Bb5+, known as the Moscow Variation or Canal–Sokolsky Attack. Grandmasters sometimes choose this variation when they wish to avoid theory; for instance, it was played by Garry Kasparov in the online game Kasparov–The World. Experts in this line include GMs Sergei Rublevsky and Tomáš Oral. Former World Champion Magnus Carlsen has also played this variation extensively. Black can block the check with 3...Bd7, 3...Nc6 or 3...Nd7. The position after 3...Nc6 can also be reached via the Rossolimo Variation after 1.e4 c5 2.Nf3 Nc6 3.Bb5 d6.
 Most common is 3...Bd7, when after 4.Bxd7+ Qxd7, White can either play 5.0-0 followed by c3 and d4, or 5.c4 in the style of the Maróczy Bind.
 
-Others[edit]
+[edit]
 Another possibility for White is 3.c3, a delayed variation of the Sicilian Defence, Alapin Variation intending to establish a pawn centre with d4 next move. The most frequent continuation is 3...Nf6 4.Be2, when 4...Nxe4? loses to 5.Qa4+ and likewise 4...Nc6 5 d4 Nxe4? loses to 6 d5 and 7 Qa4+
 
-2...Nc6 without 3.d4[edit]
-Rossolimo Variation: 3.Bb5 [edit]
+[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghRossolimo Variation: 1.e4 c5 2.Nf3 Nc6 3.Bb5
 
 The Rossolimo Variation, 3.Bb5, is a well-respected alternative to 3.d4. It is named after Nicolas Rossolimo and is related to the Moscow Variation. White's usual intention is to play Bxc6, giving Black doubled pawns. Black's major responses are 3...g6 preparing ...Bg7, 3...d6 preparing ...Bd7 (a hybrid line that also arises from the Moscow Variation after 2...d6 3.Bb5+ Nc6), and 3...e6 preparing 4...Nge7. Sergei Rublevsky and Tomáš Oral both play this line as well as the Moscow Variation. The Italian American Grandmaster Fabiano Caruana is perhaps the biggest proponent of this line at the top level, and has played this variation in Games 1,3 and 5 of his World Championship Match against Magnus Carlsen.
 
-Others[edit]
+[edit]
 3.Nc3 is a common transpositional device for White, who can play 4.d4 or 4.Bb5 next move depending on Black's response. Black sometimes plays 3...e5 to avoid both moves; then 4.Bc4 is considered White's best move. 3.c3 transposes to lines of the Alapin Variation after 3...Nf6 or 3...d5, while 3.c4 transposes into the Symmetrical English.
 
-2...e6 without 3.d4[edit]
+[edit]
 White sometimes plays 3.Nc3 as a waiting move, though it has little independent significance. With 3.d3, White plans to develop in King's Indian Attack style with g3 and Bg2; this line was used by Fischer to crush Oscar Panno in a famous game (Fischer–Panno, Buenos Aires 1970). 3.c3  will transpose to lines of the Alapin Variation after 3...Nf6, or the French Defence after 3...d5 4.e5 Nc6 5.d4, though 4...d4 is stronger, as after 5.cxd4 cxd4 6.Qa4+ Nc6 7.Bb5 Bd7 8.Bxc6 Bxc6 9.Qxd4 Bxf3 is a strong pawn sacrifice, giving Black excellent compensation. 3.c4 transposes into the Symmetrical English. 3.b3, intending Bb2, is a rare independent try, occasionally essayed by Heikki Westerinen in the 1970s.
 
-3.Bd3[edit]
+[edit]
 Danny Kopec has suggested the move 3.Bd3 against any of Black's common responses, intending to follow up with c3 and Bc2.[38]
 
-2.Nf3: Black's second move alternatives[edit]
+[edit]
 After 1.e4 c5 2.Nf3, Black has some less commonly played options apart from 2...d6, 2...Nc6 and 2...e6.
 
-Hyper-Accelerated Dragon: 2...g6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghHyper-Accelerated Dragon: 1.e4 c5 2.Nf3 g6
 
 After 2...g6, White commonly plays 3.d4, which may transpose to the Accelerated Dragon after 3...cxd4 4.Nxd4 Nc6, although White may deviate by playing 4.Qxd4, and Black can also avoid the transposition with 3.d4 Bg7 4.dxc5 Qa5+. Other third move options for White are 3.c3 transposing to a variation of the Alapin, and 3.c4 (Maróczy Bind).
 
-O'Kelly Variation: 2...a6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghO'Kelly Variation: 2...a6
 
 2...a6 is the O'Kelly Variation. Black's idea is to meet 3.d4 with 3...cxd4 4.Nxd4 Nf6 5.Nc3 e5 when 6.Ndb5 is prevented, and after 6.Nb3 or 6.Nf3 Black will equalize by playing 6...Bb4 and possibly ...d5. However, White may avoid this by instead playing 3.c3 or 3.c4.
 
-Nimzowitsch–Rubinstein Variation: 2...Nf6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghNimzowitsch–Rubinstein Variation: 2...Nf6
 
 2...Nf6 is the Nimzowitsch Variation. It bears some similarity to Alekhine's Defence.[39] White's strongest reply is to chase the knight by 3.e5 Nd5 4.Nc3 and now (a) 4...Nxc3 5.dxc3, when 5...b6?, as Nimzowitsch played and recommended, loses to 6.e6! f6 7.Ne5![40] or (b) 4...e6 (the main line) 5.Nxd5 exd5 6.d4 Nc6 7.dxc5 Bxc5 8.Qxd5 Qb6 (8...d6 9.exd6 Qb6 is also played)[41] 9.Bc4! Bxf2+ 10.Ke2 0-0 11.Rf1 Bc5 12.Ng5 Nd4+ 13.Kd1 with sharp play favouring White.[42]
 
-Others[edit]
+[edit]
 Other moves include:
 
 2...b6 is the Katalymov Variation, after the Kazakh/Russian master Boris Katalymov. It is generally considered better for White, though it has frequently been played by the French GM Christian Bauer. Other GMs, including Gata Kamsky, have occasionally used it as a surprise weapon.
 2...Qc7 is the Quinteros Variation. It will frequently transpose into a standard line such as the Taimanov Variation or Kan Variation, or else White can play 3.c3 in the style of the Alapin Variation, where Black's queen may not be so well placed on c7.
-Closed Sicilian: 2.Nc3 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Closed Sicilian (Main line): 1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6
 
@@ -320,29 +258,29 @@ Also of some interest is 3.Bb5 to ...Nc6.
 A typical line is 2...Nc6 3.g3 (ECO code B24). Also, 2...Nc6 3.f4 is the Closed Sicilian, Grand Prix Attack (part of B23).
 White can also keep options open with 3.Nge2. Andrew Soltis has dubbed that the "Chameleon System", since White maintains the option of playing a Closed Sicilian with 4.g3 or transposing to a standard Open Sicilian with 4.d4 cxd4 5.Nxd4. Two drawbacks are that (a) the Closed Sicilian lines with an early Nge2 are not very challenging for Black, and (b) if Black plays 2...Nc6 3.Nge2 g6, 4.d4 reaches an Accelerated Dragon where White has lost the option of playing c4, the Maróczy Bind, often considered White's best line.[43] In view of possible transpositions to the main Sicilian variations, Black has various replies to 2.Nc3 in the Open Sicilian. 2...Nc6 is the most common choice, but 2...e6 and 2...d6 are often played. The Main line of the Closed Sicilian is 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 (diagram), when White's main options are 6.Be3 followed by Qd2 and possibly 0-0-0, and 6.f4 followed by Nf3 and 0-0.
 
-White's second move alternatives[edit]
+[edit]
 After 1.e4 c5, other moves besides 2.Nf3 and 2.Nc3 are popular.
 
-Alapin Variation: 2.c3 [edit]
+[edit]
 2.c3 is the Alapin Variation or c3 Sicilian. Originally championed by Semyon Alapin at the end of the 19th century, it was revived in the late 1960s by Evgeny Sveshnikov and Evgeny Vasiukov. Nowadays its strongest practitioners include grandmasters Sergei Tiviakov and Eduardas Rozentalis.
 White aims to set up a classical pawn centre with 3.d4, so Black should counter immediately in the centre by 2...Nf6 or 2...d5.
 The line 2...Nf6 3.e5 Nd5 resembles Alekhine's Defence, but the inclusion of the moves c3 and ...c5 is definitely in Black's favour. Now White can play 4.d4 cxd4 5.Nf3, when Black has a choice between 5...e6 and 5...Nc6. Another idea for White is 5.Bc4, which is met by 5...Qc7.
 The other main line is 2...d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3, when Black's main options are 5...e6 and 5...Bg4. In this line, White usually ends up with an isolated queen's pawn after pawns are exchanged on d4.
 A rarer option on Black's second move is 2...e6, with the aim of transposing to the Advance Variation of the French Defence after 3.d4 d5 4.e5.
 
-Grand Prix Attack: 2.f4 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefgh Closed Sicilian (Grand Prix Attack): 1.e4 c5 2.f4 
 
 2.f4 is the Grand Prix Attack or McDonnell Attack: the latter name stems from the 14th match game played in London in 1834 between Alexander McDonnell and Charles Louis Mahé de La Bourdonnais, won by Black. According to Jeremy Silman and others, Black's best reply is 2...d5 3.exd5 Nf6!, the Tal Gambit, which has caused the immediate 2.f4 to decline in popularity.[44] White may decline the gambit with 3.Nc3, called the "Toilet Variation", so named after its reputed place of invention.[45] A less common option is 2...e6, as La Bourdonnais played against McDonnell. Players usually enter the Grand Prix Attack nowadays by playing 2.Nc3 first before continuing 3.f4. The modern main line runs 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7. Here White can play the positional 5.Bb5, threatening to double Black's pawns with Bxc6, or the more aggressive 5.Bc4, aiming for a kingside attack.
 
-Smith–Morra Gambit: 2.d4 cxd4 3.c3 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghSmith–Morra Gambit: 2.d4 cxd4 3.c3
 
 2.d4 cxd4 3.c3 is the Smith–Morra Gambit. Declining it by either 3...Nf6 or 3...d5, transposing to the c3 line, is possible, but accepting it by 3...dxc3 is critical.[46] After 4.Nxc3, White is considered not to have enough compensation for the pawn;[47][48][49][50] however, it can be dangerous for Black if they are unprepared, as there are many pitfalls for the unwary.[51]
 
-Other moves[edit]
+[edit]
 Other reasonable moves include:
 
 2.Ne2 is the Keres Variation, a favourite of Paul Keres, and has similar ideas to the Chameleon System discussed under 2.Nc3 – White can follow up with 3.d4 with an Open Sicilian, 3.g3 with a Closed Sicilian, or 3.Nbc3, continuing to defer the choice between the two.
@@ -356,7 +294,7 @@ Other reasonable moves include:
 2.b3 followed by 3.Bb2 is the Snyder Variation, named for USCF master Robert M. Snyder.[55] It has been used occasionally by Nigel Short and is a favourite of Georgian GM Tamaz Gelashvili.
 2.Bc4 is the Bowdler Attack, and though once played at the highest level, is popular today only among club players or beginners who are unfamiliar with the Sicilian and are looking either to attack the weak f7 pawn or to prepare for a quick kingside castle. However, after a move such as 2...e6, Black will soon play ...d5 and open up the centre while gaining time by attacking the bishop. Anderssen–Wyvill, London 1851 continued 2...e6 3.Nc3 a6 4.a4 Nc6 5.d3 g6 6.Nge2 Bg7 7.0-0 Nge7 8.f4 0-0 9.Bd2 d5 10.Bb3 Nd4 11.Nxd4, and now Soltis recommends 11...cxd4! 12.Ne2 Bd7![56]
 2.b4 is the Wing Gambit. White's idea is 2.b4 cxb4 3.a3, hoping to deflect Black's c-pawn, then dominate the centre with an early d4. However, chess theory has proven in the past that this idea is dubious at best. The Wing Gambit is thus generally considered too reckless, and rarely seen in grandmaster praxis. GM Joe Gallagher calls it "a forgotten relic, hardly having set foot in a tournament hall since the days of Frank Marshall and Rudolph Spielmann. White sacrifices a pawn for ... well, not a lot."[57]
-ECO codes[edit]
+[edit]
 The Encyclopaedia of Chess Openings classifies the Sicilian Defence under the codes B20 through B99, giving it more codes than any other opening. In general these guidelines apply:
 
 Codes B20 through B29 cover lines after 1.e4 c5 where White does not play 2.Nf3, and lines where White plays 2.Nf3 and Black responds with a move other than 2...d6, 2...Nc6 or 2...e6.
@@ -367,12 +305,12 @@ Codes B60 through B69 cover the Richter–Rauzer Attack of the Classical Variati
 Codes B70 through B79 cover the normal (unaccelerated) Dragon Variation.
 Codes B80 through B89 cover the Scheveningen Variation.
 Codes B90 through B99 cover the Najdorf Variation.
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after places
-Notes[edit]
+[edit]
 
-References[edit]
+[edit]
 
 
 ^ a b 
@@ -490,7 +428,7 @@ References[edit]
 ^ 
 
 
-Further reading[edit]
+[edit]
 
 
 
@@ -504,7 +442,7 @@ Further reading[edit]
 
 
 
-Authority control databases International
+International
 FAST
 National
 Spain

@@ -204,9 +204,15 @@ class OpeningGPT:
 
             if print_debug: 
                 print(f"OpeningGPT: precompute_all_summaries - Generating summary for {e}...")
-                
-            with open(Paths.RAW_DESC_BASE + e + "/concat.txt", "r") as concat_file: 
-                this_desc:str = concat_file.read()
+            
+            # Try to open the concat file for this ECO. if it cannot be found, it is likely because we could not scrape 
+            # information on this particular opening, so just skip this eco
+            try: 
+                with open(Paths.RAW_DESC_BASE + e + "/concat.txt", "r") as concat_file: 
+                    this_desc:str = concat_file.read()
+            except FileNotFoundError: 
+                if print_debug: print(f"OpeningGPT: precompute_all_summaries - Skipping ECO \"{e}\" because the file \"concat.txt\" does not exist.")
+                continue 
                 
             # Generate a summary of the content in concat_file
             summary:str = self.generate_summary(this_desc, full_summary=False, print_debug=print_debug)

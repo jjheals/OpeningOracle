@@ -3,7 +3,7 @@ import json
 from classes.Opening import *
 from re import sub
 from bs4 import BeautifulSoup
-from os import mkdir, path
+from os import mkdir, path, getcwd, listdir
 from nltk.corpus import stopwords
 from shutil import copyfileobj
 
@@ -186,7 +186,7 @@ class Scraper:
                             vec_body = soup.find_all(class_ = 'vector-body-before-content')
                             for d in vec_body: d.extract()
 
-                            mw_headline = soup.find_all(class_ = 'mw_headline')
+                            mw_headline = soup.find_all(class_ = 'mw-headline')
                             for d in mw_headline: d.extract()
 
                             navbox_title = soup.find_all(class_ = 'navbox-title')
@@ -235,17 +235,16 @@ class Scraper:
             self.openings_dict.dump_json()
         
         # Generate the concatenated files for all ECO descriptions 
-        self.__concat_all_descriptions__() 
+        #self.__concat_all_descriptions__() 
         
         if print_debug: print(f"Scraper: Done scraping descriptions.\nNew index length = {len(self.index)}")
     
     def __concat_all_descriptions__(self) -> None: 
-        cwd = os.getcwd()
-        opening_elos = os.listdir(cwd + "/" + RAW_DESC_BASE)
+        opening_elos = listdir(Paths.RAW_DESC_BASE)
         for elo in opening_elos:
-            with open(cwd + Paths.RAW_DESC_BASE + elo + "/" + 'concat.txt','wb') as output:
-                for component in os.listdir(cwd + RAW_DESC_BASE + elo):
-                    with open(cwd + RAW_DESC_BASE + elo + "/" + component,'rb') as component_to_read:
+            with open(Paths.RAW_DESC_BASE + "/" + elo + "/" + 'concat.txt','wb') as output:
+                for component in listdir(Paths.RAW_DESC_BASE + elo):
+                    with open(Paths.RAW_DESC_BASE + elo + "/" + component,'rb') as component_to_read:
                         copyfileobj(component_to_read, output)
     
     ''' tokenize(text) - tokenize the given text in a standard way 

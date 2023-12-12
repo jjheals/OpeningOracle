@@ -12,7 +12,7 @@ The Tarrasch Defense is considered sound. Even if Black fails to make use of the
 In the Encyclopedia of Chess Openings, the Tarrasch Defense has codes D32 through D34.
 
 
-Main line: 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 [edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghMain line after 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.0-0 0-0
 
@@ -23,23 +23,23 @@ On the third move White often plays 3.Nf3 instead (in part to avoid the Hennigâ€
 In modern praxis, 9.Bg5 is most frequently played here, though there are other ideas of note, 9.dxc5 and 9.b3 being the main alternatives. (Other lines are 9.Be3, 9.Bf4, and 9.a3.)
 During the 2010's, the hitherto forgotten line 1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c5 5.cxd5 exd5 6.g3 Nc6 7.Bg2 cxd4 8.Nxd4 Bc5 became a topic of theoretical debate at the top level mainly due to the efforts of Russian grandmaster Daniil Dubov. This approach to the Tarrasch Defense is therefore known as the Dubov Tarrasch.[1]
 
-Swedish Variation[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghSwedish Variation: 6...c4
 
 The Swedish Variation (also called the Folkestone Variation) is a sharp line beginning 6...c4. Black now has a four to three queenside pawn majority, and will try to expand with ...b5, with White aiming for a central break with e4. The line is considered somewhat dubious and is rarely seen in modern practice.
 The Swedish Variation has ECO code D33.
 
-See also[edit]
+[edit]
 List of chess openings
 List of chess openings named after people
 Semi-Tarrasch Defense
-References[edit]
+[edit]
 
 
 
 
-vteChessOutline
+Outline
 Chess theory
 Chess titles
 Grandmaster

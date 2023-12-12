@@ -7,8 +7,8 @@ The Modern Defense is closely related to the Pirc Defence, the primary differenc
 The Encyclopaedia of Chess Openings (ECO) classifies the Modern Defense as code B06, while codes B07 to B09 are assigned to the Pirc.  The tenth edition of Modern Chess Openings (1965) grouped the Pirc and Robatsch together as the "Pirc–Robatsch Defense".
 
 
-2.d4[edit]
-Main line: 2.d4 Bg7[edit]
+[edit]
+[edit]
 White's strongest response to the Modern Defense is 2.d4, to which Black typically responds 2...Bg7. The main continuations are:
 
 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 (the Standard Line, ECO B06)
@@ -21,10 +21,10 @@ Other possibilities include:
 3.f4 (Three Pawns Attack)
 3.g3
 3.Nf3
-Fischer's 3.h4!?[edit]
+[edit]
 Bobby Fischer suggested the move 3.h4!? as an unorthodox try against 1...g6 2.d4 Bg7, in his annotation to a game against Pal Benko.[1] (Fischer played 3.Nc3 in the actual game.) The idea is to pry open Black's kingside by h4–h5 followed by hxg6, as ...gxh5 would greatly weaken the cover to Black's king.
 
-Averbakh System[edit]
+[edit]
 
 abcdefgh8877665544332211abcdefghAverbakh System
 
@@ -36,23 +36,23 @@ Possible moves for Black at this point include 4...Nf6, 4...Nc6, 4...e5, and 4..
 leads to a position of the King's Indian Defence, where White has options 5.Nf3, 5.f3, 5.Be2, 5.f4, and so on. 
 
 
-Unusual White responses[edit]
+[edit]
 The flexibility and toughness of the Modern Defense have provoked some very aggressive responses by White, including the crudely named Monkey's Bum, a typical sequence being 1.e4 g6 2.Bc4 Bg7 3.Qf3.  (A more refined version is the Monkey's Bum Deferred, where White plays Bc4 and Qf3 only after developing the queen's knight.)
 
-Unusual Black responses[edit]
+[edit]
 Other unusual openings can be reached after 1.e4 g6. The Hippopotamus Defence is one such system.  Another is the Norwegian Defence (also known as the North Sea Defence) which begins 1.e4 g6 2.d4 Nf6 3.e5 Nh5. (If White plays 4.g4, Black retreats the knight with 4...Ng7. On 4.Be2, Black can retreat the knight or gambit a pawn with 4...d6!? If White plays 3.Nc3 instead of 3.e5, Black can transpose to the Pirc Defence with 3...d6 or continue in unconventional fashion with 3...d5!?)
 
-Transpositions[edit]
+[edit]
 Transpositions are possible after 2.c4, for example a Maróczy Bind results after 2...c5 3.Nf3 Bg7 (or Nc6) 4.d4 cxd4 5.Nxd4 and the Averbakh system is reached after 2...Bg7 3.d4 d6 4.Nc3.
 After 2.Nf3, Black can play 2...c5, transposing to the Sicilian Defense, or 2...Bg7.  Following 2.Nc3, Black can transpose to a closed Sicilian  with 2...c5  or play 2...Bg7.
 
-Kavalek vs. Suttles[edit]
+[edit]
 In the following game played at the Nice Olympiad in 1974, Canadian GM Duncan Suttles, one of the Modern's leading exponents, defeats Czech-American GM Lubomir Kavalek:
 
 1. e4 g6 2. d4 d6 3. Nf3 Bg7 4. Be2 Nf6 5. Nc3 (Pirc Defence by transposition) 5... a6 6. a4 0-0 7. 0-0 b6 8. Re1 Bb7 9. Bc4 e6 10. Bf4 Nbd7 11. Qd2 b5! (initiating a deep combination; Suttles later remarked that Kavalek has occupied the center and developed his pieces in the manner advocated by Fred Reinfeld, yet now stands worse) 12. axb5 axb5 13. Rxa8 Qxa8 14. Bxb5 Bxe4 15. Nxe4 Nxe4 16. Rxe4 Qxe4 17. Bxd7 Ra8 18. h4 Qb7! (despite his material advantage, White is in trouble; note that his bishop on d7 is nearly trapped) 19. d5 e5 20. Bh6 Qxb2 21. h5 Ra1+ 22. Kh2 Qb1 23. Bxg7 Qh1+ 24. Kg3 Kxg7 25. Bh3 Qc1 26. h6+ Kf6 27. c4 Qxd2 28. Nxd2 Kg5 29. Ne4+ Kxh6 30. Bd7 f5 31. Nf6 Ra7 32. Bb5 g5 33. Ng8+ Kg7 34. Ne7 Kf6 35. Nc6 Ra3+ 36. Kh2 h5 37. Nb8 h4 38. Na6 g4 39. Nxc7 Ra2 40. Kg1 g3 41. fxg3 hxg3 42. Kf1 e4 0–1[2]
-References[edit]
+[edit]
 
-Further reading[edit]
+[edit]
 
 
 
