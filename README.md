@@ -128,6 +128,6 @@ When scraping the descriptions for each opening, we saved the raw descriptions o
 
 #### Analysis & NLP methods
 
-##### Website
+### Website
 
 Utilized React as the main component for our website. We used Axios to send POST requests including the user's message and their indicated color to the backend, which received them using Flask. The backend returned a list of openings that we then displayed to the user. 
