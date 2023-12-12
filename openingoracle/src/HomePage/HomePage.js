@@ -9,6 +9,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import InputLabel from '@mui/material/InputLabel';
 import Select from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
+import FormControl from '@mui/material/FormControl';
 
 
 //const baseURL = "http://localhost:8080";
@@ -21,7 +22,7 @@ function HomePage() {
   const [oracleResponses, setOracleResponses] = React.useState(null);
   const [userColor, setColor] = React.useState('White');
 
-  const handleChange = (event) => {
+  const handleColorChange = (event) => {
     setColor(event.target.value);
   };
 
@@ -70,27 +71,30 @@ function HomePage() {
       <div className="App">
         <div id='Prompt'>
           <form id="Input" method="post" onSubmit={clickSubmitButton}>
-            <p> How do <b>you</b> like to play chess? Describe your playing style below and let the Oracle find a opening for you!</p>
+            <p className="center"> How do <b>you</b> like to play chess? Describe your playing style below and let the Oracle find a opening for you!</p>
             <label>
-              <TextField id="outlined-basic" label="Type your playstyle!" multiline fullWidth variant="filled" name="userInput" defaultValue="" />
+              <TextField sx={{ minWidth: 1000 }} id="outlined-basic" label="Type your playstyle!" multiline variant="filled" name="userInput" defaultValue="" />
             </label>
             <div>
-            <p>Which color do you want to play?</p>
-            <InputLabel id="demo-simple-select-label" label ="Pick your color!" defaultValue = {userColor}></InputLabel>
-            <Select
-              labelId="demo-simple-select-label"
-              id="demo-simple-select"
-              displayEmpty 
-              value={userColor}
-              label="Color"
-              onChange={handleChange}
-              fullWidth
-            >
-              <MenuItem value={1}>White</MenuItem>
-              <MenuItem value={2}>Black</MenuItem>
-            </Select>
+              <br />
+              <p className="center">Which color do you want to play?</p>
+              <FormControl variant="filled">
+                <InputLabel id="demo-simple-select-label" label="Pick your color!">Pick your color!</InputLabel>
+                <Select sx={{ minWidth: 1000 }}
+                  labelId="demo-simple-select-label"
+                  id="demo-simple-select" 
+                  defaultValue={userColor}
+                  value={userColor}
+                  label="Color"
+                  onChange={handleColorChange}
+                >
+                  <MenuItem value="White">White</MenuItem>
+                  <MenuItem value="Black">Black</MenuItem>
+                </Select>
+              </FormControl>
             </div>
 
+            <br />
             <Button variant="contained" color="chessBrown" type="submit"> Find my opening! </Button>
           </form>
         </div>
