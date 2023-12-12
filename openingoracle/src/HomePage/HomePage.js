@@ -39,6 +39,7 @@ function HomePage() {
 
     setResponseCaption("The Oracle is thinking...");
     setResponseBody(null);
+    setOracleResponses(null);
 
     axios
       .post(baseURL + "/postRequestOpening", {
