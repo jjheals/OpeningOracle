@@ -1,0 +1,21 @@
+  header {
+    font-size: 30px;
+    margin-top: 10px;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #E6DAC8;
+  }
+
+  p {
+    font-size: 20px;
+    text-align: left;
+    line-height: 1.5;
+    margin: 0px 40px 0px 40px;
+  }
+
+  .center {
+    text-align: center;
+  }
