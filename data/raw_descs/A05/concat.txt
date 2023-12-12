@@ -1,0 +1,74 @@
+Chess opening
+This article is about the opening system for White. For the opening that creates a similar setup for Black, see King's Indian Defence.
+Chess openingKing's Indian Attack
+abcdefgh8877665544332211abcdefghTypical KIA setup for White
+Movese4, d3, N(b)d2, N(g)f3, g3, Bg2, and 0-0ECOA07–A08Synonym(s)KIA
+
+The King's Indian Attack (or KIA) is a chess opening system where White adopts the setup more commonly seen being played by Black in the King's Indian Defence. The King's Indian Attack is characterised by the following moves: the central pawns are developed to e4 and d3, the knights are developed to d2 and f3, the king's bishop is fianchettoed at g2 following the g-pawn's move to g3, and White castles kingside.
+This pattern can either be achieved via a 1.e4 move order (typically against either the French Defence or a Sicilian Defence with a subsequent ...e6) or as a universal system starting with 1.Nf3.
+
+
+History[edit]
+The use of the King's Indian Attack at grandmaster level was originally an offshoot from the widespread use of the King's Indian Defence in the 1950s. As grandmasters began to appreciate the advantages of playing the King's Indian Defence as Black, the use of the same system as White, with an extra move in hand, inevitably became attractive.
+Prominent players who have employed the King's Indian Attack include Bobby Fischer (mostly in his early career), Mikhail Botvinnik, Vasily Smyslov, Tigran Petrosian, Leonid Stein, Rafael Vaganian, Ljubomir Ljubojevic, Gregory Kaidanov, Igor Glek, Alexander Morozevich, Victor Bologan, and Levon Aronian. The use of the KIA was also advocated by the prominent chess trainer IM Mark Dvoretsky,[1] who also employed the system in his own games.   
+Today the King's Indian Attack is relatively uncommon at grandmaster level. The most frequent high-level practitioner is Egyptian grandmaster Bassem Amin. The KIA is popular at the club level, however, because of its system-like elements, repeatable middlegame plans, and the ability to launch a kingside attack from a stable position.
+
+Characteristics[edit]
+
+abcdefgh8877665544332211abcdefgh A typical position in the King's Indian Attack
+
+In the King's Indian Attack, White uses the same setup adopted by Black in the King's Indian Defence. Due to White's extra tempo, however, the nature of the subsequent play is often different from that of a typical King's Indian Defence. The King's Indian Attack is most frequently employed against Black setups including an early ...e6, and in these situations Black is effectively a move down in a theoretically unimportant line of the King's Indian Defence. For example, after 1.e4 e6 2.d3 d5 3.Nd2 c5 4.Ngf3 Nf6 5.g3 Nc6 6.Bg2 Be7 7.0-0 0-0 8.Re1 (see diagram) Black is playing the White side of a very tame line of the King's Indian Defence where the queen's bishop on c8 is trapped behind the pawn chain. If Black were to attempt to resolve this situation by playing a subsequent e6-e5 they would then find themselves two moves down in a standard mainline position from the King's Indian Defence. This illustrates the central dilemma faced by Black in standard Kings Indian Attack lines.     
+The KIA is a closed, strategic opening that presents its practitioner with common themes and tactics and a comfortable middlegame against various defences. White's most common plan involves the central pawn push e4–e5, leading to a central bind, kingside space, and practical  attacking chances against the kingside-castled black king. White's strategy differs from standard French Defence lines because the e5-pawn will be defended by pieces (Nf3, Re1, Bf4, and possibly Qe2) rather than by pawns, thus avoiding the pawn weakness on d4 which is Black's usual target in the French.
+
+Typical lines[edit]
+The King's Indian Attack most frequently arises against the French Defence using the move order 1.e4 e6 2.d3 d5 3.Nbd2 (to avoid an exchange of queens after 3...dxe4) 3...c5. Identical lines can arise via a Sicilian Defence move order, typically via 1.e4 c5 2.Nf3 e6 3.d3 and a subsequent Nbd2. If Black plays a Sicilian variation with 2...d6 or 2...Nc6, White can still continue with the King's Indian Attack setup, but in these cases it would be considered less effective (Black will either have a pawn on d6, meaning that the characteristic pawn push e4–e5 will not create a bind, or a pawn on e5, preventing e4-e5 altogether).   
+After 1.e4 e6 2.d3 d5 3.Nbd2 c5, the game might typically proceed as follows: 4.Ngf3 Nf6 5.g3 Nc6 6.Bg2 Be7 7.0-0 0-0 8.Re1 (see diagram in previous section). White will now look to play e4–e5, cramping Black, and then proceed with moves such as Nf1, Bf4, Qe2, h4, N1h2 (or Ne3), h5, g4 (or Ng4) with a kingside attack. Note that the position after 8.Re1 could also have been obtained via a 1.Nf3 move order (e.g. 1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.0-0 Nc6 5.d3 e6 etc.).
+
+
+abcdefgh8877665544332211abcdefgh King's Indian Attack vs Caro-Kann
+
+The Kings Indian Attack setup is also sometimes employed against the Caro–Kann Defence, e.g. 1.e4 c6 2.d3 d5 3.Nbd2 e5 4.Ngf3 Bd6 5.g3 etc. Some practitioners at club level, determined to use the KIA as a system, may even use the setup after 1.e4 e5 (giving a reversed Pirc Defence), although this cannot be regarded as a genuine attempt to secure an advantage from the opening.
+When employed via a 1.Nf3 move order, play sometimes develops along the lines of the Franco-Sicilian type structures considered above. Alternatively, Black can look to develop the c8-bishop outside of the pawn chain, either to Bg4 (the Keres System, e.g. 1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.0-0 Bg4) or to Bf5 (giving a reversed London System).
+Black can also develop along the lines typically adopted by White in the King's Indian Defence: e.g. 1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.0-0 e5 5.d3 Nf6. This line is referred to as the Reversed King's Indian.
+
+Illustrative games[edit]
+Fischer vs. Myagmarsuren; Sousse Interzonal 1967 1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.g3 c5 5.Bg2 Nc6 6.Ngf3 Be7 7.0-0 0-0 8.e5 Nd7 9.Re1 b5 10.Nf1 b4 11.h4 a5 12.Bf4 a4 13.a3 bxa3 14.bxa3 Na5 15.Ne3 Ba6 16.Bh3 d4 17.Nf1 Nb6 18.Ng5 Nd5 19.Bd2 Bxg5 20.Bxg5 Qd7 21.Qh5 Rfc8 22.Nd2 Nc3 23.Bf6 Qe8 24.Ne4 g6 25.Qg5 Nxe4 26.Rxe4 c4 27.h5 cxd3 28.Rh4 Ra7 29.Bg2 dxc2 30.Qh6 Qf8 31.Qxh7+ 1–0[2]
+Fischer vs. Sherwin; East Orange, New Jersey Open, 1957 1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 Nf6 5.Bg2 Be7 6.0-0 0-0 7.Nbd2 Rb8 8.Re1 d6 9.c3 b6 10.d4 Qc7 11.e5 Nd5 12.exd6 Bxd6 13.Ne4 c4 14.Nxd6 Qxd6 15.Ng5 Nce7 16.Qc2 Ng6 17.h4 Nf6 18.Nxh7 Nxh7 19.h5 Nh4 20.Bf4 Qd8 21.gxh4 Rb7 22.h6 Qxh4 23.hxg7 Kxg7 24.Re4 Qh5 25.Re3 f5 26.Rh3 Qe8 27.Be5+ Nf6 28.Qd2 Kf7 29.Qg5 Qe7 30.Bxf6 Qxf6 31.Rh7+ Ke8 32.Qxf6 Rxh7 33.Bc6+ 1–0[3]
+Karjakin (2757) vs. Shankland (2709); Sochi, FIDE World Cup, 2021 1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Be7 5.g3 a5 6.Bg2 a4 7.a3 c5 8.0-0 Nc6 9.Re1 0-0 10.e5 Nd7 11.Nf1 b5 12.h4 Bb7 13.h5 h6 14.Bf4 Qb6 15.Qd2 Rfc8 16.g4 Qd8 17.N1h2 Ra6 18.Kh1 b4 19.Rg1 Nf8 20.axb4 cxb4 21.d4 Na5 22.g5 Nc4 23.Qc1 hxg5 24.Bxg5 b3 25.Bxe7 Qxe7 26.Bf1 a3 27.Rxg7+ Kxg7 28.Ng4 f5 29.exf6 e.p.+ Qxf6 30.Nxf6 axb2 31.Qg5+ Kf7 32.h6 Ng6 33.Nh4 bxa1=Q 34.Qxg6+ Ke7 35.Qg7+ Kd6 36.Qd7# 1–0[4]
+References[edit]
+
+Bibliography[edit]
+Bologan, Victor (2018): Winning with the King's Indian Attack (PC-DVD), Hamburg: ChessBase GmbH, ISBN 9783866816701
+Dunnington, Angus (1998): The Ultimate King's Indian Attack, London: B.T.Batsford Ltd, ISBN 0-7134-8222-2
+Dvoretsky, Mark and Yusopov, Artur (2007): Secrets of Opening Preparation,  Germany: Edition Olms ISBN 978-3-283-00516-0
+Eggers, Heiko (2008): Theorie der Eröffnung - Königsindischer Angriff - Das Spielsystem mit dem Aufbau Sf3/g3/Lg2/0-0/d3/Sbd2/, Norderstedt: Books on Demand, ISBN 978-3-8334-3194-4
+Emms, John (2005): Starting Out:  King's Indian Attack, London: Everyman Chess, ISBN 1-85744-394-2
+Hall, John and Cartier, Jan R (1996): Modern King's Indian Attack: A complete System for White, Dallas Texas, Hays Publishing ISBN 1-880673-11-8
+Konikowski, Jerzy and Ullrich, Robert (2018): The King's Indian Attack... Properly Played, Germany: Beyer Joachim Verlag, ISBN 978-3959209748
+McDonald, Neil (2014): The King's Indian Attack: Move by Move, London: Everyman Chess, ISBN 978-1-85744-988-4
+Smith, Ken and Hall, John (1988): King's Indian Attack – A Complete Opening System also a Weapon to be used against ..., Dallas Texas: Chess Digest, ISBN 0-87568-174-3
+Further reading[edit]
+Davies, Nigel (2008): King's Indian Attack, Hamburg: ChessBase GmbH, fritztrainer opening, ISBN 978-3-86681-071-6
+Dunnington, Angus (1993): How to Play - The King's Indian Attack - Openings, London: B.T. Batsford Ltd, ISBN 0-8050-2933-8
+Dzindzichashvili, Roman (2005): Easy Way to Learn The King's Indian Attack, Internet: ChessDVDs.com, Roman's Lab, Volume 28, Nr. 7-37885-35839-1
+Hall, John (1972): A Complete Opening System for White: King's Indian Attack, Dallas: Chess Digest Magazine, no ISBN
+Henley, Ron and Hodges, Paul (1993): Power Play - The King's Indian Attack, Hagerstown: R&D Publishing, ISBN 1-883358-02-7
+Henley, Ron and Maddox, Don (1993): The ChessBase University BlueBook Guide To Winning With - The King's Indian Attack, Hagerstown: R&D Publishing, ISBN 1-883358-00-0
+Maddox, Don (2002): Königsindischer Angriff - Schach Training, Hamburg: ChessBase GmbH, ISBN 3-935602-51-0
+New In Chess Yearbook (1998): King's Indian Attack: Black castles kingside, Alkmaar: Interchess BV, Vol. 49, ISBN 90-5691-044-2, p. 186-190
+New In Chess Yearbook (1999): King's Indian Attack, Alkmaar: Interchess BV, Vol. 50, ISBN 90-5691-047-7, p. 182-186
+New In Chess Yearbook (2005): King's Indian Attack, Alkmaar: Interchess BV, Vol. 76, ISBN 90-5691-155-4, p. 228-232
+Norwood, David (1991): King's Indian Attack, London: Trends Publications, without ISBN
+Schiller, Eric (1989): How To Play The Kings Indian Attack, Moon Township: Chess Enterprises, ISBN 0-931462-95-9
+Tangborn, Eric (1992): A Fischer Favorite: The King's Indian Attack – with 46 fully annotated Games, o.O.: International Chess Enterprises, ISBN 1-879479-07-9
+Weinstein, Norman (1976): The King's Indian Attack, Dallas: Chess Digest Magazine, no ISBN
+External links[edit]
+
+Chess database
+Introduction to the King's Indian Attack
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Attack&oldid=1188542848"

@@ -1,0 +1,139 @@
+
+The Queen's Indian Defense is a hypermodern opening for Black in response to White's 1.d4. When coupled with the Nimzo-Indian Defense, Black gets a complete defense against White's queen's pawn openings. A solid opening, the Queen's Indian is a reputable option for players who seek a "risk-free" game.
+Players of all levels can play the Queen's Indian, although it is advisable to have a basic understanding of positional concepts before venturing into this opening. Players seeking to learn the Queen's Indian from the masters can study the games of none other than former world champion GM Anatoly Karpov.
+
+Starting Position
+
+Pros
+Cons
+
+
+Main Variations Queen's Indian Defense
+
+Fianchetto Nimzowitsch Variation
+Fianchetto Traditional Line
+Petrosian Variation
+Kasparov Variation
+Spassky System
+
+
+History Of The Queen's Indian Defense
+
+
+Starting Position
+The Queen's Indian Defense occurs after the moves 1.d4 Nf6 2.c4 e6 3.Nf3 b6. In hypermodern style, Black refrains from immediately occupying the center with pawns and instead focuses on piece development. After White sidesteps the Nimzo-Indian Defense with 3.Nf3, Black plays 3...b6 to either fianchetto the queen's bishop or develop it to a6.
+
+The starting position of the Queen's Indian Defense.
+
+Black accepts less space for a solid position that still offers active chances. Black will usually try to exchange off one or two minor pieces to attenuate their problems with space. On the other hand, White can get an advantage if they successfully control the e4-square without making significant concessions.
+Pros
+
+Black avoids creating weaknesses
+Black enjoys fluid piece play
+It's a flexible opening
+
+Cons
+
+It's hard to play for an advantage as Black
+White can maintain a space advantage
+
+Main Variations Queen's Indian Defense
+There are many variations of the Queen's Indian Defense. Below you can see the main lines.
+Fianchetto Nimzowitsch Variation
+The Fianchetto Nimzowitsch Variation is the most played line of the Queen's Indian Defense and starts after 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6. Black immediately puts pressure on the c4-pawn with their bishop. White's best response is to continue with 5.b3 to protect the pawn, and from there, the game can take many directions.
+
+
+
+Fianchetto Traditional Line
+The Fianchetto Traditional Line starts after the moves 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7. This line used to be the most popular way of playing the Queen's Indian and is still a good way to play the opening. Black usually manages to exchange a minor piece to alleviate their lack of space. White often plays de d4-d5 push to blunt Black's strong b7-bishop.
+
+Petrosian Variation
+The Petrosian Variation occurs with the moves 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3. This line is perhaps one of the sharpest ways for White to respond to the Queen's Indian. White invests a tempo with a2-a3 to safely develop their queen's knight to c3 without letting Black pin it with ...Bb4. White usually gets a mobile pawn center that helps in creating dangerous attacks.
+
+
+
+Kasparov Variation
+The Kasparov Variation starts after the moves 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3. White develops the knight and accepts the possibility of transposing to the Nimzo-Indian Defense. White can also transpose into the Petrosian Variation, a strategy that GM Garry Kasparov himself preferred. If play continues in the Kasparov variation, players usually reach drawish positions with no weaknesses on either side.
+
+Spassky System
+The Spassky System starts with the moves 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3. White prepares to develop their light-squared bishop and castle and usually develops their other bishop to b2. Closed positions are common in this line, with complex middlegames where piece maneuvering is essential for survival.
+
+
+
+History Of The Queen's Indian Defense
+The Queen's Indian Defense was first deeply analyzed and developed by Aron Nimzowitsch and other hypermodernists at the beginning of the 21st century. The opening gained traction between the 1920s and 1930s when there was no doubt that the opening was a solid choice that still left room for Black to fight for a win.
+The opening's solid reputation led many to believe that there was no way for White to gain a real advantage against it. This belief was likely part of the reason why interest in fighting against the Queen's Indian slowly decreased after the 1940s.
+It wasn't until the 1980s that the opening surged in popularity once again. New ideas for White came to light, rekindling interest in the opening.
+Chess opening
+Chess openingQueen's Indian Defense
+abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.c4 e6 3.Nf3 b6ECOE12–E19ParentIndian DefenseSynonym(s)QID
+The Queen's Indian Defense[1] (QID) is a chess opening defined by the moves:
+
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+The opening is a solid defense to the Queen's Pawn Game.[2] 3...b6 increases Black's control over the central light squares e4 and d5 by preparing to fianchetto the queen's bishop, with the opening deriving its name from this maneuver. As in the other Indian defenses, Black attempts to control the center with pieces in hypermodern style, instead of occupying it with pawns in classical style.
+By playing 3.Nf3, White sidesteps the Nimzo-Indian Defense that arises after 3.Nc3 Bb4. The Queen's Indian is regarded as the sister opening of the Nimzo-Indian, since both openings aim to impede White's efforts to gain full control of the center by playing e2–e4. Together, they are a well-respected response to 1.d4.
+
+
+Main line: 4.g3 [edit]
+4. g3 (ECO E15–E19) has long been White's most popular line against the Queen's Indian. It contests the long diagonal by preparing to fianchetto the light-squared bishop. The standard response for Black through the 1970s was 4...Bb7, but 4...Ba6 has since become the topical line. A rarer third option is 4...Bb4+, which aims to exchange the less useful dark-squared bishop, though this line tends to leave Black with a slightly passive position.
+
+Modern main line: 4...Ba6 [edit]
+White can defend the pawn at c4 with a piece by playing 5.Nbd2, 5.Qa4, 5.Qc2 or 5.Qb3, but these moves all diminish control of d4, making ...c7–c5 an effective reply for Black; therefore 5. b3 is White's most common response.[3] However, it weakens the dark squares slightly, which Black can take advantage of by playing 5... Bb4+. Now 6.Nbd2? loses material after 6...Bc3 7.Rb1 Bb7 threatening 8...Be4, an opening trap which has ensnared players such as Kamran Shirazi.[4] White's best move is therefore 6. Bd2. However, after 6... Be7 7. Bg2 c6 Black is ready to play ...d7–d5, again attacking the c-pawn. If White plays cxd5 then ...cxd5 is considered to equalize for Black. Thus White usually plays 8. Bc3 to clear the d2-square, and after 8... d5 White can play in two ways. After 9. Nbd2 Nbd7 10. 0-0 0-0 11. Re1 c5 Black has achieved his thematic pawn break before White and the resulting position after 12. e4 dxe4 13. Nxe4 is equal. Therefore, the main line continues  9. Ne5 and since Black does not want White to maintain this knight on a strong central outpost, play continues 9... Nfd7 10. Nxd7 Nxd7 11. Nd2 0-0 12. 0-0 Rc8 13. e4. By diverting the black knight on move 9 it is now White who has achieved his central pawn break first. The effect of Black's check 5...Bb4+ has been to lure White's bishop to c3 where it blocks the c-file. This, the current main line of the Queen's Indian, is considered equal by theory and became a frequent guest in grandmaster praxis in the 1980s.
+After 5. b3, Black also has several playable alternatives to 5...Bb4+, the most common of which is 5... Bb7 6. Bg2 Bb4+ 7. Bd2 a5. When White plays Nc3, Black will exchange bishop for knight in order to enhance his control over the central light squares, and play on the queenside with moves such as ...a5–a4 and ...b5. Other possibilities for Black include 5...d5 and 5...b5.
+More recently, several grandmasters, including Alexander Beliavsky, Ni Hua, Veselin Topalov, and Magnus Carlsen, have played 5. Qc2. The idea is to allow Black's counterthrust ...c5, the main line running 5... Bb7 6. Bg2 c5. The fashion is for White to sacrifice a pawn with 7. d5, gaining active play. This idea has scored well for White,[5] and new ideas have been cropping up since 2008.[6] The 5.Qc2 lines had previously scored poorly for White according to Emms.[3]
+
+Old main line: 4...Bb7 [edit]
+The classical main line of the Queen's Indian, the most frequently played line from the 1950s until 4...Ba6 became popular in the 1980s, usually continues: 5. Bg2 Be7 6. 0-0 0-0 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3. White has a spatial advantage, but Black has no weaknesses and can choose from a variety of ways to create counterplay, such as 9... c5, 9... f5 or 9... Be4. These lines are well known for their drawish tendencies and 4... Bb7 is nowadays often employed by Black as a drawing weapon. White has tried various deviations from the main line in an attempt to unbalance the play. These include:
+
+8. Bd2, which defends the knight on c3 and threatens a d4–d5 push.
+7. d5!?, introduced by Arturo Pomar, and rejuvenated by Lev Polugaevsky's continuation 7... exd5 8. Nh4 threatening to regain the pawn on d5 or to play Nf5.
+6. Nc3, which postpones castling in favor of preparing action in the center with the d4–d5 and e2–e4 thrusts.
+Other lines[edit]
+4.a3[edit]
+The Petrosian Variation, prepares 5.Nc3 by stopping ...Bb4 pinning the knight. White intends to follow up with Nc3 and e4, building a large pawn center. Black usually responds by contesting the e4-square with ...Bb7 and ...d5. (See Gurevich, 1992, for an extensive analysis.) This variation was often used by Garry Kasparov early in his career.
+
+4.Nc3[edit]
+Black can choose between 4...Bb7 and 4...Bb4.
+
+4... Bb7
+5. a3 became the more common move order to reach the Petrosian system by the mid-1980s, where White has avoided 4.a3 c5 5.d5 Ba6 and 4.a3 Ba6.
+5. Bg5 is an older line which gives Black good equalizing chances after 5...h6 6.Bh4 g5 7.Bg3 Nh5 8.e3 Nxg3 9.hxg3 Bg7. After 5...Be7, White can play 6.e3 or 6.Qc2.
+4... Bb4 (or the transposition 3.Nc3 Bb4 4.Nf3 b6) is a Queen's Indian/Nimzo-Indian line. Moves for White include 5.Bg5, 5.e3, and 5.Qb3.
+After 5. Bg5, Black may play 5...Bb7 or 5...h6.
+5...Bb7 6.e3 h6, White can play 7.Bh4.
+5...h6 6.Bh4 Bb7 (or by transposition 4...Bb7 5.Bg5 h6 6.Bh4 Bb4), White can play 7.e3. The position after 6...g5 7.Bg3 Ne4 8.Qc2 was heavily played and analyzed in the 1980s.
+After 5. e3, Black usually plays 5...Bb7. White usually plays 6.Bd3 for the Fischer Variation of the Nimzo-Indian (or by transposition 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3). White can play 6.e3, then Black usually plays 6...h6, although 6.Nd2 or 6.Qc2 may be better.
+After 5. Qb3, Black usually plays 5...c5.
+4.e3[edit]
+Preparing to develop the king's bishop and castle kingside, was also a favorite of Tigran Petrosian. This apparently quiet development may lead to complex middlegame play. Black usually replies 4...Bb7, then play may continue 5.Bd3 d5 6.0-0 or 5.Nc3 Bb4, transposing into the Nimzo-Indian Defence.
+
+4.Bf4[edit]
+The Miles Variation, which simply develops the bishop to a good square. Despite some success by its originator, this idea has never been popular.
+
+ECO codes[edit]
+The Encyclopaedia of Chess Openings classifies the Queen's Indian under codes E12 to E19 according to the following scheme:
+
+E12 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6
+E13 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5
+E14 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3
+E15 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3
+E16 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7
+E17 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7
+E18 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.0-0 0-0 7.Nc3
+E19 – 1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.0-0 0-0 7.Nc3 Ne4 8.Qc2
+References[edit]
+
+Further reading[edit]
+
+
+
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Queen%27s_Indian_Defense&oldid=1132989075"

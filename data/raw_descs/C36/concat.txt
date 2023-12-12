@@ -1,0 +1,188 @@
+
+The Modern Defense to the King's Gambit operates by the principle of accepting the gambit and then returning the pawn while hitting back in the center. Usually White gets the gambit pawn back in this variation, but in the meantime Black destroys most of White's central superiority.
+Pros:
+
+A pretty safe defense for Black
+Black gets free development
+The white king is often less safe
+
+Cons:
+
+White usually gets the pawn back
+Winning the f4 pawn gives White the open f-file
+White can get a lead in development
+
+Chess opening
+
+
+Chess openingKing's Gambit
+abcdefgh8877665544332211abcdefgh
+Moves1.e4 e5 2.f4ECOC30–C39OriginNo later than 16th centuryParentOpen Game
+The King's Gambit is a chess opening that begins with the moves:
+
+1. e4 e5
+2. f4
+White offers a pawn to divert the black e-pawn. If Black accepts the gambit, White may play d4 and Bxf4, regaining the gambit pawn with central domination, or direct their forces against the weak square f7 with moves such as Nf3, Bc4, 0-0, and g3. A downside to the King's Gambit is that it weakens White's king's position, exposing it to the latent threat of ...Qh4+ (or ...Be7–h4+), which may force White to give up castling rights.
+The King's Gambit is one of the oldest documented openings, appearing in one of the earliest chess books, Luis Ramírez de Lucena's Repetición de Amores y Arte de Ajedrez (1497).[1] It was examined by the 17th-century Italian chess player Giulio Cesare Polerio.[2]  The King's Gambit was one of the most popular openings until the late 19th century, when improvements in defensive technique led to its decline in popularity. It is infrequently seen at master level today, as Black has several methods to obtain equality, but is still popular at amateur level.
+
+
+History[edit]
+The King's Gambit was one of the most popular openings for over 300 years, and has been played by many of the strongest players in many of the greatest brilliancies, including the Immortal Game. Nevertheless, players have held widely divergent views on it. François-André Danican Philidor (1726–1795), the greatest player and theorist of his day, wrote that the King's Gambit should end in a draw with best play by both sides, stating that "a gambit equally well attacked and defended is never a decisive [game], either on one side or the other."[3] Writing over 150 years later, Siegbert Tarrasch, one of the world's strongest players in the late 19th and early 20th centuries, pronounced the opening "a decisive mistake" and wrote that "it is almost madness to play the King's Gambit."[4] Similarly, future world champion Bobby Fischer wrote a famous article, "A Bust to the King's Gambit", in which he stated, "In my opinion the King's Gambit is busted. It loses by force" and offered his Fischer Defense (3...d6) as a refutation.[5][6] FM Graham Burgess, in his book The Mammoth Book of Chess, noted the discrepancy between the King's Gambit and Wilhelm Steinitz's accumulation theory. Steinitz had argued that an attack is only justified when a player has an advantage, and an advantage is only obtainable after the opponent makes a mistake. Since 1...e5 does not look like a blunder, White should therefore not be launching an attack.[7]
+While the King's Gambit Accepted was a staple of Romantic era chess, the opening began to decline with the development of opening theory and improvements in defensive technique in the late 19th century. By the 1920s, 1.e4 openings declined in popularity with the rise of the hypermodern school, with many players switching to 1.d4 and 1.c4 openings and positional play. After World War II, 1.e4 openings became more popular again, with David Bronstein being the first grandmaster in decades to use the King's Gambit in serious play. He inspired Boris Spassky to also take up the King's Gambit, although Spassky was not willing to risk using the opening in any of his World Championship matches. Spassky did beat many strong players with it, however, including Bobby Fischer,[8] Zsuzsa Polgar,[9] and a famous brilliancy against Bronstein himself.[10]
+In 2012, an April Fools' Day prank by Chessbase in association with Vasik Rajlich—inventor of chess engine Rybka—claimed to have proven to a 99.99999999% certainty that the King's Gambit is at best a draw for White, but only after 3.Be2.[11][12] Revealing the prank, Rajlich admitted that current computer technology is nowhere near solving such a task.[13]
+The King's Gambit is rare in modern high-level play.[14] The main reason is that it is hard to gain an opening advantage with White against strong opponents, with GM Matthew Sadler once joking that the dream of every King's Gambit player is a "worse but holdable ending".[15] A handful of grandmasters have continued to use it, including Joseph Gallagher, Hikaru Nakamura, Baskaran Adhiban, Nigel Short, and Alexei Fedorov, albeit never as a main weapon.
+
+King's Gambit Accepted: 2...exf4 [edit]
+Although Black usually accepts the gambit pawn, two methods of declining the gambit—the Classical Defense (2...Bc5) and the Falkbeer Countergambit (2...d5)—are also popular. After 2...exf4, the two main continuations for White are 3.Nf3 (King's Knight's Gambit) and 3.Bc4 (Bishop's Gambit).
+
+King's Knight's Gambit: 3.Nf3 [edit]
+
+abcdefgh8877665544332211abcdefgh King's Knight's Gambit: 3.Nf3 
+
+This is the most popular move. It develops the knight and prevents 3...Qh4+. Black's two main approaches are to attempt to hold on to the pawn with ...g5, or to return the pawn in order to facilitate development.
+
+Classical Variation: 3...g5 [edit]
+The Classical Variation arises after 3.Nf3 g5. Black defends the f4-pawn, and threatens to kick the f3-knight with ...g4, or else to consolidate with ...Bg7 and ...h6. The main continuations traditionally have been 4.h4 and 4.Bc4. More recently, 4.Nc3 (the Quaade Gambit or Quaade Attack)[16] has been recommended by Scottish grandmaster (GM) John Shaw as a less explored alternative to 4.h4 and superior to 4.Bc4.[17]
+
+4.h4: Kieseritzky Gambit and Allgaier Gambit [edit]
+With 4.h4 White practically forces 4...g4, thereby undermining any attempt by Black to set up a stable pawn chain with ...h6 and ...Bg7.
+The Kieseritzky Gambit, 4.h4 g4 5.Ne5, is considered by modern writers such as Shaw and Gallagher to be the main line after 3...g5. It was popularized by Lionel Kieseritzky in the 1840s and used successfully by Wilhelm Steinitz. Boris Spassky used it to beat Bobby Fischer in a famous game at Mar del Plata in 1960.[18] The main line of the Kieseritzky Gambit is considered to be 5...Nf6 6.Bc4 d5 7.exd5 Bd6 8.d4 with an unclear position. The Long Whip Variation, 5...h5?! 6.Bc4 Rh7 (or 6...Nh6) is considered old-fashioned and risky, as Black loses a lot of time attempting to hold on to the pawn.
+4.h4 g4 5.Ng5 is the Allgaier Gambit,[19] intending 5...h6 6.Nxf7. This knight sacrifice is considered unsound.[20]
+
+4.Bc4 g4: Muzio Gambit and others [edit]
+The extremely sharp Muzio Gambit[21] arises after 4.Bc4 g4 5.0-0 gxf3 6.Qxf3, where White has sacrificed a knight but has three pieces bearing down on f7.[22] Such wild play is rare in modern chess, but Black must defend accurately. Perhaps the sharpest continuation is the Double Muzio after 6...Qf6 7.e5 Qxe5 8.Bxf7+!?, leaving White two pieces down in eight moves, but with a position that some masters consider to be equal.[23][24] In practice White's play seems to be easier, especially when the opponent is surprised by such daring tactics.
+Similar lines are the Ghulam Kassim Gambit, 4.Bc4 g4 5.d4, and the McDonnell Gambit, 4.Bc4 g4 5.Nc3. These are generally considered inferior to the Muzio, which has the advantage of reinforcing White's attack along the f-file. Also inferior is the Lolli Gambit 4.Bc4 g4 5.Bxf7+?!, which leaves White with insufficient compensation for the piece after 5...Kxf7 6.Ne5+ Ke8 7.Qxg4 Nf6 8.Qxf4 d6.
+The Salvio Gambit, 4.Bc4 g4 5.Ne5 Qh4+ 6.Kf1, is considered better for Black due to the insecurity of White's king. Black may play safely with 6...Nh6 (Silberschmidt Variation), or counter-sacrifice with 6...f3 (Cochrane Gambit) or 6...Nc6 (Viennese Variation).
+
+4.Bc4 Bg7: Hanstein Gambit and Philidor Gambit [edit]
+A safer alternative to 4...g4 is 4...Bg7,[23] which usually leads to the Hanstein Gambit after 5.d4 d6 6.0-0 h6 or the Philidor Gambit after 5.h4 h6 6.d4 d6 (other move orders are possible in both cases).
+
+4.Nc3: Quaade Gambit [edit]
+The Quaade Gambit (3.Nf3 g5 4.Nc3) is named after a Danish amateur who discussed it in correspondence with the Deutsche Schachzeitung in the 1880s.[25] The move has received renewed attention following its recommendation by John Shaw in his 2013 book on the King's Gambit. A well-known trap here is 4...g4 5.Ne5 Qh4+ 6.g3 fxg3 7.Qxg4 g2+? (7...Qxg4 8.Nxg4 d5 is about equal) 8.Qxh4 gxh1=Q 9.Qh5! and White is close to winning. (Black's best defense is considered 9...Nh6 10.d4 d6 11.Bxh6 dxe5 12.Qxe5+ Be6 13.Qxh8 Nd7 14.Bxf8 0-0-0 and White will emerge a clear pawn ahead.) Instead, 4...Bg7 has been recommended. 4...d6 and 4...h6 transpose to Fischer's Defense and Becker's Defense, respectively. Also possible is 4...Nc6, recommended by Konstantin Sakaev.[26][27]
+After 4...Bg7 5.d4 g4, Simon Williams advocates 6.Bxf4 gxf3 in his DVD and Chess.com video series.[28] White is down a knight, but has a strong attack. The Quaade Gambit has recently been advocated by Daniel King in his PowerPlay series for Chessbase.
+
+4.d4: Rosentreter Gambit [edit]
+This is likely to lead to similar positions to the Quaade Gambit; however, 4...g4 5.Ne5 Qh4+ 6.g3 fxg3 7.Qxg4 g2+!? (7...Qxg4=) is now viable due to the threat against the pawn on e4. After 8.Qxh4 gxh1=Q Shaw recommends 9.Nc3 for White, with a complicated position.[29]
+
+Becker Defense: 3...h6 [edit]
+The Becker Defense (3.Nf3 h6), has the idea of creating a pawn chain on h6, g5, f4 to defend the f4 pawn while avoiding the Kieseritzky Gambit, so Black will not be forced to play ...g4 when White plays to undermine the chain with h4. White has the option of 4.b3, although the main line continues with 4.d4 g5 (ECO C37) and usually transposes to lines of the Classical Variation after 5.Bc4 Bg7 6.0-0 (ECO C38).
+
+Bonch-Osmolovsky Defense: 3...Ne7 [edit]
+The rarely seen Bonch-Osmolovsky Defense[30] (3.Nf3 Ne7) aims to defend the f4-pawn with ...Ng6, a relatively safe square for the knight compared to the Schallopp Defense. It was played by Mark Bluvshtein to defeat former world title finalist Nigel Short at Montreal 2007,[31] even though it has never been highly regarded by theory.
+
+Cunningham Defense: 3...Be7 [edit]
+
+abcdefgh8877665544332211abcdefghSample position in the Cunningham Defense
+
+The Cunningham Defense (3.Nf3 Be7) threatens a check on h4 that can permanently prevent White from castling; furthermore, if White does not immediately develop the king's bishop, Ke2 would be forced, which hems the bishop in. A sample line is 4.Nc3 Bh4+ 5.Ke2 d5 6.Nxd5 Nf6 7.Nxf6+ Qxf6 8.d4 Bg4 9.Qd2 (diagram). White has strong central control with pawns on d4 and e4, while Black is relying on the white king's discomfort to compensate.
+To avoid having to play Ke2, 4.Bc4 is White's most popular response.[32] Black can play 4...Bh4+ anyway, forcing 5.Kf1 (or else the wild Bertin Gambit or Three Pawns' Gambit, 5.g3 fxg3 6.0-0 gxh2+ 7.Kh1, played in the nineteenth century). In modern practice, it is more common for Black to simply develop instead with 4...Nf6 5.e5 Ng4, known as the Modern Cunningham. An under-explored but seemingly playable line here is 5...Ne4!?, the Euwe Variation, which has a number of trappy ideas.
+
+Schallopp Defense: 3...Nf6 [edit]
+The Schallopp Defense (3.Nf3 Nf6) is usually played with the intention of holding on to the pawn after 4.e5 Nh5. While it is not Black's most popular option, it attracted some attention in 2020 when Ding Liren used it to beat Magnus Carlsen in the online Magnus Carlsen Invitational tournament. The undefended knight on h5 means Black must be careful: for example 4.e5 Nh5 5.d4 d6 6.Qe2 Be7? (correct is 6...d5!=) 7.exd6 Qxd6 8.Qb5+ wins the h5-knight.[33]
+
+Modern Defense: 3...d5 [edit]
+The Modern Defense, or Abbazia Defense,[34] (3.Nf3 d5) has much the same idea as the Falkbeer Countergambit, and can in fact be reached via transposition, i.e. 2...d5 3.exd5 exf4 4.Nf3. Black concentrates on gaining piece play and fighting for the initiative rather than keeping the extra pawn. It has been recommended by several publications as an easy way to equalize, although White's extra central pawn and piece activity gives a slight advantage. If White captures (4.exd5) then Black may play 4...Nf6 or recapture with 4...Qxd5, at which point it becomes the Scandinavian Variation of KGA. This variation was considered most critical in the past, but recent trends seem to indicate a slight advantage for White.
+
+Fischer Defense: 3...d6 [edit]
+Main article: King's Gambit, Fischer Defense
+"The refutation of any gambit begins with accepting it. In my opinion the King's Gambit is busted. It loses by force." — R. Fischer, "A Bust to the King's Gambit"
+The Fischer Defense (3.Nf3 d6), although previously known, was advocated by Bobby Fischer after he was defeated by Boris Spassky in a Kieseritzky Gambit at the 1960 Mar del Plata tournament. Fischer then decided to refute the King's Gambit, and the next year the American Chess Quarterly published Fischer's analysis of 3...d6, which he called "a high-class waiting move".[5][6]
+
+
+abcdefgh8877665544332211abcdefgh Fischer Defense after 6.Ng1
+
+The point is that after 4.d4 g5 5.h4 g4 White cannot continue with 6.Ne5 as in the Kieseritzky Gambit, 6.Ng5 is unsound because of 6...f6! trapping the knight, and 6.Nfd2 blocks the bishop on c1. This leaves the move 6.Ng1 as the only option, when after six moves neither side has developed a piece. The resulting slightly odd position (diagram) offers White good attacking chances. A typical continuation is 6.Ng1 Bh6 7.Ne2 Qf6 8.Nbc3 c6 9.g3 f3 10.Nf4 Qe7 with an unclear position (Korchnoi/Zak).
+The main alternative to 4.d4 is 4.Bc4. Play usually continues 4...h6 5.d4 g5 6.0-0 Bg7, transposing into the Hanstein Gambit, which can also be reached via 3...g5 or 3...h6.
+
+MacLeod Defense: 3...Nc6 [edit]
+The MacLeod Defense, 3...Nc6, is named after Nicholas MacLeod. Joe Gallagher writes that 3.Nf3 Nc6 "has never really caught on, probably because it does nothing to address Black's immediate problems." Like Fischer's Defense, it is a waiting move.[35] An obvious drawback is that the knight on c6 may prove a target for the d-pawn later in the opening.
+
+Wagenbach Defense: 3...h5 [edit]
+An invention of the Hungarian/English player, János Wagenbach. John Shaw writes: "If given the time, Black intends to seal up the kingside with ...h4 followed by ...g5, securing the extra pawn on f4 without allowing an undermining h2–h4. The drawback is of course the amount of time required".[36]
+
+Bishop's Gambit: 3.Bc4 [edit]
+Main article: Bishop's Gambit
+
+abcdefgh8877665544332211abcdefghBishop's Gambit: 3.Bc4
+
+Of the alternatives to 3.Nf3, the most important is the Bishop's Gambit, 3.Bc4. White allows 3...Qh4+ 4.Kf1, losing the right to castle, but this loses time for Black after the inevitable Nf3 and White will develop rapidly. White also has the option of delaying Nf3, however, and can instead play g3!?, after which the game becomes quite sharp, with White having the option of Qf3 with an attack on f7, or Kg2 threatening hxg3. This idea is advocated, among others, by GM Simon Williams.[37]
+Korchnoi and Zak recommend as best for Black 3...Nf6 4.Nc3 c6, or the alternative move order 3...c6 4.Nc3 Nf6. After 5.Bb3 d5 6.exd5 cxd5 7.d4 Bd6 8.Nge2 0-0 9.0-0 g5 10.Nxd5 Nc6, Black was somewhat better in Spielmann–Bogoljubow, Märisch Ostrau 1923.[38]
+Black's other main option is 3...d5, returning the pawn immediately. Play might continue 3...d5 4.Bxd5 Nf6 5.Nc3 Bb4 6.Nf3 Bxc3 7.dxc3 c6 8.Bc4 Qxd1+ 9.Kxd1 0-0 10.Bxf4 Nxe4 with an equal position (Bilguer Handbuch, Korchnoi/Zak).
+3...Nc6!?, Maurian Defense, is relatively untested, but if White plays 4.Nf3 Black can transpose into the Hanstein Gambit after 4...g5 5.d4 Bg7 6.c3 d6 7.0-0 h6 (Neil McDonald, 1998). John Shaw wrote that 3...Nc6 is a "refutation" of the Bishop's Gambit, as he says that Black is better in all variations.
+Steinitz's 3...Ne7 and the countergambit 3...f5 (best met by 4.Qe2!) are generally considered inferior.
+
+Other 3rd moves for White[edit]
+Other 3rd moves for White are rarely played. Some of these are:
+
+3.Nc3 (Mason Gambit or Keres Gambit)
+3.d4 (Villemson Gambit[39] or Steinitz Gambit)
+3.Be2 (Lesser Bishop's Gambit or Tartakower Gambit)
+3.Qf3 (Breyer Gambit or Hungarian Gambit)
+3.Qe2 (Basman Gambit)
+3.g3 (Gama Gambit)[40]
+3.h4 (Stamma Gambit)
+3.Nh3 (Eisenberg Gambit)
+3.Kf2?! (The Tumbleweed)[41]
+King's Gambit Declined[edit]
+Black can decline the offered pawn, or offer a countergambit.
+
+Falkbeer Countergambit: 2...d5 [edit]
+Main article: King's Gambit, Falkbeer Countergambit
+The Falkbeer Countergambit is named after the 19th-century Austrian master Ernst Falkbeer. It runs 1.e4 e5 2.f4 d5 3.exd5 e4, in which Black sacrifices a pawn in return for quick and easy development. It was once considered good for Black and scored well, but White obtains some advantage with the response 4.d3!, and the line fell out of favor after the 1930s.
+A more modern interpretation of the Falkbeer is 2...d5 3.exd5 c6!?, as advocated by Aron Nimzowitsch. Black is not concerned about pawns and aims for early piece activity. White has a better pawn structure and prospects of a better endgame. The main line continues 4.Nc3 exf4 5.Nf3 Bd6 6.d4 Ne7 7.dxc6 Nbxc6, giving positions analogous to the Modern Variation of the gambit accepted.
+
+Classical Defense: 2...Bc5 [edit]
+A common way to decline the gambit is with 2...Bc5, the "classical" KGD. The bishop prevents White from castling and is such a nuisance that White often expends two tempi to eliminate it by means of Nc3–a4, to exchange on c5 or b6, after which White may castle without worry. It also contains an opening trap for novices: if White continues with 3.fxe5?? Black continues 3...Qh4+, in which either the rook is lost (4.g3 Qxe4+, forking the rook and king) or White is checkmated (4.Ke2 Qxe4#). This line often comes about by transposition from lines of the Vienna Game or Bishop's Opening, when White plays f2–f4 before Nf3.
+One rarely seen line is the Rotlewi Countergambit:[42] 3.Nf3 d6 4.b4!?. The idea of the gambit is similar to that seen in the Evans Gambit of the Italian Game. White sacrifices a pawn to try and build a strong center with 4...Bxb4 5.c3 Bc5 (or 5...Ba5) 6.fxe5 dxe5 7.d4. This line is considered slightly dubious, however.
+
+Other 2nd moves for Black[edit]
+Other options in the KGD are possible, though unusual, such as the Adelaide Countergambit 2...Nc6 3.Nf3 f5, advocated by Tony Miles; 2...d6, which is the way the King’s Gambit was declined the first known time it was played,[43] when after 3.Nf3, best is 3...exf4 transposing to the Fischer Defense (though 2...d6 invites White to play 3.d4 instead); and 2...Nf6 3.fxe5 Nxe4 4.Nf3 Ng5! 5.d4 Nxf3+ 6.Qxf3 Qh4+ 7.Qf2 Qxf2+ 8.Kxf2 with a small endgame advantage, as played in the 1968 game between Bobby Fischer and Bob Wade in Vinkovci.[44] The greedy 2...Qf6 (known as the Nordwalde Variation), intending 3...Qxf4, is considered dubious. Also dubious are the Keene Defense: 2...Qh4+ 3.g3 Qe7 and the Mafia Defense: 1.e4 e5 2.f4 c5.[45]
+2...f5?! is among the oldest countergambits in KGD, known from a game published in 1625 by Gioachino Greco.[46] Vincenz Hruby also played it against Mikhail Chigorin in 1882.[47] It is nonetheless considered dubious because 3.exf5 with the threat of Qh5+ gives White a good game. The variation is sometimes named the Pantelidakis Countergambit because GM Larry Evans answered a question from Peter Pantelidakis of Chicago about it in one of his columns in Chess Life and Review.
+
+Related lines[edit]
+In several lines of the Vienna Game White offers a sort of delayed King's Gambit. In the Vienna Gambit (1.e4 e5 2.Nc3 Nf6 3.f4), Black should reply 3...d5, since 3....exf4?! 4.e5 forces the knight to retreat. 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 may lead to the Hamppe–Muzio Gambit after 4.Nf3 g5 5.Bc4 g4 6.0-0 gxf3 7.Qxf3, or to the Steinitz Gambit after 4.d4 Qh4+ 5.Ke2. Both of these lines may be reached via the King's Gambit proper, but the Vienna move order is more common.
+White may also offer the gambit in the Bishop's Opening, e.g. 1.e4 e5 2.Bc4 Nc6 3.f4, though this is uncommon.
+
+ECO[edit]
+The Encyclopaedia of Chess Openings has ten codes for the King's Gambit, C30 through C39.
+
+C30: 1.e4 e5 2.f4 (King's Gambit)
+C31: 1.e4 e5 2.f4 d5 (Falkbeer Countergambit)
+C32: 1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 (Morphy, Charousek, etc.)
+C33: 1.e4 e5 2.f4 exf4 (King's Gambit Accepted)
+C34: 1.e4 e5 2.f4 exf4 3.Nf3 (King's Knight's Gambit)
+C35: 1.e4 e5 2.f4 exf4 3.Nf3 Be7 (Cunningham Defense)
+C36: 1.e4 e5 2.f4 exf4 3.Nf3 d5 (Abbazia Defense)
+C37: 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3 /4.Bc4 g4 5.0-0 (Muzio Gambit)
+C38: 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 (Philidor, Hanstein, etc.)
+C39: 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 (Allgaier, Kieseritzky, etc.)
+References[edit]
+
+Further reading[edit]
+
+
+
+
+
+
+
+External links[edit]
+
+The Bishop's Gambit
+Not quite winning with the Allgaier Gambit
+The Double Muzio
+
+Portal: Chess
+Authority control databases International
+FAST
+National
+Spain
+Germany
+Israel
+United States
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1184849839"

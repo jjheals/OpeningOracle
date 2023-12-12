@@ -1,0 +1,388 @@
+
+Sometimes called the Hungarian Opening, 1.g3 prepares to fianchetto the king's-bishop (Bg2), from which spot it will strike through the center. The delay of Nf3 leads to certain subtleties compared to the King's Indian attack.
+Pros:
+
+Positional
+May lead to queenside pressure
+Flexible
+
+Cons:
+
+The e5 square is not controlled (compared to 1.Nf3, 2.g3)
+Black may blot out the bishop by ...d5 and ...c6
+Black can create a big center
+
+Chess openingAnderssen's Opening
+abcdefgh8877665544332211abcdefghMoves1.a3ECOA00OriginAdolf Anderssen, Paris, 1858Named afterAdolf Anderssen
+Anderssen's Opening is a chess opening defined by the opening move:
+
+1. a3
+Anderssen's Opening is named after unofficial World Chess Champion Adolf Anderssen, who played it three times[1][2][3] in his 1858 match against Paul Morphy. Although Anderssen was defeated decisively in the match, the games he opened with the novelty scored 1½/3 (one win, one loss, one draw).
+Anderssen's Opening is not commonly played, and is an irregular opening. The move is classified under the A00 code in the Encyclopaedia of Chess Openings. Anderssen's Opening is also the very first opening enumerated in the Oxford Companion to Chess' index of 1327 openings, due to a systematic ordering which begins at White's left-hand queenside and proceeds to White's right-hand kingside.[4]
+
+
+Themes[edit]
+Anderssen's Opening does little in the way of development or control of the center, and is rather more of a waiting move. However some players may enjoy the psychological value of such a move, or believe it will help them against an opponent with superior knowledge of opening theory. Usually used by chess players as a form of a joke, or to simply challenge themselves by playing such a move.
+Among the more common Black responses to Anderssen's Opening are:
+
+1...d5, which makes a straightforward claim on the center,
+1...g6, which prepares to fianchetto the king's bishop to g7,
+1...e5, also playable, although White can then play 2.c4 (as occurred in the Morphy-Anderssen match), transposing to a Reversed Sicilian structure where a pawn on a3 may be useful. Another approach is 2.e4 Nf6 3.Nc3, transposing to Mengarini's Opening.
+Morphy vs. Anderssen, 1858[edit]
+Anderssen (left) and Morphy (right)
+During his tour of Europe and in the Christmastime (December 20-28) of 1858, the American master Paul Morphy engaged Adolf Anderssen in a match held at the Hôtel de Breteuil, Paris. The terms were that the first player to win seven games would be the winner of the match—draws would not count towards a win. The players took turns controlling the white pieces and the black pieces in each game, with Morphy playing as White in the first game. Although Anderssen won the first game in a laborious effort requiring 72 moves and about 7 hours of play, Morphy established dominance by winning three subsequent, shorter games.
+Anderssen then employed the opening which came to bear his name in three consecutive games where he controlled the white pieces—the sixth, the eighth, and the tenth. As the match progressed his performance with the opening improved, losing the sixth, drawing the eighth, and finally securing a win in the tenth game. However this proved insufficient to prevent Morphy's win—game and match—in the eleventh. Chess writer Philip W. Sergeant documented the match in a compilation of Morphy's games.[5]
+All three games opened identically through their seventh moves. In each the players transposed to a Reversed Sicilian structure, exchanging pawns. White developed his knights, and Black activated his bishop pair before castling kingside.
+
+Game 6[edit]
+
+abcdefgh8877665544332211abcdefghThe final position of game 6.
+
+December 24. Although the players maintained equal exchange of material throughout most of the game, Sergeant noted certain late moves of White's queen and rook as blunders, which allowed Black to bring his material and positional advantage to bear. Using all of his major pieces, Black checked with an immediate mating threat, at which point White resigned. In the final position, Black was up a rook.
+
+Anderssen's Opening (ECO A00) 1.a3 e5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Be6 6.Nf3 Bd6 7.Be2 O-O 8.d4 Nxc3 9.bxc3 e4 10.Nd2 f5 11.f4 g5 12.Bc4 Bxc4 13.Nxc4 gxf4 14.exf4 Qe8 15.O-O Qc6 16.Qb3 Qd5 17.Rb1 b6 18.Qa2 c6 19.Qe2 Nd7 20.Ne3 Qe6 21.c4 Nf6 22.Rb3 Kf7 23.Bb2 Rac8 24.Kh1 Rg8 25.d5 cxd5 26.cxd5 Qd7 27.Nc4 Ke7 28.Bxf6+ Kxf6 29.Qb2+ Kf7 30.Rh3 Rg7 31.Qd4 Kg8 32.Rh6 Bf8 33.d6 Rf7 34.Rh3 Qa4 35.Rc1 Rc5 36.Rg3+ Bg7 37.h3 Kh8 38.Rxg7 Rxg7 39.Rc3 e3 40.Rxe3 Rxc4 41.Qf6 Rc1+ 42.Kh2 Qxf4+ 0–1 (Resignation)[1][5]
+Game 8[edit]
+
+abcdefgh8877665544332211abcdefghThe final position of game 8.
+
+December 25. The eighth game proceeded identically with the sixth a bit further than all three in common, through White's eleventh move. On his eighteenth move White played an en passant capture; according to Sergeant, Black made the capture necessary for White in order that White should avoid the problem of two black pawns against one white pawn along the queenside flank. During the middlegame, the players exchanged queens. Again equality of material was maintained throughout the middlegame, albeit that pairwise exchanges of pawns and bishops were delayed by several moves.
+During the endgame, slight material inequality and the given position resulted in a draw, as White managed to halt the advance of two passed pawns—and the black king which might have aided their advance. The final moves involved the white knight and the black king repeating the board position twice, threatening draw by threefold repetition. In the final position White had a knight for Black's two passed pawns.
+
+Anderssen's Opening (ECO A00) 1.a3 e5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Be6 6.Nf3 Bd6 7.Be2 O-O 8.d4 Nxc3 9.bxc3 e4 10.Nd2 f5 11.f4 Qh4+ 12.g3 Qh3 13.Bf1 Qh6 14.c4 c6 15.c5 Bc7 16.Bc4 Nd7 17.O-O b5 18.cxb6 axb6 19.Qb3 Rfe8 20.Bb2 b5 21.Bxe6+ Qxe6 22.Qc2 Qd5 23.Rfc1 Ra6 24.a4 Rea8 25.axb5 Qxb5 26.Qc4+ Qxc4 27.Nxc4 Rxa1 28.Bxa1 Nf6 29.Bc3 Ra2 30.Bd2 Nd5 31.Kf1 Bd8 32.Ke1 Be7 33.Rb1 h6 34.Ne5 c5 35.dxc5 Bxc5 36.Rb5 Nxe3 37.Rxc5 Ng2+ 38.Ke2 e3 39.Nf3 g6 40.Rd5 Kf7 41.Rd6 Kg7 42.h4 exd2 43.Rxd2 Ra4 44.Kf2 Nxf4 45.gxf4 Rxf4 46.Rd4 Rxd4 47.Nxd4 Kf6 48.Ke3 g5 49.h5 Ke5 50.Nf3+ Kf6 51.Nd4 ½-½ (Draw by Agreement)[2][5]
+Game 10[edit]
+
+abcdefgh8877665544332211abcdefghThe final position of game 10.
+
+December 27. In the tenth game Anderssen finally converted 1. a3 to a second and final win, although the game required the most moves of any played during the match. Again, material equality was maintained during the middlegame, except that White retained a bishop for Black's knight throughout the phase. This allowed White to use his bishop pair advantageously. In the endgame White won three pawns and a knight in exchange for a rook, forcing Black to defend against White's three passed pawns, which proved unmanageable, forcing Morphy's resignation. In the final position White had a bishop and two passed pawns for Black's rook.
+
+Anderssen's Opening (ECO A00) 1.a3 e5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Be6 6.Nf3 Bd6 7.Be2 O-O 8.O-O Nxc3 9.bxc3 f5 10.d4 e4 11.Nd2 Rf6 12.f4 Rh6 13.g3 Nd7 14.Nc4 Bxc4 15.Bxc4+ Kh8 16.Ra2 Qe7 17.a4 Nf6 18.Qb3 b6 19.Be6 Re8 20.Bc4 Ng4 21.Rg2 Rb8 22.Be2 Nf6 23.c4 c6 24.Bb2 Qf7 25.Qc2 Be7 26.Bc3 Rg8 27.Ra1 g5 28.fxg5 Rxg5 29.a5 Bd6 30.axb6 axb6 31.Ra8+ Rg8 32.Qa4 Rxa8 33.Qxa8+ Qe8 34.Qxe8+ Nxe8 35.c5 Bc7 36.Bc4 Kg7 37.cxb6 Bxb6 38.Rb2 Bc7 39.Rb7 Kf6 40.Bb4 Rg6 41.Bf8 h5 42.Kf2 h4 43.gxh4 Rg4 44.h5 Rh4 45.h6 Rxh2+ 46.Kg1 Rh3 47.Bf1 Rg3+ 48.Kf2 Rg4 49.Bc4 Rh4 50.Bg8 Bd6 51.Bxd6 Nxd6 52.Rd7 Ne8 53.h7 Kg5 54.Re7 Nd6 55.Re6 Nc4 56.Rxc6 Nd2 57.Ke2 Rh2+ 58.Kd1 Nf3 59.Rc7 Kg6 60.d5 f4 61.exf4 e3 62.Re7 e2+ 63.Rxe2 Rh1+ 64.Kc2 Nd4+ 65.Kd2 Nxe2 66.Kxe2 Kg7 67.Ke3 Re1+ 68.Kd4 Rf1 69.Ke5 Re1+ 70.Kf5 Rd1 71.Be6 Rd4 72.Ke5 Rd1 73.f5 Rh1 74.f6+ Kxh7 75.Kd6 Ra1 76.Ke7 Ra7+ 77.Bd7 1–0 (Resignation)[3][5]
+Later use[edit]
+According to Sergeant,[6] Anderssen later essayed the unusual opening in 1877 and 1878, using it to win games against Louis Paulsen,[7] George Henry Mackenzie,[8] and James Mason.[9] 1. a3 was also used occasionally by other players of the period: Steinitz vs. Blackburne, Vienna 1873,[10] Blackburne (unsuccessfully) vs. Lee, London 1904,[11] and (also unsuccessfully) Mieses vs. Cohn, Ostend 1907.[12]
+A modern proponent of the move is Croatian International Master Zvonko Krečak.[13] In March 2010 Magnus Carlsen played the opening in the blindfold game against Vassily Ivanchuk at the Amber chess tournament; Carlsen lost the game.[14] In January 2023, Hikaru Nakamura used the opening against Carlsen in an online Chess.com Titled Tuesday tournament; Hikaru won against Carlsen.[15][16]
+
+Named variations[edit]
+1.a3 g6 2.g4 (Andersspike)
+1.a3 e5 2.h3 d5 (Creepy Crawly Formation)
+1.a3 a5 2.b4 (Polish Gambit)
+1.a3 d5 2.d4 Nc6 3.Nf3 Bf5 4.Bf4 e6 5.Nc3 Bd6 6.e3 Nf6 7.g3 h6 8.Bg2 Rc8 9.O-O O-O (Spider Sense Gambit)
+See also[edit]
+List of chess openings
+List of chess openings named after people
+References[edit]
+
+Bibliography
+
+
+
+
+
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Simultaneous exhibition
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Anderssen%27s_Opening&oldid=1178869961"

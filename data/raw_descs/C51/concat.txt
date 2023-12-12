@@ -1,0 +1,86 @@
+
+The Evans Gambit - named after Captain William Davies Evans, who first played it in 1827 - is a pawn sacrifice. White gambits the b4 pawn to gain time attacking the black piece which captures it, and take over the center with c2-c3 and d2-d4.
+Pros:
+
+Aggressive
+Attacking
+Dangerous
+
+Cons:
+
+Black is up a pawn
+Several good defenses have been worked out
+The gambit can be safely declined
+
+Famous Practitioners: Mikhail Chigorin, Garry Kasparov
+Chess opening
+For the Italian Opening, see Giuoco Piano.
+Chess openingItalian Game
+abcdefgh8877665544332211abcdefghMoves1.e4 e5 2.Nf3 Nc6 3.Bc4ECOC50–C59Origin15th or 16th centuryParentKing's Knight Opening
+The Italian Game is a family of chess openings beginning with the moves:
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4
+This opening is defined by the development of the white bishop to c4 (the so-called "Italian bishop"), where it attacks Black's vulnerable f7-square. It is part of the large family of Open Games or Double King's Pawn Games.
+The Italian Game is one of the oldest recorded chess openings; it occurs in the Göttingen manuscript and was developed by players such as Damiano and Polerio in the 16th century, and later by Greco in 1620, who gave the game its main line. It has been extensively analyzed for more than 300 years. 
+The term Italian Game is sometimes used interchangeably with Giuoco Piano, although the latter also refers particularly to play after 3...Bc5.[1]
+The Encyclopaedia of Chess Openings gives the Italian Game ten codes: C50–C54 for the Giuoco Piano, and C55–C59 for the Two Knights Defense. Side lines are covered under C50.
+
+
+Main variations[edit]
+Black's two main options are 3...Bc5, the Giuoco Piano, and 3...Nf6, the Two Knights Defense. They are about equally popular,[2] but the resulting positions usually have a very different character.
+
+
+
+abcdefgh8877665544332211abcdefghGiuoco Piano 3...Bc5
+
+
+abcdefgh8877665544332211abcdefghTwo Knights Defense 3...Nf6
+
+
+3...Bc5[edit]
+Main article: Giuoco Piano
+Until the 19th century, this line was the main line of the Italian Game. Dubbed the Giuoco Piano ("Quiet Game") in contrast to the more aggressive lines then being developed, this continues 4.d3, the positional Giuoco Pianissimo ("Very Quiet Game"), or the main line 4.c3 (the original Giuoco Piano) leading to positions first analyzed by Greco in the 17th century, and revitalized at the turn of the 20th by the Moller Attack. 4.0-0 will usually transpose into the Giuoco Pianissimo after 4...Nf6 5.d3, while 4.Nc3 Nf6 is a transposition into the Four Knights Game.
+Another option for White is the aggressive Evans Gambit (4.b4), a popular opening in the 19th century which is still occasionally played. The Italian Gambit (4.d4) may transpose into the Scotch Gambit after 4...exd4; however, this move order allows Black the option of 4...Bxd4, so if White wants a Scotch Gambit, 3.d4 is usually preferred. The Jerome Gambit (4.Bxf7+) is unsound.
+
+
+3...Nf6[edit]
+Main article: Two Knights Defense
+3...Nf6 is the more aggressive Two Knights Defense. This is more in the nature of a counterattack, and some (e.g. Bronstein) have proposed it be renamed so.
+If White attempts to exploit the weakness of Black's f7-pawn with 4.Ng5, Black may try the knife-edged Traxler/Wilkes-Barre Variation (4...Bc5!?). After the more common 4...d5 5.exd5, Black generally avoids 5...Nxd5 allowing 6.Nxf7, the Fegatello or Fried Liver Attack, or 6.d4, the Lolli Variation, both of which are difficult to defend under practical conditions. Most common is 5...Na5, sacrificing a pawn for an active position. The very sharp Fritz Variation (5...Nd4) and the closely related Ulvestad Variation (5...b5) lead to wild positions with little margin for error for either side.
+A quieter option for White is 4.d3, when Black's main options are 4...Bc5, transposing into the Giuoco Pianissimo, and the solid 4...Be7, which is likely to lead to similar positions to the Bishop's Opening.
+Alternatively, White can play 4.d4, which may lead to the Scotch Gambit after the usual reply 4...exd4.
+
+Uncommon 3rd moves for Black[edit]
+3...Be7 (Hungarian Defense). A solid, drawish defense which is occasionally seen in tournament play to avoid the complexities and risks of the other lines.
+3...d6 (Semi-Italian Opening). Another solid positional line, popular in the late 19th and early 20th centuries, but rarely seen today.
+3...g6. Allows White to attack with 4.d4 (4.d3 has also been tried) 4...exd4 5.c3! (5.Nxd4 and 5.Bg5 are also possible) 5...dxc3 6.Nxc3 Bg7 and now 7.Qb3 (Unzicker) or 7.Bg5 (O'Kelly).
+3...Nd4 (Blackburne Shilling Gambit). This ostensibly weak third move is a false gambit expectant upon White falling into the trap of capturing Black's undefended pawn (4.Nxe5?! Qg5). While generally considered time-wasting against more experienced players due to 4.Nxd4! exd4 5.c3, it has ensnared many chess novices and can provide a quick and easy mate against players unfamiliar with the line.
+3...f5 (Rousseau Gambit). White does best to avoid the pawn offer with 4.d3 or 4.d4.
+3...Qf6. After 3...Qf6?! 4.Nc3 Nge7 5.Nb5 White has a clear advantage (Unzicker).
+3...h6. Neglects Black's development and is generally considered a waste of time;[3] however, the move has no immediate refutation and has been tried by Czech grandmaster Pavel Blatny.[4]
+See also[edit]
+Chess opening
+Encyclopaedia of Chess Openings
+List of chess openings
+List of chess openings named after places
+References[edit]
+
+Bibliography[edit]
+Bronstein, David (1991). 200 Open Games. Reprint Dover Publications, 1973. ISBN 0-486-26857-8.
+
+Estrin, Yakov (1983). The Two Knights Defence. ISBN 0-7134-3991-2.
+
+Levy, David; O'Donnell, K. (1981).  Oxford Encyclopaedia of Chess Games Vol I (1485-1866).  ISBN 0-19-217571-8.
+Matanović, Aleksandar (1981). Encyclopaedia of Chess Openings Vol C. ISBN 0-7134-2697-7.
+Zagororovsky, Zagorovsky (1982). Romantic Chess Openings. ISBN 0-7134-3623-9.
+Further reading[edit]
+
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Italian_Game&oldid=1181352907"

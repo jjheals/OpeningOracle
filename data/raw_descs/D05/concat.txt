@@ -1,0 +1,89 @@
+Chess opening named after Edgard Colle
+Not to be confused with Colley Matrix.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Colle System" – news · newspapers · books · scholar · JSTOR (October 2023) (Learn how and when to remove this template message)
+Chess openingColle System
+abcdefgh8877665544332211abcdefghBasic Colle System structure for White.  Common continuations include Nbd2 and 0-0.
+Movesfor White: d4, Nf3, e3, Bd3, c3ECOD05Named afterEdgard ColleParentQueen's Pawn Game,  Closed Game,  Zukertort Opening,  or Indian DefenceSynonym(s)Colle–Koltanowski System
+The Colle System, also known as the Colle–Koltanowski System, is a chess opening system for White, popularised in the 1920s by the Belgian master Edgard Colle and further developed by George Koltanowski.  
+The Colle is characterised by several moves.  White's center pawns are developed to d4 and e3, the king's knight is developed to f3, the king's bishop is developed to d3, and the queen bishop's pawn (c-pawn) is developed to c3. Common continuations include development of the queen's knight to d2 (Nbd2) and kingside castling (0-0).  A major theme of the Colle System is the ambition to play a well-timed e4, where the square is defended by the bishop on d3, the knight on d2 (following Nbd2), and possibly the rook on e1 (following 0-0 and Re1).  Although sometimes described as a specific sequence of moves, the Colle System is not a fixed line of play, but rather a system for White where the moves may be permuted at the player's discretion.  When a game opens with most or all of the above moves, to the exclusion of moves which typify other openings, the game may be described as "a Colle System".
+Although criticised by some and used infrequently in master play, the Colle is regarded by others as a solid and playable opening.
+
+
+Definition and assessment[edit]
+The Encyclopaedia of Chess Openings (ECO) identifies the Colle System as an uncommon continuation of the Queen's Pawn Game, assigning it the code D05.[a]  In the ECO, the Colle system is defined by the line 1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 c5 5.c3.[1] Paul van der Sterren gives an identical definition, with the same moves played in the same order.[2]  Other authors clarify that the system refers specifically to White's moves.  Hooper and Whyld define the Colle as d4, Nf3, e3, Nbd2, c3 and Bd3 (in no particular order), including Nbd2 in their definition rather than noting it as a usual continuation.[3][b] Benjamin and Schiller give the broader, less specific definition 1.d4, 2.Nf3, 3.e3, although they also note that the immediate plan involves developing the "f1-bishop".[4]
+John Nunn et al. regard the Colle as totally innocuous.[5]  While acknowledging the system's "innocuous" reputation and its "slow and solid" plan of development,[4] Benjamin and Schiller recommended the Colle as a "good"[6] example of an unorthodox opening, as opposed to a "bad"[7] or "ugly"[8] one.  Together with Benjamin and Schiller,[4] Hooper and Whyld also noted that the Colle is unfashionable in master play.[3]  Van der Sterren concurred with Benjamin and Schiller that the Colle is a fine opening "for those who want to keep the opening as simple as possible", and also echoed their remark that White's plan is to play e4 in the near future.[2]
+
+History[edit]
+Colle and Koltanowski each won several tournaments in the 1920s and 1930s.  Colle finished ahead of Tartakower, Euwe, and Rubinstein at various times.[9]  The opening had even been referred to as the "dreaded" Colle System.[10]  George Koltanowski, in his book The Colle System, said it offered "solid development", combinations, and a decent endgame, giving White "good chances of not losing against a stronger player".[11]  Players like Capablanca and Tal found ways to take the sting out of some of its various lines, however. One such line that has been tested is 3...Bf5, sometimes called the "Anti-Colle".[12] Magnus Carlsen lost the only game with the white pieces during his five world championship matches, when he played the Colle-Zukertort System in game 8 of the World Chess Championship 2016 against Sergey Karjakin. The Colle was seen once again in world championship play in 2023, when Ding Liren successfully employed the system against Ian Nepomniachtchi in winning game 12 of the World Chess Championship 2023.[13]
+
+Colle–Zukertort System[edit]
+
+abcdefgh8877665544332211abcdefghColle–Zukertort formation
+
+One variation of the Colle is the Colle–Zukertort System (named after Johannes Zukertort), characterised by developing the dark-squared bishop on b2. The typical plan is: 1.d4 d5 2.Nf3 e6 3.e3 Nf6 4.Bd3 c5 5.b3 Nc6 6.0-0 Bd6 7.Bb2 0-0, where White, despite their apparently innocuous development, will eventually play for a kingside attack. This system has been frequently employed at grandmaster level by Artur Yusupov.
+
+
+Games[edit]
+A famous Colle System win featuring a slightly unusual Greek gift sacrifice is Colle–O'Hanlon, 1930.[14] Analysts have debated the theoretical soundness of this sacrifice for many years. 
+
+1.d4 d5 2.Nf3 Nf6 3.e3 c5 4.c3 e6 5.Bd3 Bd6 6.Nbd2 Nbd7 7.0-0 0-0 8.Re1 Re8 9.e4 dxe4 10.Nxe4 Nxe4 11.Bxe4 cxd4 12.Bxh7+ Kxh7 13.Ng5+ Kg6 14.h4 Rh8 15.Rxe6+ Nf6 16.h5+ Kh6 17.Rxd6 Qa5 18.Nxf7+ Kh7 19.Ng5+ Kg8 20.Qb3+ 1–0 (Black resigns)
+Black has a variety of approaches to counter the Colle System. One of the most dynamic is to aim for a Queen's Indian Defense setup. White's pawn push to e4 slashes at empty space, while Black's pieces are poised to undermine White's centre and attack the queenside. The technique is well-illustrated in the 1929 game between Colle and José Capablanca:[15]
+
+1.d4 Nf6 2.Nf3 b6 3.e3 Bb7 4.Nbd2 e6 5.Bd3 c5 6.0-0 Nc6 7.c3 Be7 8.e4 cxd4 9.Nxd4 0-0 10.Qe2 Ne5 11.Bc2 Qc8 12.f4 Ba6 13.Qd1 Nc6 14.Rf3 g6 15.N2b3 Nxd4 16.Nxd4 Bb7 17.Qe2 Bc5 18.Rh3 Qc6 19.e5 Nd5 20.Qf2 Bxd4 21.cxd4 Rac8 22.Bd1 f6 23.Qh4 Rf7 24.Bf3 Qc4 25.Be3 Nxe3 26.Bxb7 Nf5 27.Qe1 Rc7 28.Be4 Qxd4+ 29.Kh1 fxe5 30.Bxf5 exf5 31.fxe5 Re7 32.Re3 Qxb2 33.e6 dxe6 34.Rxe6 Kf7 0–1 (White resigns)
+See also[edit]
+List of chess openings
+List of chess openings named after people
+Notes[edit]
+
+References[edit]
+
+
+^ 
+
+^ a b 
+
+^ a b 
+
+^ a b c 
+
+^ John Nunn, Graham Burgess, John Emms, and Joe Gallagher. Nunn's Chess Openings. Everyman Publishers, London, 1999.
+
+^ Benjamin and Schiller, p. 9.
+
+^ Benjamin and Schiller, p. 73.
+
+^ Benjamin and Schiller, p. 99.
+
+^ Rudel, David.  Koltanowski-Phoenix Attack.  Thinker Press. 2011. p. 84 ISBN 188871056X
+
+^ Reinfeld, Fred.  The Immortal Games of Capablanca.  Dover.  1970 p. 185 ISBN 0486263339
+
+^ Koltanowski, George. Colle System.  1980. Chess Enterprises, Inc.  ISBN 0-931462-05-3
+
+^ 
+
+^ 
+
+^ Colle vs. O'Hanlon
+
+^ Colle vs. Capablanca
+
+
+Bibliography
+
+
+
+
+Further reading[edit]
+
+
+
+
+Authority control databases: National 
+Germany
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Colle_System&oldid=1180936347"

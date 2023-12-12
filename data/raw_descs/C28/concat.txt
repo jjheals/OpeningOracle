@@ -1,0 +1,130 @@
+Chess openingBishop's Opening
+abcdefgh8877665544332211abcdefghMoves1.e4 e5 2.Bc4ECOC23–C24Named afterBishop in 2.Bc4ParentOpen Game
+The Bishop's Opening is a chess opening that begins with the moves:
+
+1. e4 e5
+2. Bc4
+White attacks Black's f7-square and prevents Black from advancing the d-pawn to d5. By ignoring the beginner's maxim "develop knights before bishops", White leaves their f-pawn unblocked, preserving the possibility of f2–f4.
+The f2–f4 push gives the Bishop's Opening an affinity with the King's Gambit and the Vienna Game, two openings that share this characteristic. The Bishop's Opening can transpose into either of these openings, and in particular a favorable variation of the King's Gambit, but with care Black can circumvent this. Transpositions into the Giuoco Piano and the Two Knights Defense and other openings are also possible. 
+The Encyclopaedia of Chess Openings assigns the Bishop's Opening the codes C23 and C24.
+
+
+History and use[edit]
+The Bishop's Opening is one of the oldest openings to be analyzed; it was studied by Lucena and Ruy Lopez.  Later it was played by Philidor.  Larsen was one of the few grandmasters to play it often, after first using it at the 1964 Interzonal tournament.  Although the Bishop's Opening is uncommon today, it has been used occasionally as a surprise by players such as Kasparov. Nunn uses it to avoid Petrov's Defence (1.e4 e5 2.Nf3 Nf6),[1] and Lékó played it in the 2007 World Championship against Kramnik, known to consistently play the Petrov.
+Weaver Adams in his classic work White to Play and Win claimed that the Bishop's Opening was a win for White by force from the second move.[2] He was unable to prove this by defeating players stronger than himself, however, and later abandoned the Bishop's Opening for the Vienna Game, making the same claim.[3] Grandmaster Nick de Firmian, in the 14th edition of Modern Chess Openings, concludes that the Bishop's Opening leads to equality with best play by both sides,[4] and notes that, "Among modern players only Bent Larsen has played it much, but even Kasparov gave it a whirl (winning against Bareev)."[5]
+
+Main variations[edit]
+Because White's second move makes no direct threat, Black has many possible second-move responses. As shown below, the Bishop's Opening offers opportunities to transpose to several other Open Games.
+
+Berlin Defense: 2...Nf6 [edit]
+Probably Black's most popular second move is 2...Nf6, forcing White to decide how to defend the e-pawn.
+
+
+
+
+
+
+abcdefgh8877665544332211abcdefgh3.d3
+
+
+
+
+abcdefgh8877665544332211abcdefghUrusov Gambit: 3.d4
+
+
+
+
+
+abcdefgh8877665544332211abcdefghBoden–Kieseritzky Gambit: 3.Nf3 Nxe4 4.Nc3
+
+After 3.d3 Black must be careful not to drift into an inferior variation of the King's Gambit Declined. One continuation that avoids this pitfall is 3...c6 4.Nf3 d5 5.Bb3 Bd6. 
+White sometimes chooses the Bishop's Opening move order to transpose into the Giuoco Piano while preventing Black from playing Petrov's Defense.  For example, 2...Nf6 3.d3 Nc6 4.Nf3 Bc5 reaches the quiet Giuoco Pianissimo.
+The Urusov Gambit is named after Russian Prince Sergey Semyonovich Urusov (1827–1897). After 2...Nf6 3.d4 exd4 (3...Nxe4 4.dxe5 gives White some advantage) 4.Nf3, Black can transpose to the Two Knights Defense with 4...Nc6, or can decline the gambit with 4...d5 5.exd5 Bb4+ 6.c3 (6.Kf1 is recommended by Michael Goeller, winning a pawn at the expense of castling rights) 6...Qe7+ 7.Be2 dxc3, when 8.bxc3 and 8.Nxc3 both offer approximately equal chances.  Instead, Black can accept the gambit with 4...Nxe4 5.Qxd4 Nf6 (5...Nd6? 6.0-0 gives White an overwhelming attack), and White will continue with Nc3, Bg5, Qh4, 0-0-0, and usually intends to meet ...0-0 and ...h6 with the piece sacrifice Bxh6, exposing the black king.  Black has a solid position with no clear weaknesses, but White has attacking chances and piece activity as compensation for the pawn. The Urusov Gambit is also occasionally reached via the Petrov Defence after 1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.Bc4.
+The Boden–Kieseritzky Gambit is named after English players and chess writers Samuel Boden and Lionel Kieseritzky.  Boden published the first analysis of it in 1851. Opening theoreticians consider that after 2...Nf6 3.Nf3 Nxe4 4.Nc3 Nxc3 5.dxc3 f6, White's attack is not quite worth a pawn. The game may continue 6.0-0 Nc6 (not 6...Be7? 7.Nxe5! with a tremendous attack, but 6...d6 is also playable) 7.Nh4 g6 8.f4 f5 9.Nf3 (9.Nxf5? d5!) e4 10.Ng5 (10.Ne5 Qe7! threatening Qc5+ is strong) Bc5+. In practice, Black's lack of development and inability to castle kingside can prove very problematic.
+Safer for Black are Paul Morphy's solid 5...c6 6.Nxe5 d5, returning the pawn with equality, and 4...Nc6!? (instead of 4...Nxc3) 5.0-0 (5.Nxe4 d5) Nxc3 6.dxc3 Qe7! when, according to Bobby Fischer in My 60 Memorable Games, "White has no compensation for the pawn."[6]
+Black can also decline the pawn with 3...Nc6, transposing into the Two Knights Defense. He must, however, be willing to offer a gambit himself after 4.Ng5. White may invite an offshoot of the Boden–Kieseritzky Gambit with 4.0-0 Nxe4 5.Nc3.
+Irregular move orders are 2.Nc3 (Vienna) Nf6 3.Bc4 Nxe4 4.Nf3 and 2.Nf3 Nf6 (Russian or Petrov Defence) 3.Bc4 Nxe4 4.Nc3.
+
+Summary after 2...Nf6[edit]
+
+abcdefgh8877665544332211abcdefghGreco Gambit: 3.f4
+
+3.Nc3 (Vienna Game, by transposition)
+3.d3
+3.d4 (Ponziani's Gambit)
+3...exd4 4.Qxd4 Nc6 (Center Game, by transposition)
+3...exd4 4.Nf3 (Urusov Gambit)
+4...Bc5 5.0-0 Nc6 (Max Lange Attack, by transposition)
+4...Nc6 (Two Knights Defense, by transposition)
+4...Nxe4 5.Qxd4 (Urusov Gambit Accepted)
+3.Nf3 (Petrov's Defense, by transposition)
+3...Nxe4 4.Nc3 (Boden–Kieseritzky Gambit)
+3.f4 (Greco Gambit)
+3...Nxe4 4.d3 Nd6 5.Bb3 Nc6 or 5...e4
+3...exf4 (King's Gambit, by transposition)
+Classical Defense: 2...Bc5 [edit]
+
+
+
+
+
+abcdefgh8877665544332211abcdefghWing Gambit: 3.b4
+
+
+
+
+abcdefgh8877665544332211abcdefghPhilidor Variation: 3.c3
+
+
+
+
+
+abcdefgh8877665544332211abcdefgh3.d3
+
+The Classical Defense (also known as the Boi Variation[7]) is Black's symmetrical response, 2...Bc5.
+White can then transpose into the Vienna Game (3.Nc3) or the Giuoco Piano (3.Nf3 Nc6), or remain in the Bishop's Opening with the Wing Gambit (3.b4) or the Philidor Variation (3.c3). The main line of the Philidor Variation runs: 3.c3 Nf6 4.d4 exd4 5.e5 d5! 6.exf6 dxc4 7.Qh5 0-0 8.Qxc5 Re8+ 9.Ne2 d3 10.Be3. Transpositions into the King's Gambit Declined and the Giuoco Piano are also possible after 3.d3.
+The Wing Gambit results in positions similar to those in the Evans Gambit. It can transpose into the Evans Gambit, for instance by 3.b4 Bxb4 4.c3 Ba5 5.Nf3 Nc6. It can also lead to the Four Pawns Gambit after 3... Bxb4 4. f4 exf4 5. Nf3 Be7 6. d4 Bh4+ 7. g3 fxg3 8. O-O gxh2+ 9. Kh1
+Black's most energetic response to the Philidor Variation is the Lewis Countergambit, 3.c3 d5, named for the English player and author William Lewis (1787–1870) who published analysis of the line in 1834. Note that 4.exd4 is a mistake because of 4... Bxf2 5. Kxf2 Qh5+ 6. g6 Qxc5.
+Among amateurs, 3.Qf3 and 3.Qh5 are also popular, threatening an immediate Scholar's mate. But the threat is easily met (e.g. 3.Qh5 Qe7) and the moves are considered inferior since they hamper White's development or leave the queen exposed, leading to loss of tempo. As a well known attack, these moves are mostly blocked by Black, who can smash the whole strategy in one move, like Qe7 or Nh6.
+
+Summary after 2...Bc5[edit]
+3.b4 (Wing Gambit)
+3.c3 (Philidor Variation)
+3...d5 (Lewis Countergambit)
+3...d6
+3...Nf6
+3.Nc3 (Vienna Game, by transposition)
+3.d3
+3.Nf3 Nc6 (Giuoco Piano, by transposition)
+3.Qg4
+Other Black responses[edit]
+
+abcdefgh8877665544332211abcdefghPhilidor Counterattack: 2...c6
+
+Other Black second moves are rarely played. If Black tries to transpose into the Hungarian Defense with 2...Be7?, then 3.Qh5 wins a pawn.
+The Calabrese Countergambit (2...f5?!) is named after Greco's homeland, Calabria. It is considered dubious, as the line recommended by Carl Jaenisch, 3.d3 Nf6 4.f4 d6 5.Nf3, gives White the advantage. Other analyses, however, have found that the sharp 3.f4! or safe 3.Nc3 are better for White than 3.d3.
+
+Summary of other Black responses[edit]
+2...c6 (Philidor Counterattack)
+2...Nc6
+2...d6
+2...f5?! (Calabrese Countergambit)
+3.d3 (Jaenisch Variation)
+References[edit]
+
+Bibliography[edit]
+Adams, Weaver W. (1939). White to Play and Win. ISBN 978-0-923891-83-1.
+
+
+External links[edit]
+
+Goeller, Michael. The Bishop's Opening.
+Harding, Tim (August 1998). The Kibitzer: What Exactly is the Bishop's Opening?. ChessCafe.com.
+Harding, Tim (September 1998). The Kibitzer: The Eternal Appeal Of The Urusov Gambit. ChessCafe.com.
+Harding, Tim (October 1998). The Kibitzer: Is the Urusov Gambit Sound?. ChessCafe.com
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Bishop%27s_Opening&oldid=1177758640"

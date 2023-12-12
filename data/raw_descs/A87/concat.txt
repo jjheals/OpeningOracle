@@ -1,0 +1,105 @@
+
+In the Leningrad variation of the Dutch, Black combines the ...f5 move with a fianchetto of the king's bishop. In this way, Black might be hoping to reach an 'ideal' King's Indian Defense, where the f5-pawn battles for control of the center.
+Pros:
+
+Sharp
+Unbalanced
+Very flexible, little theory
+
+Cons:
+
+The e6-square becomes weak after a later ...d6
+Black's castled position is less secure, with the f5-pawn advanced
+
+This article is about a chess opening. For the defense of the Netherlands in WWII, see Netherlands in World War II.
+Chess openingDutch Defence
+abcdefgh8877665544332211abcdefgh
+Moves1.d4 f5ECOA80–A99Named afterElias Stein, Nouvel essai sur le jeu des échecs, avec des réflexions militaires relatives à ce jeu, 1789ParentQueen's Pawn Game
+The Dutch Defence is a chess opening characterised by the moves:
+
+1. d4 f5
+Black's 1...f5 stakes a claim to the e4-square and envisions an attack in the middlegame on White's kingside; however, it also weakens Black's kingside to an extent (especially the e8–h5 diagonal).[1] Like its 1.e4 counterpart, the Sicilian Defence, the Dutch is an aggressive and unbalancing opening, resulting in the lowest percentage of draws among the most common replies to 1.d4.[2] Historically, White has tried many methods to exploit the kingside weaknesses, such as the Staunton Gambit (2.e4) and Korchnoi Attack (2.h3 and 3.g4).
+The Dutch has never been a main line against 1.d4 and is rarely seen today in high-level competition, although a number of top players, including Alexander Alekhine, Bent Larsen, Paul Morphy, Miguel Najdorf, and Hikaru Nakamura[3] have used it with success. Its most notable use may have been in 1951, when both world champion Mikhail Botvinnik and his challenger, David Bronstein, played it in their 1951 World Championship match.
+
+
+History[edit]
+Elias Stein (1748–1812), an Alsatian who settled in The Hague, recommended the defence as the best reply to 1.d4 in his 1789 book Nouvel essai sur le Jeu des échecs, avec des réflexions militaires relatives à ce jeu.[4]
+Siegbert Tarrasch rejected the opening as unsound in his 1931 work The Game of Chess, arguing that White should reply with the Staunton Gambit, with White being better after 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6 5.f3! exf3.[5]
+
+Theory[edit]
+White most often fianchettoes the king's bishop with g3 and Bg2. Black also sometimes fianchettoes the king's bishop with ...g6 and ...Bg7 (the Leningrad Dutch), but may instead develop the bishop to e7, d6 (after ...d5), or b4 (the latter is most often seen if White plays c4 before castling). Play often runs 2.g3 Nf6 3.Bg2 e6 4.Nf3 (4.Nh3!? is also possible, intending Nf4–d3 to control the e5-square  Black plays the Stonewall Variation) 4...Be7 5.0-0 0-0 6.c4 and now Black chooses between 6...d5 (the characteristic move of the Stonewall), 6...d6, the Ilyin-Zhenevsky Variation (less popular today), or Alekhine's move 6...Ne4!? retaining the option of moving the d-pawn either one or two squares.
+The opening's attacking potential is shown in the Polish Immortal, in which Miguel Najdorf, using the Stonewall Variation, sacrificed all of his minor pieces to win by checkmate.
+
+Practitioners[edit]
+The Stonewall Dutch enjoyed a resurgence of interest in the 1980s and 1990s, when leading grandmasters (GMs) Artur Yusupov, Sergey Dolmatov, Nigel Short and Simen Agdestein helped develop the system where Black plays an earlier ...d5 and places his dark-squared bishop on d6.[6] Termed the Modern Stonewall, this setup has remained more popular than the traditional early ...Be7.
+Magnus Carlsen has used the Stonewall to score wins against Viswanathan Anand[7] and Fabiano Caruana.[8]
+Simon Williams is one of the leading practitioners of the classical Dutch[citation needed] and wrote more than one book on the opening.[9]
+
+White continuations[edit]
+
+abcdefgh8877665544332211abcdefgh Position after 2.g3 Nf6 3.Bg2 g6 4.Nf3 Bg7 5.0-0 0-0 6.c4 d6
+
+The traditional move order involves White playing 2.c4. More commonly, White will start with 2.g3. Some common variations are: c4 is played after g3 and Bg2; c4 is played after Nf3; and c4 is played after 0-0.
+Examples:
+
+traditional: 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 0-0 6.0-0 d6
+common: 2.g3 Nf6 3.Bg2 g6 4.Nf3 Bg7 5.0-0 0-0 6.c4 d6 (see diagram)
+Other second moves[edit]
+White has various more aggressive alternatives to the standard moves, including 
+
+2.Nc3 Nf6 (or 2...d5) 3.Bg5, the Raphael Variation
+2.Bg5, the Hopton Attack; e.g. 2...Nf6 (2...g6 is the most popular move) 3. Bxf6 exf6 4. e3 or e4
+2.Bf4 or 2.Nf3 and 3.Bf4, the London System
+2.g4, Krejcik Gambit
+2.e4!?, the Staunton Gambit, named after Howard Staunton, who introduced it in his match against Bernhard Horwitz.[10][11] The Staunton Gambit was once a feared attacking line,[12] but it has been out of favour for over 80 years.[13] GM Larry Christiansen and International Master Jeremy Silman have opined that it "offers White equality at best."[14]
+Carl Mayet introduced a completely different gambit approach to the Dutch in 1839 against von der Lasa, playing 2.h3 followed by 3.g4.[15] Von der Lasa later published analysis of this line in the first edition of the Handbuch des Schachspiels.[16][17] Viktor Korchnoi, one of the world's leading players, reintroduced the line into tournament practice in Korchnoi–Känel, Biel 1979.[18] GM Christiansen later concluded, as von der Lasa and Staunton had done over 140 years earlier, that Black could get a good game by declining the gambit with 2...Nf6 3.g4 d5![19]
+2.Qd3, the Alapin Variation
+Black sometimes starts with the move order 1...e6 to avoid these lines, although Black must then be ready to play the French Defence if White continues 2.e4, rendering the Dutch no longer an option. The Staunton Gambit remains a good choice of opening for White in blitz tournaments where Black has little time to ponder the most accurate defense.
+
+ECO[edit]
+The Encyclopaedia of Chess Openings (ECO) has twenty codes for the Dutch Defence, A80 through A99.
+
+A80: 1.d4 f5
+A81: 1.d4 f5 2.g3 (Fianchetto Attack)
+A82: 1.d4 f5 2.e4 (Staunton Gambit)
+A83: 1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 (Staunton Gambit)
+A84: 1.d4 f5 2.c4
+A85: 1.d4 f5 2.c4 Nf6 3.Nc3 (Rubinstein Variation)
+A86: 1.d4 f5 2.c4 Nf6 3.g3 (Fianchetto Variation)
+A87: 1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 (Leningrad Dutch)
+A88: 1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 0-0 6.0-0 d6 7.Nc3 c6 (Leningrad Dutch, Warsaw Variation)
+A89: 1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 0-0 6.0-0 d6 7.Nc3 Nc6 (Leningrad Dutch, Matulovich)
+A90: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 (Classical Variation)
+A91: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7
+A92: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0
+A93: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0 6.0-0 d5 7.b3 (Botvinnik Variation)
+A94: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0 6.0-0 d5 7.b3 c6 8.Ba3 (Stonewall)
+A95: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0 6.0-0 d5 7.Nc3 c6 (Stonewall)
+A96: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0 6.0-0 d6
+A97: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0 6.0-0 d6 7.Nc3 Qe8 (Ilyin–Genevsky Variation)
+A98: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0 6.0-0 d6 7.Nc3 Qe8 8.Qc2 (Ilyin–Genevsky Variation)
+A99: 1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 0-0 6.0-0 d6 7.Nc3 Qe8 8.b3 (Ilyin–Genevsky Variation)
+See also[edit]
+Bird's Opening
+List of chess openings
+List of chess openings named after places
+References[edit]
+
+Further reading[edit]
+
+
+
+
+
+
+
+External links[edit]
+
+Learning the Dutch Defense
+Nouvel essai sur le jeu des échecs 1789 (Internet Archive)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Dutch_Defence&oldid=1174009461"
