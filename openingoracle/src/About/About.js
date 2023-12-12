@@ -5,7 +5,7 @@ function About() {
         <>
             <body>
                 <h2>About Our Project</h2>
-                <p className="center">We are a team of three students from Worcester Polytechnic Institute (WPI) in Massachusetts</p>
+                <p className="center">We are a team of three students from <a href="https://www.wpi.edu/">Worcester Polytechnic Institute (WPI)</a> in Massachusetts</p>
                 <p className="center">Our project, OpeningOracle, is the final project for CS 547: Information Retrieval under Prof. Kyumin Lee</p>
                 <br />
                 <p>
@@ -16,14 +16,16 @@ function About() {
                 </p>
 
                 <h2>Big Questions</h2>
+                <p className="center">Can an algorithm accurately recommend chess openings based on arbitrary text input?</p>
+                <p className="center">How can we assess accuracy of recommended openings?</p>
 
                 <h2>Key Takeaways</h2>
 
                 <h2>External Resources and Data Used</h2>
                 <p>Our <a className="link" href="https://github.com/jjheals/OpeningOracle/">Github</a> and <a className="link" href="https://github.com/jjheals/OpeningOracle/blob/main/README.md">README</a>, with instructions on running our code and installing dependencies.</p>
-                <p> We used <a className="link" href="https://www.wikipedia.org/">Wikipedia</a> to scrape descriptions of chess openings.</p>
+                <p>We used <a className="link" href="https://www.wikipedia.org/">Wikipedia</a> to scrape descriptions of chess openings.</p>
 
-                <p>We used <a className="link" href="https://www.chess.com/home">Chess.com</a> as a starting point to get opening ECO codes, names, and descriptions.</p>
+                <p>We scraped <a className="link" href="https://www.chess.com/home">Chess.com</a> as a starting point to get opening ECO codes, names, and descriptions.</p>
                 <p>We utilized a <a className="link" href="https://www.kaggle.com/datasets/datasnaek/chess">Lichess dataset from Kaggle</a> as one source of opening success rates, and to get the ECOs and names of openings that were not on Chess.com.</p>
                 <p>We also utilized a <a className="link" href="https://www.kaggle.com/datasets/arashnic/chess-opening-dataset">High Elo Chess Games Dataset from Kaggle</a> to get the color for each opening (i.e. which color plays, responds to, or initiates an opening), and as a second source of opening success rates.</p>
 
