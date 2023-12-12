@@ -2,6 +2,8 @@ from transformers import pipeline, AutoTokenizer, AutoModelForSeq2SeqLM
 from scraper.Paths import Paths
 from scraper.Scraper import Scraper
 from math import ceil, floor
+from os import listdir 
+import json 
 
 class OpeningGPT: 
     
@@ -11,7 +13,7 @@ class OpeningGPT:
                          preserve context better at the risk of creating infinite loops, while larger
                          values will be safer but may lose more context
     '''
-    INPUT_CUTOFF:int = 7
+    INPUT_CUTOFF:int = 10
     
     ''' CHUNK_OFFSET := the offset from the end of the chunk to prevent indexing errors. can be set lower 
                         (i.e greater abs value, closer to neg infinity) but cannot be set higher than -10
@@ -76,10 +78,15 @@ class OpeningGPT:
             
             max_sum_len (int) - optional - maximum length of the generated summary (as word count)
             
+            full_summary (bool) - optional - specify whether to generate the final summary; set to False 
+                                             if calling this function to precompute the summaries for an 
+                                             opening to store for later use, set to true if calling for 
+                                             testing or other purposes; default == True
+                                             
         --- RETURNS --- 
             (str) A summary of the input_str.
     ''' 
-    def generate_summary(self, input_str:str, min_sum_len:int=50, max_sum_len:int=200, print_debug=False) -> str:
+    def generate_summary(self, input_str:str, min_sum_len:int=50, max_sum_len:int=200, full_summary:bool=True, print_debug=False) -> str:
         
         input_str = OpeningGPT.clean_input_str(input_str)
         
@@ -89,25 +96,31 @@ class OpeningGPT:
         # While concat summary is too large, keep condensing the summaries and regenerating it
         c = 0
         while len(self.tokenize(concat_summary)) > OpeningGPT.CHUNK_SIZE: 
-            print(f"Iteration {c} | len of tokenized concat_summary = {len(self.tokenize(concat_summary))}")
-            concat_summary = self.__process_text__(concat_summary)
+            print(f"OpeningGPT: generate_summary - Iteration {c} | len of tokenized concat_summary = {len(self.tokenize(concat_summary))}")
+            concat_summary = self.__process_text__(concat_summary, print_debug=print_debug)
             c+=1
         
-        # Now that concat_summary is small enough to pass through the model, pass it through one more time 
-        # to generate a coherent output 
-        concat_summary = self.__process_text__(concat_summary, print_debug=True)
+        if full_summary: 
+            # Now that concat_summary is small enough to pass through the model, pass it through one more time 
+            # to generate a coherent output 
+            concat_summary = self.__process_text__(concat_summary, print_debug=print_debug)
         
         return concat_summary
             
         
     def __process_text__(self, input_str:str, max_len:int=300, min_len:int=150, print_debug:bool=False) -> str:
         
+        
+        num_input_chars:int = len(input_str)
         input_toks = self.tokenize(input_str)
+        num_input_toks:int = len(input_toks)
         tok_chars = sum([len(t) for t in input_toks])
 
-        print(f"len(test_input) = {len(input_str)}")
-        print(f"input_toks ({len(input_toks)}): \n{input_toks}")
-        print(f"tok_chars = {tok_chars}")
+        if print_debug: 
+            print("\n[+] OpeningGPT: Called __process_text__")
+            print(f"\tlen(test_input) = {len(input_str)}")
+            print(f"\tlen(input_toks) = {len(input_toks)}")
+            print(f"\tnum tok_chars = {tok_chars}")
 
         summaries:list[str] = []    # List of all sub summaries generated from the chunks of text
         toks_processed:int = 0      # Counter of the number of tokens from the input text that have been processed
@@ -116,7 +129,7 @@ class OpeningGPT:
         
         # Loop while we still have characters to process 
         while chars_processed < len(input_str):
-            if print_debug: print(f"\n[+] Iteration #{c}\n\tchars_processed = {chars_processed}\n\ttoks_processed = {toks_processed}")
+            if print_debug: print(f"\nOpeningGPT: __process_text__ - Iteration #{c}\n\tchars_processed = {chars_processed}/{num_input_chars}\n\ttoks_processed = {toks_processed}/{num_input_toks}")
             
             # Calculate how many characters we can take from the text (starting at input_str[chars_processed]) to get at most
             # [CHUNK_SIZE] tokens
@@ -131,26 +144,37 @@ class OpeningGPT:
             while chars_processed + num_chars < len(input_str) and input_str[chars_processed + num_chars] != ' ':
                 num_chars -= 1
             
+            # If num_chars is 0, then we've reached the end of the input, so we can break the loop
+            if num_chars == 0 or num_toks < OpeningGPT.INPUT_CUTOFF: break
+            
             # Get the chunk from the input string, from the range (chars_processed, chars_processed + num_chars] 
             chunk:str = input_str[chars_processed : chars_processed + num_chars]
             chunk_len:int = len(self.tokenize(chunk))
             # Generate the summary and append it to the list of summaries
-            summary = self.summarizer(
-                        chunk[:OpeningGPT.CHUNK_OFFSET], 
-                        max_length=max_len, 
-                        min_length=min_len, 
-                        length_penalty=OpeningGPT.LENGTH_PEN, 
-                        num_beams=OpeningGPT.NUM_BEAMS, 
-                        early_stopping=True
-                    )[0]['summary_text']
-            summaries.append(summary)
+            try: 
+                summary = self.summarizer(
+                            chunk[:OpeningGPT.CHUNK_OFFSET], 
+                            max_length=max_len, 
+                            min_length=min_len, 
+                            length_penalty=OpeningGPT.LENGTH_PEN, 
+                            num_beams=OpeningGPT.NUM_BEAMS, 
+                            early_stopping=True
+                        )[0]['summary_text']
+                summaries.append(summary)
+            except IndexError: 
+                if print_debug: print(f"OpeningGPT: __process_text__: Received an index error. Skipping this chunk.")
+                    
+                # Increment the variables before continuing to the next iteration 
+                chars_processed += num_chars
+                toks_processed += chunk_len
+                c += 1
+                continue
             
             if print_debug:
                 print(f"\tn = {n}")
                 print(f"\tnum_chars = {num_chars}")
                 print(f"\tlen(tokenized chunk) = {chunk_len} | {sum([len(t) for t in self.tokenize(chunk)])}")
-                print(f"\tCHUNK:\n\t{chunk}")
-                print(summary)
+                print(f"\tsummary: \"{summary}\"")
                 print(f"\tsummary len = {len(self.tokenize(summary))}")
             
             # Increment the variables before continuing to the next iteration 
@@ -163,10 +187,51 @@ class OpeningGPT:
             
         return " ".join(summaries)
     
+    def precompute_all_summaries(self, print_debug:bool=False, overwrite_existing:bool=False) -> None: 
+        summaries:dict[str,str] = {} 
+        
+        # Check if we're overwriting what already exists, and if we are NOT, then load what we have
+        if not overwrite_existing: summaries = json.load(open(Paths.SUMMARIES_JSON, "r"))
+
+        # Iterate through the Paths.RAW_DESCS directory and create a summary of the file "concat.txt" for each ECO
+        all_ecos:list[str] = listdir(Paths.RAW_DESC_BASE)
+        for e in all_ecos: 
+            
+            # Skip this eco if it exists in summaries already 
+            if e in summaries: 
+                if print_debug: print(f"OpeningGPT: precompute_all_summaries - Skipping ECO \"{e}\" because it's summary has already been computed.")
+                continue 
+
+            if print_debug: 
+                print(f"OpeningGPT: precompute_all_summaries - Generating summary for {e}...")
+                
+            with open(Paths.RAW_DESC_BASE + e + "/concat.txt", "r") as concat_file: 
+                this_desc:str = concat_file.read()
+                
+            # Generate a summary of the content in concat_file
+            summary:str = self.generate_summary(this_desc, full_summary=False, print_debug=print_debug)
+            
+            # Add this summary to the summaries dict for this ECO
+            summaries[e] = summary 
+
+            if print_debug: print(f"Summary for {e}: \n\"{summary}\"")
+            
+            # Dump the final summaries dict to the file at the end of each iteration so that we can 
+            # stop it in the middle if needed
+            with open(Paths.SUMMARIES_JSON, "w") as summaries_json: 
+                json.dump(summaries, summaries_json, indent=4) 
+            
+        if print_debug: 
+            print(f"OpeningGPT: precompute_all_summaries DONE. Dumping resuts to \"{Paths.SUMMARIES_JSON}\".")
+            
+        # Dump the final summaries dict to the file 
+        with open(Paths.SUMMARIES_JSON, "r") as summaries_json: 
+            json.dump(summaries, summaries_json, indent=4) 
+        
     ''' tokenize(input_str) - wrapper to use self.tokenizer to tokenize the string via the same method as the model ''' 
     def tokenize(self, input_str) -> list[str]: 
         return self.tokenizer.tokenize(input_str)
-        
+    
     ''' clean_input_str(input_str) - clean an input string to process by the model
     
         --- DESCRIPTION --- 

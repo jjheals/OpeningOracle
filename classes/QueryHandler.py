@@ -9,8 +9,13 @@ import json
 
 class QueryHandler: 
     
+    # STATIC Attributes
+    NUM_RETURN:int = 5      # The number of matches to return (i.e. return the top NUM_RETURN matches)
+    
+    # DYNAMIC Attributes
     opening_lda:OpeningLDA
     hyperparams:dict = json.load(open(Paths.HYPERPARAMS_JSON, 'r'))
+    all_ecos:list[str] 
     
     ''' __init__(load_from_file) - constructor
 
@@ -19,7 +24,9 @@ class QueryHandler:
                                    then this attribute must be explicitly set after initialization.
     '''
     def __init__(self, load_from_file:str=""):
-         if load_from_file: self.opening_lda = OpeningLDA.load(load_from_file)
+         if load_from_file: 
+             self.opening_lda = OpeningLDA.load(load_from_file)
+             all_ecos = list(self.opening_lda.texts.keys())
          else: self.opening_lda = None
         
     ''' handle_user_query(query) - handles a query by a user 
@@ -68,13 +75,74 @@ class QueryHandler:
         # Check and make sure self.opening_lda has been loaded or set 
         if self.opening_lda == None: raise AttributeError("Error in QueryHandler.handle_user_query(): OpeningLDA attribute has not been set.")
         
+        # Load hyperparameters
+        index_weight:float = self.hyperparams['weights']['index']
+        cos_weight:float = self.hyperparams['weights']['cosine']
+        success_weight:float = self.hyperparams['weights']['success']
+        
+        # Create a dictionary for the success rates of each opening for the query_color for quicker lookups
+        success_rates:dict[str,float] = {eco:d['success-rate'][query_color] for eco,d in self.opening_lda.openings.items() if d['success-rate']}
+        
+        # Get the parts of the user's query
         query_text:str = query['message']   # User's given description of their playstyle
         query_color:str = query['color']    # Color indicated by user 
         
         # Tokenize the query 
         query_tokens:list[str] = Scraper.tokenize(query_text)
+                
+        # Step 1: index matches 
+        rel_index_matches:dict[str,float] = self.__find_index_matches__(query_tokens, debug=debug) 
         
-        # STEP 1: search the index for matches
+        # Step 2: LDA & cosine similarities 
+        cosine_sims:dict[str,float] = self.__lda_cosine_sims__(query_tokens, debug=debug)
+
+        # STEP 3: apply weights for each factor to determine the final ranking 
+        #         NOTE: use hyperparameters to calculate the relative weights for index matches, cosine 
+        #               similarities, and success rate
+        sorted_final_rankings:dict[str,float] = self.__calc_final_ranks__(rel_index_matches, 
+                                                                          cosine_sims, 
+                                                                          success_rates, 
+                                                                          index_weight, 
+                                                                          cos_weight, 
+                                                                          success_weight, 
+                                                                          debug=debug)
+        
+        # Use these final rankings to determine which openings to run through the GPT model 
+        # i.e. get the top NUM_RETURN eco codes
+        top_matches:list[str] = list(sorted_final_rankings.keys())[:QueryHandler.NUM_RETURN]
+            
+        # Run these top matches through the GPT model and generate responses for each
+        
+        
+        
+    ''' __find_index_matches__(tokens) - first step in handling a user's query. 
+    
+        --- DESCRIPTION --- 
+            Take as input a list of tokens and search the index (contained in self.opening_lda) for matches. Convert
+            the matches to relative term frequencies (i.e. term freq per document) and sort the results.
+        
+        --- PARAMETERS --- 
+
+            tokens (list[str]) - list of tokens to search the index; important that the query is tokenized using the 
+                                 same tokenization function as used to create the index (i.e. Scraper.tokenize()). 
+        
+            debug (bool) - optional - specify whether to print debug statements. default == False
+            
+        --- RETURNS --- 
+            (dict[str,float]) A dictionary containing the ECO code and its match as a dict sorted on the values (sorted on
+                              the ranks, not ECO)
+            
+            Return format example: 
+            
+                {
+                    "B03" : 0.5,
+                    "A00" : 0.4, 
+                    "D45" : 0.3, 
+                    ... 
+                }
+    '''
+    def __find_index_matches__(self, tokens:list[str], debug:bool=False) -> dict[str,float]:
+        
         index_matches:list[dict[str,int]] = [self.opening_lda.index[tok] for tok in query_tokens if tok in self.opening_lda.index]
         
         # Convert index_matches to a single dict containing the matches for each opening as a single key:val pair with the relative 
@@ -101,16 +169,45 @@ class QueryHandler:
         if debug: 
             print("\nRelative index matches:")
             for k,v in rel_index_matches.items(): print(f"{k} : {v}")
+            
+        return rel_index_matches
+    
+    ''' __lda_cosine_sims__(tokens) - perform LDA on the tokens and then cosine simiarity using the documents 
+
+        --- DESCRIPTION --- 
+            Takes as input a list of tokens, presumably generated via the user's query, and then runs these tokens
+            through the LDA model in self.opening_lda. After vectorizing the tokens (i.e. LDA), performs cosine 
+            similarity on the resulting vector and the precomputed topic vectors for each document (opening). 
         
-        # STEP 2: perform LDA on the user's query 
+        --- PARAMETERS --- 
+        
+            tokens (list[str]) - list of tokens to vectorize; important that the query is tokenized using the 
+                                 same tokenization function as used to create the index (i.e. Scraper.tokenize()). 
+            
+            debug (bool) - optional - specify whether to print debug statements. default == False
+            
+        --- RETURNS --- 
+            (dict[str,float]) A dictionary containing the ECO code and its match as a dict sorted on the values (sorted on
+                              the ranks, not ECO)
+            
+            Return format example: 
+            
+                {
+                    "B03" : 0.5,
+                    "A00" : 0.4, 
+                    "D45" : 0.3, 
+                    ... 
+                }
+    '''
+    def __lda_cosine_sims__(self, tokens:list[str], debug:bool=False) -> dict[str,float]: 
         lda_matched_topics = self.opening_lda.process_new_text(query_tokens)
 
         # Perform cosine similarity on the resulting vector (lda_matched_topics) and save in a dictionary 
         # with key:val => eco:cosine_sim(lda_matched_topics, eco_topic_matched_vector)
         cosine_sims:dict[str, float] = {}
-        all_ecos = list(self.opening_lda.texts.keys())
         
-        for eco,doc_vector in zip(all_ecos,self.opening_lda.topic_doc_matrix): 
+        
+        for eco,doc_vector in zip(self.all_ecos, self.opening_lda.topic_doc_matrix): 
             cosine_sims[eco] = cosine_similarity(
                                     np.array(lda_matched_topics).reshape(1,-1),
                                     np.array(doc_vector).reshape(1,-1)
@@ -119,21 +216,51 @@ class QueryHandler:
         if debug: 
             print("\nCosine similarities:")
             for k,v in cosine_sims.items(): print(f"{k} : {v}")
+            
+        return cosine_sims
+    
+    ''' __calc_final_ranks__(rel_index_matches, cosine_sims, success_rates, index_weight, cos_weight, success_weight) 
+    
+        --- DESCRIPTION --- 
+            Calculates the final rankings for the ECOs based on the given sub results (index matches, cosine sims, and success rates) 
+            and taking into account the given weight of each factor. 
+            
+        --- PARAMETERS --- 
         
-        # STEP 3: apply weights for each factor to determine the final ranking 
-        #         NOTE: use hyperparameters to calculate the relative weights for index matches, cosine 
-        #               similarities, and success rate
-        
-        # Create a dictionary for the success rates of each opening for the query_color for quicker lookups
-        success_rates:dict[str,float] = {eco:d['success-rate'][query_color] for eco,d in self.opening_lda.openings.items() if d['success-rate']}
+            Factors/sub results: 
+                
+                rel_index_matches (dict[str,float]) - dictionary of key : val -> eco : index_match_percent
+                cosine_sums (dict[str,float]) - dictionary of key : val -> eco : cosine_sim
+                success_rates (dict[str,float]) - dictionary of key : val -> eco : success_rate_for_color
+                
+            Hyperparameters: 
+
+                index_weight (float) - the weight of the index matches on the final ranks
+                cos_weight (float) - the weight of LDA & cosine similarity of an ECO to the query
+                success_weight (float) - the weight of the success rate for a given ECO
+            
+            debug (bool) - optional - specify whether to print debug information
+            
+        --- RETURNS --- 
+            (dict[str,float]) A sorted dictionary of key : val -> ECO : percent_matched_to_query (sorted on the val, descending)
+            
+            Return format example: 
+            
+                {
+                    "B03" : 0.5,
+                    "A00" : 0.4, 
+                    "D45" : 0.3, 
+                    ... 
+                }
+    '''
+    def __calc_final_ranks__(self, 
+                             rel_index_matches:dict[str,float], cosine_sims:dict[str,float], success_rates:dict[str,float], 
+                             index_weight:float, cos_weight:float, success_weight:float, debug:bool=False
+                        ) -> dict[str,float]: 
         
         # Apply the weights (hyperparams) to each factor to determine the final rankings 
-        index_weight:float = self.hyperparams['weights']['index']
-        cos_weight:float = self.hyperparams['weights']['cosine']
-        success_weight:float = self.hyperparams['weights']['success']
-        
         final_rankings:dict[str, float] = {}
-        for eco in all_ecos:
+        for eco in self.all_ecos:
             try:
                 avg:float = index_weight*rel_index_matches[eco] + cos_weight*cosine_sims[eco] + success_weight*success_rates[eco] 
                 if debug: 
@@ -144,13 +271,12 @@ class QueryHandler:
                     print(f"\tWeighted avg = {avg}")
                 final_rankings[eco] = avg
             except KeyError: continue
-                
+        
+        # Sort the resulting dictionary
         sorted_final_rankings:dict[str, float] = dict(sorted(final_rankings.items(), key=lambda item: item[1], reverse=True))
         
         if(debug): 
             print("\nFinal rankings:")
             for k,v in sorted_final_rankings.items(): print(f"{k} : {v}")
-            
         
-        
-    
+        return sorted_final_rankings

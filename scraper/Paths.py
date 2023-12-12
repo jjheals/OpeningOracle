@@ -7,6 +7,7 @@ class Paths:
     OPENINGS_JSON = 'data/jsons/openings.json'
     INDEX_JSON = 'data/jsons/index.json'
     NUM_TERMS_JSON = 'data/jsons/num_terms.json'
+    SUMMARIES_JSON = 'data/jsons/precomputed_summaries.json'
     
     # Raw descriptions
     RAW_DESC_BASE = 'data/raw_descs/'
@@ -16,3 +17,4 @@ class Paths:
     
     # Hyperparemeters config
     HYPERPARAMS_JSON = 'data_analysis/hyperparams.json'
+    
