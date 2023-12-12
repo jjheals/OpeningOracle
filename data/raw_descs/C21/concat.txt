@@ -1,0 +1,103 @@
+
+The Danish Gambit is an aggressive 1.e4 e5 opening for White. This opening is well-suited for aggressive players who don't mind sacrificing pawns for the initiative. Although it is rare in master-level play, the Danish Gambit can be a fun and playable opening for club-level players.
+
+Starting Position
+
+Pros
+Cons
+
+
+Main Variations Of The Danish Gambit
+
+Danish Gambit Accepted With 4.Bc4
+Danish Gambit Accepted With 4.Nxc3
+Danish Gambit Declined, Sorensen Defense
+
+
+History Of The Danish Gambit
+
+
+Starting Position
+The Danish Gambit starts with the moves 1.e4 e5 2.d4 exd4 3.c3. White attacks Black's only central pawn and offers a pawn sacrifice for quick development. 
+
+The starting position of the Danish Gambit.
+
+White's third move aims to develop their pieces quickly, while Black moves their pawn repeatedly. If Black is careless, White can also recapture the black d4-pawn and build a strong center.
+Pros
+
+It's a good opening for aggressive players.
+It can catch the unprepared opponent off guard.
+It can lead to quick wins.
+
+Cons
+
+Black can easily equalize if they know some theory.
+White must be comfortable playing with a pawn down or with an isolated pawn.
+
+Main Variations Of The Danish Gambit
+There are three main variations of the Danish Gambit. Black either accepts or declines the pawn sacrifice. If Black accepts the gambit, White can choose one of two main variations.
+Danish Gambit Accepted With 4.Bc4
+The most popular variation in case Black accepts the gambit is 1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4. White offers yet another pawn to develop even quicker, putting pressure on Black's f7-pawn.
+
+If Black takes the b2-pawn, White develops their other bishop with 4.Bxb2, putting even more pressure on Black's kingside.
+Danish Gambit Accepted With 4.Nxc3
+White can also play the Danish Gambit Accepted by recapturing the pawn on c3 with 1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Nxc3. This move recaptures the pawn and develops the queenside knight to a natural square, from where it attacks the center. 
+
+Although slightly more conservative than the line with 3.Bc4, this line is also dangerous for Black if they don't know what to do. White is a pawn down but has a lead in development. White also enjoys open lines for all their minor pieces, while Black is severely underdeveloped. 
+Danish Gambit Declined, Sorensen Defense
+Black can also refuse the pawn sacrifice and play a safer game with the moves 1.e4 e5 2.d4 exd4 3.c3 d5. With this move, Black ignores the hanging pawn to open lines for their own pieces. The black pawn on d5 also attacks White's undefended pawn on e4.
+
+The game usually continues with White capturing the d5-pawn. From there, point Black can recapture with 4...Qxd5, since White can't gain a tempo developing their knight to c3, or develop their knight with 4...Nf6.
+
+History Of The Danish Gambit
+The Danish Gambit was first analyzed by a Danish player called Blankensteiner in 1830. Later, another Dane player further popularized the opening by employing it in the international tournament of Paris in 1867.
+Later, players like Alexander Alekhine, Joseph Henry Blackburne, and Frank Marshall used the opening. However, the gambit fell in popularity around the 1920s, when more players learned how to defend with Black. 
+Nowadays, the opening is rare among the chess elite. Yet, you can still see aggressive players employing the Danish Gambit at lower levels.
+Not to be confused with Double Wing Attack.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Center Game" – news · newspapers · books · scholar · JSTOR (November 2009) (Learn how and when to remove this template message)
+Chess openingCenter Game
+abcdefgh8877665544332211abcdefghMoves1.e4 e5 2.d4 exd4ECOC21–C22ParentOpen Game
+The Center Game is a chess opening that begins with the moves:
+
+1. e4 e5
+2. d4 exd4
+The game usually continues 3.Qxd4 Nc6, developing with a gain of tempo for Black due to the attack on the white queen. (Note that 3.c3 is considered a separate opening: the Danish Gambit.)
+
+
+General concepts[edit]
+
+abcdefgh8877665544332211abcdefgh Typical position (Paulsen's Attack variation) with White castled long and Qg3
+
+White's 2nd move challenges the center by attacking the e-pawn and also opening up the d-file for the rook and queen to attack, but at the cost of moving the queen early and allowing Black to develop with a tempo with 3...Nc6. In White's favor, after 4.Qe3, the most commonly played retreat, the position of the white queen hinders Black's ability to play ...d5. The back rank is cleared of pieces quickly which facilitates queenside castling and may allow White to quickly develop an attack. From e3, the white queen may later move to g3 where she will pressure Black's g7-square.
+
+History[edit]
+The Center Game is an old opening. It was mostly abandoned by 1900 because no advantage could be demonstrated for White. Jacques Mieses, Savielly Tartakower and Rudolf Spielmann seemed to be the last strong players who would adopt it. The Center Game was rarely played by elite players until Alexander Shabalov revived it in the 1980s. Later, Alexei Shirov, Michael Adams, Judit Polgár and Alexander Morozevich also contributed to the theory of the Center Game by forcing re-evaluation of lines long thought to favor Black. In recent years, Ian Nepomniachtchi has also experimented with the opening.
+
+Variations[edit]
+3.Qxd4 Nc6[edit]
+The nearly universal sequence of moves in the Center Game is 3.Qxd4 Nc6 (ECO code C22). Now White has a choice of retreat squares for the queen. Although 4.Qa4 corresponds to a fairly commonly played variation of the Scandinavian Defense (1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5) reversed, it is rarely played in the Center Game because tournament experience has not been favorable for White in this line.
+The best move for the queen seems to be 4.Qe3, known as Paulsen's Attack. White intends to castle queenside in this line. Black usually continues 4...Nf6 when a typical line continues 5.Nc3 Bb4 6.Bd2 0-0 7.0-0-0 Re8. White may try to complicate play by means of the pawn sacrifice 8.Qg3!? intending 8...Rxe4 9.a3! – Shabalov's move. Black's best reply seems to be the quiet 9...Ba5. Even though this line gives White some compensation for the pawn, it is probably fine for Black.[1]
+A more solid option for Black is the natural 5...Be7! intending ...d7–d5 (sometimes even after White plays 6.Bc4), opening up lines as soon as possible. Black also seems to get a good game with 4...g6, and 4...Bb4+ has been played successfully as well.
+
+3.c3[edit]
+Main article: Danish Gambit
+3.Nf3 or 3.Bc4[edit]
+Postponing recapture of the queen pawn is a standard idea in the Scandinavian Defense (1.e4 d5 2.exd5 Nf6), but 3.Nf3 is less commonly played in the Center Game. Black can safely transpose to the Scotch Game, Petrov's Defense or the Philidor Defense, or play a line recommended by Alexander Alekhine, 3...Bc5 4.Nxd4 Nf6 and now 5.e5 would be met with 5...Qe7. Similar ideas are possible after 3.Bc4, which is also uncommon. 3.Bc4 is referred to in older chess works as the Center Gambit.[2]
+
+3.f4?! (Halasz Gambit)[edit]
+The Halasz Gambit (3.f4?!) is another rare try. Although the move dates back to at least 1840, it has been championed more recently by the Hungarian correspondence player Dr. György Halasz. The gambit seems dubious but it has not been definitively refuted.[3]
+
+References[edit]
+
+Further reading[edit]
+
+External links[edit]
+
+Tim Harding on the Halasz Gambit
+Tim Harding on the Center Game
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Center_Game&oldid=1146332684"

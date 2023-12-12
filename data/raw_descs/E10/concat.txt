@@ -1,0 +1,42 @@
+Chess openingBlumenfeld Countergambit
+abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nf3 b5ECOE10Named afterBenjamin BlumenfeldParentBenoni Defense
+The Blumenfeld Countergambit is a chess opening characterised by the moves 3...e6 4.Nf3 b5 in the Benoni Defense arising after:
+
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nf3 b5
+or alternatively:
+
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 b5
+In fact, as many as 30 different move orders are possible.[1] The Encyclopaedia of Chess Openings sorts the Blumenfeld Countergambit under code E10 (1.d4 Nf6 2.c4 e6 3.Nf3).
+
+
+General considerations[edit]
+Black sacrifices a wing pawn to establish an imposing centre with pawns on c5, d5 and e6. The natural development of the bishops to b7 and d6, combined with the half-open f-file for a rook, tend to facilitate Black's play on the kingside. White, on the other hand, will typically look to counter in the centre by playing e4 at some point, while their additional queenside pawn also offers them some initiative on that side of the board.
+
+Origin[edit]
+The opening is named after the Russian master Benjamin Blumenfeld, and was later played by World Champion Alexander Alekhine.
+The opening position can also be reached via the Benko Gambit (1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 e6). Possible continuations are 5.dxe6 (Kan–Goldenov, 1946), 5.Bg5 (Vaganian–K. Grigorian, 1971), 5.e4, or 5.a4 (Rubinstein–Spielmann, 1922),[2] with 5.Bg5 being most frequently seen when this gambit is employed.
+
+See also[edit]
+List of chess openings
+List of chess openings named after people
+References[edit]
+
+Further reading[edit]
+
+
+
+
+Authority control databases: National 
+Germany
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Blumenfeld_Countergambit&oldid=1034024047"

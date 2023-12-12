@@ -1,0 +1,153 @@
+
+The Benko Gambit, named for GM Pal Benko, is a popular opening. However, it is a bit unusual as gambits go. Black, not White, gives up a pawn for long-term positional compensation. Someone who plays the Benko is not looking for a quick, sharp, tactical knockout, but instead is trying to wear down their opponent.
+
+Starting Position
+
+Pros
+Cons
+
+
+Variations
+
+Fully-Accepted: 7.e4
+Fully-Accepted: 7.g3
+Fully-Accepted: 7.Nf3
+Half-Accepted
+Declined
+
+
+How To Play Against The Benko Gambit
+
+Declined: Main Line
+Fully Accepted: Fianchetto Attack
+
+
+History of the Benko Gambit
+Famous Games
+Conclusion
+
+Starting Position
+The Benko Gambit is a surprisingly common way for Black to play against 1.d4, and it arises via the mover order 1.d4 Nf6 2.c4 c5 3.d5 b5. The move 2...c5 is Black's third most popular in the position and 3.d5 is overwhelmingly White's main response. From there, the Benko move 3...b5 is Black's most popular choice.
+
+Black's goal with this opening is to convert easy development into queenside pressure. The ideal development for Black looks like this (with the light-squared bishop sometimes traded off depending on how White plays):
+
+Black's ideal development in the Benko.
+
+Pros
+
+The gambit is considered sound
+Suits many playing styles
+Development is straightforward
+
+Cons
+
+White can decline the gambit in various ways
+There are many different responses for White
+Sometimes White can give back the pawn to gain the initiative
+
+Variations
+When White fully accepts the Benko Gambit, the position almost always looks like this by move six:
+
+At this point there is some room for White to vary, and it largely depends on the question of developing the bishop on f1. White can also decline the gambit in the first place, which will be discussed below as well. Black's goal is always the same: quick development and queenside pressure.
+Fully Accepted: 7.e4
+This move allows Black to play 7...Bxf1 and White loses the right to castle. However, White will generally "castle by hand" by playing g3 and Kg2 at some point.
+
+
+Fully Accepted: 7.g3
+White plays this move to develop the bishop while maintaining castling rights, and also leaving Black's light-squared bishop blocking the rook's view of the a-file. Statistically, this is White's best move, but not enough to replace 7.e4 as the main move. 
+Fully Accepted: 7.Nf3
+White can also delay the decision to be made about the bishop by developing the knight to its best square. It will still be incumbent on White to develop the f1 bishop soon, of course.
+
+Half-Accepted
+The standard way to decline the gambit is to capture on b5 but not on a6, generally by playing 5.b6 instead of 5.bxa6. Instead of giving Black two open files on the kingside, White allows just one, hoping to reduce the pressure.
+
+White has already half-accepted the Benko Gambit here. Now comes the decision whether to fully accept it.
+
+Declined
+Sometimes White doesn't even take on b5. There are many ways to do so, with fun names like the Sosonko or the Pseudo-Samisch, but 4.Nf3 is the main line. As with the Half-Accepted, White is avoiding giving Black too much on the queenside.
+How to Play Against the Benko Gambit
+Declined: Main Line
+Declining the Benko entirely with 4.Nf3 is one of White's top-scoring options: winning 47% of the time against just 28% losses, with the last 26% drawn.
+
+Fully-Accepted: Fianchetto Attack
+Out of 7.e4, 7.Nf3, and 7.g3 in the fully accepted line, White has the most success with the fianchetto (7.g3). For example after 1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 g6 7.Nf3 d6 8.g3 Bg7 9.Bg2 White wins 47% of games vs. 25% for Black with 28% drawn.
+The fact that White has no surefire refutations of the Benko that can score 50% or better is one reason it's so popular for Black.
+History
+Pal Benko popularized the opening, but it actually appeared as early as 1936, although that's actually somewhat late for most openings. Benko played it 22 times in serious competition, scoring +11 -3 =8, an incredible 68.2% winning percentage for Black. The Soviet then American GM Lev Alburt was also a longtime practitioner of the Benko.
+
+GM Pal Benko, popularizer of his eponymous gambit, in 1964. Photo: F.N. Broers/Dutch National Archives, CC.
+
+World champion-level players have tended to prefer other responses to 1.d4, but they'll play the Benko sometimes. GM Tigran Petrosian won a game with it at the 1955 Interzonal, GM Bobby Fischer played it twice in his 1992 rematch with GM Boris Spassky, and GM Magnus Carlsen has had Black in the opening 12 times, often in rapid and blitz. Every classical world champion from GM Garry Kasparov to Carlsen has played it at least once in a serious game (exactly once in the case of GM Vladimir Kramnik).
+Famous Games
+In 1997, future FIDE world champion GM Alexander Khalifman won with a queen sacrifice out of a lesser-known line in the Benko.
+
+In the 1982 Interzonal in Moscow, GM Alexander Beliavsky showed a more thematic way to play the Benko.
+
+
+Conclusion
+The Benko Gambit is a great opening for players of any style to win with Black against 1.d4. Explore our Master Games database for more ideas in the opening!
+Chess openingBenko Gambit
+abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.c4 c5 3.d5 b5ECOA57–A59Named afterPal Benko Volga RiverParentBenoni DefenceSynonym(s)Volga Gambit Volga-Benko Gambit
+The Benko Gambit (or Volga Gambit) is a chess opening characterised by the move 3...b5 in the Benoni Defence arising after:
+
+1. d4 Nf6
+2. c4 c5
+3. d5 b5
+Black sacrifices a pawn for enduring queenside pressure. White can accept or decline the gambit pawn. 
+The Encyclopaedia of Chess Openings has three codes for the Benko Gambit:[1]
+
+A57 3...b5
+A58 3...b5 4.cxb5 a6 5.bxa6
+A59 3...b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4
+
+Origin and predecessors[edit]
+The idea of sacrificing a pawn with ...b5 and ...a6 is quite old. Karel Opočenský applied the idea against, among others, Gideon Ståhlberg at Poděbrady 1936,[2] Paul Keres at Pärnu 1937,[3] Erich Eliskases at Prague 1937, and Theo van Scheltinga at the Buenos Aires Chess Olympiad 1939.[4] Later, the game Mark Taimanov–David Bronstein at the Candidates Tournament, Zürich 1953, drew attention.[5] Most of these games began as a King's Indian, with Black only later playing ...c5 and ...b5. Possibly the first game using the now-standard move order 1.d4 Nf6 2.c4 c5 3.d5 b5 was Thorvaldsson–Vaitonis, Munich Olympiad 1936.[6]
+In many countries, particularly in Eastern Europe, the opening is known as the Volga Gambit (Russian: Волжский гамбит). This name is derived from the Volga River after an article about 3...b5!? by B. Argunow written in Kuibyshev (Samara since 1991), Russia, that was published in the second 1946 issue of the magazine Shakhmaty v SSSR.
+Beginning in the late 1960s, this opening idea was also promoted by Hungarian-American grandmaster Pal Benko, who provided many new suggestions and published his book The Benko Gambit in 1974. The name Benko Gambit stuck and is particularly used in English-speaking countries.
+In his 1974 book, Benko drew a distinction between the Benko Gambit and the Volga Gambit: "Volga Gambit" referred to the move 3...b5 (sometimes followed by an early ...e6), while the "Benko Gambit" consisted of the moves 3...b5 4.cxb5 a6, now considered the main line.[7]  Today the names are synonymous and are used interchangeably or combined as "Volga-Benko Gambit".[8]
+
+Benko Gambit Accepted[edit]
+The main line continues 4.cxb5 a6 5.bxa6 Bxa6 followed by Black fianchettoing the f8-bishop. (Black players leery of the double-fianchetto system, where White plays g3 and b3 and fianchettos both bishops, have preferred 5...g6 intending 6.b3 Bg7 7.Bb2 Nxa6! The point is that it is awkward for White to meet the threat of ...Nb4, hitting d5 and a2, when Nc3 may often be met by ...Nfxd5 because of the latent pin down the long diagonal. Another idea is 5...e6!?; after 6.Nc3 exd5 7.Nxd5 Be7 8.Nxe7 Qxe7 9.e3 0-0 10.Nf3 the move 10...Rxa6 is a strong exchange sacrifice giving Black enough compensation.) Black's compensation for the pawn takes several forms. First, White, who is already behind in development, must solve the problem of developing the f1-bishop. After 6.Nc3 d6, if White plays 7.e4, then Black will respond 7...Bxf1, and after recapturing with the king, White must spend time castling artificially with g3 and Kg2, as in the line 7...Bxf1 8.Kxf1 g6 9.g3 Bg7 10.Kg2. If White avoids this by fianchettoing the bishop, it will be in a rather passive position, being blocked by White's own pawn on d5.
+Apart from this, Black also obtains fast development, good control of the a1–h8 diagonal, and can exert pressure down the half-open a- and b-files whereby White's a- and b-pawns can become vulnerable. These benefits can last well into the endgame and so, unusually for a gambit, Black does not generally mind if queens are exchanged; indeed, exchanging queens can often remove the sting from a kingside attack by White. Also in the endgame, the black king can become active and reach the centre via the h8–a1 diagonal.
+
+Benko Gambit Declined[edit]
+There are various alternatives that avoid some of the problems entailed in the main line. The simplest is to just decline the gambit with 4.Nf3. Other possible moves are 4.Nd2, 4.a4, 4.e3, and 4.Qc2. Another option, popular at the grandmaster level as of 2004 and considered safer for Black, is to accept the pawn with 4.cxb5 but then immediately return it with 4...a6 5.b6.
+
+Sosonko Variation[edit]
+After 4.a4, the Sosonko Variation, Black has three sound replies. The most popular line is 4...bxc4, the Sosonko Accepted, which often leads to sharp and sacrificial lines for both sides. Such lines include the Poisoned Knight Variation where after 5.Nc3 e6 6.e4 exd5 and 7.e5, Black sacrifices a knight for a large central pawn majority and excellent spatial advantage with good attacking chances; and the River Styx Attack, which continues 5.Nc3 Ba6 6.e4 d6 7.f4 g6 8.e5. This leads to a sharp and complicated pawn sacrifice by White, where White often delays or even prevents Black from castling, and has a solid grip over the kingside with the e6-pawn and Nf7 outpost combination. This line is named after the Greek mythological river that interconnects the Earth and the Underworld. These lines are diverse and complicated and are not well explored.
+Other less common lines include 4...b4, the Advance Variation, leading to positional games with pseudo-Benoni structures; and the rare 4...Qa5+ which often transposes into an altered Advance Variation with White playing 5.Bd2 and Black responding 5...b4.
+
+Use[edit]
+The gambit's most notable practitioner was its eponym, Pal Benko. Many of the world's strongest players have used it at one time or another, including former world champions Viswanathan Anand, Garry Kasparov, Veselin Topalov, and Mikhail Tal; and grandmasters Vassily Ivanchuk, Michael Adams, Alexei Shirov, Boris Gelfand, and Evgeny Bareev. It is a popular opening at amateur level, where it is considered to offer Black good practical chances of playing for a win.
+
+See also[edit]
+List of chess openings
+List of chess openings named after people
+List of chess openings named after places
+References[edit]
+
+Further reading[edit]
+
+
+
+
+
+
+
+
+
+
+
+Authority control databases International
+FAST
+National
+Spain
+Germany
+Israel
+United States
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Benko_Gambit&oldid=1151815708"

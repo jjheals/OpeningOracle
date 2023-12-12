@@ -1,0 +1,48 @@
+Chess openingCatalan Opening
+abcdefgh8877665544332211abcdefghMoves1.d4 Nf6 2.c4 e6 3.g3ECOE00–E09OriginBarcelona 1929, by Savielly TartakowerNamed afterCataloniaParentIndian Defence
+The Catalan Opening is a chess opening where White plays d4 and c4 and fianchettoes the white bishop on g2. A common opening sequence is 1.d4 Nf6 2.c4 e6 3.g3, although various other openings can transpose into the Catalan. The Encyclopaedia of Chess Openings (ECO) lists codes E01–E09 for lines with 1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2; other lines are part of E00.
+In the Catalan, White adopts a combination of the Queen's Gambit and Réti Opening. White combines the space-gaining moves d4 and c4 with g3, preparing to fianchetto the king's bishop. This places pressure mainly on the queenside while hoping to keep the white king safe in the long-term. The c4-pawn can become vulnerable, however, and White might have to sacrifice a pawn.
+Black has two main approaches to play against the Catalan: in the Open Catalan Black plays ...dxc4 and can either try to hold on to the pawn with ...b5 or give it back for extra time to free their game. In the Closed Catalan, Black does not capture on c4; their game can be somewhat cramped for a while, but is quite solid. Additionally, Black has ways to avoid the Catalan.
+The Catalan has had proponents at the highest level in chess, with Vladimir Kramnik, Viswanathan Anand and Magnus Carlsen all employing the opening in their World Chess Championship title games. A number of other grandmasters have successfully played the Catalan, including Fabiano Caruana, Daniil Dubov, Anish Giri and Ding Liren.
+
+
+History[edit]
+The Catalan derives its name from Catalonia, after tournament organisers at the 1929 Barcelona tournament asked Savielly Tartakower to create a new variation in homage to the area's chess history. It had been played a few times before Tartakower's usage in the tournament, however: for instance, Réti–Leonhardt, Berlin 1928 transposed into an Open Catalan. The opening cemented itself in the repertoire of leading players of the 1930s and 1940s, such as world champions Jose Raul Capablanca, Alexander Alekhine and Mikhail Botvinnik, as well as top grandmasters such as Salo Flohr, Paul Keres and Samuel Reshevsky.[1]
+The Catalan came to prominence at the top level when both Garry Kasparov and Viktor Korchnoi played it in their Candidates Semifinal match in London in 1983: five games of the eleven-game match featured the Catalan.
+In 2004, Ruben Felgaer won a tournament celebrating the 75th anniversary of Barcelona 1929 and the birth of the Catalan Opening, ahead of Grandmasters (GMs) Viktor Korchnoi, Mihail Marin, Lluis Comas and Viktor Moskalenko and International Master Manel Granados. Each game in the tournament, which was also held in Barcelona, began with the moves 1.d4 d5 2.c4 e6 3.g3 Nf6.
+With its use by Vladimir Kramnik, the Catalan gained a good deal of attention by high-level GMs in the 2010s.  Kramnik played the opening three times in the World Chess Championship 2006. The Catalan was also played four times by Viswanathan Anand in the World Chess Championship 2010; in both instances, the opponent was Veselin Topalov, and in each instance, White scored two more points than Black.
+Magnus Carlsen began to employ the Catalan as his main opening in the late 2010s, most notably using it in the second game of the 2021 World Chess Championship against Ian Nepomniachtchi, and used it extensively at the Tata Steel Chess Tournament 2022.
+
+Open Catalan, Classical Line[edit]
+
+abcdefgh8877665544332211abcdefgh Open Catalan, Classical Line  
+
+The Open Catalan, Classical Line (ECO code E05) consists of the moves 1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Be7. White sacrifices the pawn for a lead in development. Without a black pawn on d5, White's kingside bishop hinders Black's queenside development. The Open Catalan line has been a favorite of Anatoly Karpov and Efim Geller as Black and of Oleg Romanishin as White. Usually, White will recover the pawn with Qc2 and then a4, Ne5, or Qa4+. In order to hold the pawn, Black will have to seriously weaken the queenside with ...a6 and ...b5.
+
+Example games[edit]
+Kramnik vs. Anand, Wijk aan Zee 2007 1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 0-0 6.0-0 dxc4 7.Qc2 a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bd2 Ra7 11.Rc1 Be4 12.Qb3 Nc6 13.e3 Qa8 14.Qd1 Nb8 15.Ba5 Rc8 16.a3 Bd6 17.Nbd2 Bd5 18.Qf1 Nbd7 19.b4 e5 20.dxe5 Bxe5 21.Nxe5 Nxe5 22.f3 Nc4 23.Nxc4 Bxc4 24.Qf2 Re8 25.e4 c6 26.Rd1 Rd7 27.Rxd7 Nxd7 28.Rd1 Qb7 29.Rd6 f6 30.f4 Re6 31.Rd2 Re7 32.Qd4 Nf8 33.Qd8 Rd7 34.Rxd7 Qxd7 35.Qxd7 Nxd7 36.e5 fxe5 37.Bxc6 Nf6 38.Bb7 exf4 39.gxf4 Nd5 40.Kf2 Nxf4 41.Ke3 g5 42.Bxa6 Kf7 43.a4 Ke7 44.Bxb5 Bxb5 45.axb5 Kd7 46.Ke4 Ne2 47.Bb6 g4 48.Bf2 Nc3 49.Kf5 Nxb5 50.Kxg4 Ke6 51.Kg5 Kf7 52.Kf5 Ke7 53.Bc5 1–0[2]
+Kramnik vs. Carlsen, Dortmund Sparkassen Chess Meeting 2007 1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.d4 Be7 5.Bg2 0-0 6.0-0 dxc4 7.Qc2 a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bd2 Nc6 11.e3 Nb4 12.Bxb4 Bxb4 13.a3 Be7 14.Nbd2 Rc8 15.b4 a5 16.Ne5 Nd5 17.Nb3 axb4 18.Na5 Ba8 19.Nac6 Bxc6 20.Nxc6 Qd7 21.Bxd5 exd5 22.axb4 Rfe8 23.Ra5 Bf8 24.Ne5 Qe6 25.Rxb5 Rb8 26.Rxb8 Rxb8 27.Qxc7 Bd6 28.Qa5 Bxb4 29.Rb1 Qd6 30.Qa4 1–0[3]
+See also[edit]
+List of chess openings
+List of chess openings named after places
+References[edit]
+
+Further reading[edit]
+
+
+Avrukh, Boris (2015). Grandmaster Repertoire 1A: 1.d4 The Catalan. Quality Chess. ISBN 978-1-907982-88-0.
+Bologan, Victor (2012). The Powerful Catalan. New in Chess. ISBN 978-90-5691-401-1
+
+
+Hilton and Ippolito (2010). Wojo's Weapons: Winning With White; Volume 1. Mongoose Press. ISBN 978-0-9791482-0-0
+
+Ideas for Black against the Catalan: 4...Bb4+ Archived 2011-07-08 at the Wayback Machine
+
+Authority control databases: National 
+Germany
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Catalan_Opening&oldid=1185890963"

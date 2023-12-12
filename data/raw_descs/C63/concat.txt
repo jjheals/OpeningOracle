@@ -1,0 +1,425 @@
+
+A gambit answer to the Ruy Lopez - Black's move 3...f5 strikes the white center from the side, leading to great complications in many cases.
+Pros: 
+
+Black tries to grab the initiative
+Black can often gain a strong pawn center
+The f-file can be used by a black rook.
+
+Cons:
+
+Black can end up down one or two pawns
+The black king is exposed
+There are many forcing variations
+
+Chess opening
+For other uses, see Ruy Lopez (disambiguation).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Ruy Lopez" – news · newspapers · books · scholar · JSTOR (November 2021) (Learn how and when to remove this template message)
+
+
+Chess openingRuy Lopez
+abcdefgh8877665544332211abcdefgh
+Moves1.e4 e5 2.Nf3 Nc6 3.Bb5ECOC60–C99OriginGöttingen manuscript, 1490Named afterRuy López de Segura, Libro del Ajedrez, 1561ParentKing's Knight OpeningSynonym(s)Spanish Opening Spanish Game Spanish Torture [colloquial]
+The Ruy Lopez (/rɔɪ, ˈruːi/; Spanish: [ˈruj ˈlopeθ]),[1] also called the Spanish Opening or Spanish Game, is a chess opening characterised by the moves:
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5
+The Ruy Lopez is named after 16th-century Spanish priest Ruy López de Segura. It is one of the most popular openings, with many variations. In the  Encyclopaedia of Chess Openings (ECO), all codes from C60 to C99 are assigned to the Ruy Lopez.
+
+
+History[edit]
+The opening is named after the 16th-century Spanish priest Ruy López de Segura, who made a systematic study of this and other openings in the 150-page book on chess Libro del Ajedrez, written in 1561.[2] Although it bears his name, this particular opening was included in the Göttingen manuscript, which dates from c. 1490.[citation needed] A popular use of the Ruy Lopez opening did not develop, however, until the mid-19th century, when the Finnish and Russian[3] theoretician Carl Jaenisch "rediscovered" its potential. The opening remains the most commonly used amongst the open games in master play; it has been adopted by almost all players during their careers, many of whom have played it with both colours.[4] Due to the difficulty for Black in achieving equality, a common nickname for the opening is "The Spanish Torture".[5]
+
+Basics[edit]
+At the most basic level, White's third move attacks the knight that defends the e5-pawn from the attack by the f3-knight. White's apparent threat to win Black's e-pawn with  4.Bxc6 dxc6 5.Nxe5 is illusory—Black can respond 5...Qd4, forking the knight and e4-pawn, winning back the material with a good position.[6] White's 3.Bb5 is still a good move, however; it develops a piece, prepares castling, and sets up a potential pin against Black's king. Since White's third move carries no immediate threat, Black can respond in a wide variety of ways.
+Traditionally, White's objective in playing the Ruy Lopez is to spoil Black's pawn structure; either way Black recaptures following the exchange on c6 will have negative features, although recapturing gains the bishop pair.[7] In modern practice, however, White does not always exchange bishop for knight on c6, preferring the retreat 4.Ba4 if chased by 3...a6.
+The theory of the Ruy Lopez is the most extensively developed of all Open Games, with some lines having been analysed well beyond move thirty. At nearly every move there are many reasonable alternatives, and most have been deeply explored.[citation needed] It is convenient to divide the possibilities into two groups based on whether or not Black responds with 3...a6, the Morphy Defence, named after Paul Morphy, although he was not the originator of the line.[8] The variations with Black moves other than 3...a6 are older and generally simpler, but the Morphy Defence lines are more commonly played.
+
+Morphy Defence: 3...a6[edit]
+
+abcdefgh8877665544332211abcdefghMorphy Defence: 3...a6
+
+The most commonly played third move for Black is the Morphy Defence, 3...a6, a move which forces White to decide whether to retreat or to exchange for Black's knight.  The Morphy Defence thus "puts the question"[9] to the white bishop, a traditional usage which Larry Evans attributed to Aron Nimzowitsch.[10]  The main point of 3...a6 is that after the common retreat 4.Ba4, Black will have the possibility of breaking a future pin on the queen knight by playing ...b5. White must take some care not to fall into the Noah's Ark Trap, in which Black traps White's king bishop on the b3-square with a ...a6, ...b5, and ...c4 pawn advance on the queenside.
+Ercole del Rio, in his 1750 treatise Sopra il giuoco degli Scacchi, Osservazioni pratiche dell'anonimo Modenese (On the game of Chess, practical Observations by an anonymous Modenese), was the first author to mention 3...a6.[11] The move became popular after it was played by Paul Morphy and it is named for him. An influential chess player at that time, Wilhelm Steinitz, did not approve of the move, however; in 1889, he wrote, "on principle this ought to be disadvantageous as it drives the bishop where it wants to go". Steinitz's opinion did not prevail, however; today, 3...a6 is played in over 65 percent of all games beginning with the Ruy Lopez.[12]
+
+Morphy Defence: alternatives to Closed Defence[edit]
+After 3...a6, the most commonly played line is the Closed Defence, which goes 4.Ba4 Nf6 5.0-0 Be7, discussed in the two following sections. Alternatives to the Closed Defence described in this section are:
+
+4.Bxc6 (Exchange Variation)
+4.Ba4
+4...b5 5.Bb3 Na5 (Norwegian Defence)
+4...b5 5.Bb3 Bc5 (Graz Defence)
+4...b5 5.Bb3 Bb7 (Caro Variation)
+4...Bc5 (Classical Defence Deferred)
+4...Nge7 (Cozio Defence Deferred)
+4...g6 (Fianchetto Defence Deferred)
+4...f5 (Schliemann Defence Deferred)
+4...d6 (Modern Steinitz Defence)
+4...Nf6
+5.Nc3 (Ruy Lopez Four Knights Variation)
+5.Qe2 (Wormald Variation)
+5.d4 (Mackenzie Variation)
+5.d3 (Anderssen Variation)
+5.0-0
+5...d6 (Russian Defence)
+5...Bc5 (Møller Defence)
+5...b5 6.Bb3 Bb7 (Arkhangelsk Defence)
+5...b5 6.Bb3 Bc5 (Modern Arkhangelsk Defence)
+5...Nxe4 (Open Defence)
+Exchange Variation: 4.Bxc6 [edit]
+Main article: Ruy Lopez, Exchange Variation
+
+abcdefgh8877665544332211abcdefghExchange Variation after 4...dxc6. Black has doubled pawns, but has the bishop pair.
+
+In the Exchange Variation, 4.Bxc6, (ECO C68–C69) White damages Black's pawn structure, gaining a ready-made long-term plan of playing d4 ...exd4 Qxd4, followed by exchanging all the pieces and winning the pure pawn ending. Max Euwe gives the pure pawn ending in this position (with all pieces except kings removed) as a win for White.[13] Black gains good compensation in the form of the bishop pair, however, and the variation is not considered White's most ambitious, though former world champions Emanuel Lasker and Bobby Fischer employed it with success.
+After 4.Bxc6, Black almost always responds 4...dxc6. The similar move 4...bxc6 is rarely played due to the reply 5.d4 exd4 6.Qxd4 which gives White control of the centre. After 4...dxc6, the obvious 5.Nxe5? is weak, since 5...Qd4! 6.Nf3 Qxe4+ 7.Qe2 Qxe2+ 8.Kxe2 leaves White with no compensation for Black's bishop pair.
+In the late 19th and early 20th centuries, Emanuel Lasker had great success with 5.d4 exd4 6.Qxd4 Qxd4 7.Nxd4, most notably his famous win against José Raúl Capablanca in the St. Petersburg 1914 chess tournament.[14]
+Since then, better defences for Black have been developed, and this line is considered to slightly favour Black. Jon Jacobs wrote in the July 2005 Chess Life (p. 21): "A database search (limited to games longer than 20 moves, both players FIDE 2300+) reveals the position after 7.Nxd4 was reached 20 times from 1985–2002. White's results were abysmal: +0−7=13."
+After 5.Nc3, Black usually plays 5...f6 to defend the e-pawn. A notable game is Adhiban–Nakamura from the 2013 FIDE World Cup.[15]
+The flexible 5.0-0 is sometimes called the Barendregt Variation, but it was Fischer who developed it into a serious weapon in the 1960s. Unlike 5.d4, it forces Black to defend the e-pawn, usually with 5...f6, 5...Bg4, 5...Qd6 (the sharpest line, preparing queenside castling), 5...Qf6, 5...Qe7, or 5...Bd6. Some other moves that have been played are 5...Ne7, 5...Be7, and 5...Be6. The idea behind these three moves is that if White plays 6.Nxe5, Black plays 6...Qd4, forking the knight and the e4-pawn. The move ...Qd4, regaining the pawn at e4, is usually impossible in these variations once White has castled, due to the open e-file.
+Notable games are Fischer–Portisch,[16] and Fischer–Gligorić,[17] both played at the 17th Chess Olympiad in Havana 1966.
+White may also delay the exchange for a move or two: 4.Ba4 Nf6 5.Bxc6 or 5.0-0 Be7 6.Bxc6 (the Delayed Exchange Deferred), for example; at first glance this seems a waste of time, but Black having played ...Nf6 rules out defending the pawn with ...f6, and the bishop already being on e7 means that ...Bd6 would be a loss of tempo.
+
+Norwegian Defence: 4.Ba4 b5 5.Bb3 Na5 [edit]
+The Norwegian Variation (also called the Taimanov or Wing Variation) (ECO C70), 3...a6 4.Ba4 b5 5.Bb3 Na5 aims to eliminate the white bishop but is generally considered too time-consuming for Black. The usual continuation is 6.0-0 d6 7.d4 Nxb3, but the speculative sacrifice 6.Bxf7+?! Kxf7 7.Nxe5+, which drives the black king out, has been played. With accurate play, however, Black can avoid any disadvantage while holding onto the extra piece.
+In the 1950s, Mark Taimanov played it with some success, though it remained a sideline, as it has to this day. This defence has been known since the 1880s and was reintroduced in 1901 by Carl Schlechter. The Norwegian connection was first introduced by Svein Johannessen who played the line from 1957 and later strengthened when Simen Agdestein and some other Norwegian players adopted the variation. In 1995 Jonathan Tisdall published the article "Ruy Lopez. The Norwegian Variation" in New in Chess Yearbook 37.
+
+Variations combining 3...a6 and ...Bc5[edit]
+
+abcdefgh8877665544332211abcdefghMøller Defence: 5...Bc5
+
+The Graz Defence, Classical Defence Deferred, and Møller Defence combine 3...a6 with the active move ...Bc5.
+For a century it was believed that it was safer for Black to place the bishop on e7, but it is much more active on c5.
+White can gain time by playing c3 and d4 as the black bishop will have to move, but this does not always seem to be as important as was once thought.[18]
+The Møller Defence, 3...a6 4.Ba4 Nf6 5.0-0 Bc5 was already an old line in 1903 when Jørgen Møller (1873–1944) analysed it in Tidskrift för Schack. Alexander Alekhine played this for Black in the early portion of his career; despite his advocacy, it never achieved great popularity, and even he eventually came to consider it dubious.
+The Graz Defence, 3...a6 4.Ba4 b5 5.Bb3 Bc5, was analysed by Alois Fink (b. 1910) in Österreichische Schachzeitung in 1956 and in Wiener Schach Nachrichten in 1979, although it did not become popular until the 1990s.
+
+
+Modern Steinitz Defence: 4.Ba4 d6 [edit]
+
+abcdefgh8877665544332211abcdefghModern Steinitz Defence: 4...d6
+
+In the Modern Steinitz Defence (also called Neo-Steinitz Defence) (ECO C71–C76), Black interpolates 3...a6 4.Ba4 before playing 4...d6, which was frequently played by Alexander Alekhine, José Raúl Capablanca, and Paul Keres. The possibility of breaking the pin with a timely ...b5 gives Black more latitude than in the Old Steinitz Defence; in particular, in the Old Steinitz, White can practically force Black to give up the stronghold at e5, but in the Modern Steinitz, Black is able to maintain control of the centre. Most plausible White moves are playable here, including 5.c3, 5.c4, 5.Bxc6, 5.d4, and 5.0-0. The sharp Siesta Variation arises after 5.c3 f5,[19] while a manoeuvring game results from the calmer 5.c3 Bd7 6.d4. The game is also sharp after 5.Bxc6+ bxc6 6.d4 (ECO C73) or 5.0-0 Bg4 6.h3 h5  (ECO C72). The older lines starting with 5.c4 and 5.d4 are not regarded as testing for Black, though the latter offers a tricky gambit. There are six ECO classifications for the Modern Steinitz. White's responses 5.d4, 5.Nc3, and 5.c4 are included in C71, while 5.0-0 is C72.  The delayed exchange 5.Bxc6+ bxc6 6.d4 is C73. C74–C76 all begin with 5.c3. C74 covers 5...Nf6, but primarily focuses on 5...f5 6.exf5 Bxf5 with 7.d4 or 7.0-0. C75's main continuation is 5...Bd7 6.d4 Nge7, the Rubinstein Variation. C76 is characterised by the Black kingside fianchetto 5...Bd7 6.d4 g6.
+
+Schliemann Defence Deferred: 4.Ba4 f5 [edit]
+The Schliemann Defence Deferred, 3...a6 4.Ba4 f5, is rarely seen, with practically its only top-level appearance being in the 1974 Candidates Final, when Viktor Korchnoi adopted it versus Anatoly Karpov.[20] It is considered inferior to the regular Schliemann, since White can answer effectively with 5.d4! exd4 6.e5.
+
+Wormald Variation: 4.Ba4 Nf6 5.Qe2 [edit]
+5.Qe2 (ECO C77), first played in the 1840s, normally continues 5...b5 6.Bb3 Be7 7.c3 followed by 8.d4. Robert Wormald (1834–1876) wrote openings manuals and completed Staunton's last book, analyzing the line in Chess World, 1867. The line is also known as Paulsen–Alapin Attack, and Schlecter Variation.[21]
+
+Mackenzie Variation: 4.Ba4 Nf6 5.d4 [edit]
+The variation 5.d4 (ECO C77), named after George Henry Mackenzie who employed it on a regular basis, is an old line which, according to modern theory, does not promise White any advantage, though is adopted as an alternative to the main variation 5.0-0. The main line continues with 5...exd4 (5...Nxe4 6.0-0 transposes to the Open Defence) 6.0-0 (6.e5 Ne4 is harmless) Be7 (6...Nxe4 transposes to the Riga Variation of the Open Defence) which leads to the Centre Attack (ECO C84) of the Closed Defence.
+
+Steinitz Defence Deferred: 4.Ba4 Nf6 5.0-0 d6 [edit]
+
+abcdefgh8877665544332211abcdefghSteinitz Defence Deferred: 5...d6
+
+The Steinitz Defence Deferred (ECO C79) also called Russian Defence. With the move order 3...a6 4.Ba4 Nf6 5.0-0 d6, Black waits until White castles before playing ...d6. This can enable Black to avoid some lines in the Steinitz Defence Deferred in which White castles queenside, although the position of the knight on f6 also precludes Black from supporting the centre with ...f7–f6. These nuances seem to have little importance today, as neither the Steinitz Defence Deferred nor the Russian Defence have been popular for many years.
+Mikhail Chigorin played the Russian Defence in the 1890s, and later it was adopted by Akiba Rubinstein and Alekhine. The last significant use of the Russian Defence was in the 1950s, when it was played by some Russian masters. Today, however, it has purely practical value, as White has found numerous ways to an opening advantage by quickly opening lines in the center, where Black's developmental lag seems to be a significant factor.
+
+
+Arkhangelsk Defence: 4.Ba4 Nf6 5.0-0 b5 6.Bb3 Bb7 [edit]
+
+abcdefgh8877665544332211abcdefghArkhangelsk Defence: 6...Bb7
+
+The Arkhangelsk Defence (or Archangel Defence) (ECO C78) was popularized by Soviet players from the city of Arkhangelsk such as GM Vladimir Malaniuk. The variation begins 3...a6 4.Ba4 Nf6 5.0-0 b5 6.Bb3 Bb7. This line often leads to sharp positions in which Black wagers that the fianchettoed bishop's influence on the centre and kingside will offset Black's delay in castling. White has several options, including attempting to build an ideal pawn centre with c3 and d4, defending the e-pawn with Re1 or simply developing. The Arkhangelsk Defence is tactically justified by Black's ability to meet 7.Ng5 with 7...d5 8.exd5 Nd4! (not 8...Nxd5, when White gets the advantage with 9.Qh5 g6 10.Qf3).
+
+Modern Arkhangelsk Defence: 4.Ba4 Nf6 5.0-0 b5 6.Bb3 Bc5 [edit]
+
+abcdefgh8877665544332211abcdefghModern Arkhangelsk Defence: 6...Bc5
+
+The Modern Arkhangelsk Defence (or Modern Archangel Defence) (ECO C78), sometimes called the Neo-Arkhangelsk or Neo-Archangel, is a refinement of the regular Arkhangelsk Defence by incorporating ideas similar to the Møller Defence. Black normally does not fianchetto the queen's bishop, which would transpose to regular Arkhangelsk setups, but plays ...Bg4 to increase the pressure against White's pawn centre. White's main continuation is 7.a4 after which Black responds with the typical move 7...Rb8 reaching the starting point of this highly complex variation. Another line is the more traditional 7.c3 d6 8.d4 and after 8...Bb6 Black's position is fine. 8...exd4 occurred in Löwenthal–Morphy, London 1859,[22] which seems to be the first time this variation was ever played. Fabiano Caruana is one of the most notable players of this variation, employing it in the Candidates Tournament 2020.[23][24]
+
+
+Open Defence: 4.Ba4 Nf6 5.0-0 Nxe4 [edit]
+
+abcdefgh8877665544332211abcdefghOpen Defence after 8...Be6
+
+In the Open Defence, 3...a6 4.Ba4 Nf6 5.0-0 Nxe4, Black tries to make use of the time White will take to regain the pawn to gain a foothold in the centre, with play usually continuing 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 (but not 7...exd4? 8.Re1 d5 9.Nc3!, Bobby Fischer–Petar Trifunović, Bled 1961[25]).
+Here 8.Nxe5, once adopted by Fischer, is much less often seen, and Black should equalise after the accurate 8...Nxe5 9.dxe5 c6, which avoids prematurely committing the light-squared bishop and solidly defends d5, often a problem in the Open.
+The Riga Variation, 6...exd4, is considered inferior; the main line runs 7.Re1 d5 8.Nxd4 Bd6! 9.Nxc6 Bxh2+! 10.Kh1! (10.Kxh2 Qh4+ 11.Kg1 Qxf2+ draws by perpetual check.) Qh4 11.Rxe4+! dxe4 12.Qd8+! Qxd8 13.Nxd8+ Kxd8 14.Kxh2 Be6 (14...f5?? 15.Bg5#) and now the endgame is considered to favour White after 15.Be3 or Nd2 (but not 15.Nc3 c5!, playing to trap the bishop). A famous example of this line is the game José Raúl Capablanca–Edward Lasker, New York 1915.[26] White is objectively better here, but Black keeps some good practical chances owing to the sharp positions that occur.
+White has a variety of options at move nine, including 9.c3, 9.Be3, 9.Qe2, and 9.Nbd2.
+The classical line starts with 9.c3 when Black may choose 9...Be7 (the main line) or the aggressive 9...Bc5.
+After 9.c3 Bc5 10.Nbd2 0-0 11.Bc2, Black must meet the attack on e4, with the following possibilities from which to choose: 11...f5, 11...Bf5, both of which aim to maintain the strongpoint on e4, or the forcing line 11...Nxf2, introduced by the English amateur Vernon Dilworth.
+Today, 9.Be3 Be7 10.c3 is often used to transpose into the main line, 9.c3, while obviating the option of the Dilworth.
+An old continuation is 11...f5, when after 12.Nb3 Bb6 13.Nfd4 Nxd4 14.Nxd4 Bxd4 White can gain some advantage with Bogoljubov's 15.Qxd4. Instead, the very sharp La Grande Variante continues 15.cxd4 f4 16.f3 Ng3 17.hxg3 fxg3 18.Qd3 Bf5 19.Qxf5 Rxf5 20.Bxf5 Qh4 21.Bh3 Qxd4+ 22.Kh1 Qxe5, with unclear consequences. Perhaps the most famous game in this variation is Smyslov–Reshevsky, 1945 USSR–USA Radio Match.[27] An analysis of the line had just been published in a Russian chess magazine, and Smyslov was able to follow it to quickly obtain a winning position. Reshevsky had not seen the analysis and he struggled in vain to solve the position over the board with his chess clock running. The Dilworth Variation (or Attack), 11...Nxf2 12.Rxf2 f6 13.exf6 Bxf2+ 14.Kxf2 Qxf6 has scored well for Black, with many traps for the ill-prepared White player. The main line leads to unbalanced endgames which are difficult to play for both sides, though with a strong drawing tendency. Artur Yusupov is one of the few grandmasters who has adopted the Dilworth repeatedly.[28][29][30]
+In the Howell Attack (ECO C81), 9.Qe2, White aims for play against d5 after Rd1. The game usually continues 9...Be7 10.Rd1 followed by 10...Nc5 or 10...0-0. Paul Keres played this line against Max Euwe and Samuel Reshevsky at the World Chess Championship tournament 1948.[31][32] This has been played at the top by World No.2 Fabiano Caruana among others, and he recommends this in his video series for Chessbase.
+Karpov's move, 9.Nbd2, limits Black's options. In the 1978 Karpov–Korchnoi World Chess Championship match, following 9.Nbd2 Nc5 10.c3 d4 (10...Be7 is an old move that remains popular) Karpov introduced the surprising 11.Ng5!?, a move suggested by his trainer, Igor Zaitsev.[33] If Black takes the knight with 11...Qxg5 White regains the material with 12.Qf3. This variation played a decisive role in a later World Championship match, Kasparov–Anand 1995, when Anand was unable to successfully defend as Black.[34]
+
+Closed Defence 4.Ba4 Nf6 5.0-0 Be7: alternatives to Main line[edit]
+
+abcdefgh8877665544332211abcdefghClosed Defence after 5...Be7
+
+In the main line, White normally retreats the bishop with 4.Ba4, when the usual continuation is 4...Nf6 5.0-0 Be7.
+Black now threatens to win a pawn with 6...b5 followed by 7...Nxe4, so White must respond.
+Usually White defends the e-pawn with 6.Re1 which, in turn, threatens Black with the loss of a pawn after 7.Bxc6 and 8.Nxe5.
+Although it is possible to defend the pawn with 6...d6, Black most commonly averts this threat by driving away the white bishop with 6...b5 7.Bb3.
+After 4...Nf6 5.0-0 Be7, the most frequently seen continuation is 6.Re1 b5 7.Bb3 d6 8.c3 0-0, discussed in the next section.
+Examined in this section are the alternatives to the main line:
+
+6.Bxc6 (Delayed Exchange Variation Deferred)
+6.d4 (Centre Attack)
+6.Nc3 (Morphy Attack)
+6.Qe2 (Worrall Attack)
+6.d3 (Modern Line)
+6.Re1 d6 (Averbakh Variation)
+6.Re1 b5 7.Bb3
+7...Bb7 (Trajković Variation)
+7...0-0 8.c3 d5 (Marshall Attack)
+Delayed Exchange Variation Deferred: 6.Bxc6 [edit]
+The Delayed Exchange Variation Deferred (or Exchange Variation Doubly Deferred) (ECO C85), 6.Bxc6, loses a tempo compared to the Exchange Variation, though in compensation, the black knight on f6 and bishop on e7 are awkwardly placed. The knight on f6 prevents Black from supporting the e-pawn with ...f7–f6, and the bishop is somewhat passively posted on e7.
+
+Centre Attack: 6.d4 [edit]
+The Centre Attack (or Centre Variation) (ECO C84), 6.d4, leads to sharp play. After 6...exd4 (6...Nxe4 and 6...b5 are viable alternatives) 7.Re1 b5 (7...0-0 8.e5 Ne8 is a playable alternative) White can play either 8.Bb3 or the sharp 8.e5. In case of the immediate 7.e5 Black takes advantage of the absence of the white rook from e1 and plays 7...Ne4 with the idea of 8...Nc5.
+
+Morphy Attack: 6.Nc3 [edit]
+The Morphy Attack (ECO C84) named after Paul Morphy who introduced the idea in a 1859 blindfolded simul, is aggressive and may lead to a very small edge for White, but less than in 6.Re1 and 6.d3. Similar to those two moves, White's defence of his e-pawn compels Black to drive away White's bishop with 6...b5 (6...d6 is also possible, but less popular). After 7.Bb3, Black can play 7...0-0 or 7...d6. Note that Marshall attack-style ideas of 7...0-0 and playing ...d5 next, sacrificing a pawn, make little sense when White's knight on c3 both controls d5 and means White has a more developed queenside, one of the upsides of the Marshall usually being White's underdeveloped queenside. The main line of 7...d6, 8.Nd5 Na5 9.Nxe7 Qxe7 10.d3 0-0, with Black eventually relinquishing White of his bishop pair with ...Nxb3, shows a common attacking idea in the Morphy Attack; Nd5. In the main line, 8...Nxd5? is wrong because 9.Bxd5! leaves White with a strong bishop on the outpost square d5, exerting a troublesome pin on the undefended c6-knight. After 7...0-0, 8.d3 transposes to one of the main lines of 6.d3, with 6... b5 7.Bb3 0-0 8.Nc3. Paul Keres and Boris Spassky have both played the line a few times throughout their careers (both playing it against one another once), and Siegbert Tarrasch played it three times in his 1911 match against Schlechter (scoring 1 win, 1 draw, 1 loss in that order), but it remains the least popular option for White on move 6.
+
+Worrall Attack: 6.Qe2 [edit]
+
+abcdefgh8877665544332211abcdefghWorrall Attack: 6.Qe2
+
+In the Worrall Attack (ECO C86), White replaces 6.Re1 with 6.Qe2. The idea is that the queen will support the e-pawn, leaving the rook free to move to d1 to support the advance of the d-pawn, although there is not always time for this. Play normally continues 6...b5 7.Bb3 followed by 7...0-0 8.c3 and 8...d5 or 8...d6.
+Paul Keres played the line several times. More recently, Sergei Tiviakov has played it, as has Nigel Short, who essayed it twice in his 1992 match against Anatoly Karpov and won both games.[35][36]
+
+
+Modern Line: 6.d3[edit]
+
+abcdefgh8877665544332211abcdefghModern Line: 6.d3
+
+By playing 6.d3, often called the Martinez Variation,[37] White steers clear of the Marshall Attack and any of the anti-Marshall lines. White threatens 7.Bxc6 winning the e5-pawn leaving Black a choice of either 6...d6 or 6...b5. After 6...d6 the e5-pawn is firmly defended and Black threatens to trade off White's Ruy Lopez bishop with 7...b5 and 8...Na5. White normally continues with 7.c3, and after 8...0-0 White can choose between 9.Nbd2 or 9 Re1. Black can also play 6...b5, and after 7.Bb3 d6 (7...0-0 is a viable alternative) White has to deal with the threat of 8...Na5 by playing 8.a3 (8.c3 or 8.a4 are perfectly playable as well), and after 8...0-0 (the immediate 8...Na5 is also feasible) 9.Nc3 we have reached a modern tabiya of the Ruy Lopez. This position was first reached in a high-level encounter between Viswanathan Anand and Michael Adams, Grenke Chess Classic 2013.[38] 6.d3 has gained wide popularity among the top players and has almost supplanted the Ruy Lopez main line with 6.Re1.
+This variation can transpose into 6.Re1 lines but with a potentially advantageous move order. For example, in the 8.a4 anti-Marshall variation which can ensue after 6.Re1, one of the mainlines is 8...Bb7 9.d3, which can also be reached by way of 6.d3 b5 7.Bb3 0-0 8.a4 Bb7 9.Re1. A perhaps more challenging response to the anti-Marshall is 8...b4, after which White may wish to ambitiously play 9.a5 (preventing ...Na5) d6 10.d3 Be6!, where White cannot avoid the trade of bishops (the main moves being either 11.Bxe6 or 11.Nbd2 Bxb3). If Black elects not to exchange, however, we may see 11.Nbd2 Rb8 12.Nc4 where White may retain some pull in the position. On the other hand, to be considered is 6.d3 b5 7.Bb3 0-0 8.a4 b4 9.a5 d6 10.Nbd2 Be6 11.Nc4!, where White has avoided the exchange and can transpose directly to the anti-Marshall line if desired by playing Re1 later. Play may also in some rare cases transpose to a traditional closed Spanish (with 7...d6) after something like 6.d3 d6 7.c3 0-0 8.Re1 b5 9.Bc2 Bb7 10.Nbd2 Re8 11.h3 Bf8 12.d4, reaching a reasonably well-trodden position in the Zaitsev system, though both players may deviate at many points in this line. 
+Also possible is to transpose to the Pilnik Variation, after 6...b5 7.Bb3 d6 8.c3 0-0, where 9.Re1 would transpose to the Pilnik, with the Marshall successfully avoided (which the Pilnik does not do). In general, if 6...b5 7.Bb3 d6 8.c3, positions could resemble a traditional closed Spanish such as the Zaitsev, Flohr, Smyslov, Karpov, Breyer, or Chigorin where White has played 10.d3 (or in the case of the Chigorin, 11.d3 with 10.Bc2 c5 included) instead of 10.d4 (in the case of the Chigorin, 11.d4) if White plays Re1 and h3. In every case, 10.d3 is far less popular than 10.d4 (again, 11.d4 for Chigorin), but is the only move besides d4 to ever be seriously considered. 10.d3 in those variations are often referred to as the 'quiet' variation of that variation (quiet Breyer, quiet Flohr, quiet Chigorin, etc). In the case of Flohr–Zaitsev-type setups, White may quickly push d3–d4 without h3 and lose a tempo compared to the traditional Zaitsev, but the move h3 is what would be lost, which is not so relevant with the bishop already committed to b7, so the only thing h3 provides is luft (an idea shared with the Pilnik). 
+
+
+Averbakh Variation: 6.Re1 d6 [edit]
+
+abcdefgh8877665544332211abcdefghAverbakh Variation: 6...d6
+
+In the Averbakh Variation (C87), named for Yuri Averbakh, Black defends the threatened e-pawn with 6...d6 instead of driving away the white bishop with the more common 6...b5. This defence shares some similarities with the Modern Steinitz and Russian Defences as Black avoids the ...b5 advance that weakens the queenside. White can reply with either 7.Bxc6 bxc6 8.d4 or 7.c3 Bg4 (it is too late for Black to transpose into the more usual lines of the Closed Defence, because 7...b5 would allow 8.Bc2, saving White a tempo over the two-move sequence Bb3–c2 found in other variations). The pin temporarily prevents White from playing d2–d4. In response, White can either force d4 with 8.h3 Bh5 9.Bxc6 bxc6 10.d4, or postpone d4 for the time being and play 8.d3 followed by manoeuvering the queen knight to the kingside with Nbd2–f1–g3.
+
+Trajković Variation: 6.Re1 b5 7.Bb3 Bb7 [edit]
+
+abcdefgh8877665544332211abcdefghTrajković Variation: 6...b5 7.Bb3 Bb7
+
+An alternative to 6...d6 is 6...b5 7.Bb3 Bb7. This is known as the Trajković Variation. Black may sacrifice a pawn with 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 Nf4.
+
+
+7...0-0[edit]
+After 6.Re1 b5 7.Bb3, Black often plays 7...0-0. White can circumvent the Marshall Attack after 8.c3 d5 and play any of the alternative moves 8.a4, 8.h3, 8.d4, and 8.d3, which are commonly referred to as "anti-Marshall" systems, as they try to deter Black from playing ...d5.
+When White opts for 8.c3, Black, in addition to transposing to the main line with 8...d6, can play 8...d5, introducing the Marshall Attack.
+
+Marshall Attack: 7...0-0 8.c3 d5 [edit]
+
+abcdefgh8877665544332211abcdefghMarshall Attack after 11...c6, the most common move in modern play.[39] In 1918 Marshall played 11...Nf6.[40]
+
+One of Black's more aggressive alternatives is the Marshall Attack: after 3...a6 4.Ba4 Nf6 5.0-0 Be7 6.Re1 b5 7.Bb3 0-0 8.c3 Black plays the gambit 8...d5, sacrificing a pawn.  The main line begins with 9.exd5 Nxd5 (9...e4?!, the Herman Steiner variation, is considered weaker) 10.Nxe5 Nxe5 11.Rxe5 c6 (Marshall's original moves, 11...Nf6, and 11...Bb7 are considered inferior, but have also yielded good results at top levels of play for Black. GM Joel Benjamin suggests that 11...Bb7 is inferior due to 12.Qf3[citation needed]). The resulting position is shown in the diagram. To the casual observer it might seem that Black has been careless and lost a pawn; however, the sacrifice has also stripped off White's kingside defenders, given Black a lead in development, and rendered White's 8.c3 irrelevant. Since Black's compensation is based on positional rather than tactical considerations, it is difficult or perhaps impossible to find a refutation. Black generally goes all-in with a massive kingside attack, which has been analysed to great depth (sometimes beyond move 30) with no definite conclusion as to the Marshall's soundness. The Marshall Attack is a very sharp opening system in which a great amount of theoretical knowledge is vital, and many White players, including Garry Kasparov, avoid it by playing one of the anti-Marshall systems, 8.d4, 8.a4 or 8.h3 instead of 8.c3.[39][failed verification]
+This gambit became famous when Frank James Marshall used it as a prepared variation against José Raúl Capablanca in 1918; nevertheless, Capablanca found a way through the complications and won.[40][41] It is often said that Marshall had kept this gambit a secret for use against Capablanca since his defeat in their 1909 match.[42] The most common counterclaim is that Marshall had used a similar approach in 1917 against Walter Frere.[43] However, Edward Winter found no clear evidence of the date for Frere–Marshall; several games between 1910 and 1918 where Marshall passed up opportunities to use the Marshall Attack against Capablanca; and an 1893 game that used the same line as in Frere–Marshall.[44]
+Improvements to Black's play were found (Marshall played 11...Nf6!? originally, but later discovered 11...c6!) and the Marshall Attack was adopted by top players including Boris Spassky, John Nunn, and more recently Michael Adams. In the Classical World Chess Championship 2004, challenger Peter Leko used the Marshall to win an important game against World Champion Vladimir Kramnik.[45]
+Currently, Armenian grandmaster Levon Aronian is one of the main advocates for the Marshall Attack.[46]
+
+Main line: 4.Ba4 Nf6 5.0-0 Be7 6.Re1 b5 7.Bb3 d6 8.c3 0-0 [edit]
+
+abcdefgh8877665544332211abcdefghMain line after 8...0-0
+
+The main lines of the Closed Ruy Lopez continue 6.Re1 b5 7.Bb3 d6 8.c3 0-0. White can now play 9.d3 or 9.d4, but by far the most common move is 9.h3 which prepares d4 while preventing the awkward pin ...Bg4. This can be considered the main line of the opening as a whole, and thousands of top-level games have reached this position. White aims to play d4 followed by Nbd2–f1–g3, which would firmly support e4 with the bishops on open diagonals and both knights threatening Black's kingside. Black will try to counter this knight manoeuver by expanding on the queenside, taking action in the centre, or putting pressure on e4.
+After 6.Re1 b5 7.Bb3 d6 8.c3 0-0, we have:
+
+9.d3 (Pilnik Variation)
+9.d4 (Yates Variation)
+9...Bg4 (Bogoljubow Variation)
+9...Bg4 10.a4 (Yates Variation, Short Attack)
+9.a3 (Suetin Variation)
+9.Bc2 (Lutikov Variation)
+9.h3
+9...Na5 (Chigorin Variation)
+9...Nb8 (Breyer Variation)
+9...Bb7 (Zaitsev Variation)
+9...Nd7 (Karpov Variation)
+9...Be6 (Kholmov Variation)
+9...h6 (Smyslov Variation)
+9...Qd7 (Smyslov Variation)
+9...a5 (Keres Variation)
+Pilnik Variation: 9.d3 [edit]
+The Pilnik Variation, named for Hermann Pilnik, is also known as the Teichmann Variation from the game Teichmann–Schlechter, Karlsbad 1911.[47] White plays 9.d3 intending to later advance to d4 under favourable circumstances. Although d2–d3–d4 appears to lose a tempo compared to d2–d4, White may be able to omit h3 regaining the tempo, especially if Black plays ...Bb7. 
+The Pilnik has seen a small resurgence in recent years, but that is mainly by transposition through 6.d3, which avoids the Marshall Attack. The line starting with 6.d3 leading to the Pilnik is 6. d3 b5 7.Bb3 d6 8.c3 0-0 9. Re1
+
+Yates Variation and Bogoljubow Variation: 9.d4 [edit]
+White usually plays 9.h3 instead of 9.d4 (the Yates Variation) because after 9.d4 Bg4 (the Bogoljubow Variation), the pin of the white king knight is troublesome. The variation takes its name from the game Capablanca–Bogoljubow, London 1922.[48]
+
+Chigorin Variation: 9.h3 Na5 [edit]
+
+abcdefgh8877665544332211abcdefghChigorin Variation after 11.d4 Qc7
+
+The Chigorin Variation was refined by Mikhail Chigorin around the turn of the 20th century and became the primary Black defence to the Ruy Lopez for more than fifty years. With 9...Na5 Black chases the white bishop from the a2–g8 diagonal and frees the c-pawn for queenside expansion. After 10.Bc2 c5 11.d4 the classical Black follow up is 11...Qc7, reinforcing e5 and placing the queen on the c-file which may later become open after ...cxd4. Other Black moves in this position are 11...Bb7 and 11...Nd7; the latter was adopted by Keres a few times in the 1960s. The Chigorin Variation has declined in popularity because Black must spend some time bringing his offside knight on a5 back into the game.
+The Chigorin is divided into four ECO classifications. In C96, Black or White deviate after 10.Bc2, and do not reach the classical main line position 10...c5 11.d4 Qc7. In C97, White proceeds from the diagram with 12.a4, 12.d5, 12.b4, or the main line 12.Nbd2 when Black responds with ...Be6, ...Rd8, ...Re8, ...Bb7 or ...Bd7. The C98 classification covers 12.Nbd2 Nc6, while C99 covers 12.Nbd2 cxd4 13.cxd4.
+
+
+Breyer Variation: 9.h3 Nb8 [edit]
+
+abcdefgh8877665544332211abcdefghBreyer Variation: 9...Nb8
+
+The Breyer Variation was recommended by Gyula Breyer as early as 1911,[49] but there are no known game records in which Breyer employed this line. The Breyer Variation did not become popular until the 1960s when it was adopted by Boris Spassky and others. In particular, Spassky's back to back wins over Mikhail Tal at Tbilisi in 1965 did much to enhance its reputation, and Spassky has a career-plus score with the Breyer. The variation was the choice of many top level players as White has had trouble proving an advantage against it. Nowadays, however, this variation is considered too passive, and players prefer to play the Berlin or the Petroff as they seem to equalise more easily.
+With 9...Nb8 Black frees the c-pawn and intends to route the knight to d7 where it supports e5. If White fortifies the centre with 10.d3 the opening is classified ECO code C94. The more common continuation, 10.d4, is ECO C95. The main line continues 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8. Black is threatening to win the e4-pawn via ...exd4 uncovering an attack on the pawn, so White plays 14.Ng3. Black generally plays 14...g6 to stop White's knight from going to f5. White then usually tries to attack the Black queenside via 15.a4. Black seeks counterplay in the centre via 15...c5. White can attack either the kingside or the queenside. This forces resolution of the centre via 16.d5. Black can exploit the weak squares on the queenside via 16...c4. White will try to attack on the kingside via 17.Bg5, moving forces to the kingside. Black will kick the bishop with 17...h6. The logical retreat is 18.Be3, which is met by 18...Nc5. White plays 19.Qd2, forcing 19...h5. The point of this manoeuver was to weaken Black's kingside. 
+
+
+Zaitsev Variation: 9.h3 Bb7 [edit]
+
+abcdefgh8877665544332211abcdefghZaitsev Variation: 9...Bb7
+
+The Zaitsev Variation (also called the Flohr–Zaitsev Variation) was advocated by Igor Zaitsev, who was one of Karpov's trainers for many years. A Karpov favourite, the Zaitsev remains one of the most important variations of the Ruy Lopez. With 9...Bb7 Black prepares to put more pressure on e4 after 10.d4 Re8 11.Nbd2 Bf8, when play can become very sharp and tactical. One drawback of this line if Black is playing for a win is that White can force Black to choose a different defence or allow a draw by repetition of position with 11.Ng5 Rf8 12.Nf3. Today the theory in the Zaitsev variations extends beyond the middlegame, and it is rarely seen at the top levels because of the need to remember a lot of theory.
+
+
+Karpov Variation: 9.h3 Nd7 [edit]
+Karpov tried 9...Nd7 several times in the 1990 World Championship match, but Kasparov achieved a significant advantage against it in the 18th game. It is solid but slightly passive. Confusingly 9...Nd7 is also called the Chigorin Variation so there are two variations of the Ruy Lopez with that name, but 9...Na5 is the move more commonly associated with Chigorin. This defence is also known as the Keres Variation, after Paul Keres.
+
+Kholmov Variation: 9.h3 Be6 [edit]
+The Kholmov Variation, 9...Be6, was popular in the 1980s but is now played less often at the master level. The main line runs 10.d4 Bxb3 11.axb3 (11.Qxb3 is another option) exd4 12.cxd4 d5 13.e5 Ne4 14.Nc3 f5 15.exf6 Bxf6 16.Nxe4 dxe4 17.Rxe4 Qd5 18.Rg4, when it has been shown that White's extra pawn is more valuable than Black's more active and harmonised pieces.
+
+Smyslov Variation: 9.h3 h6 [edit]
+The Smyslov Variation (ECO C93) is a plan similar to that of the Zaitsev Variation. With 9...h6 Black prepares to play 10...Re8 and 11...Bf8 without fear of 10.Ng5. The loss of a tempo with 9...h6 gives White enough time to complete the Nbd2–f1–g3 manoeuver, and the pawn move can also weaken Black's kingside. The Zaitsev can be considered to be an improved Smyslov in which Black tries to save a tempo by omitting ...h6.
+Kasparov played the Smyslov Variation in a loss to the Deep Blue chess computer in Game 2 of their 1997 Man vs. Machine match.[50]
+Svetozar Gligorić has been the most prolific C93 player.[51]
+
+Smyslov Variation: 9.h3 Qd7[edit]
+9...Qd7 is another variation by Smyslov.
+
+Black defences other than 3...a6[edit]
+Of the variations in this section, the Berlin and Schliemann Defences are the most popular today, followed by the Classical Defence.[52]
+
+3...Nge7 (Cozio Defence)
+3...g6 (Smyslov or Fianchetto Defence)
+3...Nd4 (Bird's Defence)
+3...d6 (Steinitz Defence)
+3...f5!? (Schliemann Defence)
+3...Bc5 (Classical or Cordel Defence)
+3...Nf6 (Berlin Defence)
+and other less-common third moves for Black.
+
+Cozio Defence: 3...Nge7 [edit]
+
+abcdefgh8877665544332211abcdefghCozio Defence: 3...Nge7
+
+The Cozio Defence (part of ECO C60), 3...Nge7, is distinctly old-fashioned and the least popular of the defences at Black's third move. Although Bent Larsen used it occasionally with success, it remains one of the least explored variations of the Ruy Lopez.
+
+
+Smyslov Defence: 3...g6 [edit]
+
+abcdefgh8877665544332211abcdefghSmyslov Defence: 3...g6
+
+The Smyslov Defence, Fianchetto Defence, Barnes Defence, or Pillsbury Defence (part of ECO C60), 3...g6, is a quiet positional system played occasionally by Vasily Smyslov and Boris Spassky,[53] becoming popular in the 1980s when it was shown that 4.c3 a6! gives Black a good game.
+It was later discovered that 4.d4 exd4 5.Bg5 gives White the advantage, and as such the variation is rarely played today. An interesting gambit line 4.d4 exd4 5.c3 has also been recommended by Alexander Khalifman, although some of the resulting positions have yet to be extensively tested.
+
+Bird's Defence: 3...Nd4 [edit]
+
+abcdefgh8877665544332211abcdefghBird's Defence: 3...Nd4
+
+Bird's Defence (ECO C61), 3...Nd4,[54] is an uncommon variation in modern praxis. With careful play White is held to gain an advantage. The best moves are 4.Nxd4 exd4 5.0-0 Bc5 6.d3 c6 7.Ba4 Ne7.
+This defence was published in 1843 in Paul Rudolf von Bilguer's Handbuch des Schachspiels and explored by Henry Bird in the late 19th century. Bird played it as Black at least 25 times, scoring +9−13=3 (nine wins, thirteen losses, three draws).[55] Bird's Defence was later used a few times in tournament play by Siegbert Tarrasch, Boris Spassky, and Alexander Khalifman. Although it is still sometimes seen as a surprise weapon, no strong master since Bird has adopted it regularly.[56] The world champion Magnus Carlsen played it as Black in the 2014 Chess Olympiad against Ivan Šarić and lost.[57]
+
+
+Steinitz Defence: 3...d6 [edit]
+
+abcdefgh8877665544332211abcdefghSteinitz Defence: 3...d6
+
+The Steinitz Defence (also called the Old Steinitz Defence) (ECO C62), 3...d6, is solid but passive and cramped. Although the favourite of the first world champion Wilhelm Steinitz, and often played by world champions and expert defensive players Emanuel Lasker, José Capablanca, and occasionally by Vasily Smyslov, it largely fell into disuse after World War I, as its inherent passivity spurred a search for more active means of defending the Spanish.
+White's most direct approach is 4.d4 immediately challenging Black's pawn on e5, while 4.c3 and 4.0-0 remain viable alternatives. Following 4.d4, Black proceeds with 4...Bd7 which breaks the pin but also defends against White's threat of winning a pawn with 5.Bxc6 and 6.dxe5. Next White plays 5.Nc3 protecting e4 and renewing the threat of winning a pawn to which Black responds with 5...Nf6. After 6.0-0 Be7 7.Re1 Black is forced to concede the centre with 7...exd4, since 7...0-0? leads to the Tarrasch Trap.
+The Modern Steinitz Defence (3...a6 4.Ba4 d6) offers Black a freer position and is more popular.
+
+Schliemann Defence: 3...f5 [edit]
+
+abcdefgh8877665544332211abcdefghSchliemann Defence: 3...f5!?
+
+The Schliemann Defence or Schliemann–Jaenisch Gambit (ECO C63), 3...f5,[19] is a sharp line in which Black plays for a kingside attack, frequently sacrificing one or two pawns.  This variation was originated by Carl Jaenisch in 1847 and is sometimes named after him.  Although later named for German lawyer Adolf Karl Wilhelm Schliemann (1817–1872), the line Schliemann actually played in the 1860s was a gambit variation of the Cordel Defence (3...Bc5 4.c3 f5).  The most common responses for White to 3...f5!? are 4.d3 or 4.Nc3, with play after 4.Nc3 fxe4 5.Nxe4 going 5...d5, with great complications to follow, or 5...Nf6, which generally leads to quieter play. This line is considered to be a good practical weapon, but is positionally risky, especially against a strong and prepared opponent. In the 1970s Jozef Boey played it in the ICCF correspondence chess world championship final and wrote a book about it. It is not a true gambit since if 4.exf5, 4...e4 will force the knight to retreat in which 5...Qg5 prepares to regain the pawn as well as attack g2 and prevent Qh5+. Teimour Radjabov is currently the only top player who regularly employs this line, with mixed results.
+
+
+Classical Defence: 3...Bc5 [edit]
+
+abcdefgh8877665544332211abcdefghClassical Defence: 3...Bc5
+
+The Classical Defence or Cordel Defence (ECO C64), 3...Bc5,[54] is possibly the oldest defence to the Ruy Lopez, and has been played occasionally by former world champion Boris Spassky and Boris Gulko. White's most common reply is 4.c3, when Black may choose to play 4...f5, the Cordel Gambit, leading to sharp play, after which 5.d4 is considered the strongest reply. More solid for Black is 4...Nf6, when 5.0-0 0-0 6.d4 Bb6 leads to the Benelux Variation. White's principal alternative to 4.c3 is 4.0-0, when Black can transpose to the Classical Berlin with 4...Nf6 or play 4...Nd4, which is not so bad for Black.
+An alternative for White is the fork trick 4.Nxe5. Few games have been played with this line, but there is no clear refutation for Black. The name derives from White's play if Black captures the knight: 4...Nxe5 5.d4.
+
+Berlin Defence: 3...Nf6 [edit]
+Main article: Berlin Defence (chess)
+
+abcdefgh8877665544332211abcdefghBerlin Defence: 3...Nf6
+
+The Berlin Defence, 3...Nf6,[58] has long had a reputation for solidity and drawishness and is commonly referred to as "the Berlin Wall".[59] The Berlin Defence was played in the late 19th century and early 20th century by Emanuel Lasker and others, who typically answered 4.0-0 with 4...d6 in the style of the Steinitz Defence. This approach ultimately fell out of favour, as had the old form of the Steinitz, due to its passivity, and the entire variation became rare. Arthur Bisguier played the Berlin for decades, but always chose the variation 4.0-0 Nxe4. Ever since Vladimir Kramnik successfully used the line as a drawing weapon against Garry Kasparov in their 2000 World Chess Championship match, the Berlin has experienced a remarkable renaissance: even players with a dynamic style such as Alexei Shirov, Veselin Topalov, Hikaru Nakamura, and Kasparov himself have tried it, and Magnus Carlsen and Viswanathan Anand both used it (Carlsen extensively so) during the 2013 World Chess Championship and 2014 World Chess Championship.
+
+abcdefgh8877665544332211abcdefghOpen Variation, l'Hermet Variation after 8...Kxd8
+Since Black's third move does not threaten to win the e-pawn—if Black captures it, White will win back the pawn on e5[60]—White usually castles. After 4.0-0, Black can play either the solid 4...Nxe4 (the Berlin Main Variation) or the more combative 4...Bc5 (the Berlin Classical Variation).[54] After 4...Nxe4 5.d4 Nd6 (5...Be7 is the Rio de Janeiro Variation) 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 (l'Hermet Variation), White is considered to have a small advantage from a somewhat better pawn structure and Black's awkwardly placed king. Black, by way of compensation, possesses the bishop pair and has no positional weaknesses, so it is difficult for White to exploit the structural superiority without opening the game for Black's bishops; all four of the games in the Kasparov–Kramnik match in which this line was employed ended in draws.[61][62][63][64] An alternative for Black, though seldom seen since the 1890s, is 6...bxc6 7.dxe5 Nb7, although White keeps an advantage despite Black's two bishops, as it is difficult for Black to gain active counterplay. Despite its drawish tendency, however, the Berlin endgame remains the sternest test of the entire variation beginning with 3...Nf6, and a lot of theory has evolved here. Today's consensus is that Black will hold with accurate play in the Berlin endgame, so players have moved on to the lines with 4.0-0 Nxe4 5.Re1, the modern main line, considered to be White's best try for an opening advantage, and advocated by Fabiano Caruana in his Chessbase Series on the Ruy Lopez opening.
+White's move 4.Nc3 transposes to the Four Knights Game, Spanish Variation.
+
+
+abcdefgh8877665544332211abcdefghAnti-Berlin system: 4.d3
+
+An important alternative is 4.d3, dubbed the Anti-Berlin, which avoids the notorious Berlin endgame. Wilhelm Steinitz scored many spectacular successes with it during his reign as World Champion.[65] The main replies for Black are 4...d6 and 4...Bc5, the latter being more popular. White's most important continuations after 4...Bc5 are 5.0-0, 5.Bxc6, and 5.c3. An uncommon reply to 4.d3 is 4...Ne7, which tries to set up the Mortimer Trap.
+Another alternative is playing 4.Bxc6 immediately. The main replies for Black are 4...dxc6 and 4...bxc6, the latter of which is playable in the Berlin Defense, unlike the Exchange Variation in the Morphy Defense. This may transpose into the Anti-Berlin above if White continues with 5.d3, or in the case of 4...bxc6, to the main line with 5.0-0 Nxe4 or 5.d4 Nxe4, but White has other continuations to 4...bxc6, such as 5.Nc3, and Black has other replies to both 5.0-0 and 5.d4.
+The Berlin is assigned ECO codes C65–C67. Code C65 covers alternatives to 4.0-0, including 4.d3 as well as 4.0-0 Bc5. Code C66 covers 4.0-0 d6, while C67 is 4.0-0 Nxe4.
+
+
+Other[edit]
+Less-common third moves for Black:
+
+3...Bb4 (Alapin Defence)
+3...Qf6 (Gunderam Variation)
+3...f6 (Nuremberg Defence)
+3...Qe7 (Vinogradov Variation)
+3...Na5 (Pollock's Defence)
+3...g5 (Brentano Defence)
+3...b6? (Rotary Defence or Albany Defence)
+3...d5? (Sawyer's Gambit or Spanish Countergambit)
+3...Be7 (Lucena Defence)
+3...a5 (Bulgarian Variation)
+See also[edit]
+List of chess openings
+List of chess openings named after people
+Notes[edit]
+
+References[edit]
+
+
+
+
+
+Further reading[edit]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+External links[edit]
+
+Why ‘Morphy’s Defence’?, Edward Winter
+The Berlin Defence (Ruy López), Edward Winter
+
+Authority control databases International
+FAST
+National
+Spain
+Germany
+Israel
+United States
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1179322399"
