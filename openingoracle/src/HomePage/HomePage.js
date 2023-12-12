@@ -1,17 +1,13 @@
 import "./HomePage.css"
 import React from 'react';
 import axios from 'axios';
-
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-
 import InputLabel from '@mui/material/InputLabel';
 import Select from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
 
-
-//const baseURL = "http://localhost:8080";
 const baseURL = "https://openingoracle.justinhealey.repl.co";
 
 function HomePage() {
