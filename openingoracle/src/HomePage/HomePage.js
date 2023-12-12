@@ -6,6 +6,11 @@ import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
+import InputLabel from '@mui/material/InputLabel';
+import Select from '@mui/material/Select';
+import MenuItem from '@mui/material/MenuItem';
+
+
 //const baseURL = "http://localhost:8080";
 const baseURL = "https://openingoracle.justinhealey.repl.co";
 
@@ -13,10 +18,15 @@ function HomePage() {
   const [responseCaption, setResponseCaption] = React.useState(null);
   const [responseBody, setResponseBody] = React.useState(null);
 
-  const[oracleResponses, setOracleResponses] = React.useState(null);
+  const [oracleResponses, setOracleResponses] = React.useState(null);
+  const [userColor, setColor] = React.useState('White');
+
+  const handleChange = (event) => {
+    setColor(event.target.value);
+  };
 
   let theme = createTheme({
-  
+
   });
   theme = createTheme(theme, {
     palette: {
@@ -29,13 +39,13 @@ function HomePage() {
     },
   });
 
+
   function clickSubmitButton(e) {
     e.preventDefault();
 
     const form = e.target;
     const formData = new FormData(form);
     const userMessage = Object.fromEntries(formData.entries()).userInput;
-    const userColor = "white";
 
     setResponseCaption("The Oracle is thinking...");
     setResponseBody(null);
@@ -54,17 +64,35 @@ function HomePage() {
       });
   }
 
-    return (
+
+  return (
     <ThemeProvider theme={theme}>
       <div className="App">
         <div id='Prompt'>
           <form id="Input" method="post" onSubmit={clickSubmitButton}>
-              <p> How do <b>you</b> like to play chess? Describe your playing style below and let the Oracle find a opening for you!</p>
-              <label>
-                <TextField id="outlined-basic" label="Type your playstyle!" multiline fullWidth variant="filled" name="userInput" defaultValue="" />
-              </label>
-              <Button variant="contained" color="chessBrown" type="submit"> Find my opening! </Button>
-            </form>
+            <p> How do <b>you</b> like to play chess? Describe your playing style below and let the Oracle find a opening for you!</p>
+            <label>
+              <TextField id="outlined-basic" label="Type your playstyle!" multiline fullWidth variant="filled" name="userInput" defaultValue="" />
+            </label>
+            <div>
+            <p>Which color do you want to play?</p>
+            <InputLabel id="demo-simple-select-label" label ="Pick your color!" defaultValue = {userColor}></InputLabel>
+            <Select
+              labelId="demo-simple-select-label"
+              id="demo-simple-select"
+              displayEmpty 
+              value={userColor}
+              label="Color"
+              onChange={handleChange}
+              fullWidth
+            >
+              <MenuItem value={1}>White</MenuItem>
+              <MenuItem value={2}>Black</MenuItem>
+            </Select>
+            </div>
+
+            <Button variant="contained" color="chessBrown" type="submit"> Find my opening! </Button>
+          </form>
         </div>
         <div id='Response'>
           {responseCaption != null ? <p><b>{responseCaption}</b></p> : <p></p>}
@@ -74,10 +102,10 @@ function HomePage() {
               <br></br>
               <p><b>Looking for something different? The Oracle also thinks...</b></p>
               <div>
-                  {
-                    oracleResponses.map((m, i) => {
-                     return <p key={i}>{m}</p>;
-                    })
+                {
+                  oracleResponses.map((m, i) => {
+                    return <p key={i}>{m}</p>;
+                  })
                 }
               </div>
             </>
@@ -85,7 +113,7 @@ function HomePage() {
         </div>
       </div>
     </ThemeProvider>
-    );
+  );
 }
 
 export default HomePage;
