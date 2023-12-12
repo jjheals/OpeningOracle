@@ -6,7 +6,13 @@ from math import ceil, floor
 class OpeningGPT: 
     
     # STATIC Hyperparams 
-
+    
+    ''' INPUT_CUTOFF  := minimum number of tokens to process for a given iteration. smaller values will 
+                         preserve context better at the risk of creating infinite loops, while larger
+                         values will be safer but may lose more context
+    '''
+    INPUT_CUTOFF:int = 7
+    
     ''' CHUNK_OFFSET := the offset from the end of the chunk to prevent indexing errors. can be set lower 
                         (i.e greater abs value, closer to neg infinity) but cannot be set higher than -10
                         or will cause indexing errors in the GPT model 
@@ -40,7 +46,7 @@ class OpeningGPT:
                      during decoding, potentially leading to better results at the  cost of increased 
                      computational complexity.
     '''
-    NUM_BEAMS:int = 4.0 
+    NUM_BEAMS:int = 4
 
     # DYNAMIC Attributes
     model_name:str        # Model name from https://huggingface.co/models
@@ -73,28 +79,28 @@ class OpeningGPT:
         --- RETURNS --- 
             (str) A summary of the input_str.
     ''' 
-    def generate_summary(self, input_str:str, min_sum_len:int=50, max_sum_len:int=200) -> str:
+    def generate_summary(self, input_str:str, min_sum_len:int=50, max_sum_len:int=200, print_debug=False) -> str:
         
         input_str = OpeningGPT.clean_input_str(input_str)
         
         # Concatenate all the summaries together to form a single string 
-        concat_summary:str = self.__process_text__(input_str)
+        concat_summary:str = self.__process_text__(input_str, min_len=min_sum_len, max_len=max_sum_len, print_debug=print_debug)
         
         # While concat summary is too large, keep condensing the summaries and regenerating it
         c = 0
-        while len(self.tokenize(concat_summary)) > self.max_input_size: 
+        while len(self.tokenize(concat_summary)) > OpeningGPT.CHUNK_SIZE: 
             print(f"Iteration {c} | len of tokenized concat_summary = {len(self.tokenize(concat_summary))}")
             concat_summary = self.__process_text__(concat_summary)
             c+=1
         
         # Now that concat_summary is small enough to pass through the model, pass it through one more time 
         # to generate a coherent output 
-        concat_summary = self.__process_text__(concat_summary)
+        concat_summary = self.__process_text__(concat_summary, print_debug=True)
         
         return concat_summary
             
         
-    def __process_text__(self, input_str:str, print_debug:bool=False) -> str:
+    def __process_text__(self, input_str:str, max_len:int=300, min_len:int=150, print_debug:bool=False) -> str:
         
         input_toks = self.tokenize(input_str)
         tok_chars = sum([len(t) for t in input_toks])
@@ -114,12 +120,12 @@ class OpeningGPT:
             
             # Calculate how many characters we can take from the text (starting at input_str[chars_processed]) to get at most
             # [CHUNK_SIZE] tokens
-            num_toks:int = len(tokenizer.tokenize(input_str[chars_processed : chars_processed + CHUNK_SIZE]))
-            n:int = sum([len(t) for t in input_toks[toks_processed : toks_processed + CHUNK_SIZE]])
+            num_toks:int = len(self.tokenize(input_str[chars_processed : chars_processed + OpeningGPT.CHUNK_SIZE]))
+            n:int = sum([len(t) for t in input_toks[toks_processed : toks_processed + OpeningGPT.CHUNK_SIZE]])
             num_chars = n - ceil(n/num_toks)*2
             
             # If num_chars is 0, then we've reached the end of the input, so we can break the loop
-            if num_chars == 0: break
+            if num_chars == 0 or num_toks < OpeningGPT.INPUT_CUTOFF: break
             
             # Ensure the chunk ends at a complete token; take less characters if necessary, never more
             while chars_processed + num_chars < len(input_str) and input_str[chars_processed + num_chars] != ' ':
@@ -129,7 +135,14 @@ class OpeningGPT:
             chunk:str = input_str[chars_processed : chars_processed + num_chars]
             chunk_len:int = len(self.tokenize(chunk))
             # Generate the summary and append it to the list of summaries
-            summary = self.summarizer(chunk[:CHUNK_OFFSET], max_length=MAX_SUM_SIZE, min_length=MIN_SUM_SIZE, length_penalty=LENGTH_PEN, num_beams=NUM_BEAMS, early_stopping=True)[0]['summary_text']
+            summary = self.summarizer(
+                        chunk[:OpeningGPT.CHUNK_OFFSET], 
+                        max_length=max_len, 
+                        min_length=min_len, 
+                        length_penalty=OpeningGPT.LENGTH_PEN, 
+                        num_beams=OpeningGPT.NUM_BEAMS, 
+                        early_stopping=True
+                    )[0]['summary_text']
             summaries.append(summary)
             
             if print_debug:
@@ -138,12 +151,17 @@ class OpeningGPT:
                 print(f"\tlen(tokenized chunk) = {chunk_len} | {sum([len(t) for t in self.tokenize(chunk)])}")
                 print(f"\tCHUNK:\n\t{chunk}")
                 print(summary)
-                print(f"\tsummary len = {len(self.tokenize(summary[0]['summary_text']))}")
+                print(f"\tsummary len = {len(self.tokenize(summary))}")
             
             # Increment the variables before continuing to the next iteration 
             chars_processed += num_chars
             toks_processed += chunk_len
             c += 1
+            
+        if print_debug: 
+            print(f"__process_text__() DONE. Returning the concatenated summary: \n\"{' '.join(summaries)}\"")
+            
+        return " ".join(summaries)
     
     ''' tokenize(input_str) - wrapper to use self.tokenizer to tokenize the string via the same method as the model ''' 
     def tokenize(self, input_str) -> list[str]: 

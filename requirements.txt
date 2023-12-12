@@ -7,6 +7,6 @@ nltk
 requests
 pandas
 numpy
-sklearn
+scikit-learn
 gevent
 torch
