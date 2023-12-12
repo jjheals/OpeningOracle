@@ -5,8 +5,8 @@ function About() {
         <>
             <body>
                 <h2>About Our Project</h2>
-                <p class="center">We are a team of three students from Worcester Polytechnic Institute (WPI) in Massachusetts</p>
-                <p class="center">Our project, OpeningOracle, is the final project for CS 547: Information Retrieval under Prof. Kyumin Lee</p>
+                <p className="center">We are a team of three students from Worcester Polytechnic Institute (WPI) in Massachusetts</p>
+                <p className="center">Our project, OpeningOracle, is the final project for CS 547: Information Retrieval under Prof. Kyumin Lee</p>
                 <br />
                 <p>
                     OpeningOracle is a solution for chess players to find statistically successful openings to play based on their own description of how they like to play. Both experienced and inexperienced players can benefit from this; experienced players who know their preferred playstyle can find new openings they may not have known about before, and new players who are not yet sure how they like to play can find openings based on different playstyles.
