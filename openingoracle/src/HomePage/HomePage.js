@@ -57,7 +57,6 @@ function HomePage() {
     if (userMessage.split(" ").length === 1) {
       userMessage = userMessage + " opening";
     }
-    console.log(userMessage);
 
     //When a user sends a message, cause all previous response data to be empty and the Oracle to be "thinking"
     setResponseCaption("The Oracle is thinking...");
