@@ -12,16 +12,23 @@ import FormControl from '@mui/material/FormControl';
 const baseURL = "https://openingoracle.justinhealey.repl.co";
 
 function HomePage() {
+
+  //State variables to hold both a caption "Opening Oracle is thinking..." and a body of opening results
   const [responseCaption, setResponseCaption] = React.useState(null);
   const [responseBody, setResponseBody] = React.useState(null);
 
+  //State variable to hold additional OpeningOracle responses
   const [oracleResponses, setOracleResponses] = React.useState(null);
+
+  //State variable to hold default color, White
   const [userColor, setColor] = React.useState('White');
 
+  //Function to change the user's color state
   const handleColorChange = (event) => {
     setColor(event.target.value);
   };
 
+  //Theme for color and background (chess brown)
   let theme = createTheme({
 
   });
@@ -37,24 +44,29 @@ function HomePage() {
   });
 
 
+  //Function to handle the submit button being clicked and send data to our backend to calculate
   function clickSubmitButton(e) {
     e.preventDefault();
 
+    //Get the message typed by the user
     const form = e.target;
     const formData = new FormData(form);
     const userMessage = Object.fromEntries(formData.entries()).userInput;
 
+    //When a user sends a message, cause all previous response data to be empty and the Oracle to be "thinking"
     setResponseCaption("The Oracle is thinking...");
     setResponseBody(null);
     setOracleResponses(null);
 
+    //Send a POST request to our backend with the user's message and indicated color
     axios
       .post(baseURL + "/postRequestOpening", {
         message: userMessage,
         color: userColor
       })
       .then((response) => {
-        console.log(response.data)
+        //Set the response body to be the most likely opening (opening index 0) and all other openings as additional Oracle responses
+        //Also update caption to indicate the available responses
         setOracleResponses(response.data.messages.slice(1));
         setResponseCaption("Based on your response, the Oracle thinks: ");
         setResponseBody(response.data.messages[0]);
@@ -65,7 +77,7 @@ function HomePage() {
   return (
     <ThemeProvider theme={theme}>
       <div className="App">
-        <div id='Prompt'>
+        <div id='Prompt'> 
           <form id="Input" method="post" onSubmit={clickSubmitButton}>
             <p className="center"> How do <b>you</b> like to play chess? Describe your playing style below and let the Oracle find a opening for you!</p>
             <label>

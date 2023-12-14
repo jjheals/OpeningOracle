@@ -2,7 +2,7 @@ import { Outlet, Link } from "react-router-dom";
 
 import "./Header.css"
 
-function HeaderTest() {
+function Header() {
   return (
     <>
       <div className='header'>
@@ -25,4 +25,4 @@ function HeaderTest() {
   )
 };
 
-export default HeaderTest;
+export default Header;
