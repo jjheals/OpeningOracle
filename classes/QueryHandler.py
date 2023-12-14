@@ -81,7 +81,7 @@ class QueryHandler:
         --- RAISES --- 
             Raises AttributeError if self.opening_lda has not been loaded or set (i.e. if it is None)
     '''
-    def handle_user_query(self, query:dict[str,str], compute_final_summary:bool=False, debug=False) -> dict[str,list[str]]: 
+    def handle_user_query(self, query:dict[str,str], compute_final_summary:bool=False, use_rand_summaries:bool=True, debug=False) -> dict[str,list[str]]: 
         
         if debug: print("Handling user query...")
         
@@ -127,7 +127,8 @@ class QueryHandler:
         sorted_eco_matches:list[str] = list(sorted_final_rankings.keys())
             
         # Get the precomputed summaries from the stored data
-        all_summaries:dict[str,str] = json.load(open(Paths.SUMMARIES_JSON))
+        summaries_json:str = Paths.RAND_SUMMARIES_JSON if use_rand_summaries else Paths.SUMMARIES_JSON
+        all_summaries:dict[str,str] = json.load(open(summaries_json))
         these_summaries:dict[str,str] = {}
         
         # Iterate through the sorted_eco_matches dict and get the summaries for each eco (preserve order)

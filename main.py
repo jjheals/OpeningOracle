@@ -2,13 +2,14 @@
 from flask import Flask, abort, request, jsonify     # Flask imports 
 from gevent.pywsgi import WSGIServer        # To run local server
 from flask_compress import Compress         # Flask compress for initialization
-
+from flask_cors import CORS 
 from classes.QueryHandler import QueryHandler  # Custom import for function to handle the user's query
 
 # --- Flask initialization --- #
 app = Flask(__name__)
 compress = Compress()
 compress.init_app(app)
+CORS(app)
 
 query_handler = QueryHandler(load_from_file="lda")
 
@@ -49,7 +50,7 @@ def lookup():
     try: 
         data:dict[str,str] = request.get_json()
         print(data)
-        response = jsonify(query_handler.handle_user_query(data, compute_final_summary=True, debug=True))
+        response = jsonify(query_handler.handle_user_query(data, use_rand_summaries=True, debug=True))
         response.status = 200
         return response
     except Exception as e: 
@@ -58,6 +59,6 @@ def lookup():
 
 # --- RUN FOREVER --- # 
 if __name__ == '__main__':
-    http_server = WSGIServer(('127.0.0.1', 8080), app)
+    http_server = WSGIServer(('0.0.0.0', 8080), app)
     http_server.serve_forever()
 
