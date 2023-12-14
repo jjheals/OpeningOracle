@@ -9,7 +9,7 @@ import Select from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 
-const baseURL = "https://openingoracle.justinhealey.repl.co";
+const baseURL = "http://51.81.33.212:8080";
 
 function HomePage() {
 
