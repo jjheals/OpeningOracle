@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/OpeningOracle/static/css/main.7e4659ea.css",
-    "main.js": "/OpeningOracle/static/js/main.5459c9b8.js",
+    "main.js": "/OpeningOracle/static/js/main.0f782f84.js",
     "static/media/LDAModel.png": "/OpeningOracle/static/media/LDAModel.9b1e0b084236b96221ae.png",
     "static/media/runtimeProcess.png": "/OpeningOracle/static/media/runtimeProcess.0669e091fc48ef23f70a.png",
     "static/media/precomputed.png": "/OpeningOracle/static/media/precomputed.0949491a11c0ad505db9.png",
     "index.html": "/OpeningOracle/index.html",
     "main.7e4659ea.css.map": "/OpeningOracle/static/css/main.7e4659ea.css.map",
-    "main.5459c9b8.js.map": "/OpeningOracle/static/js/main.5459c9b8.js.map"
+    "main.0f782f84.js.map": "/OpeningOracle/static/js/main.0f782f84.js.map"
   },
   "entrypoints": [
     "static/css/main.7e4659ea.css",
-    "static/js/main.5459c9b8.js"
+    "static/js/main.0f782f84.js"
   ]
 }
