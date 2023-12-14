@@ -32,7 +32,9 @@ The required packages can be found in the [requirements.txt](requirements.txt) f
 
 - gevent : used to host the [flask app](flask_/main.py) for the API.
 
-- torch : required by transformers for the pretrained GPT model. 
+- torch : required by transformers for the pretrained GPT model.
+
+- flask_cors : required to prevent CORS errors when accessing the API (assuming the API is hosted separately from the frontend, as required with github pages)
 
 ## Data Sources 
 
@@ -122,8 +124,6 @@ To perform NLP analysis, we saved a variety of data in JSON format in the "[data
 
 When scraping the descriptions for each opening, we saved the raw descriptions of each (ECO) in subdirectories of "[data/raw_descs/](data/raw_descs/) to perform further analysis. These descriptions are then used to train an LDA model, and are used to match a user's query to a particular opening using the trained model (and other factors).
 
-
-#### Analysis & NLP methods
 
 ### Website
 
