@@ -18,6 +18,8 @@ function About() {
                 <h2>Big Questions</h2>
 
                 <h2>Key Takeaways</h2>
+                
+                <img src='../Images/LDAModel.png' alt="Pic"/>;
 
                 <h2>External Resources and Data Used</h2>
                 <p>Our <a className="link" href="https://github.com/jjheals/OpeningOracle/">Github</a> and <a className="link" href="https://github.com/jjheals/OpeningOracle/blob/main/README.md">README</a>, with instructions on running our code and installing dependencies.</p>
