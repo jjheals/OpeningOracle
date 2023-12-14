@@ -122,9 +122,6 @@ To perform NLP analysis, we saved a variety of data in JSON format in the "[data
 
 When scraping the descriptions for each opening, we saved the raw descriptions of each (ECO) in subdirectories of "[data/raw_descs/](data/raw_descs/) to perform further analysis. These descriptions are then used to train an LDA model, and are used to match a user's query to a particular opening using the trained model (and other factors).
 
-#### Classes and Objects
-
-
 
 #### Analysis & NLP methods
 
