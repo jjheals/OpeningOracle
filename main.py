@@ -49,6 +49,11 @@ def lookup():
     
     try: 
         data:dict[str,str] = request.get_json()
+        if not data['message']:
+          messages = {"messages": ['No query given!', '', '', '', '']}
+          response = jsonify(messages)
+          response.status = 200
+          return response
         print(data)
         response = jsonify(query_handler.handle_user_query(data, use_rand_summaries=True, debug=True))
         response.status = 200
