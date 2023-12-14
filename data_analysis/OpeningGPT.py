@@ -192,11 +192,11 @@ class OpeningGPT:
             
         return " ".join(summaries)
     
-    def precompute_all_summaries(self, print_debug:bool=False, overwrite_existing:bool=False, temperature:float=0.0) -> None: 
+    def precompute_all_summaries(self, save_to:str=Paths.SUMMARIES_JSON, print_debug:bool=False, min_sum_len:int=50, max_sum_len:int=200, overwrite_existing:bool=False, temperature:float=0.0) -> None: 
         summaries:dict[str,str] = {} 
         
         # Check if we're overwriting what already exists, and if we are NOT, then load what we have
-        if not overwrite_existing: summaries = json.load(open(Paths.SUMMARIES_JSON, "r"))
+        if not overwrite_existing: summaries = json.load(open(save_to, "r"))
 
         # Iterate through the Paths.RAW_DESCS directory and create a summary of the file "concat.txt" for each ECO
         all_ecos:list[str] = listdir(Paths.RAW_DESC_BASE)
@@ -220,7 +220,7 @@ class OpeningGPT:
                 continue 
                 
             # Generate a summary of the content in concat_file
-            summary:str = self.generate_summary(this_desc, full_summary=False, print_debug=print_debug, temperature=temperature)
+            summary:str = self.generate_summary(this_desc, min_sum_len=min_sum_len, max_sum_len=max_sum_len, full_summary=False, print_debug=print_debug, temperature=temperature)
             
             # Add this summary to the summaries dict for this ECO
             summaries[e] = summary 
@@ -229,7 +229,7 @@ class OpeningGPT:
             
             # Dump the final summaries dict to the file at the end of each iteration so that we can 
             # stop it in the middle if needed
-            with open(Paths.SUMMARIES_JSON, "w") as summaries_json: 
+            with open(save_to, "w") as summaries_json: 
                 json.dump(summaries, summaries_json, indent=4) 
             
         if print_debug: 
