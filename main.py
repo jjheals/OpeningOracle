@@ -58,6 +58,12 @@ def lookup():
         response = jsonify(query_handler.handle_user_query(data, use_rand_summaries=True, debug=True))
         response.status = 200
         return response
+    except TypeError as te: 
+        print("Error: Invalid user input", te)
+        messages = {"messages": ['No results found.', '', '', '', '']}
+        response = jsonify(messages)
+        response.status = 200
+        return response
     except Exception as e: 
         print(e)
         abort(400, description="Bad request.")
