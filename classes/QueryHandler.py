@@ -56,6 +56,12 @@ class QueryHandler:
         --- PARAMETERS --- 
             query (str) - the user's query (description of their playstyle) as a single string 
             
+            compute_final_summary (bool) - specify whether to compute a final summary from the already precomputed 
+                                           summary we have for this opening. note that if set to True, then the 
+                                           process will noticably take longer to return. if set to False (default), 
+                                           the process will just use the precomputed summaries and will return much
+                                           quicker
+                                           
         --- RETURNS --- 
             [+] Data: application/json
                 - a dictionary (JSON object) containing a single key called "messages" with the value
@@ -75,9 +81,9 @@ class QueryHandler:
         --- RAISES --- 
             Raises AttributeError if self.opening_lda has not been loaded or set (i.e. if it is None)
     '''
-    def handle_user_query(self, query:dict[str,str], debug=False) -> dict[str,list[str]]: 
+    def handle_user_query(self, query:dict[str,str], compute_final_summary:bool=False, debug=False) -> dict[str,list[str]]: 
         
-        print("Handling user query...")
+        if debug: print("Handling user query...")
         
         # NOTE: Maybe use threading to improve the runtime ??? !!! 
         
@@ -118,21 +124,70 @@ class QueryHandler:
         
         # Use these final rankings to determine which openings to run through the GPT model 
         # i.e. get the top NUM_RETURN eco codes
-        top_matches:list[str] = list(sorted_final_rankings.keys())[:QueryHandler.NUM_RETURN]
+        sorted_eco_matches:list[str] = list(sorted_final_rankings.keys())
             
         # Get the precomputed summaries from the stored data
         all_summaries:dict[str,str] = json.load(open(Paths.SUMMARIES_JSON))
-        these_summaries:dict[str,str] = {eco:all_summaries[eco] for eco in top_matches}
+        these_summaries:dict[str,str] = {}
+        
+        # Iterate through the sorted_eco_matches dict and get the summaries for each eco (preserve order)
+        # Get no more than NUM_RETURN summaries to return 
+        count:int = 0   # Counter to check how many we have to return at a given iteration 
+        
+        # While we do not have NUM_RETURN summaries, keep getting more  
+        while count < QueryHandler.NUM_RETURN: 
+            for eco in sorted_eco_matches:
+                
+                # Check if we have a summary for this eco
+                if eco not in all_summaries or not all_summaries[eco]: continue 
+                
+                these_summaries[eco] = all_summaries[eco]   # Add this eco's summary to these_summaries
+                count += 1                                  # Increment the counter 
+                
+                if count == QueryHandler.NUM_RETURN: break
+                
+                continue                                    # Continue to the next highest ranked eco 
+                
+            # If we get here without retrieving NUM_RETURN summaries, then just break and 
+            # return what we have
+            break 
+        
+        # NOTE: just a precaution, should theoretically never happen if the summaries are all computed
+        # If we found no results, then take the first element in all_summaries and just return that
+        # since we don't really care what it is if we found no relevant matches (i.e., all matches are
+        # irrelevant, but we want to return something, so we can just return an irrelevant one)
+        if not these_summaries: 
+            tmp_eco = list(all_summaries.keys())[0]
+            these_summaries[tmp_eco:all_summaries[tmp_eco]]
+                
+        for e,s in these_summaries.items(): print(f"{e}: {s}\n") 
+        
+        # NOTE: include threading to generate e/a summary independently of each other ?? 
+        # DO SOMETHING ... 
         
         # Run the summaries through the model to generate the final summary for each 
-        for e,s in these_summaries.items():
+        if debug: print(f"QueryHandler.handle_user_query: Starting retrieving/generating summaries. \nNOTICE: compute_final_summaries is set to {compute_final_summary}.\n")
+        
+        for e,summ in these_summaries.items():
             if debug: print(f"Summarizing eco: {e}")
-            these_summaries[e] = f"{self.opening_lda.openings[e]['opening-name']} ({e}): {self.opening_gpt.generate_summary(s)}"
+            
+            this_opening_dict:dict = self.opening_lda.openings[e]
+            
+            # Format the string containing the links to include in the response
+            formatted_links:str = "Links to data sources: " 
+            for s,l in this_opening_dict['links'].items(): 
+                if l: formatted_links += f"{s} [{l}], "
+                
+            formatted_links[:-2]    # Remove trailing ", "
+            
+            # Either generate the summary for this eco or use the precomputed one 
+            if compute_final_summary: this_sum:str = self.opening_gpt.generate_summary(summ, temperature=0.8)
+            else: this_sum:str = summ
+            
+            # Add this summary to the dict of summaries 
+            these_summaries[e] = f"{this_opening_dict['opening-name']}, {this_opening_dict['variation-name']} ({e}): {this_sum} {formatted_links}"
             
         return {"messages": list(these_summaries.values())}
-        
-        
-        
         
         
     ''' __find_index_matches__(tokens) - first step in handling a user's query. 

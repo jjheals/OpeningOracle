@@ -86,29 +86,29 @@ class OpeningGPT:
         --- RETURNS --- 
             (str) A summary of the input_str.
     ''' 
-    def generate_summary(self, input_str:str, min_sum_len:int=50, max_sum_len:int=200, full_summary:bool=True, print_debug=False) -> str:
+    def generate_summary(self, input_str:str, min_sum_len:int=50, max_sum_len:int=200, full_summary:bool=True, print_debug=False, temperature:float=0.0) -> str:
         
         input_str = OpeningGPT.clean_input_str(input_str)
         
         # Concatenate all the summaries together to form a single string 
-        concat_summary:str = self.__process_text__(input_str, min_len=min_sum_len, max_len=max_sum_len, print_debug=print_debug)
+        concat_summary:str = self.__process_text__(input_str, min_len=min_sum_len, max_len=max_sum_len, temperature=temperature, print_debug=print_debug)
         
         # While concat summary is too large, keep condensing the summaries and regenerating it
         c = 0
         while len(self.tokenize(concat_summary)) > OpeningGPT.CHUNK_SIZE: 
             print(f"OpeningGPT: generate_summary - Iteration {c} | len of tokenized concat_summary = {len(self.tokenize(concat_summary))}")
-            concat_summary = self.__process_text__(concat_summary, print_debug=print_debug)
+            concat_summary = self.__process_text__(concat_summary, temperature=temperature, print_debug=print_debug)
             c+=1
         
         if full_summary: 
             # Now that concat_summary is small enough to pass through the model, pass it through one more time 
             # to generate a coherent output 
-            concat_summary = self.__process_text__(concat_summary, print_debug=print_debug)
+            concat_summary = self.__process_text__(concat_summary, temperature=temperature, print_debug=print_debug)
         
         return concat_summary
             
         
-    def __process_text__(self, input_str:str, max_len:int=300, min_len:int=150, print_debug:bool=False) -> str:
+    def __process_text__(self, input_str:str, max_len:int=300, min_len:int=150, temperature:float=0.0, print_debug:bool=False) -> str:
         
         
         num_input_chars:int = len(input_str)
@@ -121,7 +121,10 @@ class OpeningGPT:
             print(f"\tlen(test_input) = {len(input_str)}")
             print(f"\tlen(input_toks) = {len(input_toks)}")
             print(f"\tnum tok_chars = {tok_chars}")
+            print(f"\ttemperature = {temperature}")
 
+        do_sample:bool = bool(temperature)  # Included as a hyperparam to summarizer.summarize, only needed if temp is set
+        
         summaries:list[str] = []    # List of all sub summaries generated from the chunks of text
         toks_processed:int = 0      # Counter of the number of tokens from the input text that have been processed
         chars_processed:int = 0     # Counter of the number of characters from the input text that have been processed
@@ -158,7 +161,9 @@ class OpeningGPT:
                             min_length=min_len, 
                             length_penalty=OpeningGPT.LENGTH_PEN, 
                             num_beams=OpeningGPT.NUM_BEAMS, 
-                            early_stopping=True
+                            early_stopping=True,
+                            temperature=temperature,
+                            do_sample=do_sample
                         )[0]['summary_text']
                 summaries.append(summary)
             except IndexError: 
