@@ -9,7 +9,7 @@ import Select from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 
-const baseURL = "http://51.81.33.212:8080";
+const baseURL = "https://andrew.dignan.dev:8443";
 
 function HomePage() {
 
@@ -51,18 +51,31 @@ function HomePage() {
     //Get the message typed by the user
     const form = e.target;
     const formData = new FormData(form);
-    const userMessage = Object.fromEntries(formData.entries()).userInput;
+    let userMessage = Object.fromEntries(formData.entries()).userInput;
+    userMessage = userMessage.replace(/[^a-zA-Z0-9-\s]/g, '');
+    userMessage = userMessage.trim();
+    if (userMessage.split(" ").length === 1) {
+      userMessage = userMessage + " opening";
+    }
+    console.log(userMessage);
 
     //When a user sends a message, cause all previous response data to be empty and the Oracle to be "thinking"
     setResponseCaption("The Oracle is thinking...");
     setResponseBody(null);
     setOracleResponses(null);
 
+    const headers = {
+      'Content-Type': 'application/json',
+    }
+
     //Send a POST request to our backend with the user's message and indicated color
     axios
       .post(baseURL + "/postRequestOpening", {
         message: userMessage,
-        color: userColor
+        color: userColor.toLowerCase()
+      }, 
+      {
+        headers: headers
       })
       .then((response) => {
         //Set the response body to be the most likely opening (opening index 0) and all other openings as additional Oracle responses
@@ -116,7 +129,7 @@ function HomePage() {
               <div>
                 {
                   oracleResponses.map((m, i) => {
-                    return <p key={i}>{m}</p>;
+                    return <p key={i}>{m}<br /><br /></p>;
                   })
                 }
               </div>
