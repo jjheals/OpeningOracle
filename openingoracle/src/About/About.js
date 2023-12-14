@@ -1,4 +1,9 @@
 import "./About.css"
+import LDA from "../Images/LDAModel.png"
+import precomputed from "../Images/precomputed.png"
+import runtime from "../Images/runtimeProcess.png"
+
+
 
 function About() {
     return (
@@ -19,6 +24,18 @@ function About() {
             <p className="center">How can we assess accuracy of recommended openings?</p>
 
             <h2>Key Takeaways</h2>
+            <p>One key takeaway from the project was designing a fully functioning and comprehensive system. For our system, we start with the user query. The user inputs some block of text, and we tokenize the text, and then feed that into the models. We have a <a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation"> trained LDA model</a> that splits the text into 10 topics, we have index matching which is pure tf, no idf, and we have success rate, which is the winning percentage for a given opening. After LDA, index matching and success rate are calculated and weighted, they are averaged, and based off of the scores, the top 5 matches for openings are returned. The returned openings are then summarized, and returned to the user in order. We discovered that in order to maximize the potential of this application, we would be best off precomputing most of the work, so at runtime, the user doesn't have to wait for long. We precomputed the LDA model, the index matching, the success rate, and most of the summary work.   </p>
+            <img src={precomputed} alt="precomputed" />
+            <img src={runtime} alt="runtime" />
+
+            <br></br>
+            <br></br>
+            <br></br>
+
+            <p>Another key takeaway from the project was how to interact with and train an LDA model, and the intricacies that come with that. This is a brief breakdown of the LDA model we trained. To start, we feed a tokenized description to the model. This could be either the user's query, or a description of an opening. The model then breaks the text down into chunks of no greater than 1024 tokens (The exact number is specific to the model used). It does this “i” times, with “i” roughly being the number of words in the description divided by t, which is 1024 for this model. Each of these chunks then gives a summary between 10 to 50 words. (The length of the summaries can be changed). The summaries are all concatenated. If the length of the concatenated summaries is greater than t (1024), then the process is done again, with the concatenated summary being re-split into “i” chunks, and each chunk being summarized once again. The process repeats until the concatenated summary is less than 1024 tokens. Once this happens, the summary goes through the model one final time before it is done. This is to get a summary of all the concatenated summaries, as one final summary.</p>
+            <img src={LDA} alt="LDA" />
+
+
 
             <h2>External Resources and Data Used</h2>
             <p>Our <a className="link" href="https://github.com/jjheals/OpeningOracle/">Github</a> and <a className="link" href="https://github.com/jjheals/OpeningOracle/blob/main/README.md">README</a>, with instructions on running our code and installing dependencies.</p>
