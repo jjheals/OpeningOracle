@@ -3,7 +3,7 @@ import json
 from classes.Opening import *
 from re import sub
 from bs4 import BeautifulSoup
-from os import mkdir, path, getcwd, listdir
+from os import mkdir, path, listdir
 from nltk.corpus import stopwords
 from shutil import copyfileobj
 

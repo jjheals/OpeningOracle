@@ -10,3 +10,5 @@ numpy
 scikit-learn
 gevent
 torch
+flask_cors
+

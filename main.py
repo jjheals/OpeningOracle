@@ -50,7 +50,7 @@ def lookup():
     try: 
         data:dict[str,str] = request.get_json()
         print(data)
-        response = jsonify(query_handler.handle_user_query(data, compute_final_summary=True, debug=True))
+        response = jsonify(query_handler.handle_user_query(data, use_rand_summaries=True, debug=True))
         response.status = 200
         return response
     except Exception as e: 
