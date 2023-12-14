@@ -164,8 +164,8 @@ class Scraper:
                 div_attr_name:str = Scraper.divs[site][1]   # Get the div attribute name (ex. 'body-content')
                 content:str = ''
                 
-                try: 
-                    match(div_attr_type): 
+                ''' try: 
+                    match(div_attr_type):
                         case 0: content = soup.find(class_=div_attr_name).text  # Looking for class
                         case 1: 
                             reflist_div = soup.find(class_='reflist')
@@ -205,7 +205,7 @@ class Scraper:
                     if print_debug: print(f"Error getting content for \n\tCode: {c}\n\tName: {v['opening-name']}\n\tURL: {url}")
                     f.close()
                     continue
-                
+                '''
                 # Tokenize the content 
                 tokens:list[str] = Scraper.tokenize(soup.text)
 

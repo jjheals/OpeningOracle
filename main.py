@@ -2,11 +2,12 @@
 from flask import Flask, abort, request, jsonify     # Flask imports 
 from gevent.pywsgi import WSGIServer        # To run local server
 from flask_compress import Compress         # Flask compress for initialization
-
+from flask_cors import CORS
 from classes.QueryHandler import QueryHandler  # Custom import for function to handle the user's query
 
 # --- Flask initialization --- #
 app = Flask(__name__)
+CORS(app)
 compress = Compress()
 compress.init_app(app)
 
@@ -58,6 +59,6 @@ def lookup():
 
 # --- RUN FOREVER --- # 
 if __name__ == '__main__':
-    http_server = WSGIServer(('127.0.0.1', 8080), app)
+    http_server = WSGIServer(('0.0.0.0', 8443), app, keyfile='privkey.pem', certfile='cert.pem')
     http_server.serve_forever()
 

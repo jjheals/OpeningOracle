@@ -10,5 +10,3 @@ numpy
 scikit-learn
 gevent
 torch
-os
-shutil
