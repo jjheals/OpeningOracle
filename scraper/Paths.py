@@ -8,6 +8,7 @@ class Paths:
     INDEX_JSON = 'data/jsons/index.json'
     NUM_TERMS_JSON = 'data/jsons/num_terms.json'
     SUMMARIES_JSON = 'data/jsons/precomputed_summaries.json'
+    RAND_SUMMARIES_JSON = 'data/jsons/rand_precomputed_summaries.json'
     
     # Raw descriptions
     RAW_DESC_BASE = 'data/raw_descs/'

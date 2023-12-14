@@ -239,6 +239,28 @@ class OpeningGPT:
         with open(Paths.SUMMARIES_JSON, "r") as summaries_json: 
             json.dump(summaries, summaries_json, indent=4) 
         
+    def randomize_all_summaries(self, print_debug:bool=False, overwrite_existing:bool=False) -> None: 
+        pre_summaries:dict[str,str] = json.load(open(Paths.SUMMARIES_JSON, "r"))    # Original summaries
+        rand_summaries:dict[str,str] = {}                                           # Randomized summaries
+        
+        if not overwrite_existing: rand_summaries = json.load(open(Paths.RAND_SUMMARIES_JSON, "r"))
+        
+        for eco,summ in pre_summaries: 
+            if eco in rand_summaries: 
+                if print_debug: print(f"OpeningGPT.randomize_all_summaries - skipping \"{eco}\" because its random summary has already been computed.")
+                continue
+            
+            if not summ: 
+                if print_debug: print(f"OpeningGPT.randomize_all_summaries - skipping \"{eco}\" because there is no pre-summary available.")
+                continue
+            
+            if print_debug: print(f"OpeningGPT.randomize_all_sumamries - randomizing \"{eco}.\"")
+            
+            rand_summaries[eco] = self.generate_summary(summ, temperature=0.8, print_debug=print_debug, full_summary=False)
+            json.dump(rand_summaries, open(Paths.RAND_SUMMARIES_JSON, "w"), indent=4)
+        
+        if print_debug: print("OpeningGPT.randomize_all_summaries - DONE.")
+    
     ''' tokenize(input_str) - wrapper to use self.tokenizer to tokenize the string via the same method as the model ''' 
     def tokenize(self, input_str) -> list[str]: 
         return self.tokenizer.tokenize(input_str)
